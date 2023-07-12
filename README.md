@@ -1,1 +1,1 @@
-# Escola Regional de Engenharia de Software (ERES 2022)
+# Escola Regional de Engenharia de Software (ERES 2023)
