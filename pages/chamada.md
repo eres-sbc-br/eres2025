@@ -10,7 +10,7 @@ header:
 ---
 <hr>
 
-<p>A <strong>ESCOLA REGIONAL DE ENGENHARIA DE SOFTWARE (ERES)</strong> é promovida anualmente pela Sociedade Brasileira de Computação (SBC), desde 2017. A sexta edição da escola, a ERES 2022, ocorrerá de forma <strong>PRESENCIAL</strong>, no período de 18 a 20 de outubro de 2022 em Blumenau (SC) durante a realização da Oktoberfest, maior festa germânica das Américas. Blumenau é reconhecida nacionalmente por ser um Polo de Desenvolvimento de Software. Esta edição está sendo organizada pela Universidade Regional de Blumenau (FURB) em parceria com o Centro Universitário SENAI Blumenau </p>
+<p>A <strong>ESCOLA REGIONAL DE ENGENHARIA DE SOFTWARE (ERES)</strong> é promovida anualmente pela Sociedade Brasileira de Computação (SBC), desde 2017. A setima edição da escola, a ERES 2023, ocorrerá de forma <strong>PRESENCIAL</strong>, no período de 06 a 08 de dezembro de 2023 em Maringá (PR). Blumenau é reconhecida nacionalmente por ser um Polo de Desenvolvimento de Software. Esta edição está sendo organizada pela Universidade Regional de Blumenau (FURB) em parceria com o Centro Universitário SENAI Blumenau </p>
 
 <h5>Datas Importante - <strong>NOVAS DATAS</strong></h5>
 <ul>
