@@ -6,7 +6,7 @@
   url: ""
   side: left
   dropdown:
-  - title: "Chamada de Trabalhos-"
+  - title: "Chamada de Trabalhos"
     url: "/chamada/"
   - title: "Artigos Aceitos"
     url: "/aceitos/"
