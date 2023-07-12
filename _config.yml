@@ -8,10 +8,10 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'ERES 2021'
+title: 'ERES 2023'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'ERES 2021 - V Escola Regional de Engenharia de Software'
+slogan: 'ERES 2023 - Escola Regional de Engenharia de Software'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'A Escola Regional de Engenharia de Software (ERES) é um evento com o objetivo de promover e disseminar conhecimento e boas práticas de Engenharia de Software'
@@ -30,7 +30,7 @@ baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/eres-sbc-br/eres2021/feeling-responsive/edit/gh-pages
+improve_content: https://github.com/eres-sbc-br/eres2023/feeling-responsive/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -40,7 +40,7 @@ improve_content: https://github.com/eres-sbc-br/eres2021/feeling-responsive/edit
 #
 urlimg: 'https://eres-sbc-br.github.io/eres2021/images/'
 
-urlcertificados: 'https://github.com/eres-sbc-br/eres2021/tree/main/certificados/'
+urlcertificados: 'https://github.com/eres-sbc-br/eres2023/tree/main/certificados/'
 
 # Logo size is 600x80 pixels
 #logo: "logo_eres_2020.png"
