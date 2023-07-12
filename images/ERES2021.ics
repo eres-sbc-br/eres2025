@@ -1,0 +1,300 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ERES 2021
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+DTSTART:20211201T170000Z
+DTEND:20211201T183000Z
+DTSTAMP:20211129T181150Z
+UID:3e0j9nnmeok86sa5oir4c852jm@google.com
+CREATED:20211127T114605Z
+DESCRIPTION:<b><u>Tema:Teste de Software e Segurança</u></b><br><br><i>Chai
+ r:(a definir)</i><br><br><b>- 14:00[Gr] "OMITIDO": Plataforma crowdsourcing
+  para testes funcionais</b><br>Camila Munzlinger\, Mateus Dal Forno\, Tobia
+ s de Vargas<br><br><b>- 14:30[IN] Comparação de ferramentas de análise está
+ tica para detecção de defeitos de software usando mutante</b><br>Yury Lima\
+ , Maicon Bernardino\, Elder Rodrigues\, Jonas M. Chagas\, João Pablo S. da 
+ Silva\, Igor Fonseca<br><br><b>- 15:00[IN] Segurança da Informação e LGPD A
+ plicado no Desenvolvimento de Software</b><br>Cleber Nardelli
+LAST-MODIFIED:20211127T114708Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sessão Técnica 1 - ERES 2021
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211201T190000Z
+DTEND:20211201T203000Z
+DTSTAMP:20211129T181150Z
+UID:1oveghvchkcmbrb55qn40otgha@google.com
+CREATED:20211127T114849Z
+DESCRIPTION:<b><u>Tema:Usabilidade</u></b><br><br><i>Chair:(a definir)</i><
+ br><br><b>- 16:00[Gr] Avaliação de Usabilidade do app "OMITIDO"</b><br>Mari
+ na Otokovieski\, Amanda Melo\, Ícaro Crespo<br><br><b>- 16:30[Gr] Avaliação
+  Remota de Usabilidade do Site do Campus "OMITIDO"</b><br>Ícaro Crespo\, Ma
+ rina Otokovieski\, Amanda Melo<br><br><b>- 17:00[Gr] Uma Proposta de Ferram
+ enta de Apoio ao Processo de Avaliação de Usabilidade em Linguagens Específ
+ icas de Domínio</b><br>Allan Pedroso\, Ildevana Poltronieri\, Maicon Bernar
+ dino
+LAST-MODIFIED:20211127T114930Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sessão Técnica 2 - ERES 2021
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211201T213000Z
+DTEND:20211201T220000Z
+DTSTAMP:20211129T181150Z
+UID:6nmpe2haf7su45u8c60gq58uv3@google.com
+CREATED:20211127T115009Z
+DESCRIPTION:
+LAST-MODIFIED:20211127T115009Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Abertura - ERES 2021
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211201T220000Z
+DTEND:20211201T231500Z
+DTSTAMP:20211129T181150Z
+UID:3l2um2ap8g1c8ib60jeli0bqbs@google.com
+CREATED:20211127T115157Z
+DESCRIPTION:<b><u>Palestra A</u></b><br><br><i>Anfitrião: Prof. Dr. Maicon 
+ Bernardino</i><br><br><b>- AgileKIP Process Automation Platform: uma agenda
+  acadêmica que virou empresa!</b><br>Ulisses Telemaco Neto (OWSE Ltda)<br><
+ br><b>Resumo: </b>A ideia da palestra é explorar em detalhes a nossa soluçã
+ o entitulada AgileKIP PAP (Process Automation Platform) explicando os seus 
+ três pilares que são: (a) uma arquitetura de referência\, (b) um gerador de
+  código\, e (c) um processo de desenvolvimento da empresa que foi adaptado 
+ para esse contexto (SCRUB4PA - SCRUB for Process Automation). A plataforma 
+ surgiu de uma agenda acadêmica. A partir de uma parceria indústria/academia
+ \, conseguimos desenvolver a solução. Temos alguns processos já implementad
+ os e em produção e também criamos uma empresa com foco exclusivo em oferece
+ r esse serviço. O site oficial da documentação da plataforma é https://agil
+ ekip.github.io/pap-documentation/
+LAST-MODIFIED:20211127T115157Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Palestra A - ERES 2021
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211201T233000Z
+DTEND:20211202T010000Z
+DTSTAMP:20211129T181150Z
+UID:46k7kgjds3qu4b7oduclqgq608@google.com
+CREATED:20211127T115405Z
+DESCRIPTION:<b><u>Mini-talks da Indústria de Software</u></b><br><br><i>Anf
+ itrião: (a definir)</i><br><br><b>- 20:30 - 21:00Mini-talk 1: Zallpy digita
+ l - Transformação Digital na BMW</b><br>Mikael Noramberg<br><br><b>- 21:00 
+ - 21:30Mini-talk 2 : IPM Sistemas -A Engenharia de Software em um Ecossiste
+ ma Data Science para Cidades Inteligentes</b><br>Marco Aurélio Butzke<br><b
+ r><b>- 21:30 - 21:45Mini-talk 3 : AmbevTech - Design de Código</b><br>Paulo
+  Cezar Boccaletti Junior<br><br><b>21:45 - 22:00Considerações finais: visão
+  da indústria de software sobre o pós-pandemia</b>
+LAST-MODIFIED:20211127T115405Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mini-talks Indústria - ERES 2021
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211202T170000Z
+DTEND:20211202T183000Z
+DTSTAMP:20211129T181150Z
+UID:151bnoqt0vv0dtd2ril9hbknqr@google.com
+CREATED:20211127T115549Z
+DESCRIPTION:<b><u>Tema:Engenharia de Software para Bancos de Dados e Reposi
+ tórios de Dados</u></b><br><br><i>Chair:(a definir)</i><br><br><b>- 14:00[P
+ G] Multivocal Literature Mapping on DSLs and Tools for Entity-Relationship 
+ Modeling</b><br>Maicon Bernardino\, Jonnathan Lopes\, Fábio Basso\, Elder R
+ odrigues<br><br><b>- 14:30[Gr] Estudo de Eficiência de Arquitetura Distribu
+ ída Utilizando Bancos de Dados Relacionais\, Não-Relacionais e Cache em Mem
+ ória</b><br>Josué Cardoso\, Márcio Sembay\, Willen Leolatto Carneiro<br><br
+ ><b>- 15:00[Gr] Comparing Open Data Repositories</b><br>Pedro Costa\, André
+  F. R. Cordeiro\, Edson OliveiraJr
+LAST-MODIFIED:20211127T115549Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sessão Técnica 3 - ERES 2021
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211202T190000Z
+DTEND:20211202T203000Z
+DTSTAMP:20211129T181150Z
+UID:2qdup7l71a2ts2ooqc1ah9t7f0@google.com
+CREATED:20211127T115714Z
+DESCRIPTION:<b><u>Tema:Processo de Software e Requisitos</u></b><br><br><i>
+ Chair:(a definir)</i><br><br><b>- 16:00[PG] Documentando requisitos de sist
+ emas legados: um estudo de caso utilizando técnicas da Engenharia de Requis
+ itos Orientada a Objetivos</b><br>Renato Fritola\, Victor Santander<br><br>
+ <b>- 16:30[PG] BPMN\, SPEM e Essence como Linguagens para Modelagem de Proc
+ essos: uma Revisão Sistemática da Literatura</b><br>Igor Fonseca\, Luiz Fri
+ tsch\, Maicon Bernardino\, Fábio Basso<br><br><b>- 17:00[Gr] Experiência do
+  Projeto "Fábrica de Software" em um Curso de Engenharia de Software</b><br
+ >Alexandro Santos\, Matheus Oliveira\, Yuri Rodrigues\, Nisio Oliveira\, Da
+ niel Kuhn\, Gustavo Santos\, Rodolfo Silva
+LAST-MODIFIED:20211127T115738Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Sessão Técnica 4 - ERES 2021
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211202T203000Z
+DTEND:20211202T211500Z
+DTSTAMP:20211129T181150Z
+UID:795e2n81bl5h4g9rnu0r5mop3q@google.com
+CREATED:20211127T115857Z
+DESCRIPTION:<strong>Visita Técnica Virtual ao Centro de Tecnologia da IPM S
+ istemas</strong><br><br>Link de acesso: (a definir)
+LAST-MODIFIED:20211127T115857Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Visita Técnica Virtual - IPM Sistemas - ERES 2021
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211202T220000Z
+DTEND:20211202T233000Z
+DTSTAMP:20211129T181150Z
+UID:6k3rc3eurkftup7pf4940pkr0c@google.com
+CREATED:20211127T120025Z
+DESCRIPTION:<b><u>Palestra B</u></b><br><br><i>Anfitrião: Prof. Dr. Edson O
+ liveiraJr</i><br><br><b>- Desafios e Oportunidades Decorrentes da Lei Geral
+  de Proteção de Dados Pessoais (LGPD) para a Área de Engenharia de Software
+ </b><br>Profª. Drª. Michelle Silva Wangham (UNIVALI)<br><br><b>Resumo:</b>&
+ nbsp\;A transformação digital está baseada em um rica cultura orientada a d
+ ados\, por consequência\, há uma demanda urgente por proteção de dados pess
+ oais. Esta transformação coloca os dados no centro e o titular dos dados é 
+ quem decide como será atendido e autoriza quais informações podem ser usada
+ s. Nesse sentido\, é necessário mais transparência\, inteligência\, seguran
+ ça\, ética e conformidade com a LGPD para usar estes dados. Nesta palestra\
+ , analisaremos como as empresas brasileiras estão se preparando para Agosto
+  de 2020. Quais as dores e desafios das empresas de software na Jornada da 
+ Adequação à LGPD. Em um formato interativo\, discutiremos como as tecnologi
+ as emergentes como blockchain\, IA\, Big Data\, Crowdsensing\, reconhecimen
+ to facial\, entre outras podem ser usadas sem comprometer a privacidade dos
+  titulares dos dados. Por fim\, mapearemos as oportunidades de pesquisa e d
+ e novos negócios para a área de Engenharia de Software.
+LAST-MODIFIED:20211127T120025Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Palestra B - ERES 2021
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211202T234500Z
+DTEND:20211203T010000Z
+DTSTAMP:20211129T181150Z
+UID:20o55i7g859ail4lb6g3hgvqtj@google.com
+CREATED:20211127T120310Z
+DESCRIPTION:<b><u>Palestra C</u></b><br><br><i>Anfitrião: Fernando dos Sant
+ os</i><br><br><b>- Levei a Faculdade daquele jeito. E agora?</b><br>Prof. I
+ sidro (Francisco Isidro Massetto)<br><br><b>Resumo:</b>&nbsp\;Quantas e qua
+ ntas vezes na graduação nós nos deparamos com matérias ou assuntos que pens
+ amos "não fazer a menor ideia porque estudamos". Pois bem muitos assuntos q
+ ue achamos até inúteis durante a graduação podem e irão efetivamente fazer 
+ diferença na sua vida profissional.
+LAST-MODIFIED:20211127T120310Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Palestra C - ERES 2021
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211203T170000Z
+DTEND:20211203T183000Z
+DTSTAMP:20211129T181150Z
+UID:3ski6tibcs68gplftsmmigrjtb@google.com
+CREATED:20211127T120427Z
+DESCRIPTION:<b><u>Tema:Métodos Ágeis</u></b><br><br><i>Chair:(a definir)</i
+ ><br><br><b>- 14:00[Gr] Uso de quadros kanban virtuais sob as lentes do DX:
+  um estudo com profissionais de startups de software</b><br>Crismerlyn Pere
+ ira\, Angelica dos Santos\, Luciana Zaina<br><br><b>- 14:30[Gr] Construção 
+ e Implantação de uma Metodologia Ágil no Processo de Desenvolvimento de Sof
+ tware de uma Organização Pública: Uma Pesquisa-Ação</b><br>Jessica Garcia\,
+  Joyce Aline Marins\, Vanice Cunha\, Aline Wollinger\, Giulla Araújo<br><br
+ ><b>- 15:00[PG] Combinando Planning Poker e Aprendizado de Máquina para est
+ imar esforço de software</b><br>Doglas Finco\, Laudelino Cordeiro Bastos\, 
+ Adolfo Neto
+LAST-MODIFIED:20211127T120427Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sessão Técnica 5 - ERES 2021
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211203T190000Z
+DTEND:20211203T203000Z
+DTSTAMP:20211129T181150Z
+UID:4brfvrggqcteu2abn83am0gfr2@google.com
+CREATED:20211127T120542Z
+DESCRIPTION:<b><u>Tema:Desenvolvimento de Software</u></b><br><br><i>Chair:
+ (a definir)</i><br><br><b>- 16:00[PG] Explorando a Integração de Ferramenta
+ s para a Engenharia de Software Contínua com o OSLC e Eclipse&nbsp\;</b><br
+ >LyoBruno Ferreira\, Fábio Basso<br><br><b>- 16:30[Gr] Desenvolvimento Segu
+ ro de Sistemas Web: Uma Revisão Sistemática</b><br>Gustavo Malacarne\, Edso
+ n Tavares de Camargo<br><br><b>- 17:00[Gr] Um Estudo Exploratório do Cooja 
+ para Simulação de Cenário em Internet das Coisas</b><br>Dienefer Fialho dos
+  Santos\, Fábio Basso\, Marcelo Caggiani Luizelli\, Saimon Martins Cabrera
+LAST-MODIFIED:20211127T120542Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sessão Técnica 6 - ERES 2021
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211203T220000Z
+DTEND:20211203T233000Z
+DTSTAMP:20211129T181150Z
+UID:1q9111amf2vv96tjub7r82u6pi@google.com
+CREATED:20211127T120706Z
+DESCRIPTION:<b><u>Palestra D</u></b><br><br><i>Anfitrião: (a definir)</i><b
+ r><br><b>- Engenharia de Sistemas de Software Inteligentes</b><br>Prof. Dr.
+  Marcos Kalinowski (PUC-RIO)<br><b><br></b><br><b>Resumo:</b>&nbsp\;A pales
+ tra envolverá uma discussão a respeito de abordagens para Engenharia de Sis
+ temas de Software Inteligentes. Serão abordados conceitos de BizDev\, DevOp
+ s\, DataOps\, MLOps e Experimentação Contínua. Também será abordado o desen
+ volvimento ágil de aplicações de ciência de dados com Lean R&amp\;D e boas 
+ práticas de Engenharia de Software que devem ser empregadas neste contexto.
+LAST-MODIFIED:20211127T120706Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Palestra D - ERES 2021
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211203T233000Z
+DTEND:20211204T010000Z
+DTSTAMP:20211129T181150Z
+UID:754mcvncl567rfgcp75kfj1qqa@google.com
+CREATED:20211127T120824Z
+DESCRIPTION:
+LAST-MODIFIED:20211127T120824Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Encerramento e Premiações - ERES 2021
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

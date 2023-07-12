@@ -1,0 +1,86 @@
+﻿- title: Início
+  url: "/"
+  side: left
+
+- title: "Trilhas e Artigos"
+  url: ""
+  side: left
+  dropdown:
+  - title: "Chamada de Trabalhos"
+    url: "/chamada/"
+  - title: "Artigos Aceitos"
+    url: "/aceitos/"
+#  - title: "Anais"
+#    url: "/anais/"
+
+- title: "Programação"
+  url: "/programacao/"
+  side: left
+
+- title: "Palestras e Minicursos"
+  url: ""
+  side: left
+  dropdown:
+  - title: "Palestras"
+    url: "/palestras/"
+  - title: "Minicursos"
+    url: "/minicursos/"
+
+- title: "Inscrições"
+  url: "/inscricoes/"
+  side: left
+
+- title: "Organização"
+  url: ""
+  side: left
+  dropdown:
+  - title: "Coordenação Geral"
+    url: "/coordenacao_geral/"
+  - title: "Coordenadores dos Fóruns"
+    url: "/coordenacao_eventos/"
+  - title: "Comitê Científico"
+    url: "/comite_cientifico/"
+  - title: "Edições Anteriores"
+    url: "/edicoes_anteriores/"
+#  - title: "Comitê Diretivo"
+#    url: "/comite_diretivo/"
+#  - title: "Voluntários"
+#    url: "/voluntarios/"
+
+
+- title: "Local do Evento"
+  url: ""
+  side: left
+  dropdown:
+  - title: "Como chegar à ERES"
+    url: "/como_chegar/"
+  - title: "Hospedagem e Alojamento"
+    url: "/hospedagem/"
+  - title: "Sobre Blumenau"
+    url: "/blumenau/"
+#  - title: "FURB"
+#    url: "/furb/"
+#  - title: "UniSENAI"
+#    url: "/unisenai/"
+#  - title: "Como Chegar à ERES"
+#    url: "/como_chegar/"
+#  - title: "Hospedagem"
+#    url: "/hospedagem/"
+#  - title: "Sobre Blumenau"
+#    url: "/blumenau/"
+
+- title: "Sobre a SBC"
+  url: "/sobresbc/"
+  side: left
+
+- title: "Contato"
+  url: "/contato/"
+  side: left
+
+#- title: "Certificados"
+#  url: "/certificados/"
+#  side: left
+
+#- title: "Downloads"
+#  url: "/downloads/"
+#  side: left

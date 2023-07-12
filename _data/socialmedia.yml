@@ -1,0 +1,35 @@
+﻿- name: Facebook
+  url: https://www.facebook.com/eres.sbc.br
+  class: icon-facebook
+  title: "ERES no Facebook"
+
+- name: Twitter
+  url: https://twitter.com/eres_sbc_br
+  class: icon-twitter
+  title: "ERES no Twitter"
+
+- name: Instagram
+  url: https://www.instagram.com/eres_sbc_br
+  class: icon-instagram
+  title: "ERES no Instagram"
+
+- name: Linkedin
+  url: https://www.linkedin.com/company/eres-sbc-br
+  class: icon-linkedin
+  title: "ERES no Linkedin"
+
+- name: YouTube
+  url: https://www.youtube.com/channel/UCuLpDadoilW8sZXuzgpHJzA
+  class: icon-youtube
+  title: "ERES no YouTube"
+
+
+#- name: Pinterest
+#  url: http://www.pinterest.com/
+#  class: icon-pinterest
+#  title: ""
+
+#- name: Xing
+#  url: https://www.xing.com/profile/
+#  class: icon-xing
+#  title: Xing Profil

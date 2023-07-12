@@ -1,0 +1,26 @@
+﻿- menu_name: "Agradecimentos"
+
+- name: "Banner ERES por João Victor Santos da Costa"
+  #url: "http://ricardogeraldi.com.br"
+  class: "network-entypo"
+  title: "Banner ERES por João Victor Santos da Costa"
+
+- name: "Ícones de Daniel Bruce"
+  url: "http://entypo.com/"
+  class: "network-entypo"
+  title: "Icones de Daniel Bruce"
+
+- name: "Desenvolvido com Foundation"
+  url: "http://foundation.zurb.com/"
+  class: "services-newsletter"
+  title: "Desenvolvido com Foundation"
+
+- name: "Imagens de Unsplash"
+  url: "http://unsplash.com/"
+  class: "rss-link"
+  title: "Imagens de Unsplash"
+
+- name: "Backstretch de Scott Robbin"
+  url: "http://srobbin.com/jquery-plugins/backstretch/"
+  class: "sitemap-link"
+  title: "Backstretch de Scott Robbin"
