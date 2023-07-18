@@ -8,6 +8,7 @@ layout: page-fullwidth
 permalink: /index.html
 homepage: true
 header:
+  image_fullwidth: Banner_principalERES2023.jpg
 ---
 
 
