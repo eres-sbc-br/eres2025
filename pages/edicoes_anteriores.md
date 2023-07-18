@@ -6,7 +6,14 @@ permalink: "/edicoes_anteriores/"
 header:
    image_fullwidth: banner_eres2021.png
 ---
+<div class="medium-8 columns t30">      
+	<b>ERES 2022</b>
+	<a href="http://eres.sbc.org.br/2022" target="_blank">
+		<img src="https://eres-sbc-br.github.io/eres2022/images/logo-eres-verde-horizontal%20-%202.png" alt="">
+	</a>
+</div>
 
+<br>
 <div class="medium-8 columns t30">      
 	<b>ERES 2021</b>
 	<a href="http://eres.sbc.org.br/2021" target="_blank">
