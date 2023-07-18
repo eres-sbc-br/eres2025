@@ -4,7 +4,6 @@ title: "Edições Anteriores da ERES"
 subheadline: ""
 permalink: "/edicoes_anteriores/"
 header:
-   image_fullwidth: banner_eres2021.png
 ---
 <div class="medium-8 columns t30">      
 	<b>ERES 2022</b>
