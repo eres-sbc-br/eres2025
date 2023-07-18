@@ -4,7 +4,7 @@ show_meta: false
 title: "Sobre a SBC"
 permalink: "/sobresbc/"
 header:
-   image_fullwidth: banner_eres2021.png
+   image_fullwidth: Banner_principalERES2023.jpg
 ---
 <p>A Sociedade Brasileira de Computação – SBC é uma Sociedade Científica sem fins lucrativos, fundada em julho de 1978, que reúne estudantes, professores, profissionais, pesquisadores e entusiastas da área de Computação e Informática de todo o Brasil. </p>
 
