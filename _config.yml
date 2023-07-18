@@ -38,7 +38,7 @@ improve_content: https://github.com/eres-sbc-br/eres2023/feeling-responsive/edit
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://eres-sbc-br.github.io/eres2021/images/'
+urlimg: 'https://eres-sbc-br.github.io/eres2023/images/'
 
 urlcertificados: 'https://github.com/eres-sbc-br/eres2023/tree/main/certificados/'
 
