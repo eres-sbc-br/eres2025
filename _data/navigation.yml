@@ -2,14 +2,14 @@
   url: "/"
   side: left
 
-- title: "Trilhas e Artigos"
-  url: ""
+- title: "Chamada de Trabalhos"
+  url: "/chamada/"
   side: left
-  dropdown:
-  - title: "Chamada de Trabalhos"
-    url: "/chamada/"
-  - title: "Artigos Aceitos"
-    url: "/aceitos/"
+#  dropdown:
+#  - title: "Chamada de Trabalhos"
+#    url: "/chamada/"
+#  - title: "Artigos Aceitos"
+#    url: "/aceitos/"
 #  - title: "Anais"
 #    url: "/anais/"
 
@@ -56,8 +56,8 @@
     url: "/como_chegar/"
   - title: "Hospedagem e Alojamento"
     url: "/hospedagem/"
-  - title: "Sobre Blumenau"
-    url: "/blumenau/"
+  - title: "Sobre Maringá"
+    url: "/maringa/"
 #  - title: "FURB"
 #    url: "/furb/"
 #  - title: "UniSENAI"
