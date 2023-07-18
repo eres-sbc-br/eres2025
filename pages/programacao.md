@@ -4,7 +4,7 @@ show_meta: false
 title: "Programação"
 permalink: "/programacao/"
 header:
-   image_fullwidth: banner_eres2022.png
+   image_fullwidth: Banner_principalERES2023.jpg
 ---
 
 <!--
