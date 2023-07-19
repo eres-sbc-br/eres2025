@@ -31,7 +31,9 @@ Esta edição está sendo realizada pelo <a href="http://www.din.uem.br" target=
 <p>O Fórum de Pós-Graduação da ERES 2023 é um espaço para apresentação de trabalhos de estudantes de pós-graduação, com o objetivo de incentivar a troca de experiências e divulgar pesquisas em andamento e/ou concluídas e resultados obtidos. Além da clareza do trabalho, relevância do tema, e qualidade da apresentação, o Comitê Científico da ERES 2023 avaliará também as contribuições científicas do trabalho.</p>
 
 <h3> Fórum para Extensão </h3>
-<p> Texto em construção. </p>
+<p> Espaço para apresentação de trabalhos de relatos das atividades extensionistas aplicados aos currículos de computação, especialmente da Engenharia de Software, e de que forma estão implantando a inserção da extensão em seus currículos conforme previsto na Resolução. <br><br>
+O objetivo é incentivar a troca de experiências entre docentes coordenadores de programas e projetos de extensão
+ </p>
 
 
 
