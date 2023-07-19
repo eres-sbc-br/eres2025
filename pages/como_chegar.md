@@ -10,7 +10,7 @@ header:
 ---
 <hr>
 
-<p>Em 2023, a ERES acontecer&aacute; na institui&ccedil;&atilde;: UEM Departamento de Informática - Bloco C56.</p>
+<p>Em 2023, a ERES acontecer&aacute; na institui&ccedil;&atilde;o: UEM Departamento de Informática - Bloco C56.</p>
 <!--<p>No per&iacute;odo da tarde, os minicursos e sess&otilde;es t&eacute;cnicas ser&atilde;o concentrados na FURB (Campus 1, Bloco S). <br>
 À noite, as palestras ocorrer&atilde;o no audit&oacute;rio do UniSENAI (Campus Sede, Bloco A).</p>-->
 <p>Confirma o mapa:</p>
