@@ -30,8 +30,8 @@ Esta edição está sendo realizada pelo <a href="http://www.din.uem.br" target=
 <h3> Fórum para Pós-Graduação</h3>
 <p>O Fórum de Pós-Graduação da ERES 2023 é um espaço para apresentação de trabalhos de estudantes de pós-graduação, com o objetivo de incentivar a troca de experiências e divulgar pesquisas em andamento e/ou concluídas e resultados obtidos. Além da clareza do trabalho, relevância do tema, e qualidade da apresentação, o Comitê Científico da ERES 2023 avaliará também as contribuições científicas do trabalho.</p>
 
-<h3> Trilha da Indústria </h3>
-<p> A Trilha da Indústria de Software da ERES 2023 é um espaço para apresentação de trabalhos de profissionais do setor produtivo de T.I, ou de trabalhos acadêmicos resultantes de aplicações práticas na indústria de software e que apresentem real contribuição para o mercado de software. O objetivo é incentivar a troca de experiências entre profissionais da academia e indústria de software. Recomenda-se que ao menos um autor do artigo tenha sua afiliação associada a um dos setores da indústria de software. </p>
+<h3> Fórum para Extensão </h3>
+<p> Texto em construção. </p>
 
 
 
