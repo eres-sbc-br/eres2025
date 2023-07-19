@@ -6,7 +6,7 @@ subheadline: ""
 teaser: "Entre em contato conosco pelo e-mail eres.sbc.br@gmail.com"
 permalink: "/contato/"
 header:
-   image_fullwidth: banner_eres2021.png
+   image_fullwidth: BannerERES2023.png
 
 ---
 <h5>Também estamos nas redes sociais:</h5>
