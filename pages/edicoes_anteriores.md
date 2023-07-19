@@ -3,6 +3,8 @@ layout: page-fullwidth
 title: "Edições Anteriores da ERES"
 subheadline: ""
 permalink: "/edicoes_anteriores/"
+header:
+   image_fullwidth: BannerERES2023.png
 ---
 <div class="medium-8 columns t30">      
 	<b>ERES 2022</b>
