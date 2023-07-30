@@ -4,8 +4,9 @@ show_meta: false
 title: "Inscrições"
 permalink: "/inscricoes/"
 header:
-   image_fullwidth: banner_eres2021.png
+   image_fullwidth: BannerERES2023.png
 ---
+
 <p>A ERES é um evento realizado pela Sociedade Brasileira de Computação – SBC. A SBC é uma associação civil, sem fins lucrativos, que estimula o desenvolvimento tecnológico e científico do país e é a maior sociedade de computação da América do Sul. </p>
 
 <p>Para realizar sua inscrição na ERES, acesse o sistema ECOS da SBC no link: <a href="https://centraldesistemas.sbc.org.br/ecos/eres2022" target="blank">https://centraldesistemas.sbc.org.br/ecos/eres2022</a>. A inscrição na ERES 2022 dá direito a todas as atividades do evento incluindo palestras, sessões técnicas, minicursos e visitas técnicas.</p>
