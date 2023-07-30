@@ -12,7 +12,7 @@ header:
 
 <p>A <strong>ESCOLA REGIONAL DE ENGENHARIA DE SOFTWARE (ERES)</strong> é promovida anualmente pela Sociedade Brasileira de Computação (SBC), desde 2017. A setima edição da escola, a ERES 2023, ocorrerá de forma <strong>PRESENCIAL</strong>, no período de 06 a 08 de dezembro de 2023 em Maringá (PR). Maringá é uma cidade de economia diversificada, de um povo empreendedor que atua incansavelmente no desenvolvimento e na manutenção da qualidade de vida que ela proporciona aos seus moradores e encanta a todos que aqui chegam. Maringá é uma cidade progressista, boa para trabalhar e fazer negócios. E para quem não tem o privilégio de viver aqui, uma cidade que vale a pena conhecer. Esta edição está sendo organizada pela <b>Universidade Estadual de Maringá (UEM)</b>, por meio do seu <b>Departamento de Informática (DIN)</b>.</p>
 
-<h5>Datas Importante</strong></h5>
+<h5><strong>Datas Importante</strong></h5>
 <ul>  
   <li><strong>Submissão de Artigos</strong>: 15 de setembro de 2023 até as 23h:55m (horário de Brasília)</li>
   <li><strong>Notificação aos Autores</strong>: 09 de outubro de 2023</li>
