@@ -52,7 +52,9 @@ header:
 </ul>
 
 <h2>Link para Submissão</h2>
-<p>A submissão deve ser feita pela Plataforma JEMS, disponível no seguinte link: <a href="https://jems.sbc.org.br/eres2023" target="_blank">https://jems.sbc.org.br/eres2023</a>.</p>
+ Em breve...
+
+<!--<p>A submissão deve ser feita pela Plataforma JEMS, disponível no seguinte link: <a href="https://jems.sbc.org.br/eres2023" target="_blank">https://jems.sbc.org.br/eres2023</a>.</p>-->
 
 <h2>Tópicos de Pesquisa:</h2>
 
