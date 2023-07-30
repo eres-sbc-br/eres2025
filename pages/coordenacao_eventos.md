@@ -4,26 +4,26 @@ title: "Coordenadores dos Fóruns"
 subheadline: ""
 permalink: "/coordenacao_eventos/"
 header:
-   image_fullwidth: banner_eres2021.png
+   image_fullwidth: BannerERES2023.png
 ---
 
 <div class="row">
 	<div class="small-12 large-4 columns">
         Fórum de Graduação<br>
-        <img src="https://eres-sbc-br.github.io/eres2021/images/silveira.gif" alt=""><br>
-        <b>Prof. Dr. Maicon Bernardino</b><br>
-		    <b>UNIPAMPA</b>
+			<img src="https://eres-sbc-br.github.io/eres2021/images/semfoto.jpg" alt=""><br>
+			<b>Prof. Dr. Gabriel Machado Lunardi</b><br>
+			<b>UFSM</b>
   </div>
   <div class="small-12 large-4 columns">
          Fórum de Pós-Graduação<br>
-        <img src="https://eres-sbc-br.github.io/eres2021/images/edson.jpg" alt=""><br>
-        <b>Prof. Dr. Edson Oliveira Junior</b><br>
-		    <b>UEM</b>
+			<img src="https://eres-sbc-br.github.io/eres2021/images/semfoto.jpg" alt=""><br>
+			<b>Profa. Dra. Ana Paula Terra Bacelo</b><br>
+		    <b>PUCRS</b>
   </div>
   <div class="small-12 large-4 columns">
-        Trilha da Indústria<br>
-        <img src="{{ site.urlimg }}pablo.jpg" alt=""><br>
-        <b>Prof. Dr. Pablo Schoeffel</b><br>
-		    <b>UDESC - Alto Vale</b>
+        Fórum de Extensão<br>
+			<img src="https://eres-sbc-br.github.io/eres2021/images/silveira.gif" alt=""><br>
+			<b>Prof. Dr. Maicon Bernardino</b><br>
+			<b>UNIPAMPA</b>
   </div>  
 </div>
