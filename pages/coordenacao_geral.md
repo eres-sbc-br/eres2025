@@ -4,16 +4,18 @@ title: "Coordenação Geral"
 subheadline: ""
 permalink: "/coordenacao_geral/"
 header:
-   image_fullwidth: banner_eres2021.png
+   image_fullwidth: BannerERES2023.png
 ---
 
 <div class="row">
     	<div class="small-12 large-4  columns">
-        <img src="https://eres-sbc-br.github.io/eres2022/images/luciana.jpg" alt="" style="height: 250px"><br>
-        <b>Prof. Me. Luciana Pereira de Araújo Kholer</b><br>
-		<b>FURB</b><br>
-		<a href="http://lattes.cnpq.br/4646552734648125" target="_blank">Currículo Lattes</a>
+        <img src="https://eres-sbc-br.github.io/eres2022/images/edson.jpg" alt="" style="height: 250px"><br>
+        <b>Prof. Dr. Edson OliveiraJr</b><br>
+		<b>UEM</b><br>
+		<a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a>
   </div>
+  
+  <h5><strong>Organização Local</strong></h5>
 
 	<div class="small-12 large-4  columns">
         <img src="https://eres-sbc-br.github.io/eres2022/images/matheus.jpg" alt="" style="height: 250px"><br>
