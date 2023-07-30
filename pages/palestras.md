@@ -1,11 +1,18 @@
 ﻿---
 layout: page-fullwidth
-title: "Palestras da ERES 2022"
+title: "Palestras da ERES 2023"
 subheadline: ""
 permalink: "/palestras/"
 header:
-   image_fullwidth: banner_eres2021.png
+   image_fullwidth: BannerERES2023.png
 ---
+
+<hr>
+
+<h5>Em breve...</h5>
+
+<!--
+
 
 <div class="row t30" id="palestra_a">
 <h2>Palestra A</h2>
