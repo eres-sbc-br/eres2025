@@ -12,18 +12,21 @@ header:
         Fórum de Graduação<br>
 			<img src="https://eres-sbc-br.github.io/eres2021/images/semfoto.jpg" alt=""><br>
 			<b>Prof. Dr. Gabriel Machado Lunardi</b><br>
-			<b>UFSM</b>
+			<b>UFSM</b><br>
+			<a href="" target="_blank">Currículo Lattes</a>
   </div>
   <div class="small-12 large-4 columns">
          Fórum de Pós-Graduação<br>
 			<img src="https://eres-sbc-br.github.io/eres2021/images/semfoto.jpg" alt=""><br>
 			<b>Profa. Dra. Ana Paula Terra Bacelo</b><br>
-		    <b>PUCRS</b>
+		    <b>PUCRS</b><br>
+			<a href="" target="_blank">Currículo Lattes</a>
   </div>
   <div class="small-12 large-4 columns">
         Fórum de Extensão<br>
 			<img src="https://eres-sbc-br.github.io/eres2021/images/silveira.gif" alt=""><br>
 			<b>Prof. Dr. Maicon Bernardino</b><br>
-			<b>UNIPAMPA</b>
+			<b>UNIPAMPA</b><br>
+			<a href="" target="_blank">Currículo Lattes</a>
   </div>  
 </div>
