@@ -12,7 +12,7 @@ header:
 
 <p>A <strong>ESCOLA REGIONAL DE ENGENHARIA DE SOFTWARE (ERES)</strong> é promovida anualmente pela Sociedade Brasileira de Computação (SBC), desde 2017. A setima edição da escola, a ERES 2023, ocorrerá de forma <strong>PRESENCIAL</strong>, no período de 06 a 08 de dezembro de 2023 em Maringá (PR). Maringá é uma cidade de economia diversificada, de um povo empreendedor que atua incansavelmente no desenvolvimento e na manutenção da qualidade de vida que ela proporciona aos seus moradores e encanta a todos que aqui chegam. Maringá é uma cidade progressista, boa para trabalhar e fazer negócios. E para quem não tem o privilégio de viver aqui, uma cidade que vale a pena conhecer. Esta edição está sendo organizada pela <b>Universidade Estadual de Maringá (UEM)</b>, por meio do seu <b>Departamento de Informática (DIN)</b>.</p>
 
-<h5><strong>Datas Importante</strong></h5>
+<h5><strong>Datas Importantes</strong></h5>
 <ul>  
   <li><strong>Submissão de Artigos</strong>: 15 de setembro de 2023 até as 23h:55m (horário de Brasília)</li>
   <li><strong>Notificação aos Autores</strong>: 09 de outubro de 2023</li>
@@ -29,7 +29,7 @@ header:
 <p><strong>Fórum de Pós-Graduação:</strong> Espaço para apresentação de trabalhos de estudantes de pós-graduação, com o objetivo de incentivar a troca de experiências e divulgar pesquisas em andamento e/ou concluídas e resultados obtidos. Além da clareza do trabalho, relevância do tema, e qualidade da apresentação, o Comitê Científico da ERES 2023 avaliará também as contribuições científicas do trabalho.</p>
 <p><strong>Fórum de Extensão:</strong> Espaço para apresentação de trabalhos de relatos das atividades extensionistas aplicados aos currículos de computação, especialmente da Engenharia de Software, e de que forma estão implantando a inserção da extensão em seus currículos conforme previsto na Resolução CNE/CES nº 7, de 18 de dezembro de 2018. O objetivo é incentivar a troca de experiências entre docentes coordenadores de programas e projetos de extensão.</p>
 
-<h5>Submissão de Trabalhos</h5>
+<h5><strong>Submissão de Trabalhos</strong></h5>
 
 <p>A ERES 2023 incentiva a apresentação de trabalhos de pesquisa ou relatos de experiência originais em Engenharia de Software, desenvolvidos por acadêmicos de graduação, pós-graduação ou profissionais da indústria.</p>
 
@@ -51,12 +51,12 @@ header:
   <li>Os melhores revisores receberão um certificado de “Melhor Revisor da ERES 2023” como forma de reconhecimento por sua generosidade e dedicação em revisar voluntariamente os trabalhos submetidos ao ERES 2023.</li>  
 </ul>
 
-<h2>Link para Submissão</h2>
+<h2><strong>Link para Submissão</strong></h2>
  Em breve...
 
 <!--<p>A submissão deve ser feita pela Plataforma JEMS, disponível no seguinte link: <a href="https://jems.sbc.org.br/eres2023" target="_blank">https://jems.sbc.org.br/eres2023</a>.</p>-->
 
-<h2>Tópicos de Pesquisa:</h2>
+<h2><strong>Tópicos de Interesse</strong></h2>
 
 <p>Os artigos submetidos para os fóruns da ERES devem estar relacionados a tópicos da área de engenharia de software, incluindo mas não se restringindo aos seguintes:</p>
 <ul>
@@ -92,7 +92,7 @@ header:
 </ul>
 
 
-<h2>Organização</h2>
+<h2><strong>Organização</strong></h2>
 
 <p><strong>Coordenação Geral da ERES 2023:</strong></p>
 <p>Prof. Dr. Edson OliveiraJr – UEM</p>
