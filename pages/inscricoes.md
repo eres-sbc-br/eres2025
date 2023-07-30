@@ -34,18 +34,18 @@ header:
 
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#d3d3d3" valign="middle">Estudante associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
-    <td bgcolor="#d3d3d3">R$ 36,00</td>  	
+    <td bgcolor="#d3d3d3">R$ 38,94</td>  	
   </tr>
 
 
   <tr align="center" bgcolor="#d3d3d3">
     <td valign="middle" bgcolor="#FFFFFF">Estudante não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
-    <td bgcolor="#FFFFFF">R$ 36,00</td>  	
+    <td bgcolor="#FFFFFF">R$ 38,94</td>  	
   </tr>
 
   <tr align="center" bgcolor="#d3d3d3">
   	<td bgcolor="#d3d3d3" valign="middle">Estudante não associado à SBC (Somente inscrição no evento) </td>
-  	<td bgcolor="#d3d3d3">R$ 37,00</td>  	
+  	<td bgcolor="#d3d3d3">R$ 40,00</td>  	
   </tr>
 
  <tr>
@@ -58,23 +58,23 @@ header:
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#d3d3d3" style="text-align:center" style="vertical-align:middle" width="10%" rowspan="5" ><b>Estudante de Pós-Graduação</b></td>
 	<td bgcolor="#FFFFFF" valign="middle" >Estudante de pós-graduação associado à SBC com anuidade vigente</td>
-	<td bgcolor="#FFFFFF">R$ 20,00</td>	
+	<td bgcolor="#FFFFFF">R$ 60,00</td>	
   </tr>
 
   <tr bgcolor="#d3d3d3" align="center">
     <td bgcolor="#d3d3d3" valign="middle">Estudante de pós-graduação associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
-    <td bgcolor="#d3d3d3">R$ 126,18</td>  	
+    <td bgcolor="#d3d3d3">R$ 178,18</td>  	
   </tr>
 
 
   <tr align="center">
     <td bgcolor="#FFFFFF" valign="middle">Estudante de pós-graduação não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
-    <td bgcolor="#FFFFFF">R$ 126,18</td>  		  	  
+    <td bgcolor="#FFFFFF">R$ 178,18</td>  		  	  
   </tr>
 
   <tr align="center" bgcolor="#d3d3d3">
   	<td bgcolor="#d3d3d3" valign="middle">Estudante de pós-graduação não associado à SBC (Somente inscrição no evento)  </td>
-  	<td bgcolor="#d3d3d3">R$ 129,00</td>  	
+  	<td bgcolor="#d3d3d3">R$ 185,00</td>  	
   </tr>
 
   <tr>
@@ -94,20 +94,20 @@ header:
 
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#d3d3d3" valign="middle">Profissional associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC) </td>
-    <td bgcolor="#d3d3d3">R$ 342,30</td>
+    <td bgcolor="#d3d3d3">R$ 158,18</td>
   	
   </tr>
 
 
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#FFFFFF" valign="middle">Profissional não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)  </td>
-    <td bgcolor="#FFFFFF">R$ 342,30</td>
+    <td bgcolor="#FFFFFF">R$ 158,18</td>
   	 		  	  	
   </tr>
 
   <tr align="center" bgcolor="#d3d3d3">
 	<td bgcolor="#FFFFFF" valign="middle">Profissional não associado à SBC (Somente inscrição no evento) </td>
-	<td bgcolor="#FFFFFF">R$ 150,00</td>
+	<td bgcolor="#FFFFFF">R$ 163,00</td>
   
   </tr>
 
@@ -121,26 +121,26 @@ header:
   <tr align="center" bgcolor="#d3d3d3">
     <td style="text-align:center" style="vertical-align:middle" width="10%" rowspan="5" ><b>Professor de Educação Básica</b></td>
 	<td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica associado à SBC com anuidade vigente </td>
-	<td bgcolor="#FFFFFF">R$ 20,00</td>
+	<td bgcolor="#FFFFFF">R$ 50,00</td>
  
   </tr>
 
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#d3d3d3" valign="middle">Professor de Educação Básica associado à SBC com anuidade vencendo em até 90 dias (Melhor opção: COMBO inscrição no evento + renovação da associação à SBC)</td>
-    <td bgcolor="#d3d3d3">R$ 126,18</td>
+    <td bgcolor="#d3d3d3">R$ 386,48</td>
    
   </tr>
 
 
   <tr align="center" bgcolor="#d3d3d3">
     <td bgcolor="#FFFFFF" valign="middle">Professor de Educação Básica não associado ou com associação não vigente à SBC (Melhor opção: COMBO inscrição no evento + associação à SBC)</td>
-    <td bgcolor="#FFFFFF">R$ 126,18</td>
+    <td bgcolor="#FFFFFF">R$ 386,48</td>
    
   </tr>
 
   <tr align="center" bgcolor="#d3d3d3">
      <td bgcolor="#d3d3d3" valign="middle">Professor de Educação Básica não associado à SBC (Somente inscrição no evento)</td>
-     <td bgcolor="#d3d3d3">R$ 129,00</td>
+     <td bgcolor="#d3d3d3">R$ 392,00</td>
    
   </tr>
 
