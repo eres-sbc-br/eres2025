@@ -39,7 +39,9 @@ header:
 		<b>UEM</b><br>
 		<a href="" target="_blank">Currículo Lattes</a>    
 	</div>
+</div>
 
+<div class="row">
 	<div class="small-12 large-4  columns">
         <img src="https://eres-sbc-br.github.io/eres2022/images/semfoto.jpg" alt="" style="height: 250px"><br>
         <b>Profa. Dra. Lilian Scatalon</b><br>
