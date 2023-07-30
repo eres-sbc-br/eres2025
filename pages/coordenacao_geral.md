@@ -16,7 +16,7 @@ header:
   </div>
 </div>
   
-  <h5><strong>Organização Local</strong></h5>
+  <h1><strong>Organização Local</strong></h1>
 
 <div class="row">
 	<div class="small-12 large-4  columns">
