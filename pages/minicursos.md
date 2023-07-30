@@ -1,11 +1,19 @@
 ---
 layout: page-fullwidth
-title: "Minicursos da ERES 2022"
+title: "Minicursos da ERES 2023"
 subheadline: ""
 permalink: "/minicursos/"
 header:
-   image_fullwidth: banner_eres2021.png
+   image_fullwidth: BannerERES2023.png
 ---
+
+
+<hr>
+
+<h5>Em breve...</h5>
+
+<!--
+
 
 <div class="row t30" id="minicurso_1">
 	
