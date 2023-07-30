@@ -74,7 +74,7 @@ Em breve...
 <li> André Takeshi Endo - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 <li> Andreia Malucelli - Pontifícia Universidade Católica do Paraná (PUCPR) </li>
 <li> Eduardo Damasceno - Universidade Tecnológica Federal do Paraná (UTFPR)</li>
-<li> Edson Oliveira Jr. - Universidade Estadual de Maringá (UEM) </li>
+<li> Edson Oliveira Jr - Universidade Estadual de Maringá (UEM) </li>
 <li> Gislaine Camila L. Leal - Universidade Estadual de Maringá (UEM) </li>
 <li> Guilherme Guerino - Universidade Estadual de Maringá (UEM) </li>
 <li> Gustavo Santos - Universidade Tecnológica Federal do Paraná (UTFPR-DV) </li>
