@@ -149,7 +149,7 @@ header:
 
 <h2>Inscrições para Autores</h2>
 
-<p>Para artigos aprovados é necessário que pelo menos 1 (um) autor tenha uma inscrição paga em qualquer categoria. O autor deverá submeter comprovante de inscrição pelo JEMS até dia <span style="color:red"><strong>03/Out/2022</strong></span>. </p>
+<p>Para artigos aprovados é necessário que pelo menos 1 (um) autor tenha uma inscrição paga em qualquer categoria. O autor deverá submeter comprovante de inscrição pelo JEMS até dia <span style="color:red"><strong>03/Nov/2023</strong></span>. </p>
 
 <p><strong>Cada autor inscrito pode validar no máximo 2 (dois) artigos.</strong></p>
 
@@ -166,7 +166,7 @@ header:
 <h2>Política de Cancelamento de Inscrições</h2>
 
 
-<p>Até o dia <span style="color:red"><strong>10/Out/2022</strong></span> pode-se fazer uma devolução de <span style="color:red"><strong>50%</strong></span> do valor pago pela inscrição na ERES 2022. Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição, quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para <a href="mailto:faturamento@sbc.org.br">faturamento@sbc.org.br</a></p>
+<p>Até o dia <span style="color:red"><strong>10/Nov/2023</strong></span> pode-se fazer uma devolução de <span style="color:red"><strong>50%</strong></span> do valor pago pela inscrição na ERES 2023. Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição, quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para <a href="mailto:faturamento@sbc.org.br">faturamento@sbc.org.br</a></p>
 
 
 <h2>Por que ser associado à SBC?</h2>
