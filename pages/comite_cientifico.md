@@ -1,12 +1,14 @@
 ﻿---
 layout: page-fullwidth
-#meta_title: "Dúvidas? Entre em contato conosco"
 subheadline: ""
-#teaser: "Entre em contato conosco pelo e-mail #eres2020.Universidade Estadual de Maringá (UEM)@gmail.com"
 permalink: "/comite_cientifico/"
 header:
-  image_fullwidth: banner_eres2021.png
+   image_fullwidth: BannerERES2023.png
 ---
+
+Em breve...
+
+<!--
 
 <h1>Comitê Científico:</h1>
 
@@ -31,7 +33,7 @@ header:
 <li> Kurt Werner Molz - Universidade de Santa Cruz do Sul (UNISC) </li>
 <li> Lisandra Manzoni Fontoura  - Universidade Federal de Santa Maria (UFSM) </li>
 <li> Lisiane Brisolara de Brisolara - Universidade Federal de Pelotas (UFPEL) </li>
-<!--<li> Maicon Bernardino da Silveira - Universidade Federal do Pampa (UNIPAMPA) </li>-->
+<li> Maicon Bernardino da Silveira - Universidade Federal do Pampa (UNIPAMPA) </li>
 <li> Marcelo Hideki Yamaguti - Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS) </li>
 <li> Marta Rosecler Bez - Universidade FEEVALE </li>
 <li> Raquel Aparecida Pegoraro - Universidade Federal da Fronteira Sul (UFFS) </li>
@@ -44,25 +46,18 @@ header:
 
 <ul>
 <li> Adilson Vahldick - Universidade do Estado de Santa Catarina (UDESC)</li>
-<li> Andreia Sabedra Bordin - Universidade Federal de Santa Catarina UFSC) </li><!--?-->
 <li> Carlos Alberto Barth - Universidade do Estado de Santa Catarina (UDESC) </li>
 <li> Cristiano Roberto Franco - Uniasselvi / Hering </li>
 <li> Everaldo Artur Grahl - Fundação Universidade Regional de Blumenau (FURB) </li>
-<li> Fabiane Benitti - Universidade Federal de Santa Catarina (UFSC) </li><!--?-->
 <li> Felipe Taliar Giuntini - Sidia Instituto de Ciência e Tecnologia </li>
 <li> Fernando dos Santos - Universidade do Estado de Santa Catarina (UDESC)</li>
 <li> Marcela Leite - Instituto Federal Catarinense (IFC) </li>
 <li> Márcio José Mantau - Universidade do Estado de Santa Catarina (UDESC) </li>
 <li> Marilia Guterres Ferreira - Universidade do Estado de Santa Catarina (UDESC) </li>
-<li> Maurício F. Galimberti - Universidade Federal de Santa Catarina (UFSC) </li><!--?-->
 <li> Jean Carlo Rossa Hauck - Universidade Federal de Santa Catarina (UFSC) </li>
-<li> Odorico Machado Mendizabal - Universidade Federal de Santa Catarina (UFSC) </li><!--?-->
 <li> Pablo Schoeffel - Universidade do Estado de Santa Catarina (UDESC)</li>
 <li> Patrícia Blini Estivalete - Instituto Federal Catarinense (IFC) </li>
-<li> Patrícia Vilain - Universidade Federal de Santa Catarina (UFSC) </li><!--?-->
 <li> Paulo Roberto Farah - Universidade Federal de Santa Catarina (UFSC) </li>
-<li> Raul Sidnei Wazlawick Brasil - Universidade Federal de Santa Catarina (UFSC) </li><!--?-->
-<li> Ricardo Pereira e Silva - Universidade Federal de Santa Catarina (UFSC) </li><!--?-->
 <li> Ricardo Vilela - Universidade Federal de Santa Catarina (UFSC) </li>
 </ul>
 
@@ -127,3 +122,5 @@ header:
 
 
 <p><strong>OBS</strong>: Sujeito à alterações.</p>
+
+-->
