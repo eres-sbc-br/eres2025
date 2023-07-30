@@ -23,7 +23,7 @@ Em breve...
 <li> Cristiano Tolfo - Universidade Federal do Pampa (UNIPAMPA) </li>
 <li> Elder de Macedo Rodrigues - Universidade Federal do Pampa (UNIPAMPA) </li>
 <li> Fábio Basso - Universidade Federal do Pampa (UNIPAMPA) </li>
-<li> Gabriel Machado Lunardi - Universidade Federal do Pampa (UNIPAMPA) </li>
+<li> Gabriel Machado Lunardi - Universidade Federal de Santa Maria (UFSM) </li>
 <li> Giani Petri - Universidade Federal de Santa Maria (UFSM) </li>
 <li> Gilleanes Thorwald Araujo Guedes - Universidade Federal do Pampa (UNIPAMPA) </li> 					
 <li> Ingrid Nunes - Universidade Federal do Rio Grande do Sul (UFRGS) </li>
