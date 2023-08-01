@@ -40,7 +40,7 @@
   dropdown:
   - title: "Coordenação Geral"
     url: "/coordenacao_geral/"
-  - title: "Coordenadores dos Fóruns"
+  - title: "Coordenação dos Fóruns"
     url: "/coordenacao_eventos/"
   - title: "Comitê Científico"
     url: "/comite_cientifico/"
