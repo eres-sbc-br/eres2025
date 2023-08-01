@@ -16,7 +16,7 @@ header:
   </div>
 </div>
   
-  <h3><strong>Organização Local</strong></h3>
+<h3><strong>Organização Local</strong></h3>
 
 <div class="row">
 	<div class="small-12 large-4  columns">
@@ -40,6 +40,8 @@ header:
 		<a href="" target="_blank">Currículo Lattes</a>    
 	</div>
 </div>
+
+<br>
 
 <div class="row">
 	<div class="small-12 large-4  columns">
