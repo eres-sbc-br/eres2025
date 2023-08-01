@@ -25,7 +25,7 @@ header:
         <img src="https://eres-sbc-br.github.io/eres2023/images/thelma.jpg" alt="" style="height: 250px"><br>
         <b>Profa. Dra. Thelma Elita Colanzi</b><br>
 		<b>UEM</b><br>
-		<a href="" target="_blank">Currículo Lattes</a>    
+		<a href="http://lattes.cnpq.br/3603496659156120" target="_blank">Currículo Lattes</a>    
 	</div>
 	
 	<div class="small-12 large-4  columns">
@@ -39,7 +39,7 @@ header:
         <img src="https://eres-sbc-br.github.io/eres2023/images/nelson.jpeg" alt="" style="height: 250px"><br>
         <b>Prof. Dr. Nelson Tenório Junior</b><br>
 		<b>UEM</b><br>
-		<a href="" target="_blank">Currículo Lattes</a>    
+		<a href="http://lattes.cnpq.br/6723952614607082" target="_blank">Currículo Lattes</a>    
 	</div>
 </div>
 
