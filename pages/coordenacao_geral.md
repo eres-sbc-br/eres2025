@@ -62,7 +62,7 @@ header:
 
 	<div class="small-12 large-4  columns">
         <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" style="height: 250px"><br>
-        <b>Prof. Dr. André F. R. Cordeiro</b><br>
+        <b>Prof. Me. André F. R. Cordeiro</b><br>
 		<b>UEM</b><br>
 		<a href="" target="_blank">Currículo Lattes</a>    
 	</div>
