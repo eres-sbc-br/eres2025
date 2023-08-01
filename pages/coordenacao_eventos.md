@@ -1,6 +1,6 @@
 ﻿---
 layout: page-fullwidth
-title: "Coordenadores dos Fóruns"
+title: "Coordenação dos Fóruns"
 subheadline: ""
 permalink: "/coordenacao_eventos/"
 header:
