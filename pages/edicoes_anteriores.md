@@ -7,7 +7,7 @@ header:
    image_fullwidth: BannerERES2023.png
 ---
 <div class="medium-8 columns t30">      
-	<b>ERES 2022</b>
+	<b>Blumenau-SC 2022</b>
 	<a href="https://eres-sbc-br.github.io/eres2022/" target="_blank">
 		<img src="https://eres-sbc-br.github.io/eres2022/images/logo-eres-verde-horizontal%20-%202.png" alt="">
 	</a>
@@ -15,7 +15,7 @@ header:
 
 <br>
 <div class="medium-8 columns t30">      
-	<b>ERES 2021</b>
+	<b>Edição Integrada (UEM, UDESC, Unipampa) 2021</b>
 	<a href="https://eres-sbc-br.github.io/eres2021" target="_blank">
 		<img src="https://eres-sbc-br.github.io/eres2021/images//banner_eres2021.png" alt="">
 	</a>
