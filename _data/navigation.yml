@@ -13,6 +13,10 @@
 #  - title: "Anais"
 #    url: "/anais/"
 
+- title: "Workshop Est. Empíricos"
+  url: "/workshop/"
+  side: left
+
 - title: "Programação"
   url: "/programacao/"
   side: left
