@@ -15,7 +15,7 @@ header:
 
 <br>
 <div class="medium-8 columns t30">      
-	<b>Edição Integrada (UEM, UDESC, Unipampa) 2021</b>
+	<b>Online Streaming (UEM, UDESC, Unipampa) 2021</b>
 	<a href="https://eres-sbc-br.github.io/eres2021" target="_blank">
 		<img src="https://eres-sbc-br.github.io/eres2021/images//banner_eres2021.png" alt="">
 	</a>
@@ -24,7 +24,7 @@ header:
 <br>
 
 <div class="medium-8 columns t30">      
-	<b>Maringá-PR 2020</b>
+	<b>Online Streaming (UEM) 2020</b>
 	<a href="http://eres.sbc.org.br/2020" target="_blank">
 		<img src="{{ site.urlimg }}banner_eres2020.png" alt="">
 	</a>
