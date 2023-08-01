@@ -54,10 +54,10 @@ header:
 	</div>
 	
 	<div class="small-12 large-4  columns">
-        <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" style="height: 250px"><br>
+        <img src="https://eres-sbc-br.github.io/eres2023/images/lilian.jpeg" alt="" style="height: 250px"><br>
         <b>Profa. Dra. Lilian Scatalon</b><br>
 		<b>UEM</b><br>
-		<a href="" target="_blank">Currículo Lattes</a>    
+		<a href="http://lattes.cnpq.br/0476710385880829" target="_blank">Currículo Lattes</a>    
 	</div>
 
 	<div class="small-12 large-4  columns">
