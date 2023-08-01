@@ -13,7 +13,7 @@ header:
 			<img src="https://eres-sbc-br.github.io/eres2021/images/semfoto.jpg" alt=""><br>
 			<b>Prof. Dr. Gabriel Machado Lunardi</b><br>
 			<b>UFSM</b><br>
-			<a href="" target="_blank">Currículo Lattes</a>
+			<a href="http://lattes.cnpq.br/4632931567721071" target="_blank">Currículo Lattes</a>
   </div>
   <div class="small-12 large-4 columns">
          Fórum de Pós-Graduação<br>
@@ -27,6 +27,6 @@ header:
 			<img src="https://eres-sbc-br.github.io/eres2021/images/silveira.gif" alt=""><br>
 			<b>Prof. Dr. Maicon Bernardino</b><br>
 			<b>UNIPAMPA</b><br>
-			<a href="" target="_blank">Currículo Lattes</a>
+			<a href="http://lattes.cnpq.br/0523166822363498" target="_blank">Currículo Lattes</a>
   </div>  
 </div>

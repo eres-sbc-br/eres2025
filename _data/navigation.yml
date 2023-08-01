@@ -44,6 +44,8 @@
     url: "/coordenacao_eventos/"
   - title: "Comitê Científico"
     url: "/comite_cientifico/"
+  - title: "Publicidade"
+    url: "/publicidade/"
   - title: "Edições Anteriores"
     url: "/edicoes_anteriores/"
 #  - title: "Comitê Diretivo"
