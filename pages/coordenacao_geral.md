@@ -1,11 +1,13 @@
 ﻿---
 layout: page-fullwidth
-title: "Coordenação Geral"
+title: ""
 subheadline: ""
 permalink: "/coordenacao_geral/"
 header:
    image_fullwidth: BannerERES2023.png
 ---
+
+<h3><strong>Coordenação Geral</strong></h3>
 
 <div class="row">
     <div class="small-12 large-4  columns">
