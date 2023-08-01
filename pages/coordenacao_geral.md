@@ -32,7 +32,7 @@ header:
         <img src="https://eres-sbc-br.github.io/eres2023/images/aline.png" alt="" style="height: 250px"><br>
         <b>Profa. Dra. Aline M. M. M. Amaral</b><br>
 		<b>UEM</b><br>
-		<a href="" target="_blank">Currículo Lattes</a>    
+		<a href="https://lattes.cnpq.br/6738366464597912" target="_blank">Currículo Lattes</a>    
 	</div>
 
 	<div class="small-12 large-4  columns">
