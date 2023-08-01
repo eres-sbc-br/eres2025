@@ -34,7 +34,7 @@ header:
 	</div>
 
 	<div class="small-12 large-4  columns">
-        <img src="https://eres-sbc-br.github.io/eres2022/images/nelson.jpg" alt="" style="height: 250px"><br>
+        <img src="https://eres-sbc-br.github.io/eres2022/images/nelson.jpeg" alt="" style="height: 250px"><br>
         <b>Prof. Dr. Nelson Tenório Junior</b><br>
 		<b>UEM</b><br>
 		<a href="" target="_blank">Currículo Lattes</a>    
