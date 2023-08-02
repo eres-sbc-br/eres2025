@@ -14,7 +14,7 @@ header:
 <table>
 <thead>
   <tr>
-    <th colspan="2">Sessão Técnica 1 - Tema xxxxx<br>Chair: Prof. Dr. zzzzzz</th>
+    <th colspan="2"><strong>Sessão Técnica 1 - Tema xxxxx</strong><br><i>Chair: Prof. Dr. zzzzzz</i></th>
   </tr>
 </thead>
 <tbody>
