@@ -18,7 +18,7 @@ header:
 <div class="row t30" id="minicurso_1">	
 <h2>Minicurso 1</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2023/images/senfoto.jpg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
       <b>XXXxxxxxx</b><br>		
   <a href="" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: </h4>		
@@ -35,11 +35,78 @@ header:
 <div class="row t30" id="minicurso_2">	
 <h2>Minicurso 2</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2023/images/senfoto.jpg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
       <b>XXXxxxxxx</b><br>		
   <a href="" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: </h4>		
   <b>Data:</b> 06/Dez/2023 (Quarta-Feira) <br>
+  <b>Hora:</b> 13:30 - 15:00 e 15:30 - 17:00<br>
+  <br>
+  <p><b>Resumo:</b></p>
+  <br>
+  <p><b>Bio:</b></p>
+</div>	
+<p>&nbsp;</p>
+
+
+<div class="row t30" id="minicurso_3">	
+<h2>Minicurso 3</h2>
+<div class="medium-16 columns">
+      <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
+      <b>XXXxxxxxx</b><br>		
+  <a href="" target="_blank">Currículo Lattes</a><br>		
+  <h4>Título: </h4>		
+  <b>Data:</b> 07/Dez/2023 (Quinta-Feira) <br>
+  <b>Hora:</b> 13:30 - 15:00 e 15:30 - 17:00<br>
+  <br>
+  <p><b>Resumo:</b></p>
+  <br>
+  <p><b>Bio:</b></p>
+</div>	
+<p>&nbsp;</p>
+
+
+<div class="row t30" id="minicurso_4">	
+<h2>Minicurso 4</h2>
+<div class="medium-16 columns">
+      <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
+      <b>XXXxxxxxx</b><br>		
+  <a href="" target="_blank">Currículo Lattes</a><br>		
+  <h4>Título: </h4>		
+  <b>Data:</b> 07/Dez/2023 (Quinta-Feira) <br>
+  <b>Hora:</b> 13:30 - 15:00 e 15:30 - 17:00<br>
+  <br>
+  <p><b>Resumo:</b></p>
+  <br>
+  <p><b>Bio:</b></p>
+</div>	
+<p>&nbsp;</p>
+
+<div class="row t30" id="minicurso_5">	
+<h2>Minicurso 5</h2>
+<div class="medium-16 columns">
+      <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
+      <b>XXXxxxxxx</b><br>		
+  <a href="" target="_blank">Currículo Lattes</a><br>		
+  <h4>Título: </h4>		
+  <b>Data:</b> 08/Dez/2023 (Sexta-Feira) <br>
+  <b>Hora:</b> 13:30 - 15:00 e 15:30 - 17:00<br>
+  <br>
+  <p><b>Resumo:</b></p>
+  <br>
+  <p><b>Bio:</b></p>
+</div>	
+<p>&nbsp;</p>
+
+
+<div class="row t30" id="minicurso_6">	
+<h2>Minicurso 6</h2>
+<div class="medium-16 columns">
+      <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
+      <b>XXXxxxxxx</b><br>		
+  <a href="" target="_blank">Currículo Lattes</a><br>		
+  <h4>Título: </h4>		
+  <b>Data:</b> 08/Dez/2023 (Sexta-Feira) <br>
   <b>Hora:</b> 13:30 - 15:00 e 15:30 - 17:00<br>
   <br>
   <p><b>Resumo:</b></p>
