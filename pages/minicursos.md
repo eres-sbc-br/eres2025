@@ -12,30 +12,48 @@ header:
 
 <h5>Em breve...</h5>
 
-<!--
 
 
-<div class="row t30" id="minicurso_1">
-	
+
+<div class="row t30" id="minicurso_1">	
 <h2>Minicurso 1</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2022/images/minicurso-victor.png" alt="" align="center"><br>
-      <b>Victor Bona</b><br>		
-  <a href="http://lattes.cnpq.br/7891605672847811" target="_blank">Currículo Lattes</a><br>		
-  <h4>Título: Sistemas Distribuídos</h4>		
-  <b>Data:</b> 18/Out/2022 (Terça-Feira) <br>
-  <b>Hora:</b> 14:00 - 17:30 <br>
+      <img src="https://eres-sbc-br.github.io/eres2023/images/senfoto.jpg" alt="" align="center"><br>
+      <b>XXXxxxxxx</b><br>		
+  <a href="" target="_blank">Currículo Lattes</a><br>		
+  <h4>Título: </h4>		
+  <b>Data:</b> 06/Dez/2023 (Quarta-Feira) <br>
+  <b>Hora:</b> 13:30 - 15:00 e 15:30 - 17:00<br>
   <br>
-  <p><b>Resumo:</b>Sistemas distribuídos vêm ganhando cada vez mais espaço na Engenharia de Software dês de os anos 80, chegamos cada vez mais perto do limite que uma única máquina pode escalar sua performance, nos obrigando a juntarmos mais máquinas visando aumentar o poder de processamento, e em um mundo cada vez mais competitivo, com mais dados e cada vez mais rápido. Sistemas distribuídos vieram para ficar, continuarão sua tendencia e irão dominar os mercados de trabalho em Eng. de Software, neste workshop, você irá aprender sobre o que são SDs, como funcionam, como melhor trabalhar com essa tecnologia e como implementar na prática alguns exemplos comumente utilizados nas grandes empresas.</p>
+  <p><b>Resumo:</b></p>
   <br>
-  <p><b>Bio:</b>Victor Bona é Engenheiro de Software na Amazon, atua arquitetando e desenvolvendo soluções de software para processamento de alto volume de dados, arquitetura de sistemas e infraestrutura em cloud e desenvolvimento de sistemas críticos para suportar o crescimento do business da Amazon no Brazil. Cursa bacharelado em Ciências da computação na FURB, bolsista no Laboratório de desenvolvimento e transferência de tecnologia da FURB. Arquiteto certificado de soluções Cloud AWS.</p>
+  <p><b>Bio:</b></p>
 </div>	
 <p>&nbsp;</p>
+
+
+<div class="row t30" id="minicurso_2">	
+<h2>Minicurso 2</h2>
+<div class="medium-16 columns">
+      <img src="https://eres-sbc-br.github.io/eres2023/images/senfoto.jpg" alt="" align="center"><br>
+      <b>XXXxxxxxx</b><br>		
+  <a href="" target="_blank">Currículo Lattes</a><br>		
+  <h4>Título: </h4>		
+  <b>Data:</b> 06/Dez/2023 (Quarta-Feira) <br>
+  <b>Hora:</b> 13:30 - 15:00 e 15:30 - 17:00<br>
+  <br>
+  <p><b>Resumo:</b></p>
+  <br>
+  <p><b>Bio:</b></p>
+</div>	
+<p>&nbsp;</p>
+
+<!--
 
 	<div class="row t30" id="minicurso_2">
 <h2>Minicurso 2</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2022/images/minicurso-cesar.png" alt="" align="center" style="height: 250px"><br>
+      <img src="https://eres-sbc-br.github.io/eres2023/images/minicurso-cesar.png" alt="" align="center" style="height: 250px"><br>
       <b>Cesar Betoni</b><br>		
   <a href="https://lattes.cnpq.br/4299035159922781" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Princípios de design de experiência do usuário (UX Design)</h4>		
@@ -51,7 +69,7 @@ header:
 		<div class="row t30" id="minicurso_3">
 <h2>Minicurso 3</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2022/images/minicurso-veber.png" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2023/images/minicurso-veber.png" alt="" align="center"><br>
       <b>Filipe Guilherme Veber</b><br>				
   <h4>Título: Flutter: O que é, onde vive, o que come? + Show me the Code: Uma visão prática do Flutter e do Dart</h4>		
   <b>Data:</b> 19/Out/2022 (Quarta-Feira) <br>
@@ -66,7 +84,7 @@ header:
 			<div class="row t30" id="minicurso_4">
 <h2>Minicurso 4</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2022/images/foto-raphael.jpg" alt="" align="center" style="height: 250px"><br>
+      <img src="https://eres-sbc-br.github.io/eres2023/images/foto-raphael.jpg" alt="" align="center" style="height: 250px"><br>
       <b>Raphael Dias</b><br>		
 	
   <h4>Título: Do código à produção: Desenvolvimento moderno orientado a uma plataforma ALM</h4>		
@@ -82,7 +100,7 @@ header:
 				<div class="row t30" id="minicurso_5">
 <h2>Minicurso 5</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2022/images/foto-luiz.jpeg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2023/images/foto-luiz.jpeg" alt="" align="center"><br>
       <b>Luiz Antonio Santana da Silva </b><br>		
   <a href="http://lattes.cnpq.br/9951007059425516" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Desenvolvendo soluções usando low code com o X Platform</h4>		
