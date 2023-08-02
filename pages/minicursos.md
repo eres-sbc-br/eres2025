@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Minicursos da ERES 2023"
+title: "Minicursos"
 subheadline: ""
 permalink: "/minicursos/"
 header:
