@@ -28,7 +28,7 @@ header:
 </div>	
 <p>&nbsp;</p>
 
-<div class="row t30" id="palestra_a">
+<div class="row t30" id="palestra_b">
 <h2>Palestra B</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2022/images/semfoto.jpg" alt="" align="center"><br>
@@ -46,7 +46,7 @@ header:
 <p>&nbsp;</p>
 
 
-<div class="row t30" id="palestra_a">
+<div class="row t30" id="palestra_c">
 <h2>Palestra C</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2022/images/semfoto.jpg" alt="" align="center"><br>
@@ -64,7 +64,7 @@ header:
 <p>&nbsp;</p>
 
 
-<div class="row t30" id="palestra_a">
+<div class="row t30" id="palestra_d">
 <h2>Palestra D</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2022/images/semfoto.jpg" alt="" align="center"><br>
@@ -82,7 +82,7 @@ header:
 <p>&nbsp;</p>
 
 
-<div class="row t30" id="palestra_a">
+<div class="row t30" id="palestra_e">
 <h2>Palestra E</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2022/images/semfoto.jpg" alt="" align="center"><br>
@@ -99,7 +99,7 @@ header:
 </div>	
 <p>&nbsp;</p>
 
-<div class="row t30" id="palestra_a">
+<div class="row t30" id="palestra_f">
 <h2>Palestra F</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2022/images/semfoto.jpg" alt="" align="center"><br>
