@@ -5,22 +5,10 @@
 - title: "Chamada de Trabalhos"
   url: "/chamada/"
   side: left
-#  dropdown:
-#  - title: "Chamada de Trabalhos"
-#    url: "/chamada/"
-#  - title: "Artigos Aceitos"
-#    url: "/aceitos/"
-#  - title: "Anais"
-#    url: "/anais/"
 
 - title: "Workshop Estudos Empíricos"
   url: "/workshop/"
   side: left
-
-- title: "Palestras e Minicursos"
-  url: ""
-  side: left
-  
 
 - title: "Programação"
   url: "/programacao/"
