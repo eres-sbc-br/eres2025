@@ -17,10 +17,10 @@ header:
   </div>
   <div class="small-12 large-4 columns">
         Fórum de Pós-Graduação<br>
-			<img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt=""><br>
+			<img src="https://eres-sbc-br.github.io/eres2023/images/bacelo.gif" alt=""><br>
 			<b>Profa. Dra. Ana Paula Terra Bacelo</b><br>
 		    <b>PUCRS</b><br>
-			<a href="" target="_blank">Currículo Lattes</a>
+			<a href="http://lattes.cnpq.br/5975016180594017" target="_blank">Currículo Lattes</a>
   </div>
   <div class="small-12 large-4 columns">
         Fórum de Extensão<br>
