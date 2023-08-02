@@ -30,15 +30,15 @@ header:
   <tr>
     <td>16:00</td>
     <td>
-		Título: zzzzzzzzzzzzzzzzzzz<br>
-		Autores: aaaa (aaa), bbbb (bb)
+		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
+		<i>Autores: aaaa (aaa), bbbb (bb)</i>
 	</td>
   </tr>
   <tr>
     <td>16:30</td>
     <td>
-		Título: zzzzzzzzzzzzzzzzzzz<br>
-		Autores: aaaa (aaa), bbbb (bb)
+		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
+		<i>Autores: aaaa (aaa), bbbb (bb)</i>
 	</td>
   </tr>
   <tr>
@@ -47,3 +47,37 @@ header:
 </tbody>
 </table>
 
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2"><strong>Sessão Técnica 2 - Tema xxxxx</strong><br><i>Chair: Prof. Dr. zzzzzz</i></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>17:00</td>
+    <td>
+		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
+		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+	</td>
+  </tr>
+  <tr>
+    <td>17:30</td>
+    <td>
+		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
+		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+	</td>
+  </tr>
+  <tr>
+    <td>18:00</td>
+    <td>
+		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
+		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+	</td>
+  </tr>
+  <tr>
+    <td colspan="2">Discussão Final</td>
+  </tr>
+</tbody>
+</table>
