@@ -10,7 +10,7 @@
   url: "/workshop/"
   side: left
 
-- title: "Programação"
+- title: "Programação Geral"
   url: "/programacao/"
   side: left
   dropdown:
