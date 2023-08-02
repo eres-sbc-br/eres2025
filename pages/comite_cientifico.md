@@ -6,10 +6,6 @@ header:
    image_fullwidth: BannerERES2023.png
 ---
 
-Em breve...
-
-
-
 <h1>Comitê Científico</h1>
 
 <h3>Rio Grande do Sul:</h3>
