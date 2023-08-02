@@ -21,8 +21,8 @@ header:
   <tr>
     <td>15:30</td>
     <td>
-		Título: zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas <br>
-		Autores: aaaa (aaa), bbbb (bb)
+		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
+		<i>Autores: aaaa (aaa), bbbb (bb)</i>
 	</td>
   </tr>
   <tr>
