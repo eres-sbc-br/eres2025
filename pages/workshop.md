@@ -33,7 +33,7 @@ Em breve...
         <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpeg" alt="" style="height: 250px"><br>
         <b>Profa. Dra. Ellen Francine Barbosa</b><br>
 		<b>ICMC/USP</b><br>
-		<a href="" target="_blank">Currículo Lattes</a>    
+		<a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a>    
 	</div>
 </div>
 
