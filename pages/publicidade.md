@@ -15,8 +15,8 @@ header:
   </div> 
   
  <div class="small-12 large-4 columns">        
-			<img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt=""><br>
+			<img src="https://eres-sbc-br.github.io/eres2023/images/ricardo.gif" alt=""><br>
 			<b>Prof. Dr. Ricardo T. Geraldi (UTFPR)</b><br>
-			<a href="" target="_blank">Currículo Lattes</a>
+			<a href="http://lattes.cnpq.br/0117606153799342" target="_blank">Currículo Lattes</a>
   </div> 
 </div>
