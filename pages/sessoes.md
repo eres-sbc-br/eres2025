@@ -20,15 +20,24 @@ header:
 <tbody>
   <tr>
     <td>15:30</td>
-    <td>Título: zzzzzzzzzzzzzzzzzzz<br>Autores: aaaa (aaa), bbbb (bb)</td>
+    <td>
+		Título: zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas <br>
+		Autores: aaaa (aaa), bbbb (bb)
+	</td>
   </tr>
   <tr>
     <td>16:00</td>
-    <td>Título: zzzzzzzzzzzzzzzzzzz<br>Autores: aaaa (aaa), bbbb (bb)</td>
+    <td>
+		Título: zzzzzzzzzzzzzzzzzzz<br>
+		Autores: aaaa (aaa), bbbb (bb)
+	</td>
   </tr>
   <tr>
     <td>16:30</td>
-    <td>Título: zzzzzzzzzzzzzzzzzzz<br>Autores: aaaa (aaa), bbbb (bb)</td>
+    <td>
+		Título: zzzzzzzzzzzzzzzzzzz<br>
+		Autores: aaaa (aaa), bbbb (bb)
+	</td>
   </tr>
   <tr>
     <td colspan="2">Discussão Final</td>
