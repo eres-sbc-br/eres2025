@@ -11,6 +11,8 @@ header:
 
 <h5>Em breve...</h5>
 
+
+<!--
 <h3>Quarta-Feira (06/Dez/2023)</h3>
 
 <table>
@@ -226,3 +228,5 @@ header:
   </tr>
 </tbody>
 </table>
+
+-->
