@@ -8,12 +8,12 @@ header:
 
 Em breve...
 
-<!--
+
 
 <h1>Comitê Científico</h1>
 
 <h3>Rio Grande do Sul:</h3>
-
+<!--
 <ul>
 <li> Alice Finger - Universidade Federal do Pampa (UNIPAMPA) </li>
 <li> Aline Vieira de Mello - Universidade Federal do Pampa (UNIPAMPA) </li>
@@ -41,9 +41,10 @@ Em breve...
 <li> Vanessa Gindri Vieira - Colégio Politécnico da UFSM </li>
 <li> Williamson Silva - Universidade Federal do Pampa (UNIPAMPA) </li>
 </ul>
+-->
 
 <h3>Santa Catarina:</h3>
-
+<!--
 <ul>
 <li> Adilson Vahldick - Universidade do Estado de Santa Catarina (UDESC)</li>
 <li> Carlos Alberto Barth - Universidade do Estado de Santa Catarina (UDESC) </li>
@@ -60,10 +61,11 @@ Em breve...
 <li> Paulo Roberto Farah - Universidade Federal de Santa Catarina (UFSC) </li>
 <li> Ricardo Vilela - Universidade Federal de Santa Catarina (UFSC) </li>
 </ul>
-
+-->
 
 <h3>Paraná:</h3>
 
+<!--
 <ul>
 <li> Alinne Souza - Universidade Tecnológica Federal do Paraná (UTFPR)</li>
 <li> Adilson Luiz Bonifácio - Universidade Estadual de Londrina (UEL) </li>
@@ -98,9 +100,11 @@ Em breve...
 <li> Willian Marques Freire - Universidade Estadual de Maringá (UEM) </li>
 <li> Willian Watanabe - Universidade Tecnológica Federal do Paraná (UTFPR) </li>
 </ul>
+-->
 
 
 <h3>Demais Estados/Países:</h3>
+<!--
 
 <ul>
 <li> Adenilso Simão - Universidade de São Paulo (ICMC/USP)</li>
@@ -112,7 +116,7 @@ Em breve...
 <li> Fabiano Ferrari - Universidade Federal de São Carlos (UFSCar) </li>
 <li> Isabel Villanes - Universidade Fereal do Amazonas (UFAM)</li>
 <li> Leo Natan Paschoal - University of São Paulo (USP)</li>
-<li> Marcelo MOrandini - Universidade de São Paulo (USP)</li>
+<li> Marcelo Morandini - Universidade de São Paulo (USP)</li>
 <li> Rayfran Lima - Sidia Institute of Science and Technology </li>
 <li> Rodrigo Pereira dos Santos - Universidade Federal do Estado do Rio de Janeiro (UNIRIO) </li>
 <li> Simone do Rocio Senger de Souza - Universidade de São Paulo (ICMC/USP) </li>
@@ -120,7 +124,7 @@ Em breve...
 <li> Walter Nakamura - Federal University of Amazonas (UFAM)</li>
 </ul>
 
+-->
 
 <p><strong>OBS</strong>: Sujeito à alterações.</p>
 
--->
