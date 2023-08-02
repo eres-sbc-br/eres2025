@@ -17,10 +17,6 @@
   url: "/workshop/"
   side: left
 
-- title: "Programação"
-  url: "/programacao/"
-  side: left
-
 - title: "Palestras e Minicursos"
   url: ""
   side: left
@@ -29,6 +25,10 @@
     url: "/palestras/"
   - title: "Minicursos"
     url: "/minicursos/"
+
+- title: "Programação"
+  url: "/programacao/"
+  side: left
 
 - title: "Inscrições"
   url: "/inscricoes/"
