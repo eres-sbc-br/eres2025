@@ -9,7 +9,7 @@ header:
 <hr>
 
 
-Em breve...
+
 
 
 <h3><strong>Coordenação do Workshop</strong></h3>
