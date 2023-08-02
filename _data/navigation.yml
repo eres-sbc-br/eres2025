@@ -20,15 +20,18 @@
 - title: "Palestras e Minicursos"
   url: ""
   side: left
+  
+
+- title: "Programação"
+  url: "/programacao/"
+  side: left
   dropdown:
   - title: "Palestras"
     url: "/palestras/"
   - title: "Minicursos"
     url: "/minicursos/"
-
-- title: "Programação"
-  url: "/programacao/"
-  side: left
+  - title: "Sessões Técnicas"
+    url: "/sessoes/"
 
 - title: "Inscrições"
   url: "/inscricoes/"
