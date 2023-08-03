@@ -7,7 +7,6 @@ header:
    image_fullwidth: BannerERES2023.png
 ---
 
-
 <hr>
 
 <div class="small-12 large-4  columns" >	
