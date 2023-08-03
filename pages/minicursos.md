@@ -14,7 +14,7 @@ header:
 <div class="medium-16 columns" id="minicurso_1">
 	<h2>Minicurso 1</h2>
     <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
-    <b>Prof. Dr. Guilherme Guerino</b><br>		
+    <b>Prof. Dr. Guilherme Guerino (UNESPAR)</b><br>		
 	<a href="" target="_blank">Currículo Lattes</a><br>		
 	<h4>Título: User eXperience...</h4>		
 	<b>Data:</b> 06/Dez/2023 (Quarta-Feira) <br>
@@ -29,7 +29,7 @@ header:
 <div class="medium-16 columns" id="minicurso_2">
 	<h2>Minicurso 2</h2>
       <img src="https://eres-sbc-br.github.io/eres2023/images/lilian.jpeg" alt="" align="center"><br>
-      <b>Prof. Dra. Lilian Scatalon</b><br>		
+      <b>Prof. Dra. Lilian Scatalon (UEM)</b><br>		
   <a href="http://lattes.cnpq.br/0476710385880829" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Teste de Software...</h4>		
   <b>Data:</b> 06/Dez/2023 (Quarta-Feira) <br>
