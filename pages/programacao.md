@@ -137,7 +137,7 @@ header:
     <td>21:00 - 22:30</td>
     <td colspan="2"><strong>Palestra B</strong><br>Software Livre<br><i>Igor Wiese - UTFPR-CM</i></td>
     <td></td>
-    <td colspan="2"><strong>Palestra D</strong><br><!--Teste de Software: Pesquisa e Ação<br><i>Fabiano Ferrari - UFSCar--></i></td>
+    <td colspan="2"><strong>Palestra D</strong><br><!--Teste de Software: Pesquisa e Ação<br><i>Fabiano Ferrari - UFSCar</i>--></td>
     <td></td>
     <td colspan="2"><strong>Palestra E</strong><br><!--a definir--></td>
   </tr>
