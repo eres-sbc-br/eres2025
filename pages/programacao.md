@@ -10,7 +10,7 @@ header:
 
 <h5>Em breve...</h5>
 
-<!--
+
 <table>
 <thead>
   <tr>
@@ -25,11 +25,11 @@ header:
 <tbody>
   <tr>
     <td>08:30 - 10:00</td>
-    <td colspan="2">Workshop de Estudos Empíricos<br>Ellen Barbosa (ICMC/USP), Lilian Scatalon (UEM), Edson OliveiraJr (UEM)</td>
+    <td colspan="2"><strong>Workshop de Estudos Empíricos</strong><br>Ellen Barbosa (ICMC/USP), Lilian Scatalon (UEM), Edson OliveiraJr (UEM)</td>
     <td></td>
-    <td colspan="2">Workshop de Estudos Empíricos<br>Ellen Barbosa (ICMC/USP), Lilian Scatalon (UEM), Edson OliveiraJr (UEM)</td>
+    <td colspan="2"><strong>Workshop de Estudos Empíricos</strong><br>Ellen Barbosa (ICMC/USP), Lilian Scatalon (UEM), Edson OliveiraJr (UEM)</td>
     <td></td>
-    <td colspan="2">Conectadas à ES</td>
+    <td colspan="2"><!--Conectadas à Eng. de Software--></td>
   </tr>
   <tr>
     <td>10:00 - 10:30</td>
@@ -41,11 +41,11 @@ header:
   </tr>
   <tr>
     <td>10:30 - 12:00</td>
-    <td colspan="2">Workshop de Estudos Empíricos<br>Ellen Barbosa (ICMC/USP), Lilian Scatalon (UEM), Edson OliveiraJr (UEM)</td>
+    <td colspan="2"><strong>Workshop de Estudos Empíricos</strong><br>Ellen Barbosa (ICMC/USP), Lilian Scatalon (UEM), Edson OliveiraJr (UEM)</td>
     <td></td>
-    <td colspan="2">Atividade com a Software by Maringá</td>
+    <td colspan="2"><!--Atividade com a Software by Maringá--></td>
     <td></td>
-    <td colspan="2">Conectadas à ES</td>
+    <td colspan="2"><!--Conectadas à Eng. de Software--></td>
   </tr>
   <tr>
     <td>12:00 - 13:30</td>
@@ -67,7 +67,7 @@ header:
   </tr>
   <tr>
     <td>13:30 - 15:00</td>
-    <td>Mini curso 1<br>UX<br>Guilherme Guerino - UEM</td>
+    <td>Mini curso 1<br>User eXpreience<br>Guilherme Guerino - UEM</td>
     <td>Mini curso 2<br>Teste de Software<br>Lilian Scatalon - UEM</td>
     <td></td>
     <td>Mini curso 3<br>DevOps<br>Nelson Tenorio Jr - UEM</td>
@@ -86,7 +86,7 @@ header:
   </tr>
   <tr>
     <td>15:30 - 17:00</td>
-    <td>Mini curso 1<br>UX<br>Guilherme Guerino - UEM</td>
+    <td>Mini curso 1<br>User eXpreience<br>Guilherme Guerino - UEM</td>
     <td>Mini curso 2<br>Teste de Software<br>Lilian Scatalon - UEM</td>
     <td></td>
     <td>Mini curso 3<br>DevOps<br>Nelson Tenorio Jr - UEM</td>
@@ -155,4 +155,3 @@ header:
 </tbody>
 </table>
 
--->
