@@ -39,7 +39,7 @@ header:
   </tr>
   <tr>
     <td>10:30 - 12:00</td>
-    <td colspan="2"><strong><strong><a href="https://eres-sbc-br.github.io/eres2023/workshop" target="_blank">Workshop de Estudos Empíricos</a></strong><br><i>Ellen Barbosa (ICMC/USP), Lilian Scatalon (UEM), Edson OliveiraJr (UEM)</i></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/workshop" target="_blank">Workshop de Estudos Empíricos</a></strong><br><i>Ellen Barbosa (ICMC/USP), Lilian Scatalon (UEM), Edson OliveiraJr (UEM)</i></td>
     <td></td>
     <td colspan="2"><!--Atividade com a Software by Maringá--></td>
     <td></td>
