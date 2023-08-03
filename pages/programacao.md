@@ -95,19 +95,19 @@ header:
   </tr>
   <tr>
     <td></td>
-    <td colspan="2">Sessão Técnica</td>
+    <td colspan="2"><strong>Sessão Técnica 1</strong></td>
     <td></td>
-    <td colspan="2">Sessão Técnica</td>
+    <td colspan="2"><strong>Sessão Técnica 3 </strong></td>
     <td></td>
-    <td colspan="2">Sessão Técnica</td>
+    <td colspan="2"><strong>Sessão Técnica 5</strong></td>
   </tr>
   <tr>
     <td>17:00 - 18:30</td>
-    <td colspan="2">Sessão Técnica</td>
+    <td colspan="2"><strong>Sessão Técnica 2</strong></td>
     <td></td>
-    <td colspan="2">Sessão Técnica</td>
+    <td colspan="2"><strong>Sessão Técnica 4</strong></td>
     <td></td>
-    <td colspan="2">Sessão Técnica</td>
+    <td colspan="2"><strong>Sessão Técnica 6</strong></td>
   </tr>
   <tr>
     <td>18:30 - 19:00</td>
