@@ -65,17 +65,8 @@ header:
   </tr>
   <tr>
     <td>13:30 - 15:00</td>
-    <td><strong>
-	
-	<a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_1">Outra Página Go</a>
-	
-	Minicurso 1
-	
-	
-	
-	
-	</strong><br>User eXperience<br><i>Guilherme Guerino - UEM</i></td>
-    <td><strong>Minicurso 2</strong><br>Teste de Software<br><i>Lilian Scatalon - UEM</i></td>
+    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_1">Minicurso 1</a></strong><br>User eXperience<br><i>Guilherme Guerino - UEM</i></td>
+    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_2">Minicurso 2</a></strong><br>Teste de Software<br><i>Lilian Scatalon - UEM</i></td>
     <td></td>
     <td><strong>Minicurso 3</strong><!--<br>DevOps<br>Nelson Tenorio Jr - UEM--></td>
     <td><strong>Minicurso 4</strong></td>
@@ -93,8 +84,8 @@ header:
   </tr>
   <tr>
     <td>15:30 - 17:00</td>
-    <td><strong>Minicurso 1</strong><br>User eXperience<br><i>Guilherme Guerino - UEM</i></td>
-    <td><strong>Minicurso 2</strong><br>Teste de Software<br><i>Lilian Scatalon - UEM</i></td>
+    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_1">Minicurso 1</a></strong><br>User eXperience<br><i>Guilherme Guerino - UEM</i></td>
+    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_1">Minicurso 2</a></strong><br>Teste de Software<br><i>Lilian Scatalon - UEM</i></td>
     <td></td>
     <td><strong>Minicurso 3</strong><!--<br>DevOps<br>Nelson Tenorio Jr - UEM--></td>
     <td><strong>Minicurso 4</strong></td>
