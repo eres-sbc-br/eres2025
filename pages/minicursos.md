@@ -15,7 +15,7 @@ header:
 
 
 
-<div class="row t30" id="minicurso_1">	
+<div class="small-12 large-4  columns" id="minicurso_1">	
 <h2>Minicurso 1</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
@@ -49,7 +49,7 @@ header:
 <p>&nbsp;</p>
 
 
-<div class="row t30" id="minicurso_3">	
+<div class="small-12 large-4  columns" id="minicurso_3">	
 <h2>Minicurso 3</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
@@ -66,7 +66,7 @@ header:
 <p>&nbsp;</p>
 
 
-<div class="row t30" id="minicurso_4">	
+<div class="small-12 large-4  columns" id="minicurso_4">	
 <h2>Minicurso 4</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
@@ -82,7 +82,7 @@ header:
 </div>	
 <p>&nbsp;</p>
 
-<div class="row t30" id="minicurso_5">	
+<div class="small-12 large-4  columns" id="minicurso_5">	
 <h2>Minicurso 5</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
@@ -99,7 +99,7 @@ header:
 <p>&nbsp;</p>
 
 
-<div class="row t30" id="minicurso_6">	
+<div class="small-12 large-4  columns" id="minicurso_6">	
 <h2>Minicurso 6</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
