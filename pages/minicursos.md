@@ -18,7 +18,7 @@ header:
 <div class="small-12 large-4  columns" id="minicurso_1">	
 <h2>Minicurso 1</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2023/images/lilian.jpeg" alt="" align="center"><br>
       <b>Prof. Dr. Guilherme Guerino</b><br>		
   <a href="" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: User eXperience...</h4>		
