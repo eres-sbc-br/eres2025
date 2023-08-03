@@ -24,6 +24,7 @@ header:
   <br>
   <p><b>Bio: ...</b></p>
 </div>	
+</div>
 
 
 <div class="small-12 large-4  columns" id="minicurso_1">	
