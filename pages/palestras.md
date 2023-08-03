@@ -31,7 +31,7 @@ header:
 <div class="row t30" id="palestra_b">
 <h2>Palestra B</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2023/images/wiese.jpeg" alt="" align="center"><br>
       <b>Prof. Dr. Igor Wiese (UTFPR-CM)</b><br>		
   <a href="http://lattes.cnpq.br/0447444423694007" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Open-source, como começar? motivações e desafios!</h4>		
