@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "Programação"
+title: "Programação Geral"
 permalink: "/programacao/"
 header:
    image_fullwidth: BannerERES2023.png
