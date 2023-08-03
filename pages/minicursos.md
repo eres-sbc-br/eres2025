@@ -10,9 +10,21 @@ header:
 
 <hr>
 
-<h5>Em breve...</h5>
-
-
+<div class="small-12 large-4  columns" id="minicurso_1">	
+<h2>Minicurso 1</h2>
+<div class="medium-16 columns">
+      <img src="https://eres-sbc-br.github.io/eres2023/images/lilian.jpeg" alt="" align="center"><br>
+      <b>Prof. Dr. Guilherme Guerino</b><br>		
+  <a href="" target="_blank">Currículo Lattes</a><br>		
+  <h4>Título: User eXperience...</h4>		
+  <b>Data:</b> 06/Dez/2023 (Quarta-Feira) <br>
+  <b>Hora:</b> 13:30 - 15:00 e 15:30 - 17:00<br>
+  <br>
+  <p><b>Resumo: ...</b></p>
+  <br>
+  <p><b>Bio: ...</b></p>
+</div>	
+<p>&nbsp;</p>
 
 
 <div class="small-12 large-4  columns" id="minicurso_1">	
