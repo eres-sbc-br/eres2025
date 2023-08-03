@@ -97,17 +97,17 @@ header:
     <td></td>
     <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_1" target="_blank">Sessão Técnica 1</a></strong></td>
     <td></td>
-    <td colspan="2"><strong>Sessão Técnica 3 </strong></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_3" target="_blank">Sessão Técnica 3</a></strong></td>
     <td></td>
-    <td colspan="2"><strong>Sessão Técnica 5</strong></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_5" target="_blank">Sessão Técnica 5</a></strong></td>
   </tr>
   <tr>
     <td>17:00 - 18:30</td>
-    <td colspan="2"><strong>Sessão Técnica 2</strong></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_2" target="_blank">Sessão Técnica 2</a></strong></td>
     <td></td>
-    <td colspan="2"><strong>Sessão Técnica 4</strong></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_4" target="_blank">Sessão Técnica 4</a></strong></td>
     <td></td>
-    <td colspan="2"><strong>Sessão Técnica 6</strong></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_6" target="_blank">Sessão Técnica 6</a></strong></td>
   </tr>
   <tr>
     <td>18:30 - 19:00</td>
