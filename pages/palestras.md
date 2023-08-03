@@ -32,16 +32,16 @@ header:
 <h2>Palestra B</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
-      <b>xxxxxxxxx</b><br>		
-  <a href="" target="_blank">Currículo Lattes</a><br>		
-  <h4>Título: </h4>		
+      <b>Prof. Dr. Igor Wiese (UTFPR-CM)</b><br>		
+  <a href="http://lattes.cnpq.br/0447444423694007" target="_blank">Currículo Lattes</a><br>		
+  <h4>Título: Software Livre</h4>		
   <b>Data:</b> 06/Dez/2023 (Quarta-Feira) <br>
   <b>Hora:</b> 21:00 - 22:30 <br>
   <br>
   <p><b>Resumo:
 	</b></p>
   <br>
-  <p><b>Bio:</b></p>
+  <p><b>Bio: </b></p>
 </div>	
 <p>&nbsp;</p>
 

@@ -44,10 +44,10 @@ header:
 
 <div class="medium-16 columns" id="minicurso_3">
 <h2>Minicurso 3</h2>
-      <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
-      <b>XXXxxxxxx</b><br>		
+      <img src="https://eres-sbc-br.github.io/eres2023/images/nelson.jpeg" alt="" align="center"><br>
+      <b>Prof. Dr. Nelson Tenório Jr. (UEM)</b><br>		
   <a href="" target="_blank">Currículo Lattes</a><br>		
-  <h4>Título: </h4>		
+  <h4>Título: DevOps</h4>		
   <b>Data:</b> 07/Dez/2023 (Quinta-Feira) <br>
   <b>Hora:</b> 13:30 - 15:00 e 15:30 - 17:00<br>
   <br>
