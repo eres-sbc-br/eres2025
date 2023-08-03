@@ -95,7 +95,7 @@ header:
   </tr>
   <tr>
     <td></td>
-    <td colspan="2"><strong>Sessão Técnica 1</strong></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_1" target="_blank">Sessão Técnica 1</a></strong></td>
     <td></td>
     <td colspan="2"><strong>Sessão Técnica 3 </strong></td>
     <td></td>
