@@ -13,16 +13,16 @@ header:
 
 <div class="medium-16 columns" id="minicurso_1">
 	<h2>Minicurso 1</h2>
-    <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
+    <img src="https://eres-sbc-br.github.io/eres2023/images/guerino.jpeg" alt="" align="center"><br>
     <b>Prof. Dr. Guilherme Guerino (UNESPAR)</b><br>		
-	<a href="" target="_blank">Currículo Lattes</a><br>		
-	<h4>Título: User eXperience...</h4>		
+	<a href="http://lattes.cnpq.br/1509833195572488" target="_blank">Currículo Lattes</a><br>		
+	<h4>Título: Design Centrado no Usuário: Entendendo e Explorando o Design Thinking</h4>		
 	<b>Data:</b> 06/Dez/2023 (Quarta-Feira) <br>
 	<b>Hora:</b> 13:30 - 15:00 e 15:30 - 17:00<br>
 	<br>
-	<p><b>Resumo: ...</b></p>
+	<p><b>Resumo: </b>O minicurso é uma jornada exploradora pelo universo do Design Thinking, uma abordagem para a solução de problemas complexos e a geração de ideias criativas focadas no usuário. Neste minicurso, os participantes serão conduzidos pelas etapas fundamentais do Design Thinking, explorando técnicas de empatia, ideação e prototipagem. Ao longo de 3 horas de aprendizado prático e interativo, os alunos desenvolverão habilidades para identificar desafios, compreender as necessidades do usuário e criar soluções.</p>
 	<br>
-	<p><b>Bio: ...</b></p>
+	<p><b>Bio: Guilherme Corredato Guerino é Doutor em Ciência da Computação pela UEM, professor da Universidade Estadual do Paraná e UX Researcher no Núcleo de Excelência em Tecnologias Sociais. Sua área de interesse é a Interação Humano-Computador (IHC), conduzindo pesquisas acadêmicas sobre o tópico há mais de 6 anos. Também possui interesse na aplicação prática de IHC na indústria de software, mais precisamente nos trabalhos envolvendo User eXperience (UX).</b></p>
 </div>	
 
 
