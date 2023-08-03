@@ -25,9 +25,9 @@ header:
 <tbody>
   <tr>
     <td>08:30 - 10:00</td>
-    <td colspan="2"><strong>Workshop de Estudos Empíricos</strong><br>Ellen Barbosa (ICMC/USP), Lilian Scatalon (UEM), Edson OliveiraJr (UEM)</td>
+    <td colspan="2"><strong>Workshop de Estudos Empíricos</strong><br><i>Ellen Barbosa (ICMC/USP), Lilian Scatalon (UEM), Edson OliveiraJr (UEM)</i></td>
     <td></td>
-    <td colspan="2"><strong>Workshop de Estudos Empíricos</strong><br>Ellen Barbosa (ICMC/USP), Lilian Scatalon (UEM), Edson OliveiraJr (UEM)</td>
+    <td colspan="2"><strong>Workshop de Estudos Empíricos</strong><br><i>Ellen Barbosa (ICMC/USP), Lilian Scatalon (UEM), Edson OliveiraJr (UEM)</i></td>
     <td></td>
     <td colspan="2"><!--Conectadas à Eng. de Software--></td>
   </tr>
@@ -41,7 +41,7 @@ header:
   </tr>
   <tr>
     <td>10:30 - 12:00</td>
-    <td colspan="2"><strong>Workshop de Estudos Empíricos</strong><br>Ellen Barbosa (ICMC/USP), Lilian Scatalon (UEM), Edson OliveiraJr (UEM)</td>
+    <td colspan="2"><strong>Workshop de Estudos Empíricos</strong><br><i>Ellen Barbosa (ICMC/USP), Lilian Scatalon (UEM), Edson OliveiraJr (UEM)</i></td>
     <td></td>
     <td colspan="2"><!--Atividade com a Software by Maringá--></td>
     <td></td>
