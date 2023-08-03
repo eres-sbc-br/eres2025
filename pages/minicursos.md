@@ -32,7 +32,7 @@ header:
 <p>&nbsp;</p>
 
 
-<div class="row t30" id="minicurso_2">	
+<div class="small-12 large-4  columns" id="minicurso_2">	
 <h2>Minicurso 2</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2023/images/lilian.jpeg" alt="" align="center"><br>
