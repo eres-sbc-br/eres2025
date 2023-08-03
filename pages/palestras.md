@@ -9,8 +9,6 @@ header:
 
 <hr>
 
-<h5>Em breve...</h5>
-
 <div class="row t30" id="palestra_a">
 <h2>Palestra A</h2>
 <div class="medium-16 columns">

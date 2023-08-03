@@ -25,7 +25,7 @@ header:
 	<p><b>Bio:</b> Guilherme Corredato Guerino é Doutor em Ciência da Computação pela UEM, professor da Universidade Estadual do Paraná e UX Researcher no Núcleo de Excelência em Tecnologias Sociais. Sua área de interesse é a Interação Humano-Computador (IHC), conduzindo pesquisas acadêmicas sobre o tópico há mais de 6 anos. Também possui interesse na aplicação prática de IHC na indústria de software, mais precisamente nos trabalhos envolvendo User eXperience (UX).</p>
 </div>	
 
-
+<div class="row t30" >
 <div class="medium-16 columns" id="minicurso_2">
 	<h2>Minicurso 2</h2>
       <img src="https://eres-sbc-br.github.io/eres2023/images/lilian.jpeg" alt="" align="center"><br>
@@ -41,7 +41,7 @@ header:
 </div>	
 
 
-
+<div class="row t30" >
 <div class="medium-16 columns" id="minicurso_3">
 <h2>Minicurso 3</h2>
       <img src="https://eres-sbc-br.github.io/eres2023/images/nelson.jpeg" alt="" align="center"><br>
@@ -58,7 +58,7 @@ header:
 <p>&nbsp;</p>
 
 
-
+<div class="row t30" >
 <div class="medium-16 columns" id="minicurso_4">
 	<h2>Minicurso 4</h2>
       <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
@@ -75,7 +75,7 @@ header:
 <p>&nbsp;</p>
 
 
-
+<div class="row t30" >
 <div class="medium-16 columns" id="minicurso_5">
 <h2>Minicurso 5</h2>
       <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
@@ -92,7 +92,7 @@ header:
 <p>&nbsp;</p>
 
 
-
+<div class="row t30" >
 <div class="medium-16 columns" id="minicurso_6">
 <h2>Minicurso 6</h2>
       <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
@@ -108,7 +108,7 @@ header:
 </div>	
 <p>&nbsp;</p>
 
-</div>
+
 
 <!--
 
