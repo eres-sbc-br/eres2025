@@ -119,11 +119,11 @@ header:
   </tr>
   <tr>
     <td>19:00 - 20:30</td>
-    <td colspan="2"><strong>Palestra A</strong><br>Educação em ES<br><i>Ellen Barbosa - ICMC/USP</i></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_a" target="_blank">Palestra A</a></strong><br>Educação em ES<br><i>Ellen Barbosa - ICMC/USP</i></td>
     <td></td>
-    <td colspan="2"><strong>Palestra C</strong><br><!--Engenharia de Conhecimento e Model-Driven Engineering na Indústria<br><i>André Menolli - UENP</i>--></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_c" target="_blank">Palestra C</a></strong><br><!--Engenharia de Conhecimento e Model-Driven Engineering na Indústria<br><i>André Menolli - UENP</i>--></td>
     <td></td>
-    <td colspan="2"><strong>Palestra E</strong><br><!--Engenharia de Software Moderna<br><i>Marco Túlio Valente - UFMG</i>--></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_e" target="_blank">Palestra E</a></strong><br><!--Engenharia de Software Moderna<br><i>Marco Túlio Valente - UFMG</i>--></td>
   </tr>
   <tr>
     <td>20:30 - 21:00</td>
@@ -135,11 +135,11 @@ header:
   </tr>
   <tr>
     <td>21:00 - 22:30</td>
-    <td colspan="2"><strong>Palestra B</strong><br>Software Livre<br><i>Igor Wiese - UTFPR-CM</i></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_b" target="_blank">Palestra B</a></strong><br>Software Livre<br><i>Igor Wiese - UTFPR-CM</i></td>
     <td></td>
-    <td colspan="2"><strong>Palestra D</strong><br><!--Teste de Software: Pesquisa e Ação<br><i>Fabiano Ferrari - UFSCar</i>--></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_d" target="_blank">Palestra D</a></strong><br><!--Teste de Software: Pesquisa e Ação<br><i>Fabiano Ferrari - UFSCar</i>--></td>
     <td></td>
-    <td colspan="2"><strong>Palestra E</strong><br><!--a definir--></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_f" target="_blank">Palestra F</a></strong><br><!--a definir--></td>
   </tr>
   <tr>
     <td>22:30 ....</td>
