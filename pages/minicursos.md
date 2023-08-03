@@ -24,10 +24,8 @@ header:
   <br>
   <p><b>Bio: ...</b></p>
 </div>	
-</div>
 
 
-<div class="small-12 large-4  columns" id="minicurso_1">	
 <h2>Minicurso 1</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2023/images/lilian.jpeg" alt="" align="center"><br>
@@ -126,6 +124,8 @@ header:
   <p><b>Bio:</b></p>
 </div>	
 <p>&nbsp;</p>
+
+</div>
 
 <!--
 
