@@ -9,7 +9,7 @@ header:
 
 <hr>
 
-<div class="small-12 large-4  columns" >	
+<div class="row t30" >
 
 <div class="medium-16 columns" id="minicurso_1">
 	<h2>Minicurso 1</h2>
