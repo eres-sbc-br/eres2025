@@ -8,8 +8,6 @@ header:
 ---
 <hr>
 
-<h5>Em breve...</h5>
-
 
 <table>
 <thead>
