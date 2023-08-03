@@ -67,14 +67,14 @@ header:
   </tr>
   <tr>
     <td>13:30 - 15:00</td>
-    <td>Mini curso 1<br>User eXpreience<br>Guilherme Guerino - UEM</td>
-    <td>Mini curso 2<br>Teste de Software<br>Lilian Scatalon - UEM</td>
+    <td><strong>Minicurso 1</strong><br>User eXperience<br>Guilherme Guerino - UEM</td>
+    <td><strong>Minicurso 2</strong><br>Teste de Software<br>Lilian Scatalon - UEM</td>
     <td></td>
-    <td>Mini curso 3<br>DevOps<br>Nelson Tenorio Jr - UEM</td>
-    <td>Mini curso 4</td>
+    <td><strong>Minicurso 3</strong><!--<br>DevOps<br>Nelson Tenorio Jr - UEM--></td>
+    <td><strong>Minicurso 4</strong></td>
     <td></td>
-    <td>Mini curso 5</td>
-    <td>Mini curso 6</td>
+    <td><strong>Minicurso 5</strong></td>
+    <td><strong>Minicurso 6</strong></td>
   </tr>
   <tr>
     <td>15:00 - 15:30</td>
@@ -86,14 +86,14 @@ header:
   </tr>
   <tr>
     <td>15:30 - 17:00</td>
-    <td>Mini curso 1<br>User eXpreience<br>Guilherme Guerino - UEM</td>
-    <td>Mini curso 2<br>Teste de Software<br>Lilian Scatalon - UEM</td>
+    <td><strong>Minicurso 1</strong><br>User eXperience<br>Guilherme Guerino - UEM</td>
+    <td><strong>Minicurso 2</strong><br>Teste de Software<br>Lilian Scatalon - UEM</td>
     <td></td>
-    <td>Mini curso 3<br>DevOps<br>Nelson Tenorio Jr - UEM</td>
-    <td>Mini curso 4</td>
+    <td><strong>Minicurso 3</strong><!--<br>DevOps<br>Nelson Tenorio Jr - UEM--></td>
+    <td><strong>Minicurso 4</strong></td>
     <td></td>
-    <td>Mini curso 5</td>
-    <td>Mini curso 6</td>
+    <td><strong>Minicurso 5</strong></td>
+    <td><strong>Minicurso 6</strong></td>
   </tr>
   <tr>
     <td></td>
@@ -121,11 +121,11 @@ header:
   </tr>
   <tr>
     <td>19:00 - 20:30</td>
-    <td colspan="2">Palestra A<br>Educação em ES<br>Ellen Barbosa - ICMC/USP</td>
+    <td colspan="2"><strong>Palestra A</strong><br>Educação em ES<br><i>Ellen Barbosa - ICMC/USP</i></td>
     <td></td>
-    <td colspan="2">Palestra C<br>Engenharia de Conhecimento e Model-Driven Engineering na Indústria<br>André Menolli - UENP</td>
+    <td colspan="2"><strong>Palestra C</strong><br>Engenharia de Conhecimento e Model-Driven Engineering na Indústria<br><i>André Menolli - UENP</i></td>
     <td></td>
-    <td colspan="2">Palestra E<br>Engenharia de Software Moderna<br>Marco Túlio Valente - UFMG</td>
+    <td colspan="2"><strong>Palestra E</strong><br>Engenharia de Software Moderna<br><i>Marco Túlio Valente - UFMG</i></td>
   </tr>
   <tr>
     <td>20:30 - 21:00</td>
