@@ -22,7 +22,7 @@ header:
 	<br>
 	<p><b>Resumo: </b>O minicurso é uma jornada exploradora pelo universo do Design Thinking, uma abordagem para a solução de problemas complexos e a geração de ideias criativas focadas no usuário. Neste minicurso, os participantes serão conduzidos pelas etapas fundamentais do Design Thinking, explorando técnicas de empatia, ideação e prototipagem. Ao longo de 3 horas de aprendizado prático e interativo, os alunos desenvolverão habilidades para identificar desafios, compreender as necessidades do usuário e criar soluções.</p>
 	<br>
-	<p><b>Bio: Guilherme Corredato Guerino é Doutor em Ciência da Computação pela UEM, professor da Universidade Estadual do Paraná e UX Researcher no Núcleo de Excelência em Tecnologias Sociais. Sua área de interesse é a Interação Humano-Computador (IHC), conduzindo pesquisas acadêmicas sobre o tópico há mais de 6 anos. Também possui interesse na aplicação prática de IHC na indústria de software, mais precisamente nos trabalhos envolvendo User eXperience (UX).</b></p>
+	<p><b>Bio:</b> Guilherme Corredato Guerino é Doutor em Ciência da Computação pela UEM, professor da Universidade Estadual do Paraná e UX Researcher no Núcleo de Excelência em Tecnologias Sociais. Sua área de interesse é a Interação Humano-Computador (IHC), conduzindo pesquisas acadêmicas sobre o tópico há mais de 6 anos. Também possui interesse na aplicação prática de IHC na indústria de software, mais precisamente nos trabalhos envolvendo User eXperience (UX).</p>
 </div>	
 
 
