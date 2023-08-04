@@ -137,7 +137,7 @@ header:
     <td>21:00 - 22:30</td>
     <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_b" target="_blank">Palestra B</a></strong><br>Open-source, como começar? motivações e desafios!<br><i>Igor Wiese - UTFPR-CM</i></td>
     <td></td>
-    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_d" target="_blank">Palestra D</a></strong><br><!--Teste de Software: Pesquisa e Ação<br><i>Fabiano Ferrari - UFSCar</i>--></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_d" target="_blank">Palestra D</a></strong><br>Teste de Software: Pesquisa e Ação<br><i>Fabiano Ferrari - UFSCar</i>--></td>
     <td></td>
     <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_f" target="_blank">Palestra F</a></strong><br><!--a definir--></td>
   </tr>

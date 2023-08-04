@@ -66,9 +66,9 @@ header:
 <div class="row t30" id="palestra_d">
 <h2>Palestra D</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
-      <b>xxxxxxxxx</b><br>		
-  <a href="" target="_blank">Currículo Lattes</a><br>		
+      <img src="https://eres-sbc-br.github.io/eres2023/images/fabiano.gif" alt="" align="center"><br>
+      <b>Teste de Software: Pesquisa e Ação</b><br>		
+  <a href="ttp://lattes.cnpq.br/3154345471250570" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: </h4>		
   <b>Data:</b> 07/Dez/2023 (Quinta-Feira) <br>
   <b>Hora:</b> 21:00 - 22:30 <br>
@@ -76,7 +76,8 @@ header:
   <p><b>Resumo:
 	</b></p>
   <br>
-  <p><b>Bio:</b></p>
+  <p><b>Bio:</b>  
+  É Bacharel em Informática (2005) e Doutor em Ciências de Computação e Matemática Computacional (2010), ambos pelo Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo (ICMC/USP). Em seu doutorado, foi orientado pelo Prof. José Carlos Maldonado e realizou estágio de um ano na Universidade de Lancaster (Reino Unido) sob orientação do Prof. Awais Rashid. Desde 2011, é Professor Adjunto na Universidade Federal de São Carlos (UFSCar - Brasil), e realizou Pós-Doutorado na Universidade George Mason (EUA) sob supervisão do Prof. Jeff Offutt entre 2017 e 2018. Tem experiência na área de Ciência da Computação, com ênfase em Engenharia de Software, atuando principalmente nos seguintes temas: teste de software, programação orientada a objetos, programação orientada a aspectos, teste de mutação, sistemas adaptativos, revisão sistemática da literatura, gestão do conhecimento e gamificação em Engenharia de Software. É membro da Sociedade Brasileira de Computação (SBC) e da Association for Computing Machinery (ACM)</p>
 </div>	
 <p>&nbsp;</p>
 
