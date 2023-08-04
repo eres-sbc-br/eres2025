@@ -67,9 +67,9 @@ header:
 <h2>Palestra D</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2023/images/fabiano.gif" alt="" align="center"><br>
-      <b>Teste de Software: Pesquisa e Ação</b><br>		
+      <b>Prof. Dr. Fabiano Cutigi Ferrari (UFSCar)</b><br>		
   <a href="ttp://lattes.cnpq.br/3154345471250570" target="_blank">Currículo Lattes</a><br>		
-  <h4>Título: </h4>		
+  <h4>Título: Teste de Software: Pesquisa e Ação</h4>		
   <b>Data:</b> 07/Dez/2023 (Quinta-Feira) <br>
   <b>Hora:</b> 21:00 - 22:30 <br>
   <br>
