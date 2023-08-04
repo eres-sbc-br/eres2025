@@ -47,13 +47,18 @@ header:
       <img src="https://eres-sbc-br.github.io/eres2023/images/nelson.jpeg" alt="" align="center"><br>
       <b>Prof. Dr. Nelson Tenório Jr. (UEM)</b><br>		
   <a href="" target="_blank">Currículo Lattes</a><br>		
-  <h4>Título: DevOps</h4>		
+  <h4>Título: Uso do Azure DevOps na Gestão do Projeto de Software</h4>		
   <b>Data:</b> 07/Dez/2023 (Quinta-Feira) <br>
   <b>Hora:</b> 13:30 - 15:00 e 15:30 - 17:00<br>
   <br>
-  <p><b>Resumo:</b></p>
+  <p><b>Resumo:</b>
+  
+  O Azure DevOps é uma ferramenta da Microsoft para auxiliar equipes a planejar, construir, testar e implantar software. A ferramenta, poderosa, pode ser utilizada para gerenciar projetos de software de diferentes tamanhos. Neste minicurso você terá uma visão abrangente do Azure DevOps e como ele pode ser usado para gerenciar projetos de software explorando seguintes tópicos: Introdução ao Azure DevOps; Gerenciamento de projetos com Azure DevOps; e Gerenciamento de código com Azure DevOps. No final deste minicurso, os participantes serão capazes de usar o Azure DevOps por meio das suas funcionalidades básica, bem como estender os seus conhecimentos para gerenciar projetos de software. Este minicurso é ideal para desenvolvedores, gerentes de projetos e outros profissionais que necessitam de uma ferramenta diferenciada e poderosa para o gerenciamento projetos de software.  
+  </p>
   <br>
-  <p><b>Bio:</b></p>
+  <p><b>Bio:</b>
+  Doutor em ciência da computação pela Pontifícia Universidade Católica do Rio Grande do Sul com pós-doutorado pela IT University de Copenhague (2016) e pela Universidade de Copenhague, na Dinamarca (2017 e 2018), quando foi pesquisador visitante. Pesquisador visitante na Université de technologie de Troyes (2018) com bolsa do governo francês. Mestre em ciências da computação pela Universidade Federal de Santa Catarina. Bacharel em Sistemas de Informação pela UniCesumar e Tecnólogo em Processamento de Dados pela FAIMAR. Professor Colaborador na Universidade Estadual de Maringá. Coordenou cursos de pós-graduação Stricto Sensu em Gestâo do Conhecimento nas Organizações na Universida Cesumar. Coordenou diversos cursos de pós-graduação Lato Sensu e MBAs e, ainda cursos de graduação de Análise e Desenvolvimento de Sistemas (ADS) e Redes de Computadores e Engenharia de Produção da Universidade Cesumar. Foi membro do comitê gestor da Incubadora Tecnológica de Maringá e elaborador de itens do ENADE de 2011 para o curso de ADS. Tem experiência em ciência da computação, com ênfase nas áreas de banco de dados, engenharia de software e processos de negócio. Os temas atuais de pesquisas são: as influências das emoções positivas no compartilhamento do conhecimento (GC); ambientes informatizados para a GC; representação do conhecimento e modelos de GC, todos eles voltados para a indústria de software. É pesquisador e bolsista produtividade do Instituto Cesumar de Ciência, Tecnologia e Inovação (ICETI);Coordenador e docente do Programa de Mestrado em Gestão do Conhecimento da UniCesumar; elaborador de itens de provas para concursos federais, estaduais e municipais pelo Instituto AOCP. É empresário e desenvolvedor de Software com uso de IA e ferramentas Microsoft.  
+  </p>
 </div>	
 <p>&nbsp;</p>
 
