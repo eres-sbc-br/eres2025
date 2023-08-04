@@ -48,7 +48,7 @@ header:
 <div class="row t30" id="palestra_c">
 <h2>Palestra C</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2023/images/menolli.jpeg" alt="" align="center"><br>
       <b>Prof. Dr. André Menolli (UENP)</b><br>		
   <a href="https://lattes.cnpq.br/0048431988260726" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: </h4>		
