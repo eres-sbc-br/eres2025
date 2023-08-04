@@ -49,8 +49,8 @@ header:
 <h2>Palestra C</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
-      <b>xxxxxxxxx</b><br>		
-  <a href="" target="_blank">Currículo Lattes</a><br>		
+      <b>Prof. Dr. André Menolli (UENP)</b><br>		
+  <a href="https://lattes.cnpq.br/0048431988260726" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: </h4>		
   <b>Data:</b> 07/Dez/2023 (Quinta-Feira) <br>
   <b>Hora:</b> 19:00 - 20:30 <br>
@@ -58,7 +58,9 @@ header:
   <p><b>Resumo:
 	</b></p>
   <br>
-  <p><b>Bio:</b></p>
+  <p><b>Bio:</b>
+  Possui graduação em Ciência da Computação pela Universidade Estadual de Londrina (2000), mestrado em Ciência da Computação pela Universidade Estadual de Maringá (2004), doutorado em Informática pela Pontifícia Universidade Católica do Paraná (2013) e Estágio Pós Doutoral em Ensino pela Universidade Estadual do Norte do Paraná. Atualmente é professor no Programa de Pós Graduação em Ciência da Computação da Universidade Estadual de Londrina, membro do comitê assessor da Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico, e professor associado n Universidade Estadual do Norte do Paraná nos cursos de Ciência da Computação e Licenciatura em Computação. Foi Diretor da Agência de Inovação Tecnológica e Propriedade Intelectual da Universidade Estadual do Norte do Paraná entre 2015 e 2022. Tem experiência nas áreas de Ciência da Computação e Gestão da Inovação com ênfase em Engenharia de Software  atuando principalmente nos seguintes temas: engenharia de software, ciência dos dados, model driven development e gestão do conhecimento.
+  </p>
 </div>	
 <p>&nbsp;</p>
 
