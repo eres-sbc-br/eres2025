@@ -51,7 +51,7 @@ header:
       <img src="https://eres-sbc-br.github.io/eres2023/images/menolli.jpeg" alt="" align="center"><br>
       <b>Prof. Dr. André Menolli (UENP)</b><br>		
   <a href="https://lattes.cnpq.br/0048431988260726" target="_blank">Currículo Lattes</a><br>		
-  <h4>Título: </h4>		
+  <h4>Título: Engenharia de Conhecimento e Model-Driven Engineering na Indústria</h4>		
   <b>Data:</b> 07/Dez/2023 (Quinta-Feira) <br>
   <b>Hora:</b> 19:00 - 20:30 <br>
   <br>
