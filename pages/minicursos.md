@@ -31,13 +31,17 @@ header:
       <img src="https://eres-sbc-br.github.io/eres2023/images/lilian.jpeg" alt="" align="center"><br>
       <b>Prof. Dra. Lilian Scatalon (UEM)</b><br>		
   <a href="http://lattes.cnpq.br/0476710385880829" target="_blank">Currículo Lattes</a><br>		
-  <h4>Título: Teste de Software...</h4>		
+  <h4>Título: Introdução a Teste de Software em Python</h4>		
   <b>Data:</b> 06/Dez/2023 (Quarta-Feira) <br>
   <b>Hora:</b> 13:30 - 15:00 e 15:30 - 17:00<br>
   <br>
-  <p><b>Resumo: ....</b></p>
+  <p><b>Resumo:</b>
+  O objetivo deste minicurso é fornecer uma introdução a teste de software em uma abordagem prática, com testes unitários automatizados em Python. É esperado como pré-requisito o conhecimento em fundamentos de programação. Os tópicos abordados serão: conceitos básicos de teste de software, critérios para elaborar casos de teste e automação de testes em Python. As atividades práticas devem incluir exercícios de programação com práticas de teste.
+  </p>
   <br>
-  <p><b>Bio: ...</b></p>
+  <p><b>Bio:</b>
+  Professora na Universidade Estadual de Maringá (UEM). Suas áreas de interesse incluem engenharia de software experimental, ensino de programação e teste de software e acessibilidade digital. Doutora em Ciência da Computação pela Universidade de São Paulo (ICMC-USP).
+  </p>
 </div>	
 
 

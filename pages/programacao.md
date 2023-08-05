@@ -66,7 +66,7 @@ header:
   <tr>
     <td>13:30 - 15:00</td>
     <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_1" target="_blank">Minicurso 1</a></strong><br>Design Centrado no Usuário: Entendendo e Explorando o Design Thinking<br><i>Guilherme Guerino - UNESPAR</i></td>
-    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_2" target="_blank">Minicurso 2</a></strong><br>Teste de Software<br><i>Lilian Scatalon - UEM</i></td>
+    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_2" target="_blank">Minicurso 2</a></strong><br>Introdução a Teste de Software em Python<br><i>Lilian Scatalon - UEM</i></td>
     <td></td>
     <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_3" target="_blank">Minicurso 3</a></strong><br>Uso do Azure DevOps na Gestão do Projeto de Software<br><i>Nelson Tenorio Jr - UEM</i></td>
     <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_4" target="_blank">Minicurso 4</a></strong></td>
@@ -85,7 +85,7 @@ header:
   <tr>
     <td>15:30 - 17:00</td>
     <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_1" target="_blank">Minicurso 1</a></strong><br>Design Centrado no Usuário: Entendendo e Explorando o Design Thinking<br><i>Guilherme Guerino - UEM</i></td>
-    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_2" target="_blank">Minicurso 2</a></strong><br>Teste de Software<br><i>Lilian Scatalon - UEM</i></td>
+    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_2" target="_blank">Minicurso 2</a></strong><br>Introdução a Teste de Software em Python<br><i>Lilian Scatalon - UEM</i></td>
     <td></td>
     <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_3" target="_blank">Minicurso 3</a></strong><br>Uso do Azure DevOps na Gestão do Projeto de Software<br><i>Nelson Tenorio Jr - UEM</i></td>
     <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_4" target="_blank">Minicurso 4</a></strong></td>
