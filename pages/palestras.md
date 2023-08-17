@@ -51,13 +51,13 @@ header:
       <img src="https://eres-sbc-br.github.io/eres2023/images/menolli.jpeg" alt="" align="center"><br>
       <b>Prof. Dr. André Menolli (UENP)</b><br>		
   <a href="https://lattes.cnpq.br/0048431988260726" target="_blank">Currículo Lattes</a><br>		
-  <h4>Título: Como o uso de artefatos de modelos pode auxiliar as empresas de desenvolvedoras de software em seus processos? O relato de uma pesquisa no Brasil</h4>		
+  <h4>Título: Como o uso de artefatos de modelos pode auxiliar as empresas desenvolvedoras de software em seus processos? O relato de uma pesquisa no Brasil</h4>		
   <b>Data:</b> 07/Dez/2023 (Quinta-Feira) <br>
   <b>Hora:</b> 19:00 - 20:30 <br>
   <br>
   <p><b>Resumo:
 	</b>
-	O desenvolvimento de software é um processo complexo e de práticas intensivas de conhecimento, que em geral envolve muitos participantes em diferentes etapas ao longo do tempo. Um dos grandes desafios nesse processo é gerir o conhecimento.  A palestra visa apresentar e discutir resultados de uma pesquisa realizada com empresas de desenvolvimento de software no Brasil, mostrando quais artefatos são mais utilizados em seus processos, e de que forma os artefatos de modelos são eficientes em distintos conceitos de gestão do conhecimento, considerando as diferentes fases do software.
+	O desenvolvimento de software é um processo complexo e de práticas intensivas de conhecimento, que em geral envolve muitos participantes em diferentes etapas ao longo do tempo. Um dos grandes desafios nesse processo é gerir o conhecimento. A palestra visa apresentar e discutir resultados de uma pesquisa realizada com empresas de desenvolvimento de software no Brasil, mostrando quais artefatos são mais utilizados em seus processos, e de que forma os artefatos de modelos são eficientes em distintos conceitos de gestão do conhecimento, considerando as diferentes fases do software.
 	</p>
   <br>
   <p><b>Bio:</b>
