@@ -44,7 +44,7 @@ Formulário de inscrição: em breve...
   </div>
 
 	<div class="small-12 large-4  columns">
-        <img src="https://eres-sbc-br.github.io/eres2023/images/ellen.jpg" alt="" style="height: 250px"><br>
+        <img src="https://eres-sbc-br.github.io/eres2023/images/ellen.jpeg" alt="" style="height: 250px"><br>
         <b>Profa. Dra. Ellen Francine Barbosa</b><br>
 		<b>ICMC/USP</b><br>
 		<a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a>    
