@@ -13,7 +13,7 @@ header:
 <h2>Palestra A</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2023/images/ellen.jpeg" alt="" align="center"><br>
-      <b>PRofa. Dra. Ellen Francice Barbosa</b><br>		
+      <b>Profa. Dra. Ellen Francice Barbosa</b><br>		
   <a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: </h4>		
   <b>Data:</b> 06/Dez/2023 (Quarta-Feira) <br>
