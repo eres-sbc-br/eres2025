@@ -121,7 +121,7 @@ header:
     <td>19:00 - 20:30</td>
     <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_a" target="_blank">Palestra A</a></strong><br>Educação em ES<br><i>Ellen Barbosa - ICMC/USP</i></td>
     <td></td>
-    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_c" target="_blank">Palestra C</a></strong><br>Engenharia de Conhecimento e Model-Driven Engineering na Indústria<br><i>André Menolli - UENP</i></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_c" target="_blank">Palestra C</a></strong><br>Como o uso de artefatos de modelos pode auxiliar as empresas desenvolvedoras de software em seus processos? O relato de uma pesquisa no Brasil<br><i>André Menolli - UENP</i></td>
     <td></td>
     <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_e" target="_blank">Palestra E</a></strong><br><!--Engenharia de Software Moderna<br><i>Marco Túlio Valente - UFMG</i>--></td>
   </tr>
