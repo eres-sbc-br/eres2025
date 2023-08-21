@@ -95,7 +95,7 @@ header:
   Bacharel em 2001 em Ciência da Computação pela Universidade Estadual de Maringá (UEM), Mestre em 2005 e Doutor em 2012 em Ciências da Computação e Matemática Computacional pela Universidade de São Paulo (ICMC-USP). Atualmente é Professor Associado da Universidade Tecnológica Federal do Paraná (UTFPR), no campus de Campo Mourão, atuando principalmente nos cursos de Bacharelado em Ciência da Computação (BCC) e no Mestrado Acadêmico em Ciência da Computação (PPGCC-CM). Suas pesquisas concentram-se em Engenharia de Software e Educação em Computação.
   </p>
   <br>
-  <img src="https://eres-sbc-br.github.io/eres2023/images/soratoo.jpeg" alt="" align="center"><br>
+  <img src="https://eres-sbc-br.github.io/eres2023/images/Soratto.jpeg" alt="" align="center"><br>
       <b>Rafael Rampim Soratto</b><br>		
   <a href=" https://lattes.cnpq.br/0402270119924533" target="_blank">Currículo Lattes</a><br>		<br>
   
