@@ -97,7 +97,7 @@ header:
   <br>
   <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
       <b>Rafael Rampim Soratto</b><br>		
-  <a href=" https://lattes.cnpq.br/0402270119924533" target="_blank">Currículo Lattes</a><br>		
+  <a href=" https://lattes.cnpq.br/0402270119924533" target="_blank">Currículo Lattes</a><br>		<br>
   
   <p><b>Bio Rafael Rampim Soratto:</b>
   Bacharel em 2022 em Ciência da Computação pela Universidade Tecnológica Federal do Paraná (UTFPR), Mestrando desde o ano de 2022 em Engenharia de Software pelo programa de Pós Graduação em Ciência da Computação do Campus Campo Mourão (PPGCC-CM). Suas pesquisas concentram-se em Engenharia de Software e Testes de Software.
@@ -111,12 +111,12 @@ header:
   Teste instável, ou flaky test, é um caso de teste cujo resultado de execução varia de forma inesperada e pontual, geralmente falhando quando anteriormente sempre passava (e voltando a passar em seguida). Ele geralmente é encontrado durante os testes de regressão. Como eles acontecem de forma imprevisível, geralmente esporádica, acaba gerando custos indesejados ao desenvolvimento de software, seja pelo esforço para tratar todo teste instável quanto pelas consequências pela ausência do tratamento adequado desses casos de teste. Neste minicurso trataremos da identificação de casos de testes instáveis com técnicas baseadas na observação dos registros de testes de regressão, a reexecução de casos de teste e aplicação de algumas abordagens pesquisadas nos últimos anos.
   </p>
   <br>
-  <p><b>Bio Marco Aurélio Graciotto Silva:</b>
+  <!--<p><b>Bio Marco Aurélio Graciotto Silva:</b>
   Bacharel em 2001 em Ciência da Computação pela Universidade Estadual de Maringá (UEM), Mestre em 2005 e Doutor em 2012 em Ciências da Computação e Matemática Computacional pela Universidade de São Paulo (ICMC-USP). Atualmente é Professor Associado da Universidade Tecnológica Federal do Paraná (UTFPR), no campus de Campo Mourão, atuando principalmente nos cursos de Bacharelado em Ciência da Computação (BCC) e no Mestrado Acadêmico em Ciência da Computação (PPGCC-CM). Suas pesquisas concentram-se em Engenharia de Software e Educação em Computação.
   </p>
   <p><b>Bio Rafael Rampim Soratto:</b>
   Bacharel em 2022 em Ciência da Computação pela Universidade Tecnológica Federal do Paraná (UTFPR), Mestrando desde o ano de 2022 em Engenharia de Software pelo programa de Pós Graduação em Ciência da Computação do Campus Campo Mourão (PPGCC-CM). Suas pesquisas concentram-se em Engenharia de Software e Testes de Software.
-  </p>
+  </p>-->
 </div>	
 <p>&nbsp;</p>
 
