@@ -87,7 +87,7 @@ header:
 <div class="row t30" >
 <div class="medium-16 columns" id="minicurso_5">
 <h2>Minicurso 5</h2>
-      <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2023/images/marcao.jpeg" alt="" align="center"><br>
       <b>Prof. Dr. Marco Aurélio Graciotto Silva</b><br>		
   <a href="https://lattes.cnpq.br/9383290036853173" target="_blank">Currículo Lattes</a><br>		
   
