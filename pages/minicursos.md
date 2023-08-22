@@ -70,16 +70,20 @@ header:
 <div class="row t30" >
 <div class="medium-16 columns" id="minicurso_4">
 	<h2>Minicurso 4</h2>
-      <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
-      <b>XXXxxxxxx</b><br>		
-  <a href="" target="_blank">Currículo Lattes</a><br>		
-  <h4>Título: </h4>		
+      <img src="https://eres-sbc-br.github.io/eres2023/images/julio.jpeg" alt="" align="center"><br>
+      <b>Prof. Dr. Julio Cesar Pastoril (MentorsTec)</b><br>		
+  <a href="https://www.instagram.com/jcpastoril" target="_blank">Instagram</a>  <a href="https://www.linkedin.com/in/jcpastoril" target="_blank">Linkedin</a><br>		
+  <h4>Título: Profissões do Futuro – Manipulando Dados com Power BI</h4>
   <b>Data:</b> 07/Dez/2023 (Quinta-Feira) <br>
   <b>Hora:</b> 13:30 - 15:00 e 15:30 - 17:00<br>
   <br>
-  <p><b>Resumo:</b></p>
+  <p><b>Resumo:</b>
+  É consenso que os dados são “o novo petróleo”, porém os dados por si só não possuem valor algum. Da mesma forma que o petróleo precisa ser refinado, os dados precisam ser trabalhados até virarem informação. A informação vale muito! Reduzir gastos e aumentar lucros podem ser consequências do bom uso dessas informações. Neste curso, vamos coletar e tratar dados em tempo real de fundos imobiliários – FIIS direto do google finance, criar painéis visuais interativos (dashboards) que contém métricas e indicadores relevantes (valor do ativo, setor, patrimônio líquido, vacância líquida, vacância física, preço/valor patrimonial e outros).
+  </p>
   <br>
-  <p><b>Bio:</b></p>
+  <p><b>Bio:</b>
+  Doutor em física pela Universidade Estadual de Maringá, pós-graduado em Ciência de Dados e Big Data Analytics pela Faculdade Metropolitana do Estado de São Paulo e cursando Engenharia de Software na UniCesumar. Professor desde 2012 e, atualmente cientista de dados na empresa MentorsTec - Soluções em Business Intelligence e Transformação de dados, Maringá-PR. 
+  </p>
 </div>	
 <p>&nbsp;</p>
 
