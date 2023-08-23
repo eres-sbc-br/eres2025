@@ -157,7 +157,7 @@ header:
 
 <h1>Programação Cultural</h1>
 
-<p>A ERES organizará uma Excursão ao <a href="https://odypark.com.br/" target="_blank">Ody Park Aquático</a> no dia 09/dez/2023 (Sábado) das 08:00 as 18:00. A excursão é por adesão (pagamento) individual.</p> 
+<p>A ERES organizará uma Excursão ao <a href="https://odypark.com.br/" target="_blank">Ody Park Aquático</a> no dia 09/dez/2023 (Sábado) das 08:00 as 18:00. A excursão é por adesão (pagamento) individual, não incluído na inscrição da ERES 2023.</p> 
 
 <p>Mais detalhes em breve...</p>
 
