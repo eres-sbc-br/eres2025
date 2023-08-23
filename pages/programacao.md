@@ -90,7 +90,7 @@ header:
     <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_3" target="_blank">Minicurso 3</a></strong><br>Uso do Azure DevOps na Gestão do Projeto de Software<br><i>Nelson Tenorio Jr - UEM</i></td>
     <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_4" target="_blank">Minicurso 4</a></strong><br>Profissões do Futuro – Manipulando Dados com Power BI<br><i>Julio Cesar Pastoril - MentorsTec</i></td>
     <td></td>
-    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5" target="_blank">Minicurso 5</a></strong><br>Identificação de Testes Instáveis<br><i>Marco A. Graciotto Silva /  Rafael Rampim Soratto - UTFPR-CM</td>
+    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5" target="_blank">Minicurso 5</a></strong><br>Identificação de Testes Instáveis<br><i>Marco A. Graciotto Silva /  Rafael Rampim Soratto - UTFPR-CM</i></td>
     <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_6" target="_blank">Minicurso 6</a></strong></td>
   </tr>
   <tr>
