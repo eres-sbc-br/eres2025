@@ -161,6 +161,6 @@ header:
 
 <p>Mais detalhes em breve...</p>
 
-<img src="https://eres-sbc-br.github.io/eres2023/images/ody.png" alt="" style="height: 250px"><br>
+<img src="https://eres-sbc-br.github.io/eres2023/images/ody.png" alt="" style="height: 400px"><br>
 
 
