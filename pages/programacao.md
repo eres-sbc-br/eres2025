@@ -123,7 +123,7 @@ header:
     <td></td>
     <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_c" target="_blank">Palestra C</a></strong><br>Como o uso de artefatos de modelos pode auxiliar as empresas desenvolvedoras de software em seus processos? O relato de uma pesquisa no Brasil<br><i>André Menolli - UENP</i></td>
     <td></td>
-    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_e" target="_blank">Palestra E</a></strong><br><!--Engenharia de Software Moderna<br><i>Marco Túlio Valente - UFMG</i>--></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_e" target="_blank">Palestra E</a></strong><br>O Uso de Técnicas de Especificação de Requisitos na Indústria<br><i>Edna Dias Canedo - UnB</i></td>
   </tr>
   <tr>
     <td>20:30 - 21:00</td>
@@ -139,7 +139,7 @@ header:
     <td></td>
     <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_d" target="_blank">Palestra D</a></strong><br>Teste de Software: Pesquisa e Ação<br><i>Fabiano Ferrari - UFSCar</i></td>
     <td></td>
-    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_f" target="_blank">Palestra F</a></strong><br>O Uso de Técnicas de Especificação de Requisitos na Indústria<br><i>Edna Dias Canedo - UnB</i></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_f" target="_blank">Palestra F</a></strong><br></td>
   </tr>
   <tr>
     <td>22:30 ....</td>
