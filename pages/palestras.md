@@ -90,16 +90,18 @@ header:
 <h2>Palestra E</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
-      <b>xxxxxxxxx</b><br>		
-  <a href="" target="_blank">Currículo Lattes</a><br>		
-  <h4>Título: </h4>		
+      <b>Profa. Dra. Edna Dias Canedo (UnB)</b><br>		
+  <a href="http://lattes.cnpq.br/9554285834432091" target="_blank">Currículo Lattes</a><br>		
+  <h4>Título: O Uso de Técnicas de Especificação de Requisitos na Indústria</h4>		
   <b>Data:</b> 08/Dez/2023 (Sexta-Feira) <br>
   <b>Hora:</b> 19:00 - 20:30 <br>
   <br>
-  <p><b>Resumo:
-	</b></p>
+  <p><b>Resumo:</b>As atividades que compõem um processo de engenharia de requisitos envolvem elicitação, modelagem, validação e verificação de requisitos, e essas atividades tendem a ser mais intensivas em relação à comunicação e interação com o usuário do que outras atividades que são executadas durante o processo de desenvolvimento de software. Assim, apesar das técnicas e ferramentas disponíveis na literatura para apoiar as atividades da Engenharia de Requisitos a necessidade de inovação e criatividade aumentam a importância de se entender as necessidades dos usuários e as particularidades de cada sistema a ser desenvolvido, conforme o que os usuários desejam/precisam e ou solicitam. Com o objetivo de minimizar os desafios relatados na fase de elicitação de requisitos, outras técnicas para apoiar a elicitação de requisitos foram propostas, dentre elas a utilização de técnicas de criatividade e do Design Thinking. Assim, a adoção do Design Thinking tem sido bastante utilizada na elicitação de requisitos de software na indústria. Embora as técnicas de Design Thinking já tenham sido utilizadas em diversos cenários e terem sido consideradas efetivas, tipicamente essa abordagem tem sido usada para identificar/elicitar requisitos de software em um conjunto de populações que não fazem parte de um grupo populacional vulnerável, tais como em grupos de negros, LGBTQ+, dentre outros. Assim, nessa palestra será abordado o uso de Design Thinking na elicitação de requisitos de um aplicativo móvel, desenvolvido para um público-alvo de populações com características vulneráveis, em específico no contexto dos egressos do sistema prisional brasileiro e seus familiares, visando apoiá-los em seu processo de ressocialização. Além disso, apresentaremos as decisões que tomamos em comum acordo com as partes interessadas do projeto para garantir a privacidade dos dados dos usuários finais. Os testes de aceitação da aplicação móvel com as partes interessadas e os usuários finais demonstraram que os desenvolvedores seguiram devidamente as diretrizes de privacidade, estando em conformidade com a Lei Geral de Proteção de Dados (LGPD) brasileira.
+  </p>
   <br>
-  <p><b>Bio:</b></p>
+  <p><b>Bio:</b>
+  Edna Dias Canedo possui Doutorado em Engenharia Elétrica pela Universidade de Brasília (UNB), 2012 e Mestrado em Engenharia de Software pela Universidade Federal de Campina Grande (UFCG), 2002. Atualmente é professora associada do Departamento de Ciência da Computação (CIC) da Universidade de Brasília (UNB). Atua na área de Engenharia de Software, Sistemas de Software, Requisitos de Software, Produtividade de Software, Usabilidade e Engenharia de Software Empírica. Possui mais de 13 anos de experiência em Projetos de Pesquisa e Desenvolvimento. Mais informações em https://www.cic.unb.br/professores/73-ednacanedo.
+  </p>
 </div>	
 <p>&nbsp;</p>
 
