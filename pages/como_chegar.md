@@ -10,7 +10,12 @@ header:
 ---
 <hr>
 
-<p>As atividades da ERES acontecerão em dois locais, distantes 100m: no Bloco C56 - Departamento de Informática (DIN) e no Bloco B33 (Auditório PDE).</p>
+<p>As atividades da ERES acontecerão em dois locais, distantes 100m:</p>
+
+<ul>
+<li> no Bloco C56 - Departamento de Informática (DIN) - URL Google Maps <a href="https://goo.gl/maps/HNW7KQ4RxtVQYycDA" target="_blank">https://goo.gl/maps/HNW7KQ4RxtVQYycDA</a></li>
+<li> no Bloco B33 (Auditório PDE) - URL Google Maps <a href="https://goo.gl/maps/iNSk6NQ2Rvsa5R5q7" target="_blank">https://goo.gl/maps/iNSk6NQ2Rvsa5R5q7</a></li>
+</ul>
 
 <p>A UEM também oferece refeições diariamente em seu Restaurante Universitário (RU). Cardápio semanal disponível em <a href="http://www.ru.uem.br/cardapio-1" target="_blank">http://www.ru.uem.br/cardapio-1</a>. Valor da refeição em <a href="http://www.ru.uem.br" target="_blank">http://www.ru.uem.br</a></p>
 
