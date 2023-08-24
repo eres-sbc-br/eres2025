@@ -17,11 +17,11 @@ header:
 <li> no Bloco B33 (Auditório PDE) - URL Google Maps <a href="https://goo.gl/maps/iNSk6NQ2Rvsa5R5q7" target="_blank">https://goo.gl/maps/iNSk6NQ2Rvsa5R5q7</a></li>
 </ul>
 
-<p>A UEM também oferece refeições diariamente em seu Restaurante Universitário (RU). Cardápio semanal disponível em <a href="http://www.ru.uem.br/cardapio-1" target="_blank">http://www.ru.uem.br/cardapio-1</a>. Valor da refeição em <a href="http://www.ru.uem.br" target="_blank">http://www.ru.uem.br</a></p>
+<p>A UEM também oferece refeições diariamente em seu Restaurante Universitário (RU). Cardápio semanal disponível em <a href="http://www.ru.uem.br/cardapio-1" target="_blank">http://www.ru.uem.br/cardapio-1</a>. Valor da refeição em <a href="http://www.ru.uem.br" target="_blank">http://www.ru.uem.br</a>.</p>
 
 
 
-<p>Confira o mapa:</p>
+<p>Confira o mapa abaixo:</p>
 <p><img src="https://eres-sbc-br.github.io/eres2023/images/mapa_eres_uem_2023.png" alt="Mapa da ERES 2023"></p>
 
 
