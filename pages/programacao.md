@@ -139,7 +139,7 @@ header:
     <td></td>
     <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_d" target="_blank">Palestra D</a></strong><br>Teste de Software: Pesquisa e Ação<br><i>Fabiano Ferrari - UFSCar</i></td>
     <td></td>
-    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_f" target="_blank">Palestra F</a></strong><br><!--a definir--></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_f" target="_blank">Palestra F</a></strong><br>O Uso de Técnicas de Especificação de Requisitos na Indústria<br><i>Edna Dias Canedo - UnB</i></td>
   </tr>
   <tr>
     <td>22:30 ....</td>
