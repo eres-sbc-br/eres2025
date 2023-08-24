@@ -10,11 +10,10 @@ header:
 ---
 <hr>
 
-<p>Em 2023, a ERES acontecer&aacute; na institui&ccedil;&atilde;o: UEM Departamento de Informática - Bloco C56.</p>
-<!--<p>No per&iacute;odo da tarde, os minicursos e sess&otilde;es t&eacute;cnicas ser&atilde;o concentrados na FURB (Campus 1, Bloco S). <br>
-À noite, as palestras ocorrer&atilde;o no audit&oacute;rio do UniSENAI (Campus Sede, Bloco A).</p>-->
-<p>Confirma o mapa:</p>
-<p><img src="https://eres-sbc-br.github.io/eres2023/images/mapa.png" alt="Mapa da ERES 2023"></p>
-<p><strong>UEM</strong>: Av. Colombo, 5790 - Jd. universitário, Maringá - PR, 87020-900</p>
+<p>As atividades da ERES acontecerão em dois locais, distantes 100m: no Bloco C56 - Departamento de Informática (DIN) e no Bloco B33 (Auditório PDE).</p>
+
+<p>Confira o mapa:</p>
+<p><img src="https://eres-sbc-br.github.io/eres2023/images/mapa_eres_uem_2023.png" alt="Mapa da ERES 2023"></p>
+
 
 <p>Esperamos vocês na ERES 2023!</p>
