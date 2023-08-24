@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Como chegar?"
+title: "Como chegar à ERES 2023?"
 #meta_title: "Dúvidas? Entre em contato conosco"
 subheadline: ""
 #teaser: "Entre em contato conosco pelo e-mail #eres2020.uem@gmail.com"
