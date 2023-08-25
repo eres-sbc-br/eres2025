@@ -41,7 +41,8 @@ header:
     <td>10:30 - 12:00</td>
     <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/workshop" target="_blank">Workshop de Estudos Empíricos</a></strong><br><i>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)</i></td>
     <td></td>
-    <td colspan="2"><!--Atividade com a Software by Maringá--></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_c" target="_blank">Palestra C</a></strong><br>Qualidade de Software na Indústria<br><i>Camila L. Leal - UEM</i></td>
+	
     <td></td>
     <td colspan="2"><!--Conectadas à Eng. de Software--></td>
   </tr>
@@ -121,9 +122,9 @@ header:
     <td>19:00 - 20:30</td>
     <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_a" target="_blank">Palestra A</a></strong><br>Educação em ES<br><i>Ellen Barbosa - ICMC/USP</i></td>
     <td></td>
-    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_c" target="_blank">Palestra C</a></strong><br>Como o uso de artefatos de modelos pode auxiliar as empresas desenvolvedoras de software em seus processos? O relato de uma pesquisa no Brasil<br><i>André Menolli - UENP</i></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_d" target="_blank">Palestra C</a></strong><br>Como o uso de artefatos de modelos pode auxiliar as empresas desenvolvedoras de software em seus processos? O relato de uma pesquisa no Brasil<br><i>André Menolli - UENP</i></td>
     <td></td>
-    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_e" target="_blank">Palestra E</a></strong><br>O Uso de Técnicas de Especificação de Requisitos na Indústria<br><i>Edna Dias Canedo - UnB</i></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_f" target="_blank">Palestra E</a></strong><br>O Uso de Técnicas de Especificação de Requisitos na Indústria<br><i>Edna Dias Canedo - UnB</i></td>
   </tr>
   <tr>
     <td>20:30 - 21:00</td>
@@ -137,9 +138,9 @@ header:
     <td>21:00 - 22:30</td>
     <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_b" target="_blank">Palestra B</a></strong><br>Open-source, como começar? motivações e desafios!<br><i>Igor Wiese - UTFPR-CM</i></td>
     <td></td>
-    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_d" target="_blank">Palestra D</a></strong><br>Teste de Software: Pesquisa e Ação<br><i>Fabiano Ferrari - UFSCar</i></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_e" target="_blank">Palestra D</a></strong><br>Teste de Software: Pesquisa e Ação<br><i>Fabiano Ferrari - UFSCar</i></td>
     <td></td>
-    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_f" target="_blank">Palestra F</a></strong><br></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_g" target="_blank">Palestra F</a></strong><br></td>
   </tr>
   <tr>
     <td>22:30 ....</td>
