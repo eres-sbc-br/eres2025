@@ -48,6 +48,32 @@ header:
 <div class="row t30" id="palestra_c">
 <h2>Palestra C</h2>
 <div class="medium-16 columns">
+      <img src="https://eres-sbc-br.github.io/eres2023/images/camila.jpeg" alt="" align="center"><br>
+      <b>Profa. Dra. Camila L. Leal (UEM)</b><br>		
+  <a href="http://lattes.cnpq.br/7810321373328408" target="_blank">Currículo Lattes</a><br>		
+  <h4>Título: Qualidade de Software na Indústria</h4>		
+  <b>Data:</b> 07/Dez/2023 (Quinta-Feira) <br>
+  <b>Hora:</b> 10:30 - 12:00 <br>
+  <br>
+  <p><b>Resumo:
+	</b>
+	
+	</p>
+  <br>
+  <p><b>Bio:</b>
+  
+  </p>
+</div>	
+<p>&nbsp;</p>
+
+
+
+
+
+
+<div class="row t30" id="palestra_d">
+<h2>Palestra D</h2>
+<div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2023/images/menolli.jpeg" alt="" align="center"><br>
       <b>Prof. Dr. André Menolli (UENP)</b><br>		
   <a href="https://lattes.cnpq.br/0048431988260726" target="_blank">Currículo Lattes</a><br>		
@@ -67,8 +93,8 @@ header:
 <p>&nbsp;</p>
 
 
-<div class="row t30" id="palestra_d">
-<h2>Palestra D</h2>
+<div class="row t30" id="palestra_e">
+<h2>Palestra E</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2023/images/fabiano.gif" alt="" align="center"><br>
       <b>Prof. Dr. Fabiano Cutigi Ferrari (UFSCar)</b><br>		
@@ -86,8 +112,8 @@ header:
 <p>&nbsp;</p>
 
 
-<div class="row t30" id="palestra_e">
-<h2>Palestra E</h2>
+<div class="row t30" id="palestra_f">
+<h2>Palestra F</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2023/images/edna.jpeg" alt="" align="center"><br>
       <b>Profa. Dra. Edna Dias Canedo (UnB)</b><br>		
@@ -105,8 +131,8 @@ header:
 </div>	
 <p>&nbsp;</p>
 
-<div class="row t30" id="palestra_f">
-<h2>Palestra F</h2>
+<div class="row t30" id="palestra_g">
+<h2>Palestra G</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
       <b>xxxxxxxxx</b><br>		
