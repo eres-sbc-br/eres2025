@@ -49,7 +49,7 @@ header:
 <h2>Palestra C</h2>
 <div class="medium-16 columns">
       <img src="https://eres-sbc-br.github.io/eres2023/images/camila.jpeg" alt="" style="height: 250px" align="center"><br>
-      <b>Profa. Dra. Camila L. Leal (UEM)</b><br>		
+      <b>Profa. Dra. Camila L. Leal (DEP/UEM)</b><br>		
   <a href="http://lattes.cnpq.br/7810321373328408" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Qualidade de Software na Indústria</h4>		
   <b>Data:</b> 07/Dez/2023 (Quinta-Feira) <br>
