@@ -41,7 +41,7 @@ header:
     <td>10:30 - 12:00</td>
     <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/workshop" target="_blank">Workshop de Estudos Empíricos</a></strong><br><i>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)</i></td>
     <td></td>
-    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_c" target="_blank">Palestra C</a></strong><br>Qualidade de Software na Indústria<br><i>Camila L. Leal - UEM</i></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_c" target="_blank">Palestra C</a></strong><br>Qualidade de Software na Indústria<br><i>Camila L. Leal - DEP/UEM</i></td>
 	
     <td></td>
     <td colspan="2"><!--Conectadas à Eng. de Software--></td>
