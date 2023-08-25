@@ -89,7 +89,7 @@ header:
 <div class="row t30" id="palestra_e">
 <h2>Palestra E</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2023/images/edna.jpeg" alt="" align="center"><br>
       <b>Profa. Dra. Edna Dias Canedo (UnB)</b><br>		
   <a href="http://lattes.cnpq.br/9554285834432091" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: O Uso de Técnicas de Especificação de Requisitos na Indústria</h4>		
