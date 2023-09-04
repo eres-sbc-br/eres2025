@@ -73,7 +73,7 @@ header:
     <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_4" target="_blank">Minicurso 4</a></strong><br>Profissões do Futuro – Manipulando Dados com Power BI<br><i>Julio Cesar Pastoril - MentorsTec</i></td>
     <td></td>
     <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5" target="_blank">Minicurso 5</a></strong><br>Identificação de Testes Instáveis<br><i>Marco A. Graciotto Silva /  Rafael Rampim Soratto - UTFPR-CM</i></td>
-    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_6" target="_blank">Minicurso 6</a></strong></td>
+    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_6" target="_blank">Minicurso 6</a></strong><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br><i>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP)</i></td>
   </tr>
   <tr>
     <td>15:00 - 15:30</td>
@@ -92,7 +92,7 @@ header:
     <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_4" target="_blank">Minicurso 4</a></strong><br>Profissões do Futuro – Manipulando Dados com Power BI<br><i>Julio Cesar Pastoril - MentorsTec</i></td>
     <td></td>
     <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5" target="_blank">Minicurso 5</a></strong><br>Identificação de Testes Instáveis<br><i>Marco A. Graciotto Silva /  Rafael Rampim Soratto - UTFPR-CM</i></td>
-    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_6" target="_blank">Minicurso 6</a></strong></td>
+    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_6" target="_blank">Minicurso 6</a></strong><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br><i>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP)</i></td>
   </tr>
   <tr>
     <td></td>
