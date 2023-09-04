@@ -158,10 +158,33 @@ header:
 
 <h1>Programação Cultural</h1>
 
-<p>A ERES organizará uma Excursão ao <a href="https://odypark.com.br/" target="_blank">Ody Park Aquático</a> no dia 09/dez/2023 (Sábado) das 08:00 as 18:00. A excursão é por adesão (pagamento) individual, não incluído na inscrição da ERES 2023.</p> 
+<p>A ERES organizará uma Excursão ao <a href="https://odypark.com.br/" target="_blank">Ody Park Aquático</a> no dia 09/dez/2023 (Sábado) das 09:00 as 18:00. A excursão é por adesão (pagamento) individual, não incluído na inscrição da ERES 2023.</p> 
 
-<p>Mais detalhes em breve...</p>
 
 <img src="https://eres-sbc-br.github.io/eres2023/images/ody.png" alt="" style="height: 400px"><br>
+
+<h3>Valores e Demais informações</h3>
+
+<p>VALORES PARA GRUPOS ACIMA DE 15 PAGANTES</p>
+
+SÁBADOS, DOMINGOS E FERIADOS NACIONAIS
+
+Passaporte Adulto (11 a 59 anos): R$ 85,00;
+Passaporte Sênior (Acima de 60 anos) R$ 70,00;
+Passaporte Criança (06 a 10 anos) R$ 70,00;
+
+<p>ALMOÇO</p>
+
+Almoço Adulto: R$ 40,00;
+Almoço Sênior (Acima de 60 anos): R$ 40,00;
+Almoço Criança (06 a 10 anos): R$ 30,00;
+Crianças de 0 a 05 anos podem almoçar junto com 01 adulto pagante, sem custo adicional.
+
+<strong>ATENÇÃO: Serviço de buffet livre e NÃO inclui bebidas.</strong>
+
+<p>FORMA DE PAGAMENTO</p>
+
+Em breve....
+
 
 
