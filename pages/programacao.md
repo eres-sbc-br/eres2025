@@ -140,7 +140,7 @@ header:
     <td></td>
     <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_e" target="_blank">Palestra E</a></strong><br>Teste de Software: Pesquisa e Ação<br><i>Fabiano Ferrari - UFSCar</i></td>
     <td></td>
-    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_g" target="_blank">Palestra G</a></strong><br>Engenharia de Software na Embraer<br><i>Catarina Xavier - Embraer</i></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_g" target="_blank">Palestra G</a></strong><br>Desenvolvimento e Certificação de Software Aeronáutico<br><i>Catarina Xavier - Embraer</i></td>
   </tr>
   <tr>
     <td>22:30 ....</td>

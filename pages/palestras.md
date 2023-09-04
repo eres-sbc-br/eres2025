@@ -137,7 +137,7 @@ header:
       <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
       <b>Catarina Xavier (Embraer)</b><br>		
   <a href="" target="_blank">Currículo Lattes</a><br>		
-  <h4>Título: Engenharia de Software na Embraer</h4>		
+  <h4>Título: Desenvolvimento e Certificação de Software Aeronáutico</h4>		
   <b>Data:</b> 08/Dez/2023 (Sexta-Feira) <br>
   <b>Hora:</b> 21:00 - 22:30 <br>
   <br>
