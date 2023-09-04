@@ -128,7 +128,7 @@ header:
 <div class="row t30" >
 <div class="medium-16 columns" id="minicurso_6">
 <h2>Minicurso 6</h2>
-      <img src="https://eres-sbc-br.github.io/eres2023/images/morandini.jpeg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2023/images/morandini.jpg" alt="" align="center"><br>
       <b>Prof. Dr. Marcelo Morandini (EACH-USP)</b><br>		
   <a href="http://lattes.cnpq.br/7235951485247158" target="_blank">Currículo Lattes</a><br>		
   <br>
