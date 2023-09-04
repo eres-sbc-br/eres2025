@@ -182,7 +182,7 @@ Crianças de 0 a 05 anos podem almoçar junto com 01 adulto pagante, sem custo a
 
 <strong>ATENÇÃO: Serviço de buffet livre e NÃO inclui bebidas.</strong>
 
-<p>FORMA DE PAGAMENTO</p>
+<p>FORMA DE PAGAMENTO</p> 
 
 Em breve....
 
