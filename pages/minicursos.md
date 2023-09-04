@@ -132,15 +132,15 @@ header:
       <b>Prof. Dr. Marcelo Morandini (EACH-USP)</b><br>		
   <a href="http://lattes.cnpq.br/7235951485247158" target="_blank">Currículo Lattes</a><br>		
   <br>
-  <p><b>Bio - Marcelo Morandini:</b>  
+  <p><b>Bio - Marcelo Morandini: </b>  
   </p>
   <br>
   <img src="https://eres-sbc-br.github.io/eres2023/images/thiago.jpeg" alt="" align="center"><br>
       <b>Prof. Dr. Thiago Adriano Coleti (UENP)</b><br>		
   <a href="http://lattes.cnpq.br/8368597451080752" target="_blank">Currículo Lattes</a><br>		<br>
   
-  <p><b>Bio - Thiago Adriano Coleti:</b>
-  
+  <p><b>Bio - Thiago Adriano Coleti: </b>
+  Professor da Universidade Estadual do Norte do Paraná, é Doutor em Engenharia Elétrica pela Escola Politécnica da USP, Mestre em Sistemas de Informação pela Escola de Artes Ciências e Humanidades da USP, Especialista em Engenharia de Software pela UNIFIL e Graduado em Processamento de Dados pela FATEC. Minhas pesquisas envolvem a Interação Humano-Computador com foco em avaliação da usabilidade e experiência do usuário e Interação Humano-Dados com estudos voltados aos fenômenos de interação entre pessoas e dados, em especial a Transparência no uso dos dados pessoais. Também tenho interesse na área de gestão da informação.
   </p><br>
   
   <h4>Título: Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software</h4>		
