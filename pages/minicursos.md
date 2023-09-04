@@ -129,15 +129,35 @@ header:
 <div class="medium-16 columns" id="minicurso_6">
 <h2>Minicurso 6</h2>
       <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
-      <b>XXXxxxxxx</b><br>		
+      <b>Prof. Dr. Marcelo Morandini (EACH-USP)</b><br>		
   <a href="" target="_blank">Currículo Lattes</a><br>		
-  <h4>Título: </h4>		
+  <br>
+  <p><b>Bio - Marcelo Morandini:</b>
+  
+  </p>
+  <br>
+  <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
+      <b>Prof. Dr. Thiago Adriano Coleti (UENP)</b><br>		
+  <a href="" target="_blank">Currículo Lattes</a><br>		<br>
+  
+  <p><b>Bio - Thiago Adriano Coleti:</b>
+  
+  </p><br>
+  
+  <h4>Título: Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software</h4>		
   <b>Data:</b> 08/Dez/2023 (Sexta-Feira) <br>
   <b>Hora:</b> 13:30 - 15:00 e 15:30 - 17:00<br>
   <br>
-  <p><b>Resumo:</b></p>
+  <p><b>Resumo:</b>
+  A manipulação de dados pessoais por aplicações de software tornou-se comum, o que pode impactar na privacidade, segurança e liberdade dos usuários. Um dos principais mecanismos de proteção dos usuários é o conhecimento de eventos e agentes dos processos realizados com os dados. A Transparência de Dados Pessoais é um requisito de qualidade de software que indica o grau no qual aplicações fornecem informações sobre eventos e agentes envolvidos no uso dos dados pessoais.  Entretanto, sua implementação em aplicações de software não é uma tarefa trivial, pois compreende disponibilizar conteúdos de caráter técnico em informações acessíveis e perceptíveis. Este minicurso tem por objetivo discutir técnicas relacionadas à inclusão da Transparência em projetos de software em duas linhas:  definir um conjunto de informações a serem apresentadas para os usuários de forma que possam perceber como seus dados são utilizados; e uma estratégia de inspeção de  Transparência de Dados Pessoais em projetos de software que permitirá inspecionar se o software disponibiliza informações mínimas sobre a manipulação dos dados.  As técnicas apresentadas foram desenvolvidas com base no Perfil de Aplicação de Metadados TR-Model, que busca orientar quanto às informações que aplicações de software devem apresentar aos usuários. 
+  </p>
   <br>
-  <p><b>Bio:</b></p>
+  <!--<p><b>Bio Marco Aurélio Graciotto Silva:</b>
+  Bacharel em 2001 em Ciência da Computação pela Universidade Estadual de Maringá (UEM), Mestre em 2005 e Doutor em 2012 em Ciências da Computação e Matemática Computacional pela Universidade de São Paulo (ICMC-USP). Atualmente é Professor Associado da Universidade Tecnológica Federal do Paraná (UTFPR), no campus de Campo Mourão, atuando principalmente nos cursos de Bacharelado em Ciência da Computação (BCC) e no Mestrado Acadêmico em Ciência da Computação (PPGCC-CM). Suas pesquisas concentram-se em Engenharia de Software e Educação em Computação.
+  </p>
+  <p><b>Bio Rafael Rampim Soratto:</b>
+  Bacharel em 2022 em Ciência da Computação pela Universidade Tecnológica Federal do Paraná (UTFPR), Mestrando desde o ano de 2022 em Engenharia de Software pelo programa de Pós Graduação em Ciência da Computação do Campus Campo Mourão (PPGCC-CM). Suas pesquisas concentram-se em Engenharia de Software e Testes de Software.
+  </p>-->
 </div>	
 <p>&nbsp;</p>
 
