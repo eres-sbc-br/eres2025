@@ -165,6 +165,8 @@ header:
 
 <h3>Valores e Demais Informações</h3>
 
+<br>
+
 <strong>SÁBADOS, DOMINGOS E FERIADOS NACIONAIS (PARA GRUPOS ACIMA DE 15 PAGANTES):</strong>
 
 Passaporte Adulto (11 a 59 anos): R$ 85,00;<br>
