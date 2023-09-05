@@ -27,7 +27,7 @@ header:
     <td></td>
     <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/workshop" target="_blank">Workshop de Estudos Empíricos</a></strong><br><i>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)</i></td>
     <td></td>
-    <td colspan="2"><!--Conectadas à Eng. de Software--></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5" target="_blank">Minicurso 5</a></strong><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br><i>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP)</i></td>
   </tr>
   <tr>
     <td>10:00 - 10:30</td>
@@ -44,7 +44,7 @@ header:
     <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_c" target="_blank">Palestra C</a></strong><br>Qualidade de Software na Indústria<br><i>Camila L. Leal - DEP/UEM</i></td>
 	
     <td></td>
-    <td colspan="2"><!--Conectadas à Eng. de Software--></td>
+    <td colspan="2"><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5" target="_blank">Minicurso 5</a></strong><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br><i>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP)</i></td>
   </tr>
   <tr>
     <td>12:00 - 13:30</td>
@@ -72,8 +72,8 @@ header:
     <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_3" target="_blank">Minicurso 3</a></strong><br>Uso do Azure DevOps na Gestão do Projeto de Software<br><i>Nelson Tenorio Jr - UEM</i></td>
     <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_4" target="_blank">Minicurso 4</a></strong><br>Profissões do Futuro – Manipulando Dados com Power BI<br><i>Julio Cesar Pastoril - MentorsTec</i></td>
     <td></td>
-    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5" target="_blank">Minicurso 5</a></strong><br>Identificação de Testes Instáveis<br><i>Marco A. Graciotto Silva /  Rafael Rampim Soratto - UTFPR-CM</i></td>
-    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_6" target="_blank">Minicurso 6</a></strong><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br><i>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP)</i></td>
+    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_6" target="_blank">Minicurso 6</a></strong><br>Identificação de Testes Instáveis<br><i>Marco A. Graciotto Silva /  Rafael Rampim Soratto - UTFPR-CM</i></td>
+    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_7" target="_blank">Minicurso 7</a></strong><br></td>
   </tr>
   <tr>
     <td>15:00 - 15:30</td>
@@ -91,8 +91,8 @@ header:
     <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_3" target="_blank">Minicurso 3</a></strong><br>Uso do Azure DevOps na Gestão do Projeto de Software<br><i>Nelson Tenorio Jr - UEM</i></td>
     <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_4" target="_blank">Minicurso 4</a></strong><br>Profissões do Futuro – Manipulando Dados com Power BI<br><i>Julio Cesar Pastoril - MentorsTec</i></td>
     <td></td>
-    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5" target="_blank">Minicurso 5</a></strong><br>Identificação de Testes Instáveis<br><i>Marco A. Graciotto Silva /  Rafael Rampim Soratto - UTFPR-CM</i></td>
-    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_6" target="_blank">Minicurso 6</a></strong><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br><i>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP)</i></td>
+    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_6" target="_blank">Minicurso 6</a></strong><br>Identificação de Testes Instáveis<br><i>Marco A. Graciotto Silva /  Rafael Rampim Soratto - UTFPR-CM</i></td>
+    <td><strong><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_7" target="_blank">Minicurso 7</a></strong><br></td>
   </tr>
   <tr>
     <td></td>
