@@ -96,6 +96,7 @@ header:
   <a href="http://lattes.cnpq.br/7235951485247158" target="_blank">Currículo Lattes</a><br>		
   <br>
   <p><b>Bio - Marcelo Morandini: </b>  
+  Professor livre docente junto à Escola de Artes, Ciências e Humanidades da Universidade de São Paulo (EACH-USP) tanto em nível de graduação quanto no Programa de Pós-Graduação em Sistemas de Informação (PPgSI). Bacharel em Ciência da Computação pela Unesp – campus de São José do Rio Preto, Mestre em Ciência da Computação pelo ICMC, sob orientação do Prof. Dr. José Carlos Maldonado, Doutor em Engenharia de Produção e Sistemas pela UFSC, sob orientação do Prof. Walter de Abreu Cybis e fiz meu pós-doutoramento na University of Tennessee sob supervisão da Profa. Dra. Suzzanne Allard com financiamento da Fundação de Apoio à Pesquisa do Estado de São Paulo (FAPESP). Atua nas seguintes áreas: (1) Interação Humano-Computador, com maior interesse por ambientes automatizados de apoio à avaliação da Usabilidade e da User eXperience (UX) desses sistemas; (2) Data Science, com maior interesse na contextualização da visualização das informações e na gestão de dados pessoais e de grande volume de dados; e (3) Engenharia de Software, com interesse em modelos de desenvolvimento que caracterizem e qualifiquem os aspectos específicos de front-end.
   </p>
   <br>
   <img src="https://eres-sbc-br.github.io/eres2023/images/thiago.jpeg" alt="" align="center"><br>
