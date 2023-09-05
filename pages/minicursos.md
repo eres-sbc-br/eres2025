@@ -91,43 +91,6 @@ header:
 <div class="row t30" >
 <div class="medium-16 columns" id="minicurso_5">
 <h2>Minicurso 5</h2>
-      <img src="https://eres-sbc-br.github.io/eres2023/images/marcao.jpeg" alt="" align="center"><br>
-      <b>Prof. Dr. Marco Aurélio Graciotto Silva</b><br>		
-  <a href="https://lattes.cnpq.br/9383290036853173" target="_blank">Currículo Lattes</a><br>		
-  <br>
-  <p><b>Bio - Marco Aurélio Graciotto Silva:</b>
-  Bacharel em 2001 em Ciência da Computação pela Universidade Estadual de Maringá (UEM), Mestre em 2005 e Doutor em 2012 em Ciências da Computação e Matemática Computacional pela Universidade de São Paulo (ICMC-USP). Atualmente é Professor Associado da Universidade Tecnológica Federal do Paraná (UTFPR), no campus de Campo Mourão, atuando principalmente nos cursos de Bacharelado em Ciência da Computação (BCC) e no Mestrado Acadêmico em Ciência da Computação (PPGCC-CM). Suas pesquisas concentram-se em Engenharia de Software e Educação em Computação.
-  </p>
-  <br>
-  <img src="https://eres-sbc-br.github.io/eres2023/images/Soratto.jpeg" alt="" align="center"><br>
-      <b>Rafael Rampim Soratto</b><br>		
-  <a href=" https://lattes.cnpq.br/0402270119924533" target="_blank">Currículo Lattes</a><br>		<br>
-  
-  <p><b>Bio - Rafael Rampim Soratto:</b>
-  Bacharel em 2022 em Ciência da Computação pela Universidade Tecnológica Federal do Paraná (UTFPR), Mestrando desde o ano de 2022 em Engenharia de Software pelo programa de Pós Graduação em Ciência da Computação do Campus Campo Mourão (PPGCC-CM). Suas pesquisas concentram-se em Engenharia de Software e Testes de Software.
-  </p><br>
-  
-  <h4>Título: Identificação de Testes Instáveis</h4>		
-  <b>Data:</b> 08/Dez/2023 (Sexta-Feira) <br>
-  <b>Hora:</b> 13:30 - 15:00 e 15:30 - 17:00<br>
-  <br>
-  <p><b>Resumo:</b>
-  Teste instável, ou flaky test, é um caso de teste cujo resultado de execução varia de forma inesperada e pontual, geralmente falhando quando anteriormente sempre passava (e voltando a passar em seguida). Ele geralmente é encontrado durante os testes de regressão. Como eles acontecem de forma imprevisível, geralmente esporádica, acaba gerando custos indesejados ao desenvolvimento de software, seja pelo esforço para tratar todo teste instável quanto pelas consequências pela ausência do tratamento adequado desses casos de teste. Neste minicurso trataremos da identificação de casos de testes instáveis com técnicas baseadas na observação dos registros de testes de regressão, a reexecução de casos de teste e aplicação de algumas abordagens pesquisadas nos últimos anos.
-  </p>
-  <br>
-  <!--<p><b>Bio Marco Aurélio Graciotto Silva:</b>
-  Bacharel em 2001 em Ciência da Computação pela Universidade Estadual de Maringá (UEM), Mestre em 2005 e Doutor em 2012 em Ciências da Computação e Matemática Computacional pela Universidade de São Paulo (ICMC-USP). Atualmente é Professor Associado da Universidade Tecnológica Federal do Paraná (UTFPR), no campus de Campo Mourão, atuando principalmente nos cursos de Bacharelado em Ciência da Computação (BCC) e no Mestrado Acadêmico em Ciência da Computação (PPGCC-CM). Suas pesquisas concentram-se em Engenharia de Software e Educação em Computação.
-  </p>
-  <p><b>Bio Rafael Rampim Soratto:</b>
-  Bacharel em 2022 em Ciência da Computação pela Universidade Tecnológica Federal do Paraná (UTFPR), Mestrando desde o ano de 2022 em Engenharia de Software pelo programa de Pós Graduação em Ciência da Computação do Campus Campo Mourão (PPGCC-CM). Suas pesquisas concentram-se em Engenharia de Software e Testes de Software.
-  </p>-->
-</div>	
-<p>&nbsp;</p>
-
-
-<div class="row t30" >
-<div class="medium-16 columns" id="minicurso_6">
-<h2>Minicurso 6</h2>
       <img src="https://eres-sbc-br.github.io/eres2023/images/morandini.jpg" alt="" align="center"><br>
       <b>Prof. Dr. Marcelo Morandini (EACH-USP)</b><br>		
   <a href="http://lattes.cnpq.br/7235951485247158" target="_blank">Currículo Lattes</a><br>		
@@ -161,7 +124,41 @@ header:
 <p>&nbsp;</p>
 
 
-
+<div class="row t30" >
+<div class="medium-16 columns" id="minicurso_6">
+<h2>Minicurso 6</h2>
+      <img src="https://eres-sbc-br.github.io/eres2023/images/marcao.jpeg" alt="" align="center"><br>
+      <b>Prof. Dr. Marco Aurélio Graciotto Silva</b><br>		
+  <a href="https://lattes.cnpq.br/9383290036853173" target="_blank">Currículo Lattes</a><br>		
+  <br>
+  <p><b>Bio - Marco Aurélio Graciotto Silva:</b>
+  Bacharel em 2001 em Ciência da Computação pela Universidade Estadual de Maringá (UEM), Mestre em 2005 e Doutor em 2012 em Ciências da Computação e Matemática Computacional pela Universidade de São Paulo (ICMC-USP). Atualmente é Professor Associado da Universidade Tecnológica Federal do Paraná (UTFPR), no campus de Campo Mourão, atuando principalmente nos cursos de Bacharelado em Ciência da Computação (BCC) e no Mestrado Acadêmico em Ciência da Computação (PPGCC-CM). Suas pesquisas concentram-se em Engenharia de Software e Educação em Computação.
+  </p>
+  <br>
+  <img src="https://eres-sbc-br.github.io/eres2023/images/Soratto.jpeg" alt="" align="center"><br>
+      <b>Rafael Rampim Soratto</b><br>		
+  <a href=" https://lattes.cnpq.br/0402270119924533" target="_blank">Currículo Lattes</a><br>		<br>
+  
+  <p><b>Bio - Rafael Rampim Soratto:</b>
+  Bacharel em 2022 em Ciência da Computação pela Universidade Tecnológica Federal do Paraná (UTFPR), Mestrando desde o ano de 2022 em Engenharia de Software pelo programa de Pós Graduação em Ciência da Computação do Campus Campo Mourão (PPGCC-CM). Suas pesquisas concentram-se em Engenharia de Software e Testes de Software.
+  </p><br>
+  
+  <h4>Título: Identificação de Testes Instáveis</h4>		
+  <b>Data:</b> 08/Dez/2023 (Sexta-Feira) <br>
+  <b>Hora:</b> 13:30 - 15:00 e 15:30 - 17:00<br>
+  <br>
+  <p><b>Resumo:</b>
+  Teste instável, ou flaky test, é um caso de teste cujo resultado de execução varia de forma inesperada e pontual, geralmente falhando quando anteriormente sempre passava (e voltando a passar em seguida). Ele geralmente é encontrado durante os testes de regressão. Como eles acontecem de forma imprevisível, geralmente esporádica, acaba gerando custos indesejados ao desenvolvimento de software, seja pelo esforço para tratar todo teste instável quanto pelas consequências pela ausência do tratamento adequado desses casos de teste. Neste minicurso trataremos da identificação de casos de testes instáveis com técnicas baseadas na observação dos registros de testes de regressão, a reexecução de casos de teste e aplicação de algumas abordagens pesquisadas nos últimos anos.
+  </p>
+  <br>
+  <!--<p><b>Bio Marco Aurélio Graciotto Silva:</b>
+  Bacharel em 2001 em Ciência da Computação pela Universidade Estadual de Maringá (UEM), Mestre em 2005 e Doutor em 2012 em Ciências da Computação e Matemática Computacional pela Universidade de São Paulo (ICMC-USP). Atualmente é Professor Associado da Universidade Tecnológica Federal do Paraná (UTFPR), no campus de Campo Mourão, atuando principalmente nos cursos de Bacharelado em Ciência da Computação (BCC) e no Mestrado Acadêmico em Ciência da Computação (PPGCC-CM). Suas pesquisas concentram-se em Engenharia de Software e Educação em Computação.
+  </p>
+  <p><b>Bio Rafael Rampim Soratto:</b>
+  Bacharel em 2022 em Ciência da Computação pela Universidade Tecnológica Federal do Paraná (UTFPR), Mestrando desde o ano de 2022 em Engenharia de Software pelo programa de Pós Graduação em Ciência da Computação do Campus Campo Mourão (PPGCC-CM). Suas pesquisas concentram-se em Engenharia de Software e Testes de Software.
+  </p>-->
+</div>	
+<p>&nbsp;</p>
 <!--
 
 	<div class="row t30" id="minicurso_2">
