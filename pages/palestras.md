@@ -134,15 +134,16 @@ header:
 <div class="row t30" id="palestra_g">
 <h2>Palestra G</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2023/images/semfoto.jpg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2023/images/catarina.jpeg" alt="" align="center"><br>
       <b>Catarina Xavier (Embraer)</b><br>		
-  <a href="" target="_blank">Currículo Lattes</a><br>		
+  <a href="https://www.linkedin.com/in/catarina-xavier-25063822" target="_blank">Linkedin</a><br>		
   <h4>Título: Desenvolvimento e Certificação de Software Aeronáutico</h4>		
   <b>Data:</b> 08/Dez/2023 (Sexta-Feira) <br>
   <b>Hora:</b> 21:00 - 22:30 <br>
   <br>
-  <p><b>Resumo:
-	</b></p>
+  <p><b>Resumo:	</b> 
+  O desenvolvimento de software crítico traz consigo normas, regulamentos e a necessidade de um processo de engenharia de software bem definido e robusto, e esse é o caso do software aeronáutico. Trarei um pouco da minha trajetória profissional e também a história da Embraer, mostrando como é a empresa, seus produtos, portas de entrada na empresa, e explicando como funciona o desenvolvimento de um software aeronáutico, quais as normas envolvidas e como é feita a certificação com as autoridades.
+  </p>
   <br>
   <p><b>Bio:</b></p>
 </div>	
