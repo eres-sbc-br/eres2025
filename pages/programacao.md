@@ -169,12 +169,23 @@ header:
 </thead>
 <tbody>
   <tr>
+    <td>08:00</td>
+    <td colspan="2"><a href="https://goo.gl/maps/J8tojLEbD75j1Fz5A" target="_blank">Credenciamento - Bloco B33</a></td>
+    <td></td>
+    <td colspan="2"><a href="https://goo.gl/maps/J8tojLEbD75j1Fz5A" target="_blank">Credenciamento - Bloco B33</a></td>
+    <td></td>
+    <td colspan="2"><a href="https://goo.gl/maps/J8tojLEbD75j1Fz5A" target="_blank">Credenciamento - Bloco B33</a></td>
+  </tr>
+  <tr>
     <td>08:30 - 10:00</td>
-    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a><br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)</td>
+    <td><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a><br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)</td>
     <td></td>
-    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a><br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)</td>
     <td></td>
-    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5">Minicurso 5</a><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP)</td>
+    <td><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a><br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)</td>
+    <td></td>
+    <td></td>
+    <td><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5">Minicurso 5</a><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP)</td>
+    <td></td>
   </tr>
   <tr>
     <td>10:00 - 10:30</td>
