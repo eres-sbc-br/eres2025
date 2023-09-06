@@ -178,10 +178,10 @@ header:
   </tr>
   <tr>
     <td>08:30 - 10:00</td>
-    <td><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a><br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)</td>
+    <td><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos (DIN - Sala 102)</a><br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)</td>
     <td></td>
     <td></td>
-    <td><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a><br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)</td>
+    <td><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos (DIN - Sala 102)</a><br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)</td>
     <td></td>
     <td></td>
     <td><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5">Minicurso 5</a><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP)</td>
@@ -197,7 +197,7 @@ header:
   </tr>
   <tr>
     <td>10:30 - 12:00</td>
-    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a><br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)</td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos (DIN - Sala 102)</a><br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)</td>
     <td></td>
     <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_c">Palestra C</a><br>Qualidade de Software na Indústria<br>Camila L. Leal - DEP/UEM</td>
     <td></td>
