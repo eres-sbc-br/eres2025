@@ -169,7 +169,7 @@ header:
 </thead>
 <tbody>
   <tr>
-    <td>08:00</td>
+    <td>08:00 - 12:00</td>
     <td colspan="2"><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">Credenciamento - DIN Bloco C56 - Sala 002 - Térreo</a></td>
     <td></td>
     <td colspan="2"><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">Credenciamento - DIN Bloco C56 - Sala 002 - Térreo</a></td>
