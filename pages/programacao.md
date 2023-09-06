@@ -172,7 +172,7 @@ header:
     <td>08:00 - 12:00</td>
     <td colspan="2">Credenciamento
 	<br>
-	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">DIN Bloco C56 - Sala 002 - Térreo</a></td>
+	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="50"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">DIN Bloco C56 - Sala 002 - Térreo</a></td>
     <td></td>
     <td colspan="2"><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">Credenciamento - DIN Bloco C56 - Sala 002 - Térreo</a></td>
     <td></td>
