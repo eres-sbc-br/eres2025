@@ -25,9 +25,9 @@ header:
     <td>08:00 - 12:00</td>
     <td colspan="2">Credenciamento 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 002 - Térreo</a></td>
     <td></td>
-    <td colspan="2"><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">Credenciamento 	</a><br><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7"> 	</a><img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 002 - Térreo</a></td>
+    <td colspan="2">Credenciamento <br>	</a><img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 002 - Térreo</a></td>
     <td></td>
-    <td colspan="2"><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">Credenciamento 	</a><br><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7"> 	</a><img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 002 - Térreo</a></td>
+    <td colspan="2">Credenciamento <br> </a><img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 002 - Térreo</a></td>
   </tr>
   <tr>
     <td>08:30 - 10:00</td>
