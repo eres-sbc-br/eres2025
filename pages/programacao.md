@@ -178,7 +178,9 @@ header:
   </tr>
   <tr>
     <td>08:30 - 10:00</td>
-    <td><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos - </a><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">DIN Bloco C56 - Sala 102</a><br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)</td>
+    <td><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a>
+	<br>
+	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" alt="Minha Figura"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">DIN Bloco C56 - Sala 102</a><br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)</td>
     <td></td>
     <td></td>
     <td><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos - </a><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">DIN Bloco C56 - Sala 102</a><br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)</td>
