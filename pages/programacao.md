@@ -172,28 +172,28 @@ header:
     <td>08:00 - 12:00</td>
     <td colspan="2">Credenciamento
 	<br>
-	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="25"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">DIN Bloco C56 - Sala 002 - Térreo</a></td>
+	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">DIN Bloco C56 - Sala 002 - Térreo</a></td>
     <td></td>
     <td colspan="2"><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">Credenciamento
 	<br>
-	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="25">DIN Bloco C56 - Sala 002 - Térreo</a></td>
+	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20">DIN Bloco C56 - Sala 002 - Térreo</a></td>
     <td></td>
     <td colspan="2"><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">Credenciamento
 	<br>
-	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="25">DIN Bloco C56 - Sala 002 - Térreo</a></td>
+	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20">DIN Bloco C56 - Sala 002 - Térreo</a></td>
   </tr>
   <tr>
     <td>08:30 - 10:00</td>
     <td><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a>
 	<br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)
 	<br>
-	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">DIN Bloco C56 - Sala 102</a></td>
+	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">DIN Bloco C56 - Sala 102</a></td>
     <td></td>
     <td></td>
     <td><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos
 	<br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)
 	<br>
-	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">DIN Bloco C56 - Sala 102</a>
+	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">DIN Bloco C56 - Sala 102</a>
 	</td>
     <td></td>
     <td></td>
@@ -213,7 +213,7 @@ header:
     <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos
 	<br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)
 	<br>
-	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">DIN Bloco C56 - Sala 102</a>
+	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">DIN Bloco C56 - Sala 102</a>
 	</td>
     <td></td>
     <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_c">Palestra C - </a><a href="https://goo.gl/maps/J8tojLEbD75j1Fz5A" target="_blank">Auditório Bloco B33</a><br>Qualidade de Software na Indústria<br>Camila L. Leal - DEP/UEM</td>
