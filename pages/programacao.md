@@ -35,7 +35,7 @@ header:
     <td></td>
     <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a> 	<br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP) 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 102</a> 	</td>
     <td></td>
-    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5">Minicurso 5</a><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP)</td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5">Minicurso 5</a><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP) <br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Lab. Sala 12 - Térreo</a></td>
   </tr>
   <tr>
     <td>10:00 - 10:30</td>
@@ -51,7 +51,7 @@ header:
     <td></td>
     <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_c">Palestra C</a><br>Qualidade de Software na Indústria<br>Camila L. Leal - DEP/UEM 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a> 	</td>
     <td></td>
-    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5">Minicurso 5</a><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP) <br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 102</a></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5">Minicurso 5</a><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP) <br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Lab. Sala 12 - Térreo</a></td>
   </tr>
   <tr>
     <td>12:00 - 13:30</td>
