@@ -170,11 +170,11 @@ header:
 <tbody>
   <tr>
     <td>08:00</td>
-    <td colspan="2"><a href="https://goo.gl/maps/J8tojLEbD75j1Fz5A" target="_blank">Credenciamento - Bloco B33</a></td>
+    <td colspan="2"><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">Credenciamento - DIN Bloco C56 - Sala 002 - Térreo</a></td>
     <td></td>
-    <td colspan="2"><a href="https://goo.gl/maps/J8tojLEbD75j1Fz5A" target="_blank">Credenciamento - Bloco B33</a></td>
+    <td colspan="2"><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">Credenciamento - DIN Bloco C56 - Sala 002 - Térreo</a></td>
     <td></td>
-    <td colspan="2"><a href="https://goo.gl/maps/J8tojLEbD75j1Fz5A" target="_blank">Credenciamento - Bloco B33</a></td>
+    <td colspan="2"><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">Credenciamento - DIN Bloco C56 - Sala 002 - Térreo</a></td>
   </tr>
   <tr>
     <td>08:30 - 10:00</td>
