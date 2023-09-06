@@ -63,7 +63,8 @@ header:
   </tr>
   <tr>
     <td></td>
-    <td colspan="2">Abertura - 13:00 - 13:30</td>
+    <td colspan="2">Abertura - 13:00 - 13:30
+	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
     <td></td>
     <td colspan="2"></td>
     <td></td>
@@ -87,13 +88,13 @@ header:
   </tr>
   <tr>
     <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_1">Sessão Técnica 1</a>
-	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">Auditório Bloco B33</a></td>
+	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
     <td></td>
     <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_3">Sessão Técnica 3</a>
-	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">Auditório Bloco B33</a></td>
+	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
     <td></td>
     <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_5">Sessão Técnica 5</a>
-	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">Auditório Bloco B33</a></td>
+	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
   </tr>
   <tr>
     <td>15:00 - 15:30</td>
@@ -120,13 +121,13 @@ header:
   </tr>
   <tr>
     <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_2">Sessão Técnica 2</a>
-	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">Auditório Bloco B33</a></td>
+	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
     <td></td>
     <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_4">Sessão Técnica 4</a>
-	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">Auditório Bloco B33</a></td>
+	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
     <td></td>
     <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_6">Sessão Técnica 6</a>
-	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">Auditório Bloco B33</a></td>
+	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
   </tr>
   <tr>
     <td>17:00 - 19:00</td>
