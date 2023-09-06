@@ -170,35 +170,19 @@ header:
 <tbody>
   <tr>
     <td>08:00 - 12:00</td>
-    <td colspan="2">Credenciamento
-	<br>
-	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">DIN Bloco C56 - Sala 002 - Térreo</a></td>
+    <td colspan="2">Credenciamento 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"># <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 002 - Térreo</a></td>
     <td></td>
-    <td colspan="2"><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">Credenciamento
-	<br>
-	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20">DIN Bloco C56 - Sala 002 - Térreo</a></td>
+    <td colspan="2"><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">Credenciamento 	</a><br><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7"> 	</a><img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">#DIN Bloco C56 - Sala 002 - Térreo</a></td>
     <td></td>
-    <td colspan="2"><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">Credenciamento
-	<br>
-	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20">DIN Bloco C56 - Sala 002 - Térreo</a></td>
+    <td colspan="2"><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">Credenciamento 	</a><br><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7"> 	</a><img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"><a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">#DIN Bloco C56 - Sala 002 - Térreo</a></td>
   </tr>
   <tr>
     <td>08:30 - 10:00</td>
-    <td><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a>
-	<br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)
-	<br>
-	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">DIN Bloco C56 - Sala 102</a></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a> 	<br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP) 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"># <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 102</a></td>
     <td></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a> 	<br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP) 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"># <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 102</a> 	</td>
     <td></td>
-    <td><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a>
-	<br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)
-	<br>
-	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">DIN Bloco C56 - Sala 102</a>
-	</td>
-    <td></td>
-    <td></td>
-    <td><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5">Minicurso 5</a><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP)</td>
-    <td></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5">Minicurso 5</a><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP)</td>
   </tr>
   <tr>
     <td>10:00 - 10:30</td>
@@ -210,16 +194,9 @@ header:
   </tr>
   <tr>
     <td>10:30 - 12:00</td>
-    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a>
-	<br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)
-	<br>
-	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7" target="_blank">DIN Bloco C56 - Sala 102</a>
-	</td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a> 	<br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP) 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"># <a href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 102</a> 	</td>
     <td></td>
-    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_c">Palestra C</a><br>Qualidade de Software na Indústria<br>Camila L. Leal - DEP/UEM
-	<br>
-	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a href="https://goo.gl/maps/J8tojLEbD75j1Fz5A" target="_blank">Auditório Bloco B33</a>
-	</td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_c">Palestra C</a><br>Qualidade de Software na Indústria<br>Camila L. Leal - DEP/UEM 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"># <a href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a> 	</td>
     <td></td>
     <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5">Minicurso 5</a><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP)</td>
   </tr>
@@ -235,11 +212,9 @@ header:
     <td></td>
     <td colspan="2">Abertura - 13:00 - 13:30</td>
     <td></td>
+    <td colspan="2"></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="2"></td>
   </tr>
   <tr>
     <td rowspan="2">13:30 - 15:00</td>
@@ -253,11 +228,11 @@ header:
     <td><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_7">Minicurso 7</a><br></td>
   </tr>
   <tr>
-    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_1" target="_blank" rel="noopener noreferrer">Sessão Técnica 1</a></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_1">Sessão Técnica 1</a></td>
     <td></td>
-    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_3" target="_blank" rel="noopener noreferrer">Sessão Técnica 3</a></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_3">Sessão Técnica 3</a></td>
     <td></td>
-    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_5" target="_blank" rel="noopener noreferrer">Sessão Técnica 5</a></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_5">Sessão Técnica 5</a></td>
   </tr>
   <tr>
     <td>15:00 - 15:30</td>
@@ -282,11 +257,11 @@ header:
     <td><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_7">Minicurso 7</a><br></td>
   </tr>
   <tr>
-    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_2" target="_blank" rel="noopener noreferrer">Sessão Técnica 2</a></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_2">Sessão Técnica 2</a></td>
     <td></td>
-    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_4" target="_blank" rel="noopener noreferrer">Sessão Técnica 4</a></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_4">Sessão Técnica 4</a></td>
     <td></td>
-    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_6" target="_blank" rel="noopener noreferrer">Sessão Técnica 6</a></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_6">Sessão Técnica 6</a></td>
   </tr>
   <tr>
     <td>17:00 - 19:00</td>
