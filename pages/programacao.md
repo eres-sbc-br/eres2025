@@ -140,13 +140,13 @@ header:
   <tr>
     <td>19:00 - 20:15</td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_a">Palestra A</a><br>Educação em ES<br>Ellen Barbosa - ICMC/USP
-	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</td>
+	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
     <td></td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_d">Palestra D</a><br>Como o uso de artefatos de modelos pode auxiliar as empresas desenvolvedoras de software em seus processos? O relato de uma pesquisa no Brasil<br>André Menolli - UENP
-	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</td>
+	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
     <td></td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_f">Palestra F</a><br>O Uso de Técnicas de Especificação de Requisitos na Indústria<br>Edna Dias Canedo - UnB
-	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</td>
+	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
   </tr>
   <tr>
     <td>20:15 - 20:35</td>
@@ -159,13 +159,13 @@ header:
   <tr>
     <td>20:35 - 21:50</td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_b">Palestra B</a><br>Open-source, como começar? motivações e desafios!<br>Igor Wiese - UTFPR-CM
-	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</td>
+	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
     <td></td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_e">Palestra E</a><br>Teste de Software: Pesquisa e Ação<br>Fabiano Ferrari - UFSCar
-	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</td>
+	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
     <td></td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_g">Palestra G</a><br>Desenvolvimento e Certificação de Software Aeronáutico<br>Catarina Xavier - Embraer
-	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</td>
+	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
   </tr>
   <tr>
     <td>21:50 ....</td>
@@ -175,7 +175,7 @@ header:
     <td colspan="2">Confraternização por Adesão</td>
     <td></td>
     <td colspan="2">Encerramento e Premiações
-	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</td>
+	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
   </tr>
 </tbody>
 </table>
