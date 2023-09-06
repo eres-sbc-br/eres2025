@@ -23,19 +23,19 @@ header:
 <tbody>
   <tr>
     <td>08:00 - 12:00</td>
-    <td colspan="2">Credenciamento <br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 002 - Térreo</a></td>
+    <td colspan="2">Credenciamento <br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 002 - Térreo</a></td>
     <td></td>
-    <td colspan="2">Credenciamento <br>	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"><a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 002 - Térreo</a></td>
+    <td colspan="2">Credenciamento <br>	<img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"><a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 002 - Térreo</a></td>
     <td></td>
-    <td colspan="2">Credenciamento <br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"><a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 002 - Térreo</a></td>
+    <td colspan="2">Credenciamento <br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"><a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 002 - Térreo</a></td>
   </tr>
   <tr>
     <td>08:30 - 10:00</td>
-    <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a> 	<br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP) 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 102</a></td>
+    <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a> 	<br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP) 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 102</a></td>
     <td></td>
-    <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a> 	<br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP) 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 102</a> 	</td>
+    <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a> 	<br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP) 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 102</a> 	</td>
     <td></td>
-    <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5">Minicurso 5</a><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP) <br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN1 Sala 12 - Térreo</a></td>
+    <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5">Minicurso 5</a><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP) <br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN1 Sala 12 - Térreo</a></td>
   </tr>
   <tr>
     <td>10:00 - 10:30</td>
@@ -47,11 +47,11 @@ header:
   </tr>
   <tr>
     <td>10:30 - 12:00</td>
-    <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a> 	<br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP) 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 102</a> 	</td>
+    <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a> 	<br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP) 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 102</a> 	</td>
     <td></td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_c">Palestra C</a><br>Qualidade de Software na Indústria<br>Camila L. Leal - DEP/UEM 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a> 	</td>
     <td></td>
-    <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5">Minicurso 5</a><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP) <br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN1 Sala 12 - Térreo</a></td>
+    <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5">Minicurso 5</a><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP) <br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN1 Sala 12 - Térreo</a></td>
   </tr>
   <tr>
     <td>12:00 - 13:30</td>
@@ -73,17 +73,17 @@ header:
   <tr>
     <td rowspan="2">13:30 - 15:00</td>
     <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_1">Minicurso 1</a><br>Design Centrado no Usuário: Entendendo e Explorando o Design Thinking<br>Guilherme Guerino - UNESPAR
-	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN1 Sala 12 - Térreo</a></td>
+	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN1 Sala 12 - Térreo</a></td>
     <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_2">Minicurso 2</a><br>Introdução a Teste de Software em Python<br>Lilian Scatalon - UEM
-	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN2 Sala 10 - Térreo</a></td>
+	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN2 Sala 10 - Térreo</a></td>
     <td></td>
     <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_3">Minicurso 3</a><br>Uso do Azure DevOps na Gestão do Projeto de Software<br>Nelson Tenorio Jr - UEM
-	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN1 Sala 12 - Térreo</a></td>
+	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN1 Sala 12 - Térreo</a></td>
     <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_4">Minicurso 4</a><br>Profissões do Futuro – Manipulando Dados com Power BI<br>Julio Cesar Pastoril - MentorsTec
-	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN2 Sala 10 - Térreo</a></td>
+	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN2 Sala 10 - Térreo</a></td>
     <td></td>
     <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_6">Minicurso 6</a><br>Identificação de Testes Instáveis<br>Marco A. Graciotto Silva /  Rafael Rampim Soratto - UTFPR-CM
-	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN1 Sala 12 - Térreo</a></td>
+	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN1 Sala 12 - Térreo</a></td>
     <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_7">Minicurso 7</a><br></td>
   </tr>
   <tr>
@@ -110,13 +110,13 @@ header:
   <tr>
     <td rowspan="2">15:30 - 17:00</td>
     <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_1">Minicurso 1</a><br>Design Centrado no Usuário: Entendendo e Explorando o Design Thinking<br>Guilherme Guerino - UEM
-	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN1 Sala 12 - Térreo</a></td>
-    <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_2">Minicurso 2</a><br>Introdução a Teste de Software em Python<br>Lilian Scatalon - UEM<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN2 Sala 10 - Térreo</a></td>
+	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN1 Sala 12 - Térreo</a></td>
+    <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_2">Minicurso 2</a><br>Introdução a Teste de Software em Python<br>Lilian Scatalon - UEM<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN2 Sala 10 - Térreo</a></td>
     <td></td>
-    <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_3">Minicurso 3</a><br>Uso do Azure DevOps na Gestão do Projeto de Software<br>Nelson Tenorio Jr - UEM<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN1 Sala 12 - Térreo</a></td>
-    <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_4">Minicurso 4</a><br>Profissões do Futuro – Manipulando Dados com Power BI<br>Julio Cesar Pastoril - MentorsTec<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN2 Sala 10 - Térreo</a></td>
+    <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_3">Minicurso 3</a><br>Uso do Azure DevOps na Gestão do Projeto de Software<br>Nelson Tenorio Jr - UEM<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN1 Sala 12 - Térreo</a></td>
+    <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_4">Minicurso 4</a><br>Profissões do Futuro – Manipulando Dados com Power BI<br>Julio Cesar Pastoril - MentorsTec<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN2 Sala 10 - Térreo</a></td>
     <td></td>
-    <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_6">Minicurso 6</a><br>Identificação de Testes Instáveis<br>Marco A. Graciotto Silva /  Rafael Rampim Soratto - UTFPR-CM<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN1 Sala 12 - Térreo</a></td>
+    <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_6">Minicurso 6</a><br>Identificação de Testes Instáveis<br>Marco A. Graciotto Silva /  Rafael Rampim Soratto - UTFPR-CM<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN1 Sala 12 - Térreo</a></td>
     <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_7">Minicurso 7</a><br></td>
   </tr>
   <tr>
