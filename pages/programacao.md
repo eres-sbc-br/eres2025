@@ -8,7 +8,7 @@ header:
 ---
 <hr>
 
-
+<!--
 <table border="1">
 <thead>
   <tr>
@@ -144,6 +144,153 @@ header:
   </tr>
   <tr>
     <td>22:30 ....</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="2">Confraternização por Adesão</td>
+    <td></td>
+    <td colspan="2">Encerramento e Premiações</td>
+  </tr>
+</tbody>
+</table>
+
+-->
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th colspan="2">Quarta-Feira (06/12)</th>
+    <th></th>
+    <th colspan="2">Quinta-Feira (07/12)</th>
+    <th></th>
+    <th colspan="2">Sexta-Feira (08/12)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>08:30 - 10:00</td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a><br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)</td>
+    <td></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a><br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)</td>
+    <td></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5">Minicurso 5</a><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP)</td>
+  </tr>
+  <tr>
+    <td>10:00 - 10:30</td>
+    <td colspan="2">Intervalo</td>
+    <td></td>
+    <td colspan="2">Intervalo</td>
+    <td></td>
+    <td colspan="2">Intervalo</td>
+  </tr>
+  <tr>
+    <td>10:30 - 12:00</td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a><br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP)</td>
+    <td></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_c">Palestra C</a><br>Qualidade de Software na Indústria<br>Camila L. Leal - DEP/UEM</td>
+    <td></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5">Minicurso 5</a><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP)</td>
+  </tr>
+  <tr>
+    <td>12:00 - 13:30</td>
+    <td colspan="2">Intervalo</td>
+    <td></td>
+    <td colspan="2">Intervalo</td>
+    <td></td>
+    <td colspan="2">Intervalo</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Abertura - 13:00 - 13:30</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">13:30 - 15:00</td>
+    <td><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_1">Minicurso 1</a><br>Design Centrado no Usuário: Entendendo e Explorando o Design Thinking<br>Guilherme Guerino - UNESPAR</td>
+    <td><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_2">Minicurso 2</a><br>Introdução a Teste de Software em Python<br>Lilian Scatalon - UEM</td>
+    <td></td>
+    <td><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_3">Minicurso 3</a><br>Uso do Azure DevOps na Gestão do Projeto de Software<br>Nelson Tenorio Jr - UEM</td>
+    <td><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_4">Minicurso 4</a><br>Profissões do Futuro – Manipulando Dados com Power BI<br>Julio Cesar Pastoril - MentorsTec</td>
+    <td></td>
+    <td><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_6">Minicurso 6</a><br>Identificação de Testes Instáveis<br>Marco A. Graciotto Silva /  Rafael Rampim Soratto - UTFPR-CM</td>
+    <td><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_7">Minicurso 7</a><br></td>
+  </tr>
+  <tr>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_1" target="_blank" rel="noopener noreferrer">Sessão Técnica 1</a></td>
+    <td></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_3" target="_blank" rel="noopener noreferrer">Sessão Técnica 3</a></td>
+    <td></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_5" target="_blank" rel="noopener noreferrer">Sessão Técnica 5</a></td>
+  </tr>
+  <tr>
+    <td>15:00 - 15:30</td>
+    <td>Intervalo</td>
+    <td></td>
+    <td></td>
+    <td>Intervalo</td>
+    <td></td>
+    <td></td>
+    <td>Intervalo</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">15:30 - 17:00</td>
+    <td><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_1">Minicurso 1</a><br>Design Centrado no Usuário: Entendendo e Explorando o Design Thinking<br>Guilherme Guerino - UEM</td>
+    <td><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_2">Minicurso 2</a><br>Introdução a Teste de Software em Python<br>Lilian Scatalon - UEM</td>
+    <td></td>
+    <td><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_3">Minicurso 3</a><br>Uso do Azure DevOps na Gestão do Projeto de Software<br>Nelson Tenorio Jr - UEM</td>
+    <td><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_4">Minicurso 4</a><br>Profissões do Futuro – Manipulando Dados com Power BI<br>Julio Cesar Pastoril - MentorsTec</td>
+    <td></td>
+    <td><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_6">Minicurso 6</a><br>Identificação de Testes Instáveis<br>Marco A. Graciotto Silva /  Rafael Rampim Soratto - UTFPR-CM</td>
+    <td><a href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_7">Minicurso 7</a><br></td>
+  </tr>
+  <tr>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_2" target="_blank" rel="noopener noreferrer">Sessão Técnica 2</a></td>
+    <td></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_4" target="_blank" rel="noopener noreferrer">Sessão Técnica 4</a></td>
+    <td></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_6" target="_blank" rel="noopener noreferrer">Sessão Técnica 6</a></td>
+  </tr>
+  <tr>
+    <td>17:00 - 19:00</td>
+    <td colspan="2">Intervalo</td>
+    <td></td>
+    <td colspan="2">Intervalo</td>
+    <td></td>
+    <td colspan="2">Intervalo</td>
+  </tr>
+  <tr>
+    <td>19:00 - 20:15</td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_a">Palestra A</a><br>Educação em ES<br>Ellen Barbosa - ICMC/USP</td>
+    <td></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_d">Palestra D</a><br>Como o uso de artefatos de modelos pode auxiliar as empresas desenvolvedoras de software em seus processos? O relato de uma pesquisa no Brasil<br>André Menolli - UENP</td>
+    <td></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_f">Palestra F</a><br>O Uso de Técnicas de Especificação de Requisitos na Indústria<br>Edna Dias Canedo - UnB</td>
+  </tr>
+  <tr>
+    <td>20:15 - 20:35</td>
+    <td colspan="2">Intervalo</td>
+    <td></td>
+    <td colspan="2">Intervalo</td>
+    <td></td>
+    <td colspan="2">Intervalo</td>
+  </tr>
+  <tr>
+    <td>20:35 - 21:50</td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_b">Palestra B</a><br>Open-source, como começar? motivações e desafios!<br>Igor Wiese - UTFPR-CM</td>
+    <td></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_e">Palestra E</a><br>Teste de Software: Pesquisa e Ação<br>Fabiano Ferrari - UFSCar</td>
+    <td></td>
+    <td colspan="2"><a href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_g">Palestra G</a><br>Desenvolvimento e Certificação de Software Aeronáutico<br>Catarina Xavier - Embraer</td>
+  </tr>
+  <tr>
+    <td>21:50 ....</td>
     <td></td>
     <td></td>
     <td></td>
