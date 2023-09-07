@@ -36,7 +36,7 @@ header:
 
 <p>Independentemente da trilha de submissão, é exigido que pelo menos 1 (um) dos autores de cada artigo aceito se inscreva e apresente PRESENCIALMENTE o trabalho no evento para que seja incluído nos anais. </p>
 
-<h5>Observações Importantes</h5>
+<strong>Observações Importantes</strong>
 <ul>
   <li>As submissões que não estiverem finalizadas de acordo com os dados solicitados pelo JEMS e os arquivos correspondentes devidamente postados segundo as regras estabelecidas nesta chamada serão imediatamente rejeitadas;</li>
   <li>Os melhores artigos do Fórum de Graduação poderão ser convidados para submeter uma versão estendida para uma edição especial da <strong>Revista Eletrônica de Iniciação Científica em Computação (REIC) da SBC</strong>;</li>
