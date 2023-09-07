@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Hospedagem e Alojamento"
+title: ""
 #meta_title: "Dúvidas? Entre em contato conosco"
 subheadline: ""
 #teaser: "Entre em contato conosco pelo e-mail #eres2020.uem@gmail.com"
@@ -9,14 +9,52 @@ header:
    image_fullwidth: BannerERES2023.png
 ---
 <hr>
-<center>Em construção</center>
-<!-- <p>Confira uma lista de locais para acomodações em Blumenau: <a href="https://www.turismoblumenau.com.br/onde-ficar-hostels-hoteis-pousadas-em-blumenau/">hostels/hotéis/pousadas</a>.
 
-<p>Aos participantes da ERES 2022 e tamb&eacute;m &agrave;s caravanas de outras cidades/estados, ser&aacute; ofertado alojamento no <strong>SESI Centro Esportivo Bernardo Werner</strong> (R. Itaja&iacute;, 3434 - Vorstadt, Blumenau - SC, 89015-201).</p>
+<h1>Hospedagem</h1>
+
+Os seguintes hotéis são recomendados para a ERES 2023:
+
 <ul>
-<li>O alojamento oferecido ser&aacute; sem roupa de cama (isto &eacute;, o participante dever&aacute; providenciar len&ccedil;ol, cobertor, travesseiro e fronha);</li>
-<li>O valor da di&aacute;ria no alojamento &eacute; de <strong>R$ 35,00</strong>, sendo permitido no m&aacute;ximo 4 di&aacute;rias (conforme datas do evento: entrada a qualquer momento de segunda-feira, e sa&iacute;da na sexta-feira).</li>
+
+<li>Hotel King Konfort - Rua Campos Sales, 326 - www.kingkonforthotel.com.br</li>
+
+<li>Hotel Ibis Budget - Av. Horacio Raccanello, 5105 - https://all.accor.com/hotel/8998/index.pt-br.shtml</li>
+
+<li>Hotel Ibis - Av. XV de Novembro, 129 - https://all.accor.com/hotel/3732/index.pt-br.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps</li>
+
+<li>Hotel Golden Ingá - R. Néo Alves Martins, 2398 - https://www.goldeninga.com.br/</li>
+
+<li>Hotel Deville - Av. Herval, 26 - https://www.deville.com.br/hotel-deville-business-maringa</li>
+
+<li>Hotel Metrópole - Av. XV de Novembro, 470 - https://www.hotelmetropolemaringa.com.br/</li>
+
+
+<li>Hotel Ipiranga - Av. Tamandare, 409 - https://www.ipirangahotel.com.br/</li>
+
+<li>Rio Hotel by Bourbon Maringa - Av. Colombo 9161 - https://www.bourbon.com.br/hotelrio/rio-hotel-by-bourbon-maringa</li>
+
+<li>Hotel Thomasi - Av. Colombo, 3531 - https://www.hotelthomasi.com.br/</li>
+
+<li>Hotel Avalon - Rua Joubert de Carvalho, 817 - https://hotelmaringa.com/</li>
+
+<li>Hotel Caiuá Express - Av. Tuiuti, 434 - https://www.hotelcaiua.com.br/</li>
+
+<li>Hotel Harbor Self Cidade Verde - Rua Santos Dumont, 2516 - https://www.harborhoteis.com.br/hotel-harbor-self-cidade-verde/o-hotel</li>
+
+<li>Araucária Hotel - Rua Joubert de Carvalho, 831 - https://www.hotelaraucaria.com.br/</li>
+
+<li>Hotel Astória - Av. Tamandaré, 241 - https://hotelastoria.com.br/</li>
+
 </ul>
-<p>Reserva e pagamento dever&atilde;o ser feitas diretamente com a RECEP&Ccedil;&Atilde;O DO SESI por interm&eacute;dio do n&uacute;mero WahstApp <a href="https://api.whatsapp.com/send/?phone=554732315212">+55 47 3231-5212</a>. No ato da reserva do alojamento, deverá ser informado a participação no evento #ERES2022.</p> -->
+
+
+
+
+
+<hr>
+<h1>Alojamento</h1>
+
+Em breve....
+
 
 <p>Esperamos vocês na ERES 2022!</p>
