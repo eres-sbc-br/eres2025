@@ -46,9 +46,9 @@ header:
 
 <h5><strong>Datas Importantes</strong></h5>
 <ul>  
-  <li><strong>Submissão de Artigos</strong>: <s>15 de setembro de 2023</s> 25 de setembro de 2023</li>
-  <li><strong>Notificação aos Autores</strong>: <s>09 de outubro de 2023</s> 19 de outubro de 2023</li>
-  <li><strong>Envio da Versão Final</strong>: <s>23 de outubro de 2023</s> 30 de outubro de 2023</li>
+  <li><strong>Submissão de Artigos</strong>: <s>15 de setembro de 2023</s>  <font color="red">25 de setembro de 2023</font></li> 
+  <li><strong>Notificação aos Autores</strong>: <s>09 de outubro de 2023</s>  <font color="red">19 de outubro de 2023</font></li>
+  <li><strong>Envio da Versão Final</strong>: <s>23 de outubro de 2023</s>  <font color="red">30 de outubro de 2023</font></li>
 </ul>
 
 
