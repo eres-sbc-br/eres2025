@@ -18,9 +18,18 @@ header:
 
 <p>A Programação da ERES 2023 está sendo elaborada com palestras, minicursos e submissões de artigos para serem apresentados em um Fórum de Graduação, um Fórum de Pós-Graduação e um Fórum de Extensão:</p>
 
-<p><strong>Fórum de Graduação:</strong> Espaço destinado para apresentação dos trabalhos de pesquisa ou relatos de experiência em Engenharia de Software, desenvolvidos por acadêmicos de graduação, principalmente das IES catarinenses, gaúchas e paranaenses.</p>
-<p><strong>Fórum de Pós-Graduação:</strong> Espaço para apresentação de trabalhos de estudantes de pós-graduação, com o objetivo de incentivar a troca de experiências e divulgar pesquisas em andamento e/ou concluídas e resultados obtidos. Além da clareza do trabalho, relevância do tema, e qualidade da apresentação, o Comitê Científico da ERES 2023 avaliará também as contribuições científicas do trabalho.</p>
-<p><strong>Fórum de Extensão:</strong> Espaço para apresentação de trabalhos de relatos das atividades extensionistas aplicados aos currículos de computação, especialmente da Engenharia de Software, e de que forma estão implantando a inserção da extensão em seus currículos conforme previsto na Resolução CNE/CES nº 7, de 18 de dezembro de 2018. O objetivo é incentivar a troca de experiências entre docentes coordenadores de programas e projetos de extensão.</p>
+<ul>
+	<li><strong>Fórum de Graduação:</strong> Espaço destinado para apresentação dos trabalhos de pesquisa ou relatos de experiência em Engenharia de Software, desenvolvidos por acadêmicos de graduação, principalmente das IES catarinenses, gaúchas e paranaenses.</li>
+
+	<li><strong>Fórum de Pós-Graduação:</strong> Espaço para apresentação de trabalhos de estudantes de pós-graduação, com o objetivo de incentivar a troca de experiências e divulgar pesquisas em andamento e/ou concluídas e resultados obtidos. Além da clareza do trabalho, relevância do tema, e qualidade da apresentação, o Comitê Científico da ERES 2023 avaliará também as contribuições científicas do trabalho.</li>
+
+	<li><strong>Fórum de Extensão:</strong> Espaço para apresentação de trabalhos de relatos das atividades extensionistas aplicados aos currículos de computação, especialmente da Engenharia de Software, e de que forma estão implantando a inserção da extensão em seus currículos conforme previsto na Resolução CNE/CES nº 7, de 18 de dezembro de 2018. O objetivo é incentivar a troca de experiências entre docentes coordenadores de programas e projetos de extensão.</li>
+</ul>
+
+
+
+
+
 
 <h2><strong>Submissão de Trabalhos</strong></h2>
 
