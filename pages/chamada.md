@@ -12,13 +12,6 @@ header:
 
 <p>A <strong>ESCOLA REGIONAL DE ENGENHARIA DE SOFTWARE (ERES)</strong> é promovida anualmente pela Sociedade Brasileira de Computação (SBC), desde 2017. A setima edição da escola, a ERES 2023, ocorrerá de forma <strong>PRESENCIAL</strong>, no período de 06 a 08 de dezembro de 2023 em Maringá (PR). Maringá é uma cidade de economia diversificada, de um povo empreendedor que atua incansavelmente no desenvolvimento e na manutenção da qualidade de vida que ela proporciona aos seus moradores e encanta a todos que aqui chegam. Maringá é uma cidade progressista, boa para trabalhar e fazer negócios. E para quem não tem o privilégio de viver aqui, uma cidade que vale a pena conhecer. Esta edição está sendo organizada pela <b>Universidade Estadual de Maringá (UEM)</b>, por meio do seu <b>Departamento de Informática (DIN)</b>.</p>
 
-<h5><strong>Datas Importantes</strong></h5>
-<ul>  
-  <li><strong>Submissão de Artigos</strong>: <s>15 de setembro de 2023</s> 25 de setembro de 2023</li>
-  <li><strong>Notificação aos Autores</strong>: <s>09 de outubro de 2023</s> 19 de outubro de 2023</li>
-  <li><strong>Envio da Versão Final</strong>: <s>23 de outubro de 2023</s> 30 de outubro de 2023</li>
-</ul>
-
 <p>A ERES tem por objetivo disseminar o conhecimento e boas práticas em Engenharia de Software (ES), do ponto de vista profissional e acadêmico. A ERES 2023 é um espaço para que possam ser apresentados os resultados de pesquisas de graduação e pós-graduação e relatos de experiência na indústria. Além disso, a escola possibilitará um ambiente natural para a discussão de abordagens no ensino-aprendizagem na ES nas instituições de ensino superior, especialmente da Região Sul do Brasil</p>
 
 <p>A realização da ERES 2023 pretende oferecer aos seus participantes atualizações do estado-da-arte da pesquisa científica na área de Engenharia de Software por meio da apresentação de palestras ministradas por pesquisadores e profissionais renomados da indústria. Dessa forma, este evento irá possibilitar a divulgação de conceitos atuais na área, além de divulgar o que se está pesquisando em engenharia de software na região sul, no país e no mundo, inspirando, assim, o gosto pela pesquisa científica e prática de ES aos participantes.</p>
@@ -50,6 +43,14 @@ header:
   <li>Os melhores artigos do Fórum de Pós-Graduação poderão ser convidados para submeter uma versão estendida para o Journal of Software Engineering Research and Development (JSERD) da SBC;</li>
   <li>Os melhores revisores receberão um certificado de “Melhor Revisor da ERES 2023” como forma de reconhecimento por sua generosidade e dedicação em revisar voluntariamente os trabalhos submetidos ao ERES 2023.</li>  
 </ul>
+
+<h5><strong>Datas Importantes</strong></h5>
+<ul>  
+  <li><strong>Submissão de Artigos</strong>: <s>15 de setembro de 2023</s> 25 de setembro de 2023</li>
+  <li><strong>Notificação aos Autores</strong>: <s>09 de outubro de 2023</s> 19 de outubro de 2023</li>
+  <li><strong>Envio da Versão Final</strong>: <s>23 de outubro de 2023</s> 30 de outubro de 2023</li>
+</ul>
+
 
 <h2><strong>Link para Submissão</strong></h2>
 
