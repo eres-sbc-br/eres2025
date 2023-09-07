@@ -41,7 +41,7 @@ header:
 
 <p><strong>** Todos **</strong> os artigos devem ser submetidos, <strong>** SEM A IDENTIFICAÇÃO DOS AUTORES E DE SUAS INSTITUIÇÕES (DOUBLE-BLIND) **</strong>, respeitando o formato de artigos para eventos da SBC, cujo template (Word e Latex) encontra-se em <a target="_blank" href="https://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros">https://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros.</a> </p>
 
-<p>As submissões serão avaliadas pelos respectivos Comitês de Programa com base na clareza da proposta, relevância do tema e qualidade da apresentação.  Os melhores trabalhos de cada categoria receberão certificado de menção honrosa. Cada autor de artigo inscrito no evento poderá validar no máximo 2 artigos, independente do fórum ou trilha. Os melhores revisores de cada fórum ou trilha também receberão certificado de "Melhor Revisor". </p>
+<p>As submissões serão avaliadas pelos respectivos Comitês de Programa com base na clareza da proposta, relevância do tema e qualidade da apresentação.  Os melhores trabalhos de cada categoria receberão certificado de menção honrosa. Cada autor de artigo inscrito no evento poderá validar no máximo 2 artigos, independente do fórum ou trilha.</p>
 
 <p>Independentemente da trilha de submissão, é exigido que pelo menos 1 (um) dos autores de cada artigo aceito se inscreva e apresente PRESENCIALMENTE o trabalho no evento para que seja incluído nos anais. </p>
 
