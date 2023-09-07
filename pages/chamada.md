@@ -70,34 +70,37 @@ header:
 <p>Os artigos submetidos para os fóruns da ERES devem estar relacionados a tópicos da área de engenharia de software, incluindo mas não se restringindo aos seguintes:</p>
 <ul>
    <li>Aplicações industriais da Engenharia de Software</li>
-   <li>Aspectos Sociais da Engenharia de Software</li>
+   <li>Arquitetura de Software e Variabilidade</li>
+   <li>Aspectos Humanos e Sociais da Engenharia de Software</li>
    <li>Confiabilidade de Software</li>
    <li>CSCW e Engenharia de Software</li>
-   <li>Desenvolvimento de Software Orientado a Modelos</li>
-   <li>Engenharia de Requisitos</li>
+   <li>Desenvolvimento de Software Orientado a Modelos</li>   
+   <li>Ecossistemas de Software e Sistemas de Sistemas</li>
+   <li>Educação e Treinamento em Engenharia de Software</li>
+   <li>Engenharia de Software Quântica</li>
+   <li>Engenharia de Requisitos e Modelagem de Software</li>
+   <li>Engenharia de Software Baseada em Busca</li>
    <li>Engenharia de Software para Ciência de Dados</li>
+   <li>Engenharia de Software Contínua (DevOps, Entrega Contínua, Integração Contínua, etc.)</li>
    <li>Engenharia de Software para Forense Digital</li>
    <li>Engenharia de Software Experimental</li>
    <li>Engenharia de Software Orientada a Agentes</li>
+   <li>Evolução e Modernização de Software</li>
    <li>Modularidade de Software</li>
    <li>Engenharia de Software para a World Wide Web</li>
    <li>Fundamentos teóricos e métodos formais</li>
-   <li>Linhas de Produtos de Software</li>
-   <li>Linguagem Específica de Domínio</li>
+   <li>Linhas de Produtos e de Processos de Software</li>
+   <li>Linguagem Específica de Domínio</li>   
    <li>Manutenção e Evolução do Software</li>
-   <li>Métricas e Medidas de Software</li>
-   <li>Processos de Software</li>
-   <li>DevOps</li>
    <li>Métodos Ágeis</li>
+   <li>Métricas e Medidas de Software</li>
+   <li>Mineração de Repositórios de Software</li>
+   <li>Práticas de Ciência Aberta para Engenharia de Software</li>
+   <li>Processos de Software</li>
    <li>Qualidade de Software </li>
    <li>Reengenharia de Software </li>
+   <li>Reutilização de Software</li>
    <li>Verificação e Validação de Software</li>
-   <li>Arquitetura de Software</li>
-   <li>Engenharia de Software Baseada em Busca</li>
-   <li>Mineração de Repositórios de Software</li>
-   <li>Ecossistemas de Software e Sistemas de Sistemas</li>
-   <li>Educação e Treinamento em Engenharia de Software</li>
-   <li>Práticas de Ciência Aberta para Engenharia de Software</li>
 </ul>
 
 
