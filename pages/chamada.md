@@ -22,7 +22,7 @@ header:
 <p><strong>Fórum de Pós-Graduação:</strong> Espaço para apresentação de trabalhos de estudantes de pós-graduação, com o objetivo de incentivar a troca de experiências e divulgar pesquisas em andamento e/ou concluídas e resultados obtidos. Além da clareza do trabalho, relevância do tema, e qualidade da apresentação, o Comitê Científico da ERES 2023 avaliará também as contribuições científicas do trabalho.</p>
 <p><strong>Fórum de Extensão:</strong> Espaço para apresentação de trabalhos de relatos das atividades extensionistas aplicados aos currículos de computação, especialmente da Engenharia de Software, e de que forma estão implantando a inserção da extensão em seus currículos conforme previsto na Resolução CNE/CES nº 7, de 18 de dezembro de 2018. O objetivo é incentivar a troca de experiências entre docentes coordenadores de programas e projetos de extensão.</p>
 
-<h5><strong>Submissão de Trabalhos</strong></h5>
+<h2><strong>Submissão de Trabalhos</strong></h2>
 
 <p>A ERES 2023 incentiva a apresentação de trabalhos de pesquisa ou relatos de experiência originais em Engenharia de Software, desenvolvidos por acadêmicos de graduação, pós-graduação ou profissionais da indústria.</p>
 
@@ -44,7 +44,7 @@ header:
   <li>Os melhores revisores receberão um certificado de “Melhor Revisor da ERES 2023” como forma de reconhecimento por sua generosidade e dedicação em revisar voluntariamente os trabalhos submetidos ao ERES 2023.</li>  
 </ul>
 
-<h5><strong>Datas Importantes</strong></h5>
+<h2><strong>Datas Importantes</strong></h2>
 <ul>  
   <li><strong>Submissão de Artigos</strong>: <s>15 de setembro de 2023</s>  <font color="red">25 de setembro de 2023</font></li> 
   <li><strong>Notificação aos Autores</strong>: <s>09 de outubro de 2023</s>  <font color="red">19 de outubro de 2023</font></li>
