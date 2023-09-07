@@ -16,7 +16,7 @@ Os seguintes hotéis são recomendados para a ERES 2023:
 
 <ul>
 
-<li><a href="hhtp://www.kingkonforthotel.com.br" target="_blank">Hotel King Konfort</a> - Rua Campos Sales, 326 (é o mais próximo da UEM)</li>
+<li><a href="https://www.kingkonforthotel.com.br/" target="_blank">Hotel King Konfort</a> - Rua Campos Sales, 326 (é o mais próximo da UEM)</li>
 
 <li><a href="https://all.accor.com/hotel/8998/index.pt-br.shtml" target="_blank">Hotel Ibis Budget</a> - Av. Horacio Raccanello, 5105</li>
 
