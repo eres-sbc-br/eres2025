@@ -14,9 +14,9 @@ header:
 
 <h5><strong>Datas Importantes</strong></h5>
 <ul>  
-  <li><strong>Submissão de Artigos</strong>: 15 de setembro de 2023 até as 23h:55m (horário de Brasília)</li>
-  <li><strong>Notificação aos Autores</strong>: 09 de outubro de 2023</li>
-  <li><strong>Envio da Versão Final</strong>: 23 de outubro de 2023.</li>
+  <li><strong>Submissão de Artigos</strong>: <s>15 de setembro de 2023</s> 25 de setembro de 2023</li>
+  <li><strong>Notificação aos Autores</strong>: <s>09 de outubro de 2023</s> 19 de outubro de 2023</li>
+  <li><strong>Envio da Versão Final</strong>: <s>23 de outubro de 2023</s> 30 de outubro de 2023</li>
 </ul>
 
 <p>A ERES tem por objetivo disseminar o conhecimento e boas práticas em Engenharia de Software (ES), do ponto de vista profissional e acadêmico. A ERES 2023 é um espaço para que possam ser apresentados os resultados de pesquisas de graduação e pós-graduação e relatos de experiência na indústria. Além disso, a escola possibilitará um ambiente natural para a discussão de abordagens no ensino-aprendizagem na ES nas instituições de ensino superior, especialmente da Região Sul do Brasil</p>
