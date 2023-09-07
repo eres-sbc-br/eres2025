@@ -16,7 +16,7 @@ Os seguintes hotéis são recomendados para a ERES 2023:
 
 <ul>
 
-<li>Hotel King Konfort - Rua Campos Sales, 326 - www.kingkonforthotel.com.br</li>
+<li>Hotel King Konfort - Rua Campos Sales, 326 - hhtp://www.kingkonforthotel.com.br</li>
 
 <li>Hotel Ibis Budget - Av. Horacio Raccanello, 5105 - https://all.accor.com/hotel/8998/index.pt-br.shtml</li>
 
