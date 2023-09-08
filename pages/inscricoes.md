@@ -9,15 +9,8 @@ header:
 
 <hr>
 
-Em breve....
+<!--<p>Para realizar sua inscrição na ERES, acesse o sistema ECOS da SBC no link: <a href="https://centraldesistemas.sbc.org.br/ecos/eres2022" target="blank">https://centraldesistemas.sbc.org.br/ecos/eres2022</a>. A inscrição na ERES 2023 dá direito a todas as atividades do evento incluindo palestras, sessões técnicas e minicursos.</p>-->
 
-<!--
-
-<p>A ERES é um evento realizado pela Sociedade Brasileira de Computação – SBC. A SBC é uma associação civil, sem fins lucrativos, que estimula o desenvolvimento tecnológico e científico do país e é a maior sociedade de computação da América do Sul. </p>
-
-<!--<p>Para realizar sua inscrição na ERES, acesse o sistema ECOS da SBC no link: <a href="https://centraldesistemas.sbc.org.br/ecos/eres2022" target="blank">https://centraldesistemas.sbc.org.br/ecos/eres2022</a>. A inscrição na ERES 2022 dá direito a todas as atividades do evento incluindo palestras, sessões técnicas, minicursos e visitas técnicas.</p>-->
-
-<!--
 <strong>O link para inscrição estará disponível em breve.</strong>
 
 <h2>Valores das Inscrições</h2>
@@ -154,11 +147,9 @@ Em breve....
 </table>
 
 
-<h2>Inscrições para Autores</h2>
+<h2>Taxa de Publicação de Artigos</h2>
 
-<p>Para artigos aprovados é necessário que pelo menos 1 (um) autor tenha uma inscrição paga em qualquer categoria. O autor deverá submeter comprovante de inscrição pelo JEMS até dia <span style="color:red"><strong>03/Nov/2023</strong></span>. </p>
-
-<p><strong>Cada autor inscrito pode validar no máximo 2 (dois) artigos.</strong></p>
+<p>Para cada artigo aprovado, em qualquer um dos fóruns da ERES 2023, é necessário o pagamento da taxa de publicação, que é de R$ 50,00.</p>
 
 
 <h2>Formas de Pagamentos</h2>
@@ -172,8 +163,10 @@ Em breve....
 
 <h2>Política de Cancelamento de Inscrições</h2>
 
+Em breve...
 
-<p>Até o dia <span style="color:red"><strong>10/Nov/2023</strong></span> pode-se fazer uma devolução de <span style="color:red"><strong>50%</strong></span> do valor pago pela inscrição na ERES 2023. Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição, quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para <a href="mailto:faturamento@sbc.org.br">faturamento@sbc.org.br</a></p>
+<!--<p>Até o dia <span style="color:red"><strong>10/Nov/2023</strong></span> pode-se fazer uma devolução de <span style="color:red"><strong>50%</strong></span> do valor pago pela inscrição na ERES 2023. Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição, quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para <a href="mailto:faturamento@sbc.org.br">faturamento@sbc.org.br</a></p>
+-->
 
 
 <h2>Por que ser associado à SBC?</h2>
@@ -190,4 +183,3 @@ Em breve....
 </ul>
 
 <p>Confira os benefícios específicos de cada categoria no site da SBC: <a href="https://www.sbc.org.br" target="_blank">www.sbc.org.br</a></p>
--->
