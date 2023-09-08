@@ -149,7 +149,7 @@ header:
 
 <h2>Taxa de Publicação de Artigos</h2>
 
-<p>Para cada artigo aprovado, em qualquer um dos fóruns da ERES 2023, é necessário o pagamento da taxa de publicação, que é de R$ 50,00.</p>
+<p><strong>Para cada artigo aprovado, em qualquer um dos fóruns da ERES 2023, é necessário o pagamento da taxa de publicação, que é de R$ 50,00.</strong></p>
 
 
 <h2>Formas de Pagamentos</h2>
