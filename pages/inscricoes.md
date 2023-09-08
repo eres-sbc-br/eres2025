@@ -152,6 +152,11 @@ header:
 <p><strong>Para cada artigo aprovado, em qualquer um dos fóruns da ERES 2023, é necessário o pagamento da taxa de publicação, que é de R$ 50,00.</strong></p>
 
 
+<h2>Inscrição em Minicursos</h2>
+
+<p><strong>Cada minicurso possui uma taxa de R$ 50,00.</strong></p>
+
+
 <h2>Formas de Pagamentos</h2>
 
 <p>O pagamento das inscrições poderá ser realizado por meio de boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota de empenho e faturamento, através do sistema de inscrições ECOS da SBC.
