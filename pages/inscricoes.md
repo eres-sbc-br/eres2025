@@ -154,7 +154,7 @@ header:
 
 <h2>Inscrição em Minicursos</h2>
 
-<p><strong>Cada minicurso possui uma taxa de R$ 50,00.</strong></p>
+<p>A participação nos minicursos exige uma taxa de R$ 50,00 (por minicurso). ATENÇÃO: Cada minicurso possui uma capacidade máxima / Existem minicursos que ocorrerão em paralelo no mesmo dia.</p>
 
 
 <h2>Formas de Pagamentos</h2>
