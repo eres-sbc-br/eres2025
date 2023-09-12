@@ -29,7 +29,7 @@ header:
 
 <h1>Início</h1>
 
-<p>A <b>Escola Regional de Engenharia de Software (ERES)</b> é promovida anualmente pela Sociedade Brasileira de Computação (SBC). A setima edição da escola, a <b>ERES 2023</b>, ocorrerá <b>presencialmente</b>, no período de 06 a 08 de dezembro de 2023.</p>
+<p>A <b>Escola Regional de Engenharia de Software (ERES)</b> é promovida anualmente pela Sociedade Brasileira de Computação (SBC). A sétima edição da escola, a <b>ERES 2023</b>, ocorrerá <b>presencialmente</b>, no período de 06 a 08 de dezembro de 2023.</p>
 
 Esta edição está sendo realizada pelo <a href="http://www.din.uem.br" target="_blank">Departamento de Informática (DIN)</a> da <a href="http://www.uem.br" target="_blank">Universidade Estadual de Maringá (UEM)</a>.
 
