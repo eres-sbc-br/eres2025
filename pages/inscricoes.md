@@ -11,7 +11,9 @@ header:
 
 <!--<p>Para realizar sua inscrição na ERES, acesse o sistema ECOS da SBC no link: <a href="https://centraldesistemas.sbc.org.br/ecos/eres2022" target="blank">https://centraldesistemas.sbc.org.br/ecos/eres2022</a>. A inscrição na ERES 2023 dá direito a todas as atividades do evento incluindo palestras, sessões técnicas e minicursos.</p>-->
 
-<strong>O link para inscrição estará disponível em breve.</strong>
+<h2>LINK PARA INSCRIÇÃO</h2>
+
+<a href="https://centraldesistemas.sbc.org.br/ecos/eres2023" target="_blank">https://centraldesistemas.sbc.org.br/ecos/eres2023</a>
 
 <h2>INSCRIÇÃO PROMOCIONAL</h2>
 
