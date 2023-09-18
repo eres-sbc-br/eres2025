@@ -197,13 +197,14 @@ informações necessárias para que a inscrição seja confirmada.</p>
 
 <p><font color="red">ATENÇÃO: Os minicursos 1 e 2, 3 e 4, 6 e 7 acontecerão em paralelo nos seus respectivos dias.</font></p>
 
+
 <h2>INSCRIÇÃO NO WORKSHOP DE ESTUDOS EMPÍRICOS</h2>
 
 <p>A participação no Workshop de Estudos Empíricos exige o pagamento de uma taxa de R$ 50,00, impreterivelmente até o dia 05/12/2023. </p>
 
 
 
-<h2>Política de Cancelamento de Inscrições</h2>
+<h2>POLÍTICA DE CANCELAMENTO DE INSCRIÇÕES</h2>
 
 <p>Até dia 29/11/2023 pode-se fazer uma devolução de 75% do valor pago pela inscrição na ERES 2023. Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição,
 quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para faturamento@sbc.org.br.</p>
