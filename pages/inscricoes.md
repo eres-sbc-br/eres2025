@@ -13,7 +13,29 @@ header:
 
 <strong>O link para inscrição estará disponível em breve.</strong>
 
-<h2>Valores das Inscrições</h2>
+<h2>INSCRIÇÃO PROMOCIONAL</h2>
+
+<p>Participantes não associados à SBC ou associados com anuidade próxima do vencimento podem se associar ou renovar a associação junto com a inscrição, escolhendo as categorias COMBO com um desconto no valor da inscrição.</p>
+
+<p>As categorias COMBO são a opção mais vantajosa para os não associados à SBC, pois os valores de inscrições são menores do que as categorias sem combo e incluem a associação à SBC.</p>
+
+<p>Acesse o site da SBC e veja porquê ser associado.</p>
+
+<p>Associar-se à SBC é uma forma de tornar a SBC ainda mais forte para representar a nossa área de atuação junto aos diversos setores. Que tal fazer parte da nossa Comunidade?</p>
+
+<p>Alguns benefícios exclusivos de associado:</p>
+
+<ul>
+	<li>Acesso à rede sem fio Eduroam;</li>
+	<li>Desconto em inscrições nos mais de 40 eventos realizados anualmente pela SBC;</li>
+	<li>Valor de inscrição diferenciado no POSCOMP;</li>
+	<li>Acesso aos estudos realizados pela SBC e destinados a órgãos públicos ou privados, expressando posições políticas da Sociedade.</li>
+</ul>
+
+<p>Confira os benefícios específicos de cada categoria no site da SBC: <a href="https://www.sbc.org.br" target="_blank">www.sbc.org.br</a></p>
+
+
+<h2>VALORES DE INSCRIÇÃO</h2>
 
 <p>Os valores de inscrição para a ERES 2023 estão listados abaixo. Destacamos que estudantes e profissionais que não são associados à SBC podem se associar (ou renovar a associação) no processo de inscrição. Inscrever-se com associação à SBC é a opção mais vantajosa para os não associados à SBC, confira os benefícios de se associar à SBC.</p>
 
@@ -147,48 +169,37 @@ header:
 </table>
 
 
-<h2>Taxa de Publicação de Artigos</h2>
+<h2>FORMAS DE PAGAMENTO</h2>
 
-<p><strong>Para cada artigo aprovado, em qualquer um dos fóruns da ERES 2023, é necessário o pagamento da taxa de publicação, que é de R$ 50,00.</strong></p>
+<p>O pagamento de inscrições poderá ser realizado por meio de boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota de empenho ou faturamento.</p>
+
+<p>As inscrições podem ser feitas até o último dia do evento, porém os pagamentos por débito e boleto serão aceitos até o 06/12/2023.
+
+<p>O pagamento das inscrições poderá ser realizado por meio de boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota de empenho e faturamento, através do sistema de inscrições ECOS da SBC.</p>
 
 
-<h2>Inscrição em Minicursos</h2>
+<p><strong>Inscrições por nota de empenho e faturamento:</strong> o participante deverá acessar o sistema de inscrições e realizar a inscrição, selecionando a forma de pagamento "nota de empenho" ou "faturamento" e clicar em pagar. O sistema fornecerá as
+informações necessárias para que a inscrição seja confirmada.</p>
 
-<p>A participação em cada minicurso exige o pagamento de uma taxa de R$ 50,00. </p>
 
-<p><font color="red">ATENÇÃO: Cada minicurso possui uma capacidade máxima.</font></p>
+<h2>INSCRIÇÃO PARA AUTORES</h2>
+
+<p>Para cada artigo aprovado, em qualquer um dos fóruns da ERES 2023, é necessário o pagamento da taxa de publicação, que é de R$ 50,00 impreterivelmente até o dia 24/11/2023. Após o pagamento anexar via sistema JEMS o comprovante de pagamento do referido artigo.</p>
+
+
+<h2>INSCRIÇÃO EM MINICURSOS</h2>
+
+<p>A participação em cada minicurso exige o pagamento de uma taxa de R$ 50,00, impreterivelmente até o dia 05/12/2023. </p>
+
+<p><font color="red">ATENÇÃO: Cada minicurso possui uma capacidade máxima de 25 pessoas.</font></p>
 
 <p><font color="red">ATENÇÃO: Os minicursos 1 e 2, 3 e 4, 6 e 7 acontecerão em paralelo nos seus respectivos dias.</font></p>
 
 
-<h2>Formas de Pagamentos</h2>
-
-<p>O pagamento das inscrições poderá ser realizado por meio de boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota de empenho e faturamento, através do sistema de inscrições ECOS da SBC.
-	
-
-</p>
-
-<p>Inscrições por Nota de Empenho e Faturamento: O participante deverá acessar o sistema ECOS e realizar a inscrição, selecionando a forma de pagamento "nota de empenho" ou "faturamento" e clicar em pagar, o sistema fornecerá as informações necessárias que devem constar na nota de empenho ou o pedido de faturamento.</p>
 
 <h2>Política de Cancelamento de Inscrições</h2>
 
-Em breve...
-
-<!--<p>Até o dia <span style="color:red"><strong>10/Nov/2023</strong></span> pode-se fazer uma devolução de <span style="color:red"><strong>50%</strong></span> do valor pago pela inscrição na ERES 2023. Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição, quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para <a href="mailto:faturamento@sbc.org.br">faturamento@sbc.org.br</a></p>
--->
+<p>Até dia 29/11/2023 pode-se fazer uma devolução de 75% do valor pago pela inscrição na ERES 2023. Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição,
+quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para faturamento@sbc.org.br.</p>
 
 
-<h2>Por que ser associado à SBC?</h2>
-
-<p>Se associar à SBC é uma forma de tornar a SBC ainda mais forte para representar a nossa área de atuação junto aos diversos setores. Que tal se juntar a nós? Outros motivos para ser associado à SBC são:</p>
-
-<ul>
-	<li>Acesso à rede sem fio Eduroam (somente para pessoa física);</li>
-	<li>Acesso ao FileSender da RNP;</li>
-	<li>Desconto em inscrições nos mais de 40 eventos realizados anualmente pela SBC;</li>
-	<li>Desconto de no mínimo 15% em inscrições nos eventos apoiados pela SBC;</li>
-	<li>Valor de inscrição diferenciado no POSCOMP;</li>
-	<li>Acesso aos estudos realizados pela SBC e destinados a órgãos públicos ou privados, expressando posições políticas da Sociedade.</li>
-</ul>
-
-<p>Confira os benefícios específicos de cada categoria no site da SBC: <a href="https://www.sbc.org.br" target="_blank">www.sbc.org.br</a></p>
