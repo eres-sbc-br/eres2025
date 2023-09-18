@@ -191,7 +191,7 @@ informações necessárias para que a inscrição seja confirmada.</p>
 
 <h2>INSCRIÇÃO EM MINICURSOS</h2>
 
-<p>A participação em cada minicurso exige o pagamento de uma taxa de R$ 50,00, impreterivelmente até o dia 05/12/2023. </p>
+<p>A participação em cada minicurso exige o pagamento de uma taxa de R$ 50,00, impreterivelmente até o dia 05/12/2023. Cada minicurso possui uma capacidade máxima de 25 pessoas.</p>
 
 <p><font color="red">ATENÇÃO: Cada minicurso possui uma capacidade máxima de 25 pessoas.</font></p>
 
@@ -200,7 +200,7 @@ informações necessárias para que a inscrição seja confirmada.</p>
 
 <h2>INSCRIÇÃO NO WORKSHOP DE ESTUDOS EMPÍRICOS</h2>
 
-<p>A participação no Workshop de Estudos Empíricos exige o pagamento de uma taxa de R$ 50,00, impreterivelmente até o dia 05/12/2023. </p>
+<p>A participação no Workshop de Estudos Empíricos exige o pagamento de uma taxa de R$ 50,00, impreterivelmente até o dia 05/12/2023. O workshop possui uma capacidade máxima de 35 pessoas.</p>
 
 
 
