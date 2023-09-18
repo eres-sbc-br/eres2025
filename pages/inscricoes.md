@@ -186,7 +186,7 @@ informações necessárias para que a inscrição seja confirmada.</p>
 
 <h2>INSCRIÇÃO PARA AUTORES</h2>
 
-<p>Para cada artigo aprovado, em qualquer um dos fóruns da ERES 2023, é necessário o pagamento da taxa de publicação, que é de R$ 50,00 impreterivelmente até o dia 24/11/2023. Após o pagamento anexar via sistema JEMS o comprovante de pagamento do referido artigo.</p>
+<p>Para cada artigo aprovado, em qualquer um dos fóruns da ERES 2023, é necessário o pagamento da taxa de publicação, que é de R$ 50,00 impreterivelmente até o dia 24/11/2023. Após o pagamento, anexar via sistema JEMS o comprovante de pagamento do respectivo artigo.</p>
 
 
 <h2>INSCRIÇÃO EM MINICURSOS</h2>
