@@ -197,6 +197,10 @@ informações necessárias para que a inscrição seja confirmada.</p>
 
 <p><font color="red">ATENÇÃO: Os minicursos 1 e 2, 3 e 4, 6 e 7 acontecerão em paralelo nos seus respectivos dias.</font></p>
 
+<h2>INSCRIÇÃO NO WORKSHOP DE ESTUDOS EMPÍRICOS</h2>
+
+<p>A participação no Workshop de Estudos Empíricos exige o pagamento de uma taxa de R$ 50,00, impreterivelmente até o dia 05/12/2023. </p>
+
 
 
 <h2>Política de Cancelamento de Inscrições</h2>
