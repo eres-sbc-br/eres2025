@@ -148,7 +148,7 @@ header:
   </p>
   <br>
   <p><b>Bio:</b>
-  Graduada em Ciência da Computação pela Universidade Estadual de Maringá (2012), com MBA em Gestão da Tecnologia da Informação pela FGV-Campinas (2015), trabalha há 10 anos na Embraer na área de qualidade de software para aeronaves, atuando em projetos como KC-390 e E-Jets E2. Atualmente é supervisora da área de Garantia de Processos de Software e Hardware Programável.
+  Graduada em Ciência da Computação pela Universidade Estadual de Maringá (2012), com MBA em Gestão da Tecnologia da Informação pela FGV-Campinas (2015), trabalha há 10 anos na Embraer na área de qualidade de software para aeronaves, atuando em projetos como KC-390 e E-Jets E2. Atualmente é supervisora da área de Garantia de Processos de Software e Hardware Programável. Maisn informações em https://www.linkedin.com/in/catarina-xavier-25063822.
   </p>
 </div>	
 <p>&nbsp;</p>
