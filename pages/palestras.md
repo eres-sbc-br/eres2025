@@ -22,7 +22,9 @@ header:
   <p><b>Resumo:
 	</b></p>
   <br>
-  <p><b>Bio:</b></p>
+  <p><b>Bio:</b>
+  Bacharel em Ciência da Computação pela Universidade Estadual de Londrina (UEL) em 1995. Mestre em Ciência da Computação e Matemática Computacional pelo Instituto de Ciências Matemáticas e de Computação (ICMC-USP) em 1998. Doutora em Ciência da Computação e Matemática Computacional pelo Instituto de Ciências Matemáticas e de Computação (ICMC-USP) em 2004. Realizou estágios na Georgia Institute of Technology, em 2002, e na University of Florida, em 2003. Atualmente é Professora Associada do Departamento de Sistemas de Computação do ICMC-USP, onde atua como docente desde 2005. É coordenadora do curso de Especialização em Computação Aplicada à Educação, desde 2022. Também é coordenadora do Centro Avançado ICMC para Apoio à Inovação (ICMC-In), desde 2022. Foi coordenadora do curso de Bacharelado em Sistemas de Informação no período de 2016 a 2022 e coordenadora do Programa de Mestrado Profissional em Matemática, Estatística e Computação Aplicadas à Indústria (MECAI) no período de 2016 a 2017. Também foi coordenadora do Laboratório de Engenharia de Software (LabES) no período de 2008 a 2011. É fundadora e atual coordenadora do Laboratório de Computação Aplicada à Educação e Tecnologia Social Avançada (CAEd). Entre seus interesses de pesquisa destacam-se os temas relacionados a: (i) Computação Aplicada à Educação (Recursos Educacionais Abertos, Aprendizagem Móvel e a Distância, Mineração de Dados Educacionais, Ambientes Virtuais de Aprendizagem); (ii) Engenharia de Software (Qualidade de Software, Teste de Software, Engenharia de Software Experimental, Linha de Produtos de Software, Arquiteturas de Referência, Usabilidade e Acessibilidade); e (iii) Empreendedorismo e Inovação.
+  </p>
 </div>	
 <p>&nbsp;</p>
 
