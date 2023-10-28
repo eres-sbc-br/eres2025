@@ -101,12 +101,13 @@ header:
       <img src="https://eres-sbc-br.github.io/eres2023/images/fabiano.gif" alt="" align="center"><br>
       <b>Prof. Dr. Fabiano Cutigi Ferrari (UFSCar)</b><br>		
   <a href="ttp://lattes.cnpq.br/3154345471250570" target="_blank">Currículo Lattes</a><br>		
-  <h4>Título: Teste de Software: Pesquisa e Ação</h4>		
+  <h4>Título: Teste de Mutação: Relevância, Histórico e Tendências</h4>		
   <b>Data:</b> 07/Dez/2023 (Quinta-Feira) <br>
   <b>Hora:</b> 21:00 - 22:30 <br>
   <br>
-  <p><b>Resumo:
-	</b></p>
+  <p><b>Resumo:</b>
+  Produzir software de alta qualidade é um objetivo inerente de qualquer modelo de processo de desenvolvimento que se possa imaginar. Incontestavelmente, o teste de software é uma atividade primordial para ser atingir esse objetivo. Com essa preocupação em mente, por décadas as comunidades de pesquisadores e de desenvolvedores têm se empenhado para conceber, estender e especializar diversas técnicas, métodos e ferramentas para a aplicação de testes de forma efetiva (isto é, com a capacidade de revelar defeitos no software) e eficiente (isto é, de forma viável em termos de esforço e recursos). Historicamente, o teste de mutação é uma das formas mais investigadas de se testar software, e que vem atraindo a atenção da indústria em tempos recentes. O teste de mutação se baseia em defeitos característicos que um software pode conter, e visa a produzir conjuntos de testes que possam identificar que tais defeitos não estão presentes no software. Nesta palestra, será discutida a importância do teste de mutação no contexto de qualidade de software, sua evolução histórica, recentes avanços, e tendências de pesquisa e prática na área.
+  </p>
   <br>
   <p><b>Bio:</b>  
   É Bacharel em Informática (2005) e Doutor em Ciências de Computação e Matemática Computacional (2010), ambos pelo Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo (ICMC/USP). Em seu doutorado, foi orientado pelo Prof. José Carlos Maldonado e realizou estágio de um ano na Universidade de Lancaster (Reino Unido) sob orientação do Prof. Awais Rashid. Desde 2011, é Professor Adjunto na Universidade Federal de São Carlos (UFSCar - Brasil), e realizou Pós-Doutorado na Universidade George Mason (EUA) sob supervisão do Prof. Jeff Offutt entre 2017 e 2018. Tem experiência na área de Ciência da Computação, com ênfase em Engenharia de Software, atuando principalmente nos seguintes temas: teste de software, programação orientada a objetos, programação orientada a aspectos, teste de mutação, sistemas adaptativos, revisão sistemática da literatura, gestão do conhecimento e gamificação em Engenharia de Software. É membro da Sociedade Brasileira de Computação (SBC) e da Association for Computing Machinery (ACM)</p>
