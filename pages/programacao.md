@@ -161,7 +161,7 @@ header:
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_b">Palestra B</a><br>Open-source, como começar? motivações e desafios!<br>Igor Wiese - UTFPR-CM
 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
     <td></td>
-    <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_e">Palestra E</a><br>Teste de Software: Pesquisa e Ação<br>Fabiano Ferrari - UFSCar
+    <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_e">Palestra E</a><br>Teste de Mutação: Relevância, Histórico e Tendências<br>Fabiano Ferrari - UFSCar
 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
     <td></td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_g">Palestra G</a><br>Desenvolvimento e Certificação de Software Aeronáutico<br>Catarina Xavier - Embraer
