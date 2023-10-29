@@ -22,7 +22,7 @@ Formular o método de um estudo empírico é um processo criativo, iterativo e s
 
 <h3>Inscrição</h3>
 
-Formulário de inscrição: em breve...
+Inscrição disponível em <a href="https://eres-sbc-br.github.io/eres2023/inscricoes/" target="_blank">https://eres-sbc-br.github.io/eres2023/inscricoes/</a>
 
 
 
