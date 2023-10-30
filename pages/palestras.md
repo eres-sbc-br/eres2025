@@ -53,17 +53,16 @@ header:
       <img src="https://eres-sbc-br.github.io/eres2023/images/camila.jpeg" alt="" style="height: 250px" align="center"><br>
       <b>Profa. Dra. Camila L. Leal (DEP/UEM)</b><br>		
   <a href="http://lattes.cnpq.br/7810321373328408" target="_blank">Currículo Lattes</a><br>		
-  <h4>Título: Qualidade de Software na Indústria</h4>		
+  <h4>Título: Startups de Software: Desafios e Perspectivas</h4>		
   <b>Data:</b> 07/Dez/2023 (Quinta-Feira) <br>
   <b>Hora:</b> 10:30 - 12:00 <br>
   <br>
-  <p><b>Resumo:
-	</b>
-	
+  <p><b>Resumo:</b>
+	As startups de software tornaram-se cada vez mais importantes para a economia e são uma chave para a inovação. O cenário que essas empresas apresenta diversos desafios: mercado volátil, limitação de recursos (humanos e financeiros), entregas ágeis e necessidade de viabilizar uma solução sustentável, inovadora e eficiente. As startups de software precisam equilibrar as necessidades de curto e longo prazo no que se refere à práticas, ferramentas, processos e tecnologias da área de Engenharia de Software.
 	</p>
   <br>
   <p><b>Bio:</b>
-  
+  Doutora em Engenharia Elétrica e Informática Industrial pela Universidade Tecnológica Federal do Paraná. Graduada em Engenharia de Produção - Software pela Universidade Estadual de Maringá (2007) e em Processamento de Dados pelo Centro Universitário de Maringá (2004), com mestrado em Ciência da Computação pela Universidade Estadual de Maringá (2010). É professora adjunta do Departamento de Engenharia de Produção (DEP) e docente permanente dos Programas de Pós-Graduação em Engenharia de Produção (PGP) e Ciência da Computação (PCC) da UEM. Desenvolve pesquisa nas áreas de: Apoio à Tomada de Decisão em Sistemas de Produção e Saúde e Segurança do Trabalho, Startups de Software, Melhoria da Qualidade e Produtividade no Desenvolvimento de Software e Melhoria de Processos. É embaixadora do Parent Science na região Sul. Atualmente é bolsista da Fundação Araucária, vinculada ao Programa Paraná Empreende Mais.
   </p>
 </div>	
 <p>&nbsp;</p>
