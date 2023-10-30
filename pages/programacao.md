@@ -49,7 +49,7 @@ header:
     <td>10:30 - 12:00</td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a> 	<br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP) 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 102</a> 	</td>
     <td></td>
-    <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_c">Palestra C</a><br>Qualidade de Software na Indústria<br>Camila L. Leal - DEP/UEM 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a> 	</td>
+    <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_c">Palestra C</a><br>Startups de Software: Desafios e Perspectivas<br>Camila L. Leal - DEP/UEM 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a> 	</td>
     <td></td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5">Minicurso 5</a><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP) <br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN1 Sala 12 - Térreo</a></td>
   </tr>
