@@ -49,7 +49,9 @@ header:
     <td>10:30 - 12:00</td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/workshop">Workshop de Estudos Empíricos</a> 	<br>Lilian Scatalon (UEM), Edson OliveiraJr (UEM), Ellen Barbosa (ICMC/USP) 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 102</a> 	</td>
     <td></td>
-    <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_c">Palestra C</a><br>Startups de Software: Desafios e Perspectivas<br>Camila L. Leal - DEP/UEM 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a> 	</td>
+    <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_c">Palestra C</a><br>Startups de Software: Desafios e Perspectivas<br>Camila L. Leal - DEP/UEM
+	<br><i>Chair: Prof. Nelson Tenório</i>
+ 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a> 	</td>
     <td></td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_5">Minicurso 5</a><br>Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software<br>Marcelo Morandini (EACH-USP) / Thiago Adriano Coleti (UENP) <br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN1 Sala 12 - Térreo</a></td>
   </tr>
@@ -140,12 +142,15 @@ header:
   <tr>
     <td>19:00 - 20:15</td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_a">Palestra A</a><br>Educação em ES<br>Ellen Barbosa - ICMC/USP
+	<br><i>Chair: Prof. Nelson Tenório</i>
 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
     <td></td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_d">Palestra D</a><br>Como o uso de artefatos de modelos pode auxiliar as empresas desenvolvedoras de software em seus processos? O relato de uma pesquisa no Brasil<br>André Menolli - UENP
+	<br><i>Chair: Prof. Edson OliveiraJr</i>
 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
     <td></td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_f">Palestra F</a><br>O Uso de Técnicas de Especificação de Requisitos na Indústria<br>Edna Dias Canedo - UnB
+	<br><i>Chair: Profa. Thelma Colanzi</i>
 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
   </tr>
   <tr>
@@ -159,12 +164,15 @@ header:
   <tr>
     <td>20:35 - 21:50</td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_b">Palestra B</a><br>Open-source, como começar? motivações e desafios!<br>Igor Wiese - UTFPR-CM
+	<br><i>Chair: Profa. Aline Amaral</i>
 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
     <td></td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_e">Palestra E</a><br>Teste de Mutação: Relevância, Histórico e Tendências<br>Fabiano Ferrari - UFSCar
+	<br><i>Chair: Profa. Lilian Scatalon</i>
 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
     <td></td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_g">Palestra G</a><br>Desenvolvimento e Certificação de Software Aeronáutico<br>Catarina Xavier - Embraer
+	<br><i>Chair: Prof. Edson OliveiraJr</i>
 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
   </tr>
   <tr>
