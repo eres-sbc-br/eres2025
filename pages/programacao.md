@@ -86,7 +86,7 @@ header:
     <td></td>
     <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_6">Minicurso 6</a><br>Identificação de Testes Instáveis<br>Marco A. Graciotto Silva /  Rafael Rampim Soratto - UTFPR-CM
 	<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN1 Sala 12 - Térreo</a></td>
-    <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_7">Minicurso 7</a><br></td>
+    <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_7"></a><br></td>
   </tr>
   <tr>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_1">Sessão Técnica 1</a>
@@ -119,7 +119,7 @@ header:
     <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_4">Minicurso 4</a><br>Profissões do Futuro – Manipulando Dados com Power BI<br>Julio Cesar Pastoril - MentorsTec<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN2 Sala 10 - Térreo</a></td>
     <td></td>
     <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_6">Minicurso 6</a><br>Identificação de Testes Instáveis<br>Marco A. Graciotto Silva /  Rafael Rampim Soratto - UTFPR-CM<br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - LIN1 Sala 12 - Térreo</a></td>
-    <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_7">Minicurso 7</a><br></td>
+    <td><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/minicursos#minicurso_7"></a><br></td>
   </tr>
   <tr>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/sessoes#sessao_2">Sessão Técnica 2</a>
