@@ -39,11 +39,11 @@ header:
   </tr>
   <tr>
     <td>10:00 - 10:30</td>
-    <td colspan="2">Intervalo</td>
+    <td colspan="2">Coffee Break</td>
     <td></td>
-    <td colspan="2">Intervalo</td>
+    <td colspan="2">Coffee Break</td>
     <td></td>
-    <td colspan="2">Intervalo</td>
+    <td colspan="2">Coffee Break</td>
   </tr>
   <tr>
     <td>10:30 - 12:00</td>
@@ -100,13 +100,13 @@ header:
   </tr>
   <tr>
     <td>15:00 - 15:30</td>
-    <td>Intervalo</td>
+    <td>Coffee Break</td>
     <td></td>
     <td></td>
-    <td>Intervalo</td>
+    <td>Coffee Break</td>
     <td></td>
     <td></td>
-    <td>Intervalo</td>
+    <td>Coffee Break</td>
     <td></td>
   </tr>
   <tr>
@@ -155,11 +155,11 @@ header:
   </tr>
   <tr>
     <td>20:15 - 20:35</td>
-    <td colspan="2">Intervalo</td>
+    <td colspan="2">Coffee Break</td>
     <td></td>
-    <td colspan="2">Intervalo</td>
+    <td colspan="2">Coffee Break</td>
     <td></td>
-    <td colspan="2">Intervalo</td>
+    <td colspan="2">Coffee Break</td>
   </tr>
   <tr>
     <td>20:35 - 21:50</td>
