@@ -6,7 +6,7 @@ subheadline: ""
 #teaser: "Entre em contato conosco pelo e-mail #eres2020.uem@gmail.com"
 permalink: "/aceitos/"
 header:
-   image_fullwidth: banner_eres2021.png
+   image_fullwidth: BannerERES2023.png
 ---
 <hr>
 
