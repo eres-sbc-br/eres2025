@@ -13,379 +13,43 @@ header:
 <h3>Fórum de Graduação:</h3>
 
 
-<strong>Título xxxx</strong>
+<strong>Título xxxx</strong> <br>
 	<ul>
 		<li>Autor 1 (UF...)</li>
 		<li>Autor 2 (UF2...)</li>
 		<li>xxx ()</li>
 		<li>xxx ()</li>			
-	</ul>
+	</ul> <br>
 
-<strong></strong>
+<strong>Título xxxx</strong> <br>
 	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
+		<li>Autor 1 (UF...)</li>
+		<li>Autor 2 (UF2...)</li>
 		<li>xxx ()</li>
 		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
+	</ul> <br>
+
+<strong>Título xxxx</strong> <br>
 	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
+		<li>Autor 1 (UF...)</li>
+		<li>Autor 2 (UF2...)</li>
 		<li>xxx ()</li>
 		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
+	</ul> <br>
+
+<strong>Título xxxx</strong> <br>
 	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
+		<li>Autor 1 (UF...)</li>
+		<li>Autor 2 (UF2...)</li>
 		<li>xxx ()</li>
 		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
+	</ul> <br>
+
+<strong>Título xxxx</strong> <br>
 	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
+		<li>Autor 1 (UF...)</li>
+		<li>Autor 2 (UF2...)</li>
 		<li>xxx ()</li>
 		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
-<strong></strong>
-	<ul>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul>
-	
+	</ul> <br>
+
