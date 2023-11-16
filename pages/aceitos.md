@@ -9,11 +9,50 @@ header:
 <h1>Artigos Aceitos</h1>
 
 <h3>Fórum de Graduação:</h3>
+<br>
 
 <b>Título xxx123</b><br>
+	<ul>
+		<li>Autor - </li>
+		<li>Autor - </li>
+		<li>Autor - </li>
+		<li>Autor - </li>	
+	</ul> <br>
 
-<ul>
-	<li>	Adilson Bonifácio - UEL	</li>
-	<li>	Adriano de Oliveira - UFSM	</li>
-	<li>	Aline Mello - Unipampa	</li>
-</ul>
+
+<b>Título xxx123</b><br>
+	<ul>
+		<li>Autor - </li>
+		<li>Autor - </li>
+		<li>Autor - </li>
+		<li>Autor - </li>	
+	</ul> <br>
+
+
+<b>Título xxx123</b><br>
+	<ul>
+		<li>Autor - </li>
+		<li>Autor - </li>
+		<li>Autor - </li>
+		<li>Autor - </li>	
+	</ul> <br>
+
+
+<b>Título xxx123</b><br>
+	<ul>
+		<li>Autor - </li>
+		<li>Autor - </li>
+		<li>Autor - </li>
+		<li>Autor - </li>	
+	</ul> <br>
+
+
+<b>Título xxx123</b><br>
+	<ul>
+		<li>Autor - </li>
+		<li>Autor - </li>
+		<li>Autor - </li>
+		<li>Autor - </li>	
+	</ul> <br>
+
+
