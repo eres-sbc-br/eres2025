@@ -1,7 +1,7 @@
 ﻿---
 layout: page-fullwidth
 subheadline: ""
-permalink: "/comite_cientifico/"
+permalink: "/aceitos/"
 header:
    image_fullwidth: BannerERES2023.png
 ---
