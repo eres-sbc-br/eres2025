@@ -24,20 +24,20 @@ header:
 	<li>	Carlos Severo - IFSul RS	</li>
 	<li>	Carlos Emilio Severo - IFSul RS	</li>
 	<li>	Claudio Schepke - Unipampa	</li>
-	<li>	Eduardo Damasceno - UFTPR	</li>
+	<li>	Eduardo Damasceno - UTFPR	</li>
 	<li>	Elder Rodrigues - Unipampa	</li>
 	<li>	Ellen Francine Barbosa - ICMC-USP	</li>
 	<li>	Everaldo Grahl - FURB	</li>
 	<li>	Fábio Basso - Unipampa	</li>
 	<li>	Fernando Santos - UDESC	</li>
-	<li>	Francisco Carlos Souza - UFTPR	</li>
-	<li>	Gabriel Costa Silva - UFTPR	</li>
+	<li>	Francisco Carlos Souza - UTFPR	</li>
+	<li>	Gabriel Costa Silva - UTFPR	</li>
 	<li>	Gislaine Camila Leal - UEM	</li>
 	<li>	Graziela Tonin - UFFS	</li>
 	<li>	Guilherme Guerino - UEM	</li>
-	<li>	Gustavo Santos - UFTPR	</li>
+	<li>	Gustavo Santos - UTFPR	</li>
 	<li>	Heloise Manica Paris Teixeira - UEM	</li>
-	<li>	Igor Wiese - UFTPR	</li>
+	<li>	Igor Wiese - UTFPR	</li>
 	<li>	Ildevana Poltronieri - Unipampa	</li>
 	<li>	Isabela Gasparini - UDESC	</li>
 	<li>	Jean Cheiran - Unipampa	</li>
@@ -52,7 +52,7 @@ header:
 	<li>	Marcela Leite - IFC	</li>
 	<li>	Marcelo Morandini - USP	</li>
 	<li>	Marcelo Yamaguti - PUCRS	</li>
-	<li>	Marco Aurélio Graciotto Silva - UFTPR	</li>
+	<li>	Marco Aurélio Graciotto Silva - UTFPR	</li>
 	<li>	Marilia Ferreira - UDESC	</li>
 	<li>	Maurício Galimberti - UFSC	</li>
 	<li>	Odorico Mendizabal - UFSC	</li>
@@ -66,11 +66,11 @@ header:
 	<li>	Ricardo Pereira e Silva - UFSC	</li>
 	<li>	Ricardo Theis Geraldi - PUCPR	</li>
 	<li>	Ricardo Vilela - UFCA	</li>
-	<li>	Rodolfo Silva - UFTPR	</li>
+	<li>	Rodolfo Silva - UTFPR	</li>
 	<li>	Silvio Quincozes - Unipampa	</li>
 	<li>	Thiago Coleti - UENP	</li>
 	<li>	Victor Santander - Unioeste	</li>
-	<li>	Walter Nakamura - UFTPR	</li>
+	<li>	Walter Nakamura - UTFPR	</li>
 	<li>	Williamson Silva - Unipampa	</li>
 </ul>
 
