@@ -17,7 +17,7 @@ header:
 		<li>Autor - </li>
 		<li>Autor - </li>
 		<li>Autor - </li>	
-	</ul> <br>
+	</ul>
 
 
 <b>Título xxx123</b><br>
@@ -26,5 +26,5 @@ header:
 		<li>Autor - </li>
 		<li>Autor - </li>
 		<li>Autor - </li>	
-	</ul> <br>
+	</ul>
 
