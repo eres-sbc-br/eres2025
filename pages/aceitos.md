@@ -7,24 +7,27 @@ header:
 ---
 
 <h1>Artigos Aceitos</h1>
+<hr>
 
 <h3>Fórum de Graduação:</h3>
-<br>
 
-<p><b>Título xxx123</b><br></p>
-	<ul>
-		<li>Autor - </li>
-		<li>Autor - </li>
-		<li>Autor - </li>
-		<li>Autor - </li>	
-	</ul>
-
-
-<p><b>Título xxx123</b><br></p>
-	<ul>
-		<li>Autor - </li>
-		<li>Autor - </li>
-		<li>Autor - </li>
-		<li>Autor - </li>	
-	</ul>
+<ul>
+	<li>Artigo 1</li>
+		<ul>
+			<li>Autor 1</li>
+			<li>Autor 2</li>
+		</ul>
+	
+	<li>Artigo 2</li>
+		<ul>
+			<li>Autor 1</li>
+			<li>Autor 2</li>
+		</ul>
+		
+	<li>Artigo 3</li>
+		<ul>
+			<li>Autor 1</li>
+			<li>Autor 2</li>
+		</ul>	
+</ul>
 
