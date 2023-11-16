@@ -73,7 +73,7 @@ header:
 		</ul>		
 </ul>
 
-<!--
+<!-- graduacao
 
 HoneyComb-ER: Adequação do Framework HoneyComb para Engenharia de Requisitos
 Lis Ângela De Bortoli (Instituto Federal do Rio Grande do Sul (IFRS) - Campus Sertão - Brazil),
@@ -192,5 +192,89 @@ Explorando Padrões de Projetos em Sistemas baseados em Aprendizado de Máquina:
 Vitor Balsanello (Universidade Técnologica Federal do Paraná - Brazil),
 Alinne Souza (Universidade Tecnológica Federal do Paraná - Brazil),
 Francisco Carlos Souza (Universidade Tecnológica Federal do Paraná - Brazil)
+
+-->
+
+
+<!-- pos-graduacao
+
+Uma Análise Abrangente de Soluções de Autenticação para Microsserviços: Uma Revisão Sistemática
+Rodrigo Cargnelutti (UNIPAMPA - Brazil),
+Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil),
+Fábio Basso (Universidade Federal do Pampa (Unipampa) - Brazil)
+
+Domain Ontology Evaluation in Software Development: Questionnaire Proposal
+Maria Lazaretti (Unicesumar - Brazil),
+Nelson Nunes Tenório Junior (Unicesumar - Brazil),
+Thaise Moser Teixeira (Unicesumar - Brazil)
+
+Gamificação no Ensino de Engenharia de Software: Guidelines para Apoio ao Professor
+Julio Herculani (Universidade Estadual de Maringá - -- Select Country --),
+Aline Amaral (Universidade Estadual de Maringa - Brazil),
+Thelma Colanzi (Universidade Estadual de Maringá - Brazil)
+
+AIQuiz: Uma Ferramenta de Apoio à Gamificação Aprimorada com Inteligência Artificial de ChatBot
+Cristian Tales Bandeira (universidade federal do pampa - Brazil),
+Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete - Brazil),
+Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil),
+Ildevana Poltronieri (Universidade Federal do Pampa - Brazil)
+
+Elicitação, Priorização e Validação de Requisitos de uma Ferramenta para Gerenciar Programas e Projetos de Extensão Universitária: um Estudo de Levantamento
+Igor Dalepiane (Unipampa - Brazil),
+Lucas Fell (Unipampa - Brazil),
+Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil),
+Williamson Silva (Universidade Federal do Pampa (Campus Alegrete) - Brazil)
+
+Um método para criação de MVP para startups de software nos cursos de graduação da área da computação
+Cristiane Alves Estevo (UEM - Brazil),
+Gislaine Camila Leal (Universidade Estadual de Maringá - Brazil),
+Renato Balancieri (Universidade Estadual do Paraná - Brazil),
+Guilherme Guerino (Universidade Estadual de Maringá - Brazil)
+
+MS Planner: Um Software para Elaboração de Plano de Estudos Sensível ao Contexto de Estudantes da Pós-graduação
+Bruna Dias (Universidade Federal do Pampa - Brazil),
+Samuel Müller Forrati (Universidade Federal do Pampa (Unipampa) - Campus Alegrete - Brazil),
+Marina Otokovieski (Universidade Federal do Pampa - Brazil),
+Andressa Rodrigues (Universidade Federal do Pampa - Brazil),
+Alice Finger (Universidade Federal do Pampa - Brazil),
+João Pablo S. da Silva (Federal University of Pampa - Brazil)
+
+Investigating the Developers? Perceptions of Unit Testing and Its Practice
+Lidvaldo Santos (University of Rio de Janeiro - Brazil),
+Fernanda Santos (UFRJ - Brazil),
+Renan Parreira (UFRJ),
+Rafael de Mello (UFRJ - Brazil)
+
+Uma Ferramenta Baseada na Web para Apoiar a Gestão de Programas e Projetos Extensão Universitária: Uma Avaliação Passo a Passo com Especialistas
+Igor Dalepiane (Unipampa - Brazil),
+Lucas Fell (Unipampa - Brazil),
+Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil),
+Aline Mello (Universidade Federal do Pampa - Brazil),
+Fábio Basso (Universidade Federal do Pampa (Unipampa) - Brazil)
+
+Uma Proposta para Automatização de Avaliação de Usabilidade/UX
+Luciano Anísio Garcia (USP - Brazil),
+Marcelo Morandini (Universidade de São Paulo - Brazil),
+Edson OliveiraJr (Universidade Estadual de Maringá - Brazil)
+
+Democratização do uso de Big Data: um relato de experiência em empresa de grande porte do ramo varejista
+Almir Kania Junior (Universidade Tecnológica Federal do Paraná - Brazil),
+Alinne Souza (Universidade Tecnológica Federal do Paraná - Brazil)
+
+-->
+
+<!-- extensao
+
+Relato de Experiência no Projeto Engenharia de Software Aplicada à Causas Sociais: AVICO Brasil
+Bhruno Leifheit (Universidade Federal do Pampa - Brazil),
+Cassio Ceolin Junior (Unipampa - Brazil),
+Daniel De Freitas (Universidade federal do pampa - Brazil),
+Fábio Basso (Universidade Federal do Pampa (Unipampa) - Brazil),
+Williamson Silva (Universidade Federal do Pampa (Campus Alegrete) - Brazil)
+
+O uso da metodologias ativas no ensino de Engenharia de Requisitos: O Caso do Projeto Web Academy
+Crhistopher Ric Saar (Universidade Federal do Acre - Brazil),
+Laura Costa Sarkis (Universidade Federal do Acre - Brazil),
+Daricélio Soares (Federal University of Acre - Brazil)
 
 -->
