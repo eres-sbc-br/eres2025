@@ -74,6 +74,7 @@ header:
 </ul>
 
 <!--
+
 HoneyComb-ER: Adequação do Framework HoneyComb para Engenharia de Requisitos
 Lis Ângela De Bortoli (Instituto Federal do Rio Grande do Sul (IFRS) - Campus Sertão - Brazil),
 Emerson Oliveira Jr. (Instituto Federal do Rio Grande do Sul - Brazil)
@@ -100,7 +101,7 @@ Fábio Basso (Universidade Federal do Pampa (Unipampa) - Brazil)
 Evolução da Open Coding Tool: Uma Ferramenta de Codificação Colaborativa para Análise de Dados Qualitativos
 Aline Mello (Universidade Federal do Pampa - Brazil),
 Andrea Bordin (Universidade Federal de Santa Catarina - Brazil),
-Maurício Escobar (Instituto Federal Farroupilha Alegrete - -- Select Country --)
+Maurício Escobar (Instituto Federal Farroupilha Alegrete)
 
 Avaliação de um Software para o Ensino de Gerenciamento de Projetos com base no PMBOK: Um Grupo Focal
 Raul Neves (Universidade Federal do Pampa - Brazil),
@@ -191,4 +192,5 @@ Explorando Padrões de Projetos em Sistemas baseados em Aprendizado de Máquina:
 Vitor Balsanello (Universidade Técnologica Federal do Paraná - Brazil),
 Alinne Souza (Universidade Tecnológica Federal do Paraná - Brazil),
 Francisco Carlos Souza (Universidade Tecnológica Federal do Paraná - Brazil)
+
 -->
