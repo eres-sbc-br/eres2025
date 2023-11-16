@@ -1,54 +1,19 @@
----
+﻿---
 layout: page-fullwidth
-title: "Artigos Aceitos"
 subheadline: ""
-permalink: "/aceitos/"
+permalink: "/comite_cientifico/"
 header:
    image_fullwidth: BannerERES2023.png
 ---
-<hr>
+
+<h1>Artigos Aceitos</h1>
 
 <h3>Fórum de Graduação:</h3>
-<br>
 
+<b>Título xxx123</b>
 
-<b>Título xxxx</b> <br>
-	<ul>
-		<li>Autor 1 (UF...)</li>
-		<li>Autor 2 (UF2...)</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul> <br>
-
-<strong>Título xxxx</strong> <br>
-	<ul>
-		<li>Autor 1 (UF...)</li>
-		<li>Autor 2 (UF2...)</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul> <br>
-
-<strong>Título xxxx</strong> <br>
-	<ul>
-		<li>Autor 1 (UF...)</li>
-		<li>Autor 2 (UF2...)</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul> <br>
-
-<strong>Título xxxx</strong> <br>
-	<ul>
-		<li>Autor 1 (UF...)</li>
-		<li>Autor 2 (UF2...)</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul> <br>
-
-<strong>Título xxxx</strong> <br>
-	<ul>
-		<li>Autor 1 (UF...)</li>
-		<li>Autor 2 (UF2...)</li>
-		<li>xxx ()</li>
-		<li>xxx ()</li>			
-	</ul> <br>
-
+<ul>
+	<li>	Adilson Bonifácio - UEL	</li>
+	<li>	Adriano de Oliveira - UFSM	</li>
+	<li>	Aline Mello - Unipampa	</li>
+</ul>
