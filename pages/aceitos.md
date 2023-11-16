@@ -28,31 +28,3 @@ header:
 		<li>Autor - </li>	
 	</ul> <br>
 
-
-<b>Título xxx123</b><br>
-	<ul>
-		<li>Autor - </li>
-		<li>Autor - </li>
-		<li>Autor - </li>
-		<li>Autor - </li>	
-	</ul> <br>
-
-
-<b>Título xxx123</b><br>
-	<ul>
-		<li>Autor - </li>
-		<li>Autor - </li>
-		<li>Autor - </li>
-		<li>Autor - </li>	
-	</ul> <br>
-
-
-<b>Título xxx123</b><br>
-	<ul>
-		<li>Autor - </li>
-		<li>Autor - </li>
-		<li>Autor - </li>
-		<li>Autor - </li>	
-	</ul> <br>
-
-
