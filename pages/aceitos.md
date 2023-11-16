@@ -1,5 +1,6 @@
 ---
 layout: page-fullwidth
+title: "Artigos Aceitos"
 subheadline: ""
 permalink: "/aceitos/"
 header:
