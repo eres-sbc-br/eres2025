@@ -12,22 +12,63 @@ header:
 <h3>Fórum de Graduação:</h3>
 
 <ul>
-	<li>Artigo 1</li>
+	<li><strong>Artigo 1</strong></li>
 		<ul>
 			<li>Autor 1</li>
 			<li>Autor 2</li>
 		</ul>
 	
-	<li>Artigo 2</li>
+	<li><strong>Artigo 2</strong></li>
 		<ul>
 			<li>Autor 1</li>
 			<li>Autor 2</li>
 		</ul>
 		
-	<li>Artigo 3</li>
+	<li><strong>Artigo 3</strong></li>
 		<ul>
 			<li>Autor 1</li>
 			<li>Autor 2</li>
 		</ul>	
 </ul>
 
+<hr>
+
+<h3>Fórum de Pós-Graduação:</h3>
+
+<ul>
+	<li><strong>Artigo 1</strong></li>
+		<ul>
+			<li>Autor 1</li>
+			<li>Autor 2</li>
+		</ul>
+	
+	<li><strong>Artigo 2</strong></li>
+		<ul>
+			<li>Autor 1</li>
+			<li>Autor 2</li>
+		</ul>
+		
+	<li><strong>Artigo 3</strong></li>
+		<ul>
+			<li>Autor 1</li>
+			<li>Autor 2</li>
+		</ul>	
+</ul>
+
+<hr>
+
+<h3>Fórum de Extensão:</h3>
+
+<ul>
+	<li><strong>Artigo 1</strong></li>
+		<ul>
+			<li>Autor 1</li>
+			<li>Autor 2</li>
+		</ul>
+	
+	<li><strong>Artigo 2</strong></li>
+		<ul>
+			<li>Autor 1</li>
+			<li>Autor 2</li>
+		</ul>		
+</ul>
