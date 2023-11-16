@@ -11,7 +11,7 @@ header:
 <h3>Fórum de Graduação:</h3>
 <br>
 
-<b>Título xxx123</b><br>
+<p><b>Título xxx123</b><br></p>
 	<ul>
 		<li>Autor - </li>
 		<li>Autor - </li>
@@ -20,7 +20,7 @@ header:
 	</ul>
 
 
-<b>Título xxx123</b><br>
+<p><b>Título xxx123</b><br></p>
 	<ul>
 		<li>Autor - </li>
 		<li>Autor - </li>
