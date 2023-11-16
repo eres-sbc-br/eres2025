@@ -12,7 +12,7 @@ header:
 <br>
 
 
-<strong>Título xxxx</strong> <br>
+<b>Título xxxx</b> <br>
 	<ul>
 		<li>Autor 1 (UF...)</li>
 		<li>Autor 2 (UF2...)</li>
