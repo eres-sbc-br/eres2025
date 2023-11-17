@@ -60,16 +60,20 @@ header:
 <h3>Fórum de Extensão:</h3>
 
 <ul>
-	<li><strong>Artigo 1</strong></li>
+	<li><strong>Relato de Experiência no Projeto Engenharia de Software Aplicada à Causas Sociais: AVICO Brasil</strong></li>
 		<ul>
-			<li>Autor 1</li>
-			<li>Autor 2</li>
+			<li>Bhruno Leifheit (Universidade Federal do Pampa - Brazil)</li>
+			<li>Cassio Ceolin Junior (Unipampa - Brazil)</li>
+			<li>Daniel De Freitas (Universidade federal do pampa - Brazil)</li>
+			<li>Fábio Basso (Universidade Federal do Pampa (Unipampa) - Brazil)</li>
+			<li>Williamson Silva (Universidade Federal do Pampa (Campus Alegrete) - Brazil)</li>
 		</ul>
 	
-	<li><strong>Artigo 2</strong></li>
+	<li><strong>O uso da metodologias ativas no ensino de Engenharia de Requisitos: O Caso do Projeto Web Academy</strong></li>
 		<ul>
-			<li>Autor 1</li>
-			<li>Autor 2</li>
+			<li>Crhistopher Ric Saar (Universidade Federal do Acre - Brazil)</li>
+			<li>Laura Costa Sarkis (Universidade Federal do Acre - Brazil)</li>
+			<li>Daricélio Soares (Federal University of Acre - Brazil)</li>
 		</ul>		
 </ul>
 
