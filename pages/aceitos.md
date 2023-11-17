@@ -12,24 +12,174 @@ header:
 <h3>Fórum de Graduação:</h3>
 
 <ul>
-	<li><strong>Artigo 1</strong></li>
+	<li><strong>HoneyComb-ER: Adequação do Framework HoneyComb para Engenharia de Requisitos</strong></li>
 		<ul>
-			<li>Autor 1</li>
-			<li>Autor 2</li>
-		</ul>
-	
-	<li><strong>Artigo 2</strong></li>
-		<ul>
-			<li>Autor 1</li>
-			<li>Autor 2</li>
+			<li>Lis Ângela De Bortoli (IFRS)</li>
+			<li>Emerson Oliveira Jr. (IFRS)</li>
 		</ul>
 		
-	<li><strong>Artigo 3</strong></li>
+	
+	<li><strong>Critérios para geração de casos de teste baseados em modelo descritos em PcML</strong></li>
 		<ul>
-			<li>Autor 1</li>
-			<li>Autor 2</li>
+			<li>Beatriz da Silva (UFSC)</li>
+			<li>Gian Berkenbrock (UFSC)</li>
+		</ul>
+		
+	<li><strong>Dados Saúde: Desenvolvimento de um aplicativo para gerenciar informações pessoais de saúde</strong></li>
+		<ul>
+			<li>Amanda Spolaor (Unipampa)</li>
+			<li>Aline Mello (Unipampa)</li>
+		</ul>	
+		
+	<li><strong>Ensino de Engenharia de Software utilizando Sala de Aula Invertida</strong></li>
+		<ul>
+			<li>Plinio Vilela (Unicamp)</li>			
+		</ul>	
+		
+	<li><strong>Evolução de uma Ferramenta Educacional de Gerenciamento de Projetos Usando Arquitetura Baseada em Serviços</strong></li>
+		<ul>
+			<li>Thiago Araújo (Unipampa)</li>
+			<li>Raul Neves (Unipampa)</li>
+			<li>Matheus Boeira (Unipampa)</li>
+			<li>Dionas Muller (Unipampa)</li>
+			<li>Maicon Bernardino (Unipampa)</li>
+			<li>Fábio Basso (Unipampa)</li>			
+		</ul>			
+
+	<li><strong>Evolução da Open Coding Tool: Uma Ferramenta de Codificação Colaborativa para Análise de Dados Qualitativos</strong></li>
+		<ul>
+			<li>Aline Mello (Unipampa)</li>
+			<li>Andrea Bordin (UFSC)</li>
+			<li>Maurício Escobar (IFFarroupilha)</li>
+		</ul>	
+		
+	<li><strong>Avaliação de um Software para o Ensino de Gerenciamento de Projetos com base no PMBOK: Um Grupo Focal</strong></li>
+		<ul>
+			<li>Raul Neves (Unipampa)</li>
+			<li>Dionas Muller (Unipampa)</li>
+			<li>Maicon Bernardino (Unipampa)</li>
+			<li>Thiago Araújo (Unipampa)</li>
+			<li>Matheus Boeira (Unipampa)</li>
+			<li>Elder Rodrigues (Unipampa)</li>
+		</ul>	
+
+	<li><strong>Análise Qualitativa de Ferramentas ESG para um Modelo de Funcionalidades: Um Estudo da Literatura Cinza</strong></li>
+		<ul>
+			<li>Willian Clemente (Unipampa)</li>
+			<li>Rafael Ribeiro (Unipampa)</li>
+			<li>Elder Rodrigues (Unipampa)</li>
+			<li>Maicon Bernardino (Unipampa)</li>
+			<li>Iago Nogueira (Unipampa)</li>			
+		</ul>	
+
+	<li><strong>Avaliação das Funcionalidades de Softwares de Auxilio à Empresas de Gestão e Consultoria Ambiental: Um Survey</strong></li>
+		<ul>
+			<li>Rafael Ribeiro (Unipampa)</li>
+			<li>Maicon Bernardino (Unipampa)</li>
+			<li>Willian Clemente (Unipampa)</li>
+			<li>Iago Nogueira (Unipampa)</li>
+			<li>Elder Rodrigues (Unipampa)</li>			
+		</ul>	
+
+	<li><strong>Reengenharia e Evolução de um Software para Reconhecimento de Diagramas de Classe UML</strong></li>
+		<ul>
+			<li>Arthur Becker (Unipampa)</li>
+			<li>João Pablo S. da Silva (Unipampa)</li>
+			<li>Miguel Ecar (Unipampa)</li>
+		</ul>	
+		
+	<li><strong>Em Direção ao Gerenciamento de Projetos no Ecossistema de Startups: Resultados Preliminares</strong></li>
+		<ul>
+			<li>Jéssica Ribeiro (Unipampa)</li>
+			<li>Maicon Bernardino (Unipampa)</li>
+			<li>Fábio Basso (Unipampa)</li>
+		</ul>	
+
+	<li><strong>Integração de atividades de programação no ensino de teste de software em um ambiente com elementos de jogos</strong></li>
+		<ul>
+			<li>Vinicius Petris (UTFPR)</li>
+			<li>Marco Aurélio Graciotto Silva (UTFPR)</li>
+		</ul>	
+
+	<li><strong>Técnicas predatórias na monetização de jogos digitais: um estudo de caso utilizando semiótica</strong></li>
+		<ul>
+			<li>Vinicius Kreutz Recktenwaldt (UDESC)</li>
+			<li>Carla Berkenbrock (UDESC)</li>
+		</ul>	
+
+	<li><strong>Um Sistema Preliminar de Apoio à Gestão de Controle de Qualidade em Jogos Digitais</strong></li>
+		<ul>
+			<li>Gustavo da Costa (Unipampa)</li>
+			<li>João Pablo S. da Silva (Unipampa)</li>
+		</ul>	
+
+	<li><strong>Investigando a viabilidade de uso do UX Curve na Avaliação de Ambientes Virtuais de Aprendizagem</strong></li>
+		<ul>
+			<li>Marcelo Arrojo (Unipampa)</li>
+			<li>Lucas Carvalho (Unipampa)</li>
+			<li>Matheus D'Avila (Unipampa)</li>
+			<li>Williamson Silva (Unipampa)</li>
+		</ul>				
+
+	<li><strong>Em direção à um checklist para garantia da qualidade em atributos de acessibilidade das tecnologias emergentes de RV e RA</strong></li>
+		<ul>
+			<li>Larissa Xavier (Unipampa)</li>
+			<li>Fábio Basso (Unipampa)</li>
+		</ul>
+
+	<li><strong>Explorando o Uso do Visual Law na Prática Jurídica: Um Survey</strong></li>
+		<ul>
+			<li>Gustavo Silva (Unipampa)</li>
+			<li>Maicon Bernardino (Unipampa)</li>
+			<li>Glaucia Serafini (Glaucia Serafini Advocacia)</li>
+		</ul>	
+
+	<li><strong>Metadata Standards: a Review Towards Modeling Experiments</strong></li>
+		<ul>
+			<li>Filipe Santana (UEM)</li>
+			<li>André F. R. Cordeiro (UEM)</li>
+			<li>Edson OliveiraJr (UEM)</li>
+		</ul>	
+
+	<li><strong>Dublin Core for Recording Metadata of Experiments in Software Engineering: A Survey</strong></li>
+		<ul>
+			<li>Filipe Santana (UEM)</li>
+			<li>André F. R. Cordeiro (UEM)</li>
+			<li>Edson OliveiraJr (UEM)</li>
+		</ul>	
+
+	<li><strong>Adoção de Domain-Driven Design para o Domínio de Pagamentos</strong></li>
+		<ul>
+			<li>Pedro Chagas (UEM)</li>
+			<li>Carlos Luz (UEM)</li>
+			<li>Edson OliveiraJr (UEM)</li>
+		</ul>	
+
+	<li><strong>Projeto e Desenvolvimento de um Software de Apoio à Revisão Aberta por Pares</strong></li>
+		<ul>
+			<li>Matheus Pereira (UEM)</li>
+			<li>Nelson Tenório (UniCesumar e UEM)</li>
+			<li>Edson OliveiraJr (UEM)</li>
+		</ul>	
+
+	<li><strong>Desenvolvimento dirigido a modelo para Bootloader de microcontrolador</strong></li>
+		<ul>
+			<li>Angeline Melchiors (UFSC)</li>
+			<li>André Luigi Bonote (UFSC)</li>
+			<li>Gian Berkenbrock (UFSC)</li>
+			<li>Lucas Tosetto Teixeira (UFSC)</li>
+		</ul>	
+
+	<li><strong>Explorando Padrões de Projetos em Sistemas baseados em Aprendizado de Máquina: Um estudo de Caso</strong></li>
+		<ul>
+			<li>Vitor Balsanello (UTFPR)</li>
+			<li>Alinne Souza (UTFPR)</li>
+			<li>Francisco Carlos Souza (UTFPR)</li>
 		</ul>	
 </ul>
+
+
+
 
 <hr>
 
@@ -149,126 +299,4 @@ header:
 			<li>Daricélio Soares (UFAC)</li>
 		</ul>		
 </ul>
-
-<!-- graduacao
-
-HoneyComb-ER: Adequação do Framework HoneyComb para Engenharia de Requisitos
-Lis Ângela De Bortoli (Instituto Federal do Rio Grande do Sul (IFRS) - Campus Sertão),
-Emerson Oliveira Jr. (Instituto Federal do Rio Grande do Sul)
-
-Critérios para geração de casos de teste baseados em modelo descritos em PcML
-Beatriz da Silva (Universidade Federal de Santa Catarina),
-Gian Berkenbrock (Universidade Federal de Santa Catarina)
-
-Dados Saúde: Desenvolvimento de um aplicativo para gerenciar informações pessoais de saúde
-Amanda Spolaor (Unipampa),
-Aline Mello (Unipampa)
-
-Ensino de Engenharia de Software utilizando Sala de Aula Invertida
-Plinio Vilela (State University of Campinas)
-
-Evolução de uma Ferramenta Educacional de Gerenciamento de Projetos Usando Arquitetura Baseada em Serviços
-Thiago Araújo (Unipampa),
-Raul Neves (Unipampa),
-Matheus Boeira (Unipampa),
-Dionas Muller (Unipampa),
-Maicon Bernardino (Unipampa),
-Fábio Basso (Unipampa)
-
-Evolução da Open Coding Tool: Uma Ferramenta de Codificação Colaborativa para Análise de Dados Qualitativos
-Aline Mello (Unipampa),
-Andrea Bordin (Universidade Federal de Santa Catarina),
-Maurício Escobar (Instituto Federal Farroupilha Alegrete)
-
-Avaliação de um Software para o Ensino de Gerenciamento de Projetos com base no PMBOK: Um Grupo Focal
-Raul Neves (Unipampa),
-Dionas Muller (Unipampa),
-Maicon Bernardino (Unipampa),
-Thiago Araújo (Unipampa),
-Matheus Boeira (Unipampa),
-Elder Rodrigues (Unipampa - Unipampa Alegrete)
-
-Análise Qualitativa de Ferramentas ESG para um Modelo de Funcionalidades: Um Estudo da Literatura Cinza
-Willian Clemente (Unipampa),
-Rafael Ribeiro (Unipampa),
-Elder Rodrigues (Unipampa - Unipampa Alegrete),
-Maicon Bernardino (Unipampa),
-Iago Nogueira (Unipampa)
-
-Avaliação das Funcionalidades de Softwares de Auxilio à Empresas de Gestão e Consultoria Ambiental: Um Survey
-Rafael Ribeiro (Unipampa),
-Maicon Bernardino (Unipampa),
-Willian Clemente (Unipampa),
-Iago Nogueira (Unipampa),
-Elder Rodrigues (Unipampa - Unipampa Alegrete)
-
-Reengenharia e Evolução de um Software para Reconhecimento de Diagramas de Classe UML
-Arthur Becker (Federal University of Pampa),
-João Pablo S. da Silva (Federal University of Pampa),
-Miguel Ecar (Unipampa)
-
-Em Direção ao Gerenciamento de Projetos no Ecossistema de Startups: Resultados Preliminares
-Jéssica Ribeiro (Unipampa),
-Maicon Bernardino (Unipampa),
-Fábio Basso (Unipampa)
-
-Integração de atividades de programação no ensino de teste de software em um ambiente com elementos de jogos
-Vinicius Petris (Universidade Tecnologia Federal do Parana),
-Marco Aurélio Graciotto Silva (Universidade Tecnológica Federal do Paraná)
-
-Técnicas predatórias na monetização de jogos digitais: um estudo de caso utilizando semiótica
-Vinicius Kreutz Recktenwaldt (UDESC),
-Carla Berkenbrock (Universidade do Estado de Santa Catarina - UDESC)
-
-Um Sistema Preliminar de Apoio à Gestão de Controle de Qualidade em Jogos Digitais
-Gustavo da Costa (Unipampa),
-João Pablo S. da Silva (Federal University of Pampa)
-
-Investigando a viabilidade de uso do UX Curve na Avaliação de Ambientes Virtuais de Aprendizagem
-Marcelo Arrojo (Unipampa),
-Lucas Carvalho (Unipampa),
-Matheus D'Avila (Unipampa),
-Williamson Silva (Unipampa (Campus Alegrete))
-
-Em direção à um checklist para garantia da qualidade em atributos de acessibilidade das tecnologias emergentes de RV e RA
-Larissa Xavier (Unipampa),
-Fábio Basso (Unipampa)
-
-Explorando o Uso do Visual Law na Prática Jurídica: Um Survey
-Gustavo Silva (Unipampa),
-Maicon Bernardino (Unipampa),
-Glaucia Serafini (Glaucia Serafini Advocacia)
-
-Metadata Standards: a Review Towards Modeling Experiments
-Filipe Santana (State University of Maringá),
-André F. R. Cordeiro (State University of Maringá),
-Edson OliveiraJr (UEM)
-
-Dublin Core for Recording Metadata of Experiments in Software Engineering: A Survey
-Filipe Santana (State University of Maringá),
-André F. R. Cordeiro (State University of Maringá),
-Edson OliveiraJr (UEM)
-
-Adoção de Domain-Driven Design para o Domínio de Pagamentos
-Pedro Chagas (State University of Maringá),
-Carlos Luz (State University of Maringá),
-Edson OliveiraJr (UEM)
-
-Projeto e Desenvolvimento de um Software de Apoio à Revisão Aberta por Pares
-Matheus Pereira (State University of Maringá),
-Nelson Tenório (Universidade Cesumar - UniCesumar e UEM - UEM),
-Edson OliveiraJr (UEM)
-
-Desenvolvimento dirigido a modelo para Bootloader de microcontrolador
-Angeline Melchiors (UFSC),
-André Luigi Bonote (UFSC),
-Gian Berkenbrock (Universidade Federal de Santa Catarina),
-Lucas Tosetto Teixeira (UFSC)
-
-Explorando Padrões de Projetos em Sistemas baseados em Aprendizado de Máquina: Um estudo de Caso
-Vitor Balsanello (Universidade Técnologica Federal do Paraná),
-Alinne Souza (Universidade Tecnológica Federal do Paraná),
-Francisco Carlos Souza (Universidade Tecnológica Federal do Paraná)
-
--->
 
