@@ -36,24 +36,97 @@ header:
 <h3>Fórum de Pós-Graduação:</h3>
 
 <ul>
-	<li><strong>Artigo 1</strong></li>
+	<li><strong>Uma Análise Abrangente de Soluções de Autenticação para Microsserviços: Uma Revisão Sistemática</strong></li>
 		<ul>
-			<li>Autor 1</li>
-			<li>Autor 2</li>
-		</ul>
+			<li>Rodrigo Cargnelutti (UNIPAMPA - Brazil)</li>
+			<li>Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil)</li>
+			<li>Fábio Basso (Universidade Federal do Pampa (Unipampa) - Brazil)</li>
+		</ul>				
 	
-	<li><strong>Artigo 2</strong></li>
+	<li><strong>Domain Ontology Evaluation in Software Development: Questionnaire Proposal</strong></li>
 		<ul>
-			<li>Autor 1</li>
-			<li>Autor 2</li>
+			<li>Maria Lazaretti (Unicesumar - Brazil)</li>
+			<li>Nelson Nunes Tenório Junior (Unicesumar - Brazil)</li>
+			<li>Thaise Moser Teixeira (Unicesumar - Brazil)</li>
 		</ul>
+
 		
-	<li><strong>Artigo 3</strong></li>
+	<li><strong>Gamificação no Ensino de Engenharia de Software: Guidelines para Apoio ao Professor</strong></li>
 		<ul>
-			<li>Autor 1</li>
-			<li>Autor 2</li>
+			<li>Julio Herculani (Universidade Estadual de Maringá)</li>
+			<li>Aline Amaral (Universidade Estadual de Maringa - Brazil)</li>
+			<li>Thelma Colanzi (Universidade Estadual de Maringá - Brazil)</li>
+		</ul>	
+		
+	<li><strong>AIQuiz: Uma Ferramenta de Apoio à Gamificação Aprimorada com Inteligência Artificial de ChatBot</strong></li>
+		<ul>
+			<li>Cristian Tales Bandeira (universidade federal do pampa - Brazil)</li>
+			<li>Elder Rodrigues (Universidade Federal do Pampa - UNIPAMPA Alegrete - Brazil)</li>
+			<li>Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil)</li>
+			<li>Ildevana Poltronieri (Universidade Federal do Pampa - Brazil)</li>
+		</ul>	
+		
+		<li><strong>Elicitação, Priorização e Validação de Requisitos de uma Ferramenta para Gerenciar Programas e Projetos de Extensão Universitária: um Estudo de Levantamento</strong></li>
+		<ul>
+			<li>Igor Dalepiane (Unipampa - Brazil)</li>
+			<li>Lucas Fell (Unipampa - Brazil)</li>
+			<li>Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil)</li>
+			<li>Williamson Silva (Universidade Federal do Pampa (Campus Alegrete) - Brazil)</li>
+		</ul>	
+		
+		
+	<li><strong>Um método para criação de MVP para startups de software nos cursos de graduação da área da computação</strong></li>
+		<ul>
+			<li>Cristiane Alves Estevo (UEM - Brazil)</li>
+			<li>Gislaine Camila Leal (Universidade Estadual de Maringá - Brazil)</li>
+			<li>Renato Balancieri (Universidade Estadual do Paraná - Brazil)</li>
+			<li>Guilherme Guerino (Universidade Estadual de Maringá - Brazil)</li>
+		</ul>	
+
+	<li><strong>MS Planner: Um Software para Elaboração de Plano de Estudos Sensível ao Contexto de Estudantes da Pós-graduação</strong></li>
+		<ul>
+			<li>Bruna Dias (Universidade Federal do Pampa - Brazil)</li>
+			<li>Samuel Müller Forrati (Universidade Federal do Pampa (Unipampa) - Campus Alegrete - Brazil)</li>
+			<li>Marina Otokovieski (Universidade Federal do Pampa - Brazil)</li>
+			<li>Andressa Rodrigues (Universidade Federal do Pampa - Brazil)</li>
+			<li>Alice Finger (Universidade Federal do Pampa - Brazil)</li>
+			<li>João Pablo S. da Silva (Federal University of Pampa - Brazil)</li>
+		</ul>	
+		
+	<li><strong>Investigating the Developers? Perceptions of Unit Testing and Its Practice</strong></li>
+		<ul>
+			<li>Lidvaldo Santos (University of Rio de Janeiro - Brazil)</li>
+			<li>Fernanda Santos (UFRJ - Brazil)</li>
+			<li>Renan Parreira (UFRJ)</li>
+			<li>Rafael de Mello (UFRJ - Brazil)</li>
+		</ul>	
+
+	<li><strong>Uma Ferramenta Baseada na Web para Apoiar a Gestão de Programas e Projetos Extensão Universitária: Uma Avaliação Passo a Passo com Especialistas</strong></li>
+		<ul>
+			<li>Igor Dalepiane (Unipampa - Brazil)</li>
+			<li>Lucas Fell (Unipampa - Brazil)</li>
+			<li>Maicon Bernardino (Universidade Federal do Pampa (Unipampa) - Brazil)</li>
+			<li>Aline Mello (Universidade Federal do Pampa - Brazil)</li>
+			<li>Fábio Basso (Universidade Federal do Pampa (Unipampa) - Brazil)</li>
+		</ul>	
+
+	<li><strong>Uma Proposta para Automatização de Avaliação de Usabilidade/UX</strong></li>
+		<ul>
+			<li>Luciano Anísio Garcia (USP - Brazil)</li>
+			<li>Marcelo Morandini (Universidade de São Paulo - Brazil)</li>
+			<li>Edson OliveiraJr (Universidade Estadual de Maringá - Brazil)</li>
+		</ul>	
+
+	<li><strong>Democratização do uso de Big Data: um relato de experiência em empresa de grande porte do ramo varejista</strong></li>
+		<ul>
+			<li>Almir Kania Junior (Universidade Tecnológica Federal do Paraná - Brazil)</li>
+			<li>Alinne Souza (Universidade Tecnológica Federal do Paraná - Brazil)</li>
 		</ul>	
 </ul>
+
+
+
+
 
 <hr>
 
