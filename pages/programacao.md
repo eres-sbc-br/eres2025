@@ -141,7 +141,7 @@ header:
   </tr>
   <tr>
     <td>19:00 - 20:15</td>
-    <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_a">Palestra A</a><br>Educação em ES<br>Ellen Barbosa - ICMC/USP
+    <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_a">Palestra A</a><br>Soft Skills e o Engenheiro de Software: o que mais eu preciso saber para enfrentar os desafios do mercado?<br>Ellen Barbosa - ICMC/USP
 	<br><i>Chair: Prof. Nelson Tenório</i>
 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
     <td></td>
