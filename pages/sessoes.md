@@ -249,7 +249,7 @@ header:
 <table>
 <thead>
   <tr>
-    <th colspan="2"><strong>Sessão Técnica 5 - Experimentação, Ciência Aberta e Modelos de Software</strong><br><i>Chair: </i></th>
+    <th colspan="2"><strong>Sessão Técnica 5 - Experimentação, Ciência Aberta e Modelos de Software</strong><br><i>Chair: Lilian Scatalon</i></th>
   </tr>
 </thead>
 <tbody>
