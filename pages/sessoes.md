@@ -76,21 +76,21 @@ header:
 </thead>
 <tbody>
   <tr>
-    <td>13:30</td>
+    <td>15:30</td>
     <td>
 		<strong>[GRAD] Critérios para geração de casos de teste baseados em modelo descritos em PcML</strong><br>
 		<i>Autores: Beatriz da Silva (UFSC), Gian Berkenbrock (UFSC)</i>
 	</td>
   </tr>
   <tr>
-    <td>13:45</td>
+    <td>15:45</td>
     <td>
 		<strong>[GRAD] Em direção à um checklist para garantia da qualidade em atributos de acessibilidade das tecnologias emergentes de RV e RA</strong><br>
 		<i>Autores: Larissa Xavier (Unipampa), Fábio Basso (Unipampa)</i>
 	</td>
   </tr>
   <tr>
-    <td>14:00</td>
+    <td>14600</td>
     <td>
 		<strong>[GRAD] Um Sistema Preliminar de Apoio à Gestão de Controle de Qualidade em Jogos Digitais</strong><br>
 		<i>Autores: Gustavo da Costa (Unipampa), João Pablo S. da Silva (Unipampa)</i>
@@ -98,7 +98,7 @@ header:
   </tr>
   
   <tr>
-    <td>14:15</td>
+    <td>16:15</td>
     <td>
 		<strong>[POS] Investigating the Developers? Perceptions of Unit Testing and Its Practice</strong><br>
 		<i>Autores: Lidvaldo Santos (UFRJ), Fernanda Santos (UFRJ), Renan Parreira (UFRJ), Rafael de Mello (UFRJ)</i>
@@ -106,7 +106,7 @@ header:
   </tr>
   
   <tr>
-    <td>14:30</td>
+    <td>16:30</td>
     <td>
 		<strong>[POS] Um método para criação de MVP para startups de software nos cursos de Graduação da área da computação</strong><br>
 		<i>Autores: Cristiane Alves Estevo (UEM), Gislaine Camila Leal (UEM), Renato Balancieri (UEM), Guilherme Guerino (UEM)</i>
@@ -114,7 +114,7 @@ header:
   </tr>
   
   <tr>
-    <td>14:45</td>
+    <td>16:45</td>
     <td>
 		<strong>[GRAD] Análise Qualitativa de Ferramentas ESG para um Modelo de Funcionalidades: Um Estudo da Literatura Cinza</strong><br>
 		<i>Autores: Willian Clemente (Unipampa), Rafael Ribeiro (Unipampa), Elder Rodrigues (Unipampa), Maicon Bernardino (Unipampa), Iago Nogueira (Unipampa)</i>
@@ -194,21 +194,21 @@ header:
 </thead>
 <tbody>
   <tr>
-    <td>13:30</td>
+    <td>15:30</td>
     <td>
 		<strong>[GRAD] Explorando Padrões de Projetos em Sistemas baseados em Aprendizado de Máquina: Um estudo de Caso</strong><br>
 		<i>Autores: Vitor Balsanello (UTFPR), Alinne Souza (UTFPR), Francisco Carlos Souza (UTFPR)</i>
 	</td>
   </tr>
   <tr>
-    <td>13:45</td>
+    <td>15:45</td>
     <td>
 		<strong>[GRAD] Evolução da Open Coding Tool: Uma Ferramenta de Codificação Colaborativa para Análise de Dados Qualitativos</strong><br>
 		<i>Autores: Aline Mello (Unipampa), Andrea Bordin (UFSC), Maurício Escobar (IFFarroupilha)</i>
 	</td>
   </tr>
   <tr>
-    <td>14:00</td>
+    <td>16:00</td>
     <td>
 		<strong>[POS] Uma Análise Abrangente de Soluções de Autenticação para Microsserviços: Uma Revisão Sistemática</strong><br>
 		<i>Autores: Rodrigo Cargnelutti (Unipampa), Maicon Bernardino (Unipampa), Fábio Basso (Unipampa)</i>
@@ -216,7 +216,7 @@ header:
   </tr>
   
   <tr>
-    <td>14:15</td>
+    <td>16:15</td>
     <td>
 		<strong>[GRAD] Em Direção ao Gerenciamento de Projetos no Ecossistema de Startups: Resultados Preliminares</strong><br>
 		<i>Autores: Jéssica Ribeiro (Unipampa), Maicon Bernardino (Unipampa), Fábio Basso (Unipampa)</i>
@@ -224,7 +224,7 @@ header:
   </tr>
   
   <tr>
-    <td>14:30</td>
+    <td>16:30</td>
     <td>
 		<strong>[POS] MS Planner: Um Software para Elaboração de Plano de Estudos Sensível ao Contexto de Estudantes da Pós-graduação</strong><br>
 		<i>Autores: Bruna Dias (Unipampa), Samuel Müller Forrati (Unipampa), Marina Otokovieski (Unipampa), Andressa Rodrigues (Unipampa), Alice Finger (Unipampa), João Pablo S. da Silva (Unipampa)</i>
@@ -232,7 +232,7 @@ header:
   </tr>
   
   <tr>
-    <td>14:45</td>
+    <td>16:45</td>
     <td>
 		<strong>[POS] Uma Ferramenta Baseada na Web para Apoiar a Gestão de Programas e Projetos de extensão Universitária: Uma Avaliação Passo a Passo com Especialistas</strong><br>
 		<i>Autores: Igor Dalepiane (Unipampa), Lucas Fell (Unipampa), Maicon Bernardino (Unipampa), Aline Mello (Unipampa), Fábio Basso (Unipampa)</i>
@@ -311,21 +311,21 @@ header:
 </thead>
 <tbody>
   <tr>
-    <td>13:30</td>
+    <td>15:30</td>
     <td>
 		<strong>[EXT] Relato de Experiência no Projeto Engenharia de Software Aplicada à Causas Sociais: AVICO Brasil</strong><br>
 		<i>Autores: Bhruno Leifheit (Unipampa), Cassio Ceolin Junior (Unipampa), Daniel De Freitas (Unipampa), Fábio Basso (Unipampa), Williamson Silva (Unipampa)</i>
 	</td>
   </tr>
   <tr>
-    <td>13:45</td>
+    <td>15:45</td>
     <td>
 		<strong>[GRAD] Dados Saúde: Desenvolvimento de um aplicativo para gerenciar informações pessoais de saúde</strong><br>
 		<i>Autores: Amanda Spolaor (Unipampa), Aline Mello (Unipampa)</i>
 	</td>
   </tr>
   <tr>
-    <td>14:00</td>
+    <td>16:00</td>
     <td>
 		<strong>[GRAD] Avaliação das Funcionalidades de Softwares de Auxilio à Empresas de Gestão e Consultoria Ambiental: Um Survey</strong><br>
 		<i>Autores: Rafael Ribeiro (Unipampa), Maicon Bernardino (Unipampa), Willian Clemente (Unipampa), Iago Nogueira (Unipampa), Elder Rodrigues (Unipampa)</i>
@@ -333,7 +333,7 @@ header:
   </tr>
   
   <tr>
-    <td>14:15</td>
+    <td>16:15</td>
     <td>
 		<strong>[GRAD] Explorando o Uso do Visual Law na Prática Jurídica: Um Survey</strong><br>
 		<i>Autores: Gustavo Silva (Unipampa), Maicon Bernardino (Unipampa), Glaucia Serafini (Unipampa)</i>
@@ -341,7 +341,7 @@ header:
   </tr>
   
   <tr>
-    <td>14:30</td>
+    <td>16:30</td>
     <td>
 		<strong>[GRAD] Técnicas predatórias na monetização de jogos digitais: um estudo de caso utilizando semiótica</strong><br>
 		<i>Autores: Vinicius Kreutz Recktenwaldt (UDESC), Carla Berkenbrock (UDESC)</i>
@@ -349,7 +349,7 @@ header:
   </tr>
   
   <tr>
-    <td>14:45</td>
+    <td>16:45</td>
     <td>
 		<strong>[POS] AIQuiz: Uma Ferramenta de Apoio à Gamificação Aprimorada com Inteligência Artificial de ChatBot</strong><br>
 		<i>Autores: Cristian Tales Bandeira (Unipampa), Elder Rodrigues (Unipampa), Maicon Bernardino (Unipampa), Ildevana Poltronieri (Unipampa)</i>
