@@ -125,6 +125,9 @@ header:
 </table>
 
 
+<h3>Quinta-Feira (07/Dez/2023)</h3>
+
+
 <table>
 <thead>
   <tr>
@@ -238,6 +241,9 @@ header:
   
 </tbody>
 </table>
+
+
+<h3>Sexta-Feira (08/Dez/2023)</h3>
 
 
 <table>
