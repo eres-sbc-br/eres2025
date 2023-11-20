@@ -256,46 +256,46 @@ header:
   <tr>
     <td>13:30</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[GRAD] Metadata Standards: a Review Towards Modeling Experiments</strong><br>
+		<i>Autores: Filipe Santana (UEM), André F. R. Cordeiro (UEM), Edson OliveiraJr (UEM)</i>
 	</td>
   </tr>
   <tr>
     <td>13:45</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[GRAD] Dublin Core for Recording Metadata of Experiments in Software Engineering: A Survey</strong><br>
+		<i>Autores: Filipe Santana (UEM), André F. R. Cordeiro (UEM), Edson OliveiraJr (UEM)</i>
 	</td>
   </tr>
   <tr>
     <td>14:00</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[GRAD] Projeto e Desenvolvimento de um Software de Apoio à Revisão Aberta por Pares</strong><br>
+		<i>Autores: Matheus Pereira (UEM), Nelson Tenório (UniCesumar e UEM), Edson OliveiraJr (UEM)</i>
 	</td>
   </tr>
   
   <tr>
     <td>14:15</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[POS] Democratização do uso de Big Data: um relato de experiência em empresa de grande porte do ramo varejista</strong><br>
+		<i>Autores: Almir Kania Junior (UTFPR), Alinne Souza (UTFPR)</i>
 	</td>
   </tr>
   
   <tr>
     <td>14:30</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[GRAD] Desenvolvimento dirigido a modelo para Bootloader de microcontrolador</strong><br>
+		<i>Autores: Angeline Melchiors (UFSC), André Luigi Bonote (UFSC), Gian Berkenbrock (UFSC), Lucas Tosetto Teixeira (UFSC),</i>
 	</td>
   </tr>
   
   <tr>
     <td>14:45</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[POS] Domain Ontology Evaluation in Software Development: Questionnaire Proposal</strong><br>
+		<i>Autores: Maria Lazaretti (Unicesumar), Nelson Nunes Tenório Junior (Unicesumar), Thaise Moser Teixeira (Unicesumar)</i>
 	</td>
   </tr> 
   
