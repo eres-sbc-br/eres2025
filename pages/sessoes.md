@@ -14,7 +14,7 @@ header:
 <table>
 <thead>
   <tr>
-    <th colspan="2"><strong>Sessão Técnica 1 - Ensino de Engenharia de Software</strong><br><i>Chair: </i></th>
+    <th colspan="2"><strong>Sessão Técnica 1 - Ensino de Engenharia de Software</strong><br><i>Chair: Nelson Tenório Jr.</i></th>
   </tr>
 </thead>
 <tbody>
