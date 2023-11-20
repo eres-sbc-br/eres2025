@@ -189,7 +189,7 @@ header:
 <thead>
   <tr>
     
-	<th colspan="2"><strong>Sessão Técnica 4 - Arquitetura de Software, Micorsserviços e Gerência de Projetos</strong><br><i>Chair: </i></th>
+	<th colspan="2"><strong>Sessão Técnica 4 - Arquitetura de Software, Microsserviços e Gerência de Projetos</strong><br><i>Chair: </i></th>
   </tr>
 </thead>
 <tbody>
@@ -306,7 +306,7 @@ header:
 <table>
 <thead>
   <tr>
-    <th colspan="2"><strong>Sessão Técnica 6 - Aspectos Gerais de Engenharia de Software</strong><br><i>Chair: </i></th>
+    <th colspan="2"><strong>Sessão Técnica 6 - Aspectos Gerais de Engenharia de Software</strong><br><i>Chair: Edna Dias Canedo</i></th>
   </tr>
 </thead>
 <tbody>
