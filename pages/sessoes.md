@@ -306,53 +306,53 @@ header:
 <table>
 <thead>
   <tr>
-    <th colspan="2"><strong>Sessão Técnica 1 - Ensino de Engenharia de Software</strong><br><i>Chair: </i></th>
+    <th colspan="2"><strong>Sessão Técnica 6 - Aspectos Gerais de Engenharia de Software</strong><br><i>Chair: </i></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>13:30</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[EXT] Relato de Experiência no Projeto Engenharia de Software Aplicada à Causas Sociais: AVICO Brasil</strong><br>
+		<i>Autores: Bhruno Leifheit (Unipampa), Cassio Ceolin Junior (Unipampa), Daniel De Freitas (Unipampa), Fábio Basso (Unipampa), Williamson Silva (Unipampa)</i>
 	</td>
   </tr>
   <tr>
     <td>13:45</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[GRAD] Dados Saúde: Desenvolvimento de um aplicativo para gerenciar informações pessoais de saúde</strong><br>
+		<i>Autores: Amanda Spolaor (Unipampa), Aline Mello (Unipampa)</i>
 	</td>
   </tr>
   <tr>
     <td>14:00</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[GRAD] Avaliação das Funcionalidades de Softwares de Auxilio à Empresas de Gestão e Consultoria Ambiental: Um Survey</strong><br>
+		<i>Autores: Rafael Ribeiro (Unipampa), Maicon Bernardino (Unipampa), Willian Clemente (Unipampa), Iago Nogueira (Unipampa), Elder Rodrigues (Unipampa)</i>
 	</td>
   </tr>
   
   <tr>
     <td>14:15</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[GRAD] Explorando o Uso do Visual Law na Prática Jurídica: Um Survey</strong><br>
+		<i>Autores: Gustavo Silva (Unipampa), Maicon Bernardino (Unipampa), Glaucia Serafini (Unipampa)</i>
 	</td>
   </tr>
   
   <tr>
     <td>14:30</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[GRAD] Técnicas predatórias na monetização de jogos digitais: um estudo de caso utilizando semiótica</strong><br>
+		<i>Autores: Vinicius Kreutz Recktenwaldt (UDESC), Carla Berkenbrock (UDESC)</i>
 	</td>
   </tr>
   
   <tr>
     <td>14:45</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[POS] AIQuiz: Uma Ferramenta de Apoio à Gamificação Aprimorada com Inteligência Artificial de ChatBot</strong><br>
+		<i>Autores: Cristian Tales Bandeira (Unipampa), Elder Rodrigues (Unipampa), Maicon Bernardino (Unipampa), Ildevana Poltronieri (Unipampa)</i>
 	</td>
   </tr> 
   
