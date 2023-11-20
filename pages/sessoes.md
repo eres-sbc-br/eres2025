@@ -185,53 +185,54 @@ header:
 <table>
 <thead>
   <tr>
-    <th colspan="2"><strong>Sessão Técnica 4 - Arquitetura de Software, Micorsserviços e Gerência de Projetos</strong><br><i>Chair: </i></th>
+    
+	<th colspan="2"><strong>Sessão Técnica 4 - Arquitetura de Software, Micorsserviços e Gerência de Projetos</strong><br><i>Chair: </i></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>13:30</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[GRAD] Explorando Padrões de Projetos em Sistemas baseados em Aprendizado de Máquina: Um estudo de Caso</strong><br>
+		<i>Autores: Vitor Balsanello (UTFPR), Alinne Souza (UTFPR), Francisco Carlos Souza (UTFPR)</i>
 	</td>
   </tr>
   <tr>
     <td>13:45</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[GRAD] Evolução da Open Coding Tool: Uma Ferramenta de Codificação Colaborativa para Análise de Dados Qualitativos</strong><br>
+		<i>Autores: Aline Mello (Unipampa), Andrea Bordin (UFSC), Maurício Escobar (IFFarroupilha)</i>
 	</td>
   </tr>
   <tr>
     <td>14:00</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[POS] Uma Análise Abrangente de Soluções de Autenticação para Microsserviços: Uma Revisão Sistemática</strong><br>
+		<i>Autores: Rodrigo Cargnelutti (Unipampa), Maicon Bernardino (Unipampa), Fábio Basso (Unipampa)</i>
 	</td>
   </tr>
   
   <tr>
     <td>14:15</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[GRAD] Em Direção ao Gerenciamento de Projetos no Ecossistema de Startups: Resultados Preliminares</strong><br>
+		<i>Autores: Jéssica Ribeiro (Unipampa), Maicon Bernardino (Unipampa), Fábio Basso (Unipampa)</i>
 	</td>
   </tr>
   
   <tr>
     <td>14:30</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[POS] MS Planner: Um Software para Elaboração de Plano de Estudos Sensível ao Contexto de Estudantes da Pós-graduação</strong><br>
+		<i>Autores: Bruna Dias (Unipampa), Samuel Müller Forrati (Unipampa), Marina Otokovieski (Unipampa), Andressa Rodrigues (Unipampa), Alice Finger (Unipampa), João Pablo S. da Silva (Unipampa)</i>
 	</td>
   </tr>
   
   <tr>
     <td>14:45</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[POS] Uma Ferramenta Baseada na Web para Apoiar a Gestão de Programas e Projetos de extensão Universitária: Uma Avaliação Passo a Passo com Especialistas</strong><br>
+		<i>Autores: Igor Dalepiane (Unipampa), Lucas Fell (Unipampa), Maicon Bernardino (Unipampa), Aline Mello (Unipampa), Fábio Basso (Unipampa)</i>
 	</td>
   </tr> 
   
@@ -242,7 +243,7 @@ header:
 <table>
 <thead>
   <tr>
-    <th colspan="2"><strong>Sessão Técnica 1 - Ensino de Engenharia de Software</strong><br><i>Chair: </i></th>
+    <th colspan="2"><strong>Sessão Técnica 5 - Experimentação, Ciência Aberta e Modelos de Software</strong><br><i>Chair: </i></th>
   </tr>
 </thead>
 <tbody>
