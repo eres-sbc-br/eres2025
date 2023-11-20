@@ -125,58 +125,56 @@ header:
 </table>
 
 
-
-
 <table>
 <thead>
   <tr>
-    <th colspan="2"><strong>Sessão Técnica 1 - Ensino de Engenharia de Software</strong><br><i>Chair: </i></th>
+    <th colspan="2"><strong>Sessão Técnica 3 - Requisitos e UX/Usabilidade</strong><br><i>Chair: </i></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>13:30</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[GRAD] HoneyComb-ER: Adequação do Framework HoneyComb para Engenharia de Requisitos</strong><br>
+		<i>Autores: Lis Ângela De Bortoli (IFRS), Emerson Oliveira Jr. (IFRS)</i>
 	</td>
   </tr>
   <tr>
     <td>13:45</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[GRAD] Reengenharia e Evolução de um Software para Reconhecimento de Diagramas de Classe UML</strong><br>
+		<i>Autores: Arthur Becker (Unipampa), João Pablo S. da Silva (Unipampa), Miguel Ecar (Unipampa)</i>
 	</td>
   </tr>
   <tr>
     <td>14:00</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[GRAD] Investigando a viabilidade de uso do UX Curve na Avaliação de Ambientes Virtuais de Aprendizagem</strong><br>
+		<i>Autores: Marcelo Arrojo (Unipampa), Lucas Carvalho (Unipampa), Matheus D'Avila (Unipampa), Williamson Silva (Unipampa)</i>
 	</td>
   </tr>
   
   <tr>
     <td>14:15</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[POS] Uma Proposta para Automatização de Avaliação de Usabilidade/UX</strong><br>
+		<i>Autores: Luciano Anísio Garcia (USP), Marcelo Morandini (USP), Edson OliveiraJr (UEM)</i>
 	</td>
   </tr>
   
   <tr>
     <td>14:30</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[POS] Elicitação, Priorização e Validação de Requisitos de uma Ferramenta para Gerenciar Programas e Projetos de Extensão Universitária: um Estudo de Levantamento</strong><br>
+		<i>Autores: Igor Dalepiane (Unipampa), Lucas Fell (Unipampa), Maicon Bernardino (Unipampa), Williamson Silva (Unipampa)</i>
 	</td>
   </tr>
   
   <tr>
     <td>14:45</td>
     <td>
-		<strong>zzzzzzzzzzzzzzzzzzz sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas  sasas asasas </strong><br>
-		<i>Autores: aaaa (aaa), bbbb (bb)</i>
+		<strong>[GRAD] Adoção de Domain-Driven Design para o Domínio de Pagamentos</strong><br>
+		<i>Autores: Pedro Chagas (UEM), Carlos Luz (UEM), Edson OliveiraJr (UEM)</i>
 	</td>
   </tr> 
   
