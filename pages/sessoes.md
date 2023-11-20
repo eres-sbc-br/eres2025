@@ -189,7 +189,7 @@ header:
 <thead>
   <tr>
     
-	<th colspan="2"><strong>Sessão Técnica 4 - Arquitetura de Software, Microsserviços e Gerência de Projetos</strong><br><i>Chair: </i></th>
+	<th colspan="2"><strong>Sessão Técnica 4 - Arquitetura de Software, Microsserviços e Gerência de Projetos</strong><br><i>Chair: Marcelo Morandini</i></th>
   </tr>
 </thead>
 <tbody>
