@@ -131,7 +131,7 @@ header:
 <table>
 <thead>
   <tr>
-    <th colspan="2"><strong>Sessão Técnica 3 - Requisitos e UX/Usabilidade</strong><br><i>Chair: </i></th>
+    <th colspan="2"><strong>Sessão Técnica 3 - Requisitos e UX/Usabilidade</strong><br><i>Chair: Thiago Coleti</i></th>
   </tr>
 </thead>
 <tbody>
