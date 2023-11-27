@@ -146,7 +146,7 @@ header:
 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
     <td></td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_d">Palestra D</a><br>Como o uso de artefatos de modelos pode auxiliar as empresas desenvolvedoras de software em seus processos? O relato de uma pesquisa no Brasil<br>André Menolli - UENP
-	<br><i>Chair: Prof. Edson OliveiraJr</i>
+	<br><i>Chair: Profa. Lilian Scatalon</i>
 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
     <td></td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_f">Palestra F</a><br>O Uso de Técnicas de Especificação de Requisitos na Indústria<br>Edna Dias Canedo - UnB
