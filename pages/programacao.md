@@ -164,7 +164,7 @@ header:
   <tr>
     <td>20:35 - 21:50</td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_b">Palestra B</a><br>Open-source, como começar? motivações e desafios!<br>Igor Wiese - UTFPR-CM
-	<br><i>Chair: Profa. Aline Amaral</i>
+	<br><i>Chair: Prof. Edson OliveiraJr</i>
 	<br> 	<img src="https://eres-sbc-br.github.io/eres2023/images/pin.png" width="20"> <a target="_blank" href="https://goo.gl/maps/J8tojLEbD75j1Fz5A">Auditório Bloco B33</a></td>
     <td></td>
     <td colspan="2"><a target="_blank" href="https://eres-sbc-br.github.io/eres2023/palestras#palestra_e">Palestra E</a><br>Teste de Mutação: Relevância, Histórico e Tendências<br>Fabiano Ferrari - UFSCar
