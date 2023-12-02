@@ -71,7 +71,7 @@ header:
 <table>
 <thead>
   <tr>
-    <th colspan="2"><strong>Sessão Técnica 2 - Qualidade de Software</strong><br><i>Chair: Igor Wiese</i></th>
+    <th colspan="2"><strong>Sessão Técnica 2 - Qualidade de Software</strong><br><i>Chair: Nelson Tenório Jr.</i></th>
   </tr>
 </thead>
 <tbody>
