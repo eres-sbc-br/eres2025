@@ -90,7 +90,7 @@ header:
 	</td>
   </tr>
   <tr>
-    <td>14600</td>
+    <td>16:00</td>
     <td>
 		<strong>[GRAD] Um Sistema Preliminar de Apoio à Gestão de Controle de Qualidade em Jogos Digitais</strong><br>
 		<i>Autores: Gustavo da Costa (Unipampa), João Pablo S. da Silva (Unipampa)</i>
