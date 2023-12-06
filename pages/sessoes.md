@@ -21,8 +21,10 @@ header:
   <tr>
     <td>13:30</td>
     <td>
-		<strong>[EXT] O uso da metodologias ativas no ensino de Engenharia de Requisitos: O Caso do Projeto Web Academy</strong><br>
-		<i>Autores: Crhistopher Ric Saar (UFAC), Laura Costa Sarkis (UFAC), Daricélio Soares (UFAC)</i>
+		    <td>
+		<strong>[GRAD] Evolução de uma Ferramenta Educacional de Gerenciamento de Projetos Usando Arquitetura Baseada em Serviços</strong><br>
+		<i>Autores: Thiago Araújo (Unipampa), Raul Neves (Unipampa), Matheus Boeira (Unipampa), Dionas Muller (Unipampa), Maicon Bernardino (Unipampa), Fábio Basso (Unipampa)</i>
+	</td>
 	</td>
   </tr>
   <tr>
@@ -58,10 +60,8 @@ header:
   
   <tr>
     <td>14:45</td>
-    <td>
-		<strong>[GRAD] Evolução de uma Ferramenta Educacional de Gerenciamento de Projetos Usando Arquitetura Baseada em Serviços</strong><br>
-		<i>Autores: Thiago Araújo (Unipampa), Raul Neves (Unipampa), Matheus Boeira (Unipampa), Dionas Muller (Unipampa), Maicon Bernardino (Unipampa), Fábio Basso (Unipampa)</i>
-	</td>
+		<strong>[EXT] O uso da metodologias ativas no ensino de Engenharia de Requisitos: O Caso do Projeto Web Academy</strong><br>
+		<i>Autores: Crhistopher Ric Saar (UFAC), Laura Costa Sarkis (UFAC), Daricélio Soares (UFAC)</i>
   </tr> 
   
 </tbody>
