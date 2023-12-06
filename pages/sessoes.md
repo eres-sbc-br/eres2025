@@ -58,8 +58,10 @@ header:
   
   <tr>
     <td>14:45</td>
+	<td>
 		<strong>[EXT] O uso da metodologias ativas no ensino de Engenharia de Requisitos: O Caso do Projeto Web Academy</strong><br>
 		<i>Autores: Crhistopher Ric Saar (UFAC), Laura Costa Sarkis (UFAC), Daricélio Soares (UFAC)</i>
+	</td>
   </tr> 
   
 </tbody>
