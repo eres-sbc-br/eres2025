@@ -20,11 +20,9 @@ header:
 <tbody>
   <tr>
     <td>13:30</td>
-    <td>
-		    <td>
+    <td>		    
 		<strong>[GRAD] Evolução de uma Ferramenta Educacional de Gerenciamento de Projetos Usando Arquitetura Baseada em Serviços</strong><br>
-		<i>Autores: Thiago Araújo (Unipampa), Raul Neves (Unipampa), Matheus Boeira (Unipampa), Dionas Muller (Unipampa), Maicon Bernardino (Unipampa), Fábio Basso (Unipampa)</i>
-	</td>
+		<i>Autores: Thiago Araújo (Unipampa), Raul Neves (Unipampa), Matheus Boeira (Unipampa), Dionas Muller (Unipampa), Maicon Bernardino (Unipampa), Fábio Basso (Unipampa)</i>	
 	</td>
   </tr>
   <tr>
