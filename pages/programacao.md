@@ -22,7 +22,7 @@ header:
 </thead>
 <tbody>
   <tr>
-    <td>08:00 - 12:00</td>
+    <td>08:00-12:00 e 13:30-18:00</td>
     <td colspan="2">Credenciamento <br> <img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"> <a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 002 - Térreo</a></td>
     <td></td>
     <td colspan="2">Credenciamento <br>	<img src="https://eres-sbc-br.github.io/eres2023/images/pin-azul.png" width="20"><a target="_blank" href="https://goo.gl/maps/pwyfjqmMnxpAo2uz7">DIN Bloco C56 - Sala 002 - Térreo</a></td>
