@@ -4,12 +4,12 @@ title: "Sessões Técnicas"
 subheadline: ""
 permalink: "/sessoes/"
 header:
-   image_fullwidth: BannerERES2023.png
+  image_fullwidth: BannerERES2024.png
 ---
 
 <hr>
 
-<h3>Quarta-Feira (06/Dez/2023)</h3>
+<h3>Quarta-Feira (06/Dez/2024)</h3>
 
 <table>
 <thead>
@@ -67,7 +67,6 @@ header:
 </tbody>
 </table>
 
-
 <table>
 <thead>
   <tr>
@@ -124,9 +123,7 @@ header:
 </tbody>
 </table>
 
-
-<h3>Quinta-Feira (07/Dez/2023)</h3>
-
+<h3>Quinta-Feira (07/Dez/2024)</h3>
 
 <table>
 <thead>
@@ -183,7 +180,6 @@ header:
   
 </tbody>
 </table>
-
 
 <table>
 <thead>
@@ -242,9 +238,7 @@ header:
 </tbody>
 </table>
 
-
-<h3>Sexta-Feira (08/Dez/2023)</h3>
-
+<h3>Sexta-Feira (08/Dez/2024)</h3>
 
 <table>
 <thead>
@@ -301,7 +295,6 @@ header:
   
 </tbody>
 </table>
-
 
 <table>
 <thead>

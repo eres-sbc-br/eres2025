@@ -43,45 +43,20 @@
     url: "/publicidade/"
   - title: "Edições Anteriores"
     url: "/edicoes_anteriores/"
-#  - title: "Comitê Diretivo"
-#    url: "/comite_diretivo/"
-#  - title: "Voluntários"
-#    url: "/voluntarios/"
-
 
 - title: "Local do Evento"
   url: ""
   side: left
   dropdown:
-  - title: "Como chegar à ERES"
+  - title: "Como chegar à URI"
     url: "/como_chegar/"
   - title: "Hospedagem e Alojamento"
     url: "/hospedagem/"
-  - title: "Sobre Maringá"
-    url: "/maringa/"
+  - title: "Sobre Santiago"
+    url: "/santiago/"
   - title: "Alimentação no Câmpus"
     url: "/ru_uem/"
-#  - title: "UniSENAI"
-#    url: "/unisenai/"
-#  - title: "Como Chegar à ERES"
-#    url: "/como_chegar/"
-#  - title: "Hospedagem"
-#    url: "/hospedagem/"
-#  - title: "Sobre Blumenau"
-#    url: "/blumenau/"
-
-#- title: "Sobre a SBC"
-#  url: "/sobresbc/"
-#  side: left
 
 - title: "Contato"
   url: "/contato/"
   side: left
-
-#- title: "Certificados"
-#  url: "/certificados/"
-#  side: left
-
-#- title: "Downloads"
-#  url: "/downloads/"
-#  side: left

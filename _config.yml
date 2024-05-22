@@ -8,10 +8,10 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'ERES 2023'
+title: 'ERES 2024'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'ERES 2023 - Escola Regional de Engenharia de Software'
+slogan: 'ERES 2024 - Escola Regional de Engenharia de Software'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'A Escola Regional de Engenharia de Software (ERES) é um evento com o objetivo de promover e disseminar conhecimento e boas práticas de Engenharia de Software'
@@ -30,7 +30,7 @@ baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/eres-sbc-br/eres2023/feeling-responsive/edit/gh-pages
+improve_content: https://github.com/eres-sbc-br/eres2024/feeling-responsive/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,9 +38,9 @@ improve_content: https://github.com/eres-sbc-br/eres2023/feeling-responsive/edit
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://eres-sbc-br.github.io/eres2023/images/'
+urlimg: 'https://eres-sbc-br.github.io/eres2024/images/'
 
-urlcertificados: 'https://github.com/eres-sbc-br/eres2023/tree/main/certificados/'
+urlcertificados: 'https://github.com/eres-sbc-br/eres2024/tree/main/certificados/'
 
 # Logo size is 600x80 pixels
 #logo: "logo_eres_2020.png"
@@ -160,7 +160,7 @@ bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
-favicon-32x32:                          "logo_eres_2023.png"
+favicon-32x32:                          "logo_eres_2024.png"
 #'favicon-32x32.png'
 touch-icon-192x192:                     'touch-icon-192x192.png'
 apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'

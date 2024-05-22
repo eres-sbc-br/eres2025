@@ -6,13 +6,14 @@ subheadline: ""
 #teaser: "Entre em contato conosco pelo e-mail #eres2020.uem@gmail.com"
 permalink: "/hospedagem/"
 header:
-   image_fullwidth: BannerERES2023.png
+  image_fullwidth: BannerERES2024.png
 ---
+
 <hr>
 
 <h1>Hospedagem</h1>
 
-Os seguintes hotéis são recomendados para a ERES 2023:
+Os seguintes hotéis são recomendados para a ERES 2024:
 
 <ul>
 
@@ -46,14 +47,9 @@ Os seguintes hotéis são recomendados para a ERES 2023:
 
 </ul>
 
-
-
-
-
 <hr>
 <h1>Alojamento</h1>
 
 Em breve....
-
 
 <p>Esperamos vocês na ERES 2022!</p>

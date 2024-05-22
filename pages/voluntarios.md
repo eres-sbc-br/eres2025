@@ -5,7 +5,7 @@ subheadline: ""
 #teaser: "Entre em contato conosco pelo e-mail #eres2020.Universidade Estadual de Maringá (UEM)@gmail.com"
 permalink: "/voluntarios/"
 header:
-  image_fullwidth: Banner_principalERES2023.png
+  image_fullwidth: Banner_principalERES2024.png
 ---
 
 

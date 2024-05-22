@@ -4,8 +4,9 @@ title: "Edições Anteriores da ERES"
 subheadline: ""
 permalink: "/edicoes_anteriores/"
 header:
-   image_fullwidth: BannerERES2023.png
+  image_fullwidth: BannerERES2024.png
 ---
+
 <div class="medium-8 columns t30">      
 	<b>Blumenau-SC 2022</b>
 	<a href="https://eres-sbc-br.github.io/eres2022/" target="_blank">
@@ -35,9 +36,10 @@ header:
 <div class="medium-8 columns t30">      
 	<b>Alto Vale do Itajai-SC 2019</b>
 
-	<a href="http://eres.sbc.org.br/2019" target="_blank">
-		<img src="{{ site.urlimg }}eres2019.png" alt="">
-	</a>
+    <a href="http://eres.sbc.org.br/2019" target="_blank">
+    	<img src="{{ site.urlimg }}eres2019.png" alt="">
+    </a>
+
 </div>
 
 <br>

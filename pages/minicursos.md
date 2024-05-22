@@ -4,7 +4,7 @@ title: "Minicursos"
 subheadline: ""
 permalink: "/minicursos/"
 header:
-   image_fullwidth: BannerERES2023.png
+  image_fullwidth: BannerERES2024.png
 ---
 
 <hr>
@@ -13,26 +13,26 @@ header:
 
 <div class="medium-16 columns" id="minicurso_1">
 	<h2>Minicurso 1</h2>
-    <img src="https://eres-sbc-br.github.io/eres2023/images/guerino.jpeg" alt="" align="center"><br>
+    <img src="https://eres-sbc-br.github.io/eres2024/images/guerino.jpeg" alt="" align="center"><br>
     <b>Prof. Dr. Guilherme Guerino (UNESPAR)</b><br>		
 	<a href="http://lattes.cnpq.br/1509833195572488" target="_blank">Currículo Lattes</a><br>		
 	<h4>Título: Design Centrado no Usuário: Entendendo e Explorando o Design Thinking</h4>		
-	<b>Data:</b> 06/Dez/2023 (Quarta-Feira) <br>
+	<b>Data:</b> 06/Dez/2024 (Quarta-Feira) <br>
 	<b>Hora:</b> 13:30 - 15:00 e 15:30 - 17:00<br>
 	<br>
 	<p><b>Resumo: </b>O minicurso é uma jornada exploradora pelo universo do Design Thinking, uma abordagem para a solução de problemas complexos e a geração de ideias criativas focadas no usuário. Neste minicurso, os participantes serão conduzidos pelas etapas fundamentais do Design Thinking, explorando técnicas de empatia, ideação e prototipagem. Ao longo de 3 horas de aprendizado prático e interativo, os alunos desenvolverão habilidades para identificar desafios, compreender as necessidades do usuário e criar soluções.</p>
 	<br>
 	<p><b>Bio:</b> Guilherme Corredato Guerino é Doutor em Ciência da Computação pela UEM, professor da Universidade Estadual do Paraná e UX Researcher no Núcleo de Excelência em Tecnologias Sociais. Sua área de interesse é a Interação Humano-Computador (IHC), conduzindo pesquisas acadêmicas sobre o tópico há mais de 6 anos. Também possui interesse na aplicação prática de IHC na indústria de software, mais precisamente nos trabalhos envolvendo User eXperience (UX).</p>
-</div>	
+</div>
 
 <div class="row t30" >
 <div class="medium-16 columns" id="minicurso_2">
 	<h2>Minicurso 2</h2>
-      <img src="https://eres-sbc-br.github.io/eres2023/images/lilian.jpeg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2024/images/lilian.jpeg" alt="" align="center"><br>
       <b>Prof. Dra. Lilian Scatalon (UEM)</b><br>		
   <a href="http://lattes.cnpq.br/0476710385880829" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Introdução a Teste de Software em Python</h4>		
-  <b>Data:</b> 06/Dez/2023 (Quarta-Feira) <br>
+  <b>Data:</b> 06/Dez/2024 (Quarta-Feira) <br>
   <b>Hora:</b> 13:30 - 15:00 e 15:30 - 17:00<br>
   <br>
   <p><b>Resumo:</b>
@@ -42,17 +42,16 @@ header:
   <p><b>Bio:</b>
   Professora na Universidade Estadual de Maringá (UEM). Suas áreas de interesse incluem engenharia de software experimental, ensino de programação e teste de software e acessibilidade digital. Doutora em Ciência da Computação pela Universidade de São Paulo (ICMC-USP).
   </p>
-</div>	
-
+</div>
 
 <div class="row t30" >
 <div class="medium-16 columns" id="minicurso_3">
 <h2>Minicurso 3</h2>
-      <img src="https://eres-sbc-br.github.io/eres2023/images/nelson.jpeg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2024/images/nelson.jpeg" alt="" align="center"><br>
       <b>Prof. Dr. Nelson Tenório Jr. (UEM)</b><br>		
   <a href="" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Uso do Azure DevOps na Gestão do Projeto de Software</h4>		
-  <b>Data:</b> 07/Dez/2023 (Quinta-Feira) <br>
+  <b>Data:</b> 07/Dez/2024 (Quinta-Feira) <br>
   <b>Hora:</b> 13:30 - 15:00 e 15:30 - 17:00<br>
   <br>
   <p><b>Resumo:</b>
@@ -66,15 +65,14 @@ header:
 </div>	
 <p>&nbsp;</p>
 
-
 <div class="row t30" >
 <div class="medium-16 columns" id="minicurso_4">
 	<h2>Minicurso 4</h2>
-      <img src="https://eres-sbc-br.github.io/eres2023/images/julio.jpeg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2024/images/julio.jpeg" alt="" align="center"><br>
       <b>Prof. Dr. Julio Cesar Pastoril (MentorsTec)</b><br>		
   <a href="https://www.instagram.com/jcpastoril" target="_blank">Instagram</a>  <a href="https://www.linkedin.com/in/jcpastoril" target="_blank">Linkedin</a><br>		
   <h4>Título: Profissões do Futuro – Manipulando Dados com Power BI</h4>
-  <b>Data:</b> 07/Dez/2023 (Quinta-Feira) <br>
+  <b>Data:</b> 07/Dez/2024 (Quinta-Feira) <br>
   <b>Hora:</b> 13:30 - 15:00 e 15:30 - 17:00<br>
   <br>
   <p><b>Resumo:</b>
@@ -87,11 +85,10 @@ header:
 </div>	
 <p>&nbsp;</p>
 
-
 <div class="row t30" >
 <div class="medium-16 columns" id="minicurso_5">
 <h2>Minicurso 5</h2>
-      <img src="https://eres-sbc-br.github.io/eres2023/images/morandini.jpg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2024/images/morandini.jpg" alt="" align="center"><br>
       <b>Prof. Dr. Marcelo Morandini (EACH-USP)</b><br>		
   <a href="http://lattes.cnpq.br/7235951485247158" target="_blank">Currículo Lattes</a><br>		
   <br>
@@ -99,7 +96,7 @@ header:
   Professor livre docente junto à Escola de Artes, Ciências e Humanidades da Universidade de São Paulo (EACH-USP) tanto em nível de graduação quanto no Programa de Pós-Graduação em Sistemas de Informação (PPgSI). Bacharel em Ciência da Computação pela Unesp – campus de São José do Rio Preto, Mestre em Ciência da Computação pelo ICMC, sob orientação do Prof. Dr. José Carlos Maldonado, Doutor em Engenharia de Produção e Sistemas pela UFSC, sob orientação do Prof. Walter de Abreu Cybis e fiz meu pós-doutoramento na University of Tennessee sob supervisão da Profa. Dra. Suzzanne Allard com financiamento da Fundação de Apoio à Pesquisa do Estado de São Paulo (FAPESP). Atua nas seguintes áreas: (1) Interação Humano-Computador, com maior interesse por ambientes automatizados de apoio à avaliação da Usabilidade e da User eXperience (UX) desses sistemas; (2) Data Science, com maior interesse na contextualização da visualização das informações e na gestão de dados pessoais e de grande volume de dados; e (3) Engenharia de Software, com interesse em modelos de desenvolvimento que caracterizem e qualifiquem os aspectos específicos de front-end.
   </p>
   <br>
-  <img src="https://eres-sbc-br.github.io/eres2023/images/thiago.jpeg" alt="" align="center"><br>
+  <img src="https://eres-sbc-br.github.io/eres2024/images/thiago.jpeg" alt="" align="center"><br>
       <b>Prof. Dr. Thiago Adriano Coleti (UENP)</b><br>		
   <a href="http://lattes.cnpq.br/8368597451080752" target="_blank">Currículo Lattes</a><br>		<br>
   
@@ -108,7 +105,7 @@ header:
   </p><br>
   
   <h4>Título: Inclusão de Aspectos de Transparência de Dados Pessoais em Projetos de Software</h4>		
-  <b>Data:</b> 08/Dez/2023 (Sexta-Feira) <br>
+  <b>Data:</b> 08/Dez/2024 (Sexta-Feira) <br>
   <b>Hora:</b> 08:30 - 10:00 e 10:30 - 12:00<br>
   <br>
   <p><b>Resumo:</b>
@@ -124,11 +121,10 @@ header:
 </div>	
 <p>&nbsp;</p>
 
-
 <div class="row t30" >
 <div class="medium-16 columns" id="minicurso_6">
 <h2>Minicurso 6</h2>
-      <img src="https://eres-sbc-br.github.io/eres2023/images/marcao.jpeg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2024/images/marcao.jpeg" alt="" align="center"><br>
       <b>Prof. Dr. Marco Aurélio Graciotto Silva</b><br>		
   <a href="https://lattes.cnpq.br/9383290036853173" target="_blank">Currículo Lattes</a><br>		
   <br>
@@ -136,7 +132,7 @@ header:
   Bacharel em 2001 em Ciência da Computação pela Universidade Estadual de Maringá (UEM), Mestre em 2005 e Doutor em 2012 em Ciências da Computação e Matemática Computacional pela Universidade de São Paulo (ICMC-USP). Atualmente é Professor Associado da Universidade Tecnológica Federal do Paraná (UTFPR), no campus de Campo Mourão, atuando principalmente nos cursos de Bacharelado em Ciência da Computação (BCC) e no Mestrado Acadêmico em Ciência da Computação (PPGCC-CM). Suas pesquisas concentram-se em Engenharia de Software e Educação em Computação.
   </p>
   <br>
-  <img src="https://eres-sbc-br.github.io/eres2023/images/Soratto.jpeg" alt="" align="center"><br>
+  <img src="https://eres-sbc-br.github.io/eres2024/images/Soratto.jpeg" alt="" align="center"><br>
       <b>Rafael Rampim Soratto</b><br>		
   <a href=" https://lattes.cnpq.br/0402270119924533" target="_blank">Currículo Lattes</a><br>		<br>
   
@@ -145,7 +141,7 @@ header:
   </p><br>
   
   <h4>Título: Identificação de Testes Instáveis</h4>		
-  <b>Data:</b> 08/Dez/2023 (Sexta-Feira) <br>
+  <b>Data:</b> 08/Dez/2024 (Sexta-Feira) <br>
   <b>Hora:</b> 13:30 - 15:00 e 15:30 - 17:00<br>
   <br>
   <p><b>Resumo:</b>
@@ -162,10 +158,11 @@ header:
 <p>&nbsp;</p>
 <!--
 
-	<div class="row t30" id="minicurso_2">
+    <div class="row t30" id="minicurso_2">
+
 <h2>Minicurso 2</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2023/images/minicurso-cesar.png" alt="" align="center" style="height: 250px"><br>
+      <img src="https://eres-sbc-br.github.io/eres2024/images/minicurso-cesar.png" alt="" align="center" style="height: 250px"><br>
       <b>Cesar Betoni</b><br>		
   <a href="https://lattes.cnpq.br/4299035159922781" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Princípios de design de experiência do usuário (UX Design)</h4>		
@@ -181,7 +178,7 @@ header:
 		<div class="row t30" id="minicurso_3">
 <h2>Minicurso 3</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2023/images/minicurso-veber.png" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2024/images/minicurso-veber.png" alt="" align="center"><br>
       <b>Filipe Guilherme Veber</b><br>				
   <h4>Título: Flutter: O que é, onde vive, o que come? + Show me the Code: Uma visão prática do Flutter e do Dart</h4>		
   <b>Data:</b> 19/Out/2022 (Quarta-Feira) <br>
@@ -193,10 +190,11 @@ header:
 </div>	
 <p>&nbsp;</p>
 
-			<div class="row t30" id="minicurso_4">
+    		<div class="row t30" id="minicurso_4">
+
 <h2>Minicurso 4</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2023/images/foto-raphael.jpg" alt="" align="center" style="height: 250px"><br>
+      <img src="https://eres-sbc-br.github.io/eres2024/images/foto-raphael.jpg" alt="" align="center" style="height: 250px"><br>
       <b>Raphael Dias</b><br>		
 	
   <h4>Título: Do código à produção: Desenvolvimento moderno orientado a uma plataforma ALM</h4>		
@@ -212,7 +210,7 @@ header:
 				<div class="row t30" id="minicurso_5">
 <h2>Minicurso 5</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2023/images/foto-luiz.jpeg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2024/images/foto-luiz.jpeg" alt="" align="center"><br>
       <b>Luiz Antonio Santana da Silva </b><br>		
   <a href="http://lattes.cnpq.br/9951007059425516" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Desenvolvendo soluções usando low code com o X Platform</h4>		
@@ -225,12 +223,11 @@ header:
 </div>	
 <p>&nbsp;</p>
 
-
 </div>
 	
 	
 	
-	
+
 
 <!--
 <div class="row t30" id="minitalk_1">
@@ -238,9 +235,9 @@ header:
 
 <div class="medium-16 columns">
       <img src="{{ site.urlimg }}mikael.png" alt="" align="center"><br>
-      <b>Mikael Noramberg</b><br>      
-  <a href="https://www.linkedin.com/in/mikaelnoremberg/" target="_blank">Linkedin</a><br>		
-  <h4>Título: Transformação Digital na BMW</h4><br>		
+      <b>Mikael Noramberg</b><br>
+  <a href="https://www.linkedin.com/in/mikaelnoremberg/" target="_blank">Linkedin</a><br>
+  <h4>Título: Transformação Digital na BMW</h4><br>
   <b>Data:</b> 01/Dez/2021 (Quarta-Feira) <br>
   <b>Hora:</b> 20:30 - 21:00 <br>
   <br>
@@ -258,8 +255,8 @@ header:
       <img src="{{ site.urlimg }}marco-butzke.jpg" alt="" align="center"><br>
       <b>Marco Aurélio Butzke</b><br>
       Coordenador do Núcleo de Data Science - IPM Sistemas<br>
-  <a href="https://www.linkedin.com/in/marco-aur%C3%A9lio-butzke-butzke-772b5a127/" target="_blank">Linkedin</a><br>		
-  <h4>Título: IPM Sistemas:  A Engenharia de Software em um Ecossistema Data Science para Cidades Inteligentes</h4><br>		
+  <a href="https://www.linkedin.com/in/marco-aur%C3%A9lio-butzke-butzke-772b5a127/" target="_blank">Linkedin</a><br>
+  <h4>Título: IPM Sistemas:  A Engenharia de Software em um Ecossistema Data Science para Cidades Inteligentes</h4><br>
   <b>Data:</b> 01/Dez/2021 (Quarta-Feira) <br>
   <b>Hora:</b> 21:00 - 21:30 <br>
   <br>
@@ -276,8 +273,8 @@ header:
       <img src="{{ site.urlimg }}boccaletti.jpg" alt="" align="center"><br>
       <b>Paulo Cezar Boccaletti Junior </b><br>
       AmbevTech<br>
-  <a href="https://www.linkedin.com/in/paulo-boccaletti/" target="_blank">Linkedin</a><br>		
-  <h4>Título: Design de Código</h4><br>		
+  <a href="https://www.linkedin.com/in/paulo-boccaletti/" target="_blank">Linkedin</a><br>
+  <h4>Título: Design de Código</h4><br>
   <b>Data:</b> 01/Dez/2021 (Quarta-Feira) <br>
   <b>Hora:</b> 21:30 - 21:45 <br>
   <br>
@@ -291,9 +288,9 @@ header:
 <h2>Palestra B</h2>
 	<div class="medium-16 columns">
         <img src="{{ site.urlimg }}wangham.jpg" alt="" align="center"><br>
-        <b>Profa. Dra. Michelle Silva Wangham (UNIVALI)</b><br>		
-		<a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a><br>		
-		<h4>Título: Desafios e Oportunidades Decorrentes da Lei Geral de Proteção de Dados Pessoais (LGPD) para a Área de Engenharia de Software</h4><br>		
+        <b>Profa. Dra. Michelle Silva Wangham (UNIVALI)</b><br>
+		<a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a><br>
+		<h4>Título: Desafios e Oportunidades Decorrentes da Lei Geral de Proteção de Dados Pessoais (LGPD) para a Área de Engenharia de Software</h4><br>
 		<b>Data:</b> 02/Dez/2021 (Quinta-Feira) <br>
 		<b>Hora:</b> 19:00 - 20:30 <br>
 		<br>
@@ -307,10 +304,10 @@ header:
 <h2>Palestra C</h2>
 	<div class="medium-16 columns">
         <img src="{{ site.urlimg }}isidro.jpg" alt="" align="center"><br>
-        <b>Professor Isidro</b><br>		
+        <b>Professor Isidro</b><br>
 		<a href="https://www.linkedin.com/in/professor-isidro-phd-8a85a979" target="_blank">Linkedin</a><br>
     <a href="https://www.professorisidro.com.br/"	target="_blank">https://www.professorisidro.com.br/</a><br>
-		<h4>Título: Levei a Faculdade daquele jeito. E agora?</h4><br>		
+		<h4>Título: Levei a Faculdade daquele jeito. E agora?</h4><br>
 		<b>Data:</b> 02/Dez/2021 (Quinta-Feira) <br>
 		<b>Hora:</b> 20:30 - 22:00 <br>
 		<br>
@@ -324,9 +321,9 @@ header:
 <h2>Palestra D</h2>
 	<div class="medium-16 columns">
         <img src="{{ site.urlimg }}kalinowski.jpg" alt="" align="center"><br>
-        <b>Prof. Dr. Marcos Kalinowski (PUC-RIO)</b><br>		
-		<a href="http://lattes.cnpq.br/1095304607841635" target="_blank">Currículo Lattes</a><br>		
-		<h4>Título: Engenharia de Sistemas de Software Inteligentes</h4><br>		
+        <b>Prof. Dr. Marcos Kalinowski (PUC-RIO)</b><br>
+		<a href="http://lattes.cnpq.br/1095304607841635" target="_blank">Currículo Lattes</a><br>
+		<h4>Título: Engenharia de Sistemas de Software Inteligentes</h4><br>
 		<b>Data:</b> 03/Dez/2021 (Sexta-Feira) <br>
 		<b>Hora:</b> 19:00 - 20:30 <br>
 		<br>

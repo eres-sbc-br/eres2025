@@ -3,7 +3,7 @@ layout: page-fullwidth
 subheadline: ""
 permalink: "/comite_cientifico/"
 header:
-   image_fullwidth: BannerERES2023.png
+  image_fullwidth: BannerERES2024.png
 ---
 
 <h1>Comitê Científico</h1>
@@ -74,7 +74,6 @@ header:
 	<li>	Williamson Silva - Unipampa	</li>
 </ul>
 
-
 <h3>Fórum de Pós-Graduação:</h3>
 
 <ul>
@@ -104,7 +103,6 @@ header:
 	<li>	Victor Santander  - UNIOESTE	</li>
 	<li>	Willian Oizumi  - PUC-Rio	</li>
 </ul>
-
 
 <h3>Fórum de Extensão:</h3>
 

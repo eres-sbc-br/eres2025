@@ -4,7 +4,7 @@ title: "Palestrantes"
 subheadline: ""
 permalink: "/palestras/"
 header:
-   image_fullwidth: BannerERES2023.png
+  image_fullwidth: BannerERES2024.png
 ---
 
 <hr>
@@ -12,11 +12,11 @@ header:
 <div class="row t30" id="palestra_a">
 <h2>Palestra A</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2023/images/ellen.jpeg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2024/images/ellen.jpeg" alt="" align="center"><br>
       <b>Profa. Dra. Ellen Francice Barbosa</b><br>		
   <a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Soft Skills e o Engenheiro de Software: o que mais eu preciso saber para enfrentar os desafios do mercado?</h4>		
-  <b>Data:</b> 06/Dez/2023 (Quarta-Feira) <br>
+  <b>Data:</b> 06/Dez/2024 (Quarta-Feira) <br>
   <b>Hora:</b> 19:00 - 20:30 <br>
   <br>
   <p><b>Resumo:</b>
@@ -32,11 +32,11 @@ header:
 <div class="row t30" id="palestra_b">
 <h2>Palestra B</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2023/images/wiese.jpeg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2024/images/wiese.jpeg" alt="" align="center"><br>
       <b>Prof. Dr. Igor Wiese (UTFPR-CM)</b><br>		
   <a href="http://lattes.cnpq.br/0447444423694007" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Open-source, como começar? motivações e desafios!</h4>		
-  <b>Data:</b> 06/Dez/2023 (Quarta-Feira) <br>
+  <b>Data:</b> 06/Dez/2024 (Quarta-Feira) <br>
   <b>Hora:</b> 21:00 - 22:30 <br>
   <br>
   <p><b>Resumo:
@@ -47,15 +47,14 @@ header:
 </div>	
 <p>&nbsp;</p>
 
-
 <div class="row t30" id="palestra_c">
 <h2>Palestra C</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2023/images/camila.jpeg" alt="" style="height: 250px" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2024/images/camila.jpeg" alt="" style="height: 250px" align="center"><br>
       <b>Profa. Dra. Camila L. Leal (DEP/UEM)</b><br>		
   <a href="http://lattes.cnpq.br/7810321373328408" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Startups de Software: Desafios e Perspectivas</h4>		
-  <b>Data:</b> 07/Dez/2023 (Quinta-Feira) <br>
+  <b>Data:</b> 07/Dez/2024 (Quinta-Feira) <br>
   <b>Hora:</b> 10:30 - 12:00 <br>
   <br>
   <p><b>Resumo:</b>
@@ -68,19 +67,14 @@ header:
 </div>	
 <p>&nbsp;</p>
 
-
-
-
-
-
 <div class="row t30" id="palestra_d">
 <h2>Palestra D</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2023/images/menolli.jpeg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2024/images/menolli.jpeg" alt="" align="center"><br>
       <b>Prof. Dr. André Menolli (UENP)</b><br>		
   <a href="https://lattes.cnpq.br/0048431988260726" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Como o uso de artefatos de modelos pode auxiliar as empresas desenvolvedoras de software em seus processos? O relato de uma pesquisa no Brasil</h4>		
-  <b>Data:</b> 07/Dez/2023 (Quinta-Feira) <br>
+  <b>Data:</b> 07/Dez/2024 (Quinta-Feira) <br>
   <b>Hora:</b> 19:00 - 20:30 <br>
   <br>
   <p><b>Resumo:
@@ -94,15 +88,14 @@ header:
 </div>	
 <p>&nbsp;</p>
 
-
 <div class="row t30" id="palestra_e">
 <h2>Palestra E</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2023/images/fabiano.gif" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2024/images/fabiano.gif" alt="" align="center"><br>
       <b>Prof. Dr. Fabiano Cutigi Ferrari (UFSCar)</b><br>		
   <a href="ttp://lattes.cnpq.br/3154345471250570" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Teste de Mutação: Relevância, Histórico e Tendências</h4>		
-  <b>Data:</b> 07/Dez/2023 (Quinta-Feira) <br>
+  <b>Data:</b> 07/Dez/2024 (Quinta-Feira) <br>
   <b>Hora:</b> 21:00 - 22:30 <br>
   <br>
   <p><b>Resumo:</b>
@@ -114,15 +107,14 @@ header:
 </div>	
 <p>&nbsp;</p>
 
-
 <div class="row t30" id="palestra_f">
 <h2>Palestra F</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2023/images/edna.jpeg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2024/images/edna.jpeg" alt="" align="center"><br>
       <b>Profa. Dra. Edna Dias Canedo (UnB)</b><br>		
   <a href="http://lattes.cnpq.br/9554285834432091" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: O Uso de Técnicas de Especificação de Requisitos na Indústria</h4>		
-  <b>Data:</b> 08/Dez/2023 (Sexta-Feira) <br>
+  <b>Data:</b> 08/Dez/2024 (Sexta-Feira) <br>
   <b>Hora:</b> 19:00 - 20:30 <br>
   <br>
   <p><b>Resumo:</b>As atividades que compõem um processo de engenharia de requisitos envolvem elicitação, modelagem, validação e verificação de requisitos, e essas atividades tendem a ser mais intensivas em relação à comunicação e interação com o usuário do que outras atividades que são executadas durante o processo de desenvolvimento de software. Assim, apesar das técnicas e ferramentas disponíveis na literatura para apoiar as atividades da Engenharia de Requisitos a necessidade de inovação e criatividade aumentam a importância de se entender as necessidades dos usuários e as particularidades de cada sistema a ser desenvolvido, conforme o que os usuários desejam/precisam e ou solicitam. Com o objetivo de minimizar os desafios relatados na fase de elicitação de requisitos, outras técnicas para apoiar a elicitação de requisitos foram propostas, dentre elas a utilização de técnicas de criatividade e do Design Thinking. Assim, a adoção do Design Thinking tem sido bastante utilizada na elicitação de requisitos de software na indústria. Embora as técnicas de Design Thinking já tenham sido utilizadas em diversos cenários e terem sido consideradas efetivas, tipicamente essa abordagem tem sido usada para identificar/elicitar requisitos de software em um conjunto de populações que não fazem parte de um grupo populacional vulnerável, tais como em grupos de negros, LGBTQ+, dentre outros. Assim, nessa palestra será abordado o uso de Design Thinking na elicitação de requisitos de um aplicativo móvel, desenvolvido para um público-alvo de populações com características vulneráveis, em específico no contexto dos egressos do sistema prisional brasileiro e seus familiares, visando apoiá-los em seu processo de ressocialização. Além disso, apresentaremos as decisões que tomamos em comum acordo com as partes interessadas do projeto para garantir a privacidade dos dados dos usuários finais. Os testes de aceitação da aplicação móvel com as partes interessadas e os usuários finais demonstraram que os desenvolvedores seguiram devidamente as diretrizes de privacidade, estando em conformidade com a Lei Geral de Proteção de Dados (LGPD) brasileira.
@@ -137,11 +129,11 @@ header:
 <div class="row t30" id="palestra_g">
 <h2>Palestra G</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2023/images/catarina.jpeg" alt="" align="center"><br>
+      <img src="https://eres-sbc-br.github.io/eres2024/images/catarina.jpeg" alt="" align="center"><br>
       <b>Catarina Xavier (Embraer)</b><br>		
   <a href="https://www.linkedin.com/in/catarina-xavier-25063822" target="_blank">Linkedin</a><br>		
   <h4>Título: Desenvolvimento e Certificação de Software Aeronáutico</h4>		
-  <b>Data:</b> 08/Dez/2023 (Sexta-Feira) <br>
+  <b>Data:</b> 08/Dez/2024 (Sexta-Feira) <br>
   <b>Hora:</b> 21:00 - 22:30 <br>
   <br>
   <p><b>Resumo:	</b> 
