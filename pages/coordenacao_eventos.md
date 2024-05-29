@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page-fullwidth
 title: "Coordenação dos Fóruns"
 subheadline: ""

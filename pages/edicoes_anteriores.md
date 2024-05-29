@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page-fullwidth
 title: "Edições Anteriores da ERES"
 subheadline: ""

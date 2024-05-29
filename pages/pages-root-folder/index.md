@@ -1,4 +1,4 @@
-﻿---
+---
 #
 # Use the widgets beneath and the content will be
 # inserted automagically in the webpage. To make
@@ -14,15 +14,15 @@ header:
 <!--
 <center><div style="color:#000000; font-size: 85px; font-weight: normal" id="dday">teste123</div></center>
 
-<script> 
+<script>
 
- 
+
 var countDownDate = new Date("December 6, 2024 08:00:00").getTime();
 
-var x = setInterval(function() { // Get todays date and time 
+var x = setInterval(function() { // Get todays date and time
 	 var now = new Date().getTime();
 	 var distance = countDownDate - now;
-	 var days = Math.floor(distance / (1000 * 60 * 60 * 24)); 
+	 var days = Math.floor(distance / (1000 * 60 * 60 * 24));
 	 var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
 	 var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
 	 var seconds = Math.floor((distance % (1000 * 60)) / 1000);
@@ -30,9 +30,9 @@ var x = setInterval(function() { // Get todays date and time
 	 document.getElementById("dday").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
 
 	 if (distance < 0) {
-		clearInterval(x); document.getElementById("dday").innerHTML = "SITE NA TEIA"; 
-	 } 
-	 
+		clearInterval(x); document.getElementById("dday").innerHTML = "SITE NA TEIA";
+	 }
+
 }, 1000);
 
 </script>
@@ -60,8 +60,6 @@ Esta edição está sendo realizada pelo <a href="http://www.din.uem.br" target=
 <h3> Fórum de Extensão </h3>
 <p>Espaço para apresentação de trabalhos de relatos das atividades extensionistas aplicados aos currículos de computação, especialmente da Engenharia de Software, e de que forma estão implantando a inserção da extensão em seus currículos conforme previsto na Resolução CNE/CES nº 7, de 18 de dezembro de 2018. O objetivo é incentivar a troca de experiências entre docentes coordenadores de programas e projetos de extensão.
  </p>
-
-
 
 <!--
 widget1:

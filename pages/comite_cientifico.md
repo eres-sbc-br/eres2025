@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page-fullwidth
 subheadline: ""
 permalink: "/comite_cientifico/"

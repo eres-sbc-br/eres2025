@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page-fullwidth
 title: "Publicidade"
 subheadline: ""

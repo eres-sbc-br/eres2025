@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page-fullwidth
 title: "Chamada de Trabalhos"
 #meta_title: "Dúvidas? Entre em contato conosco"

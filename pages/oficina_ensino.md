@@ -1,10 +1,10 @@
-﻿---
+---
 layout: page-fullwidth
 title: "Oficina de Ensino e Aprendizagem de Engenharia de Software"
 subheadline: ""
 permalink: "/oficina_ensino/"
 header:
-   image_fullwidth: banner_eres2020.png
+  image_fullwidth: banner_eres2020.png
 ---
 
 <h2>Em definição...</h2>

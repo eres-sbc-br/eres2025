@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page-fullwidth
 title: "Workshop de Estudos Empíricos"
 subheadline: ""
