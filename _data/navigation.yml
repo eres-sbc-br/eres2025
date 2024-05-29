@@ -1,7 +1,7 @@
 ﻿- title: Início
   url: "/"
   side: left
-  
+
 - title: "Artigos Aceitos"
   url: "/aceitos/"
   side: left
@@ -18,12 +18,12 @@
   url: "/programacao/"
   side: left
   dropdown:
-  - title: "Palestras"
-    url: "/palestras/"
-  - title: "Minicursos"
-    url: "/minicursos/"
-  - title: "Sessões Técnicas"
-    url: "/sessoes/"
+    - title: "Palestras"
+      url: "/palestras/"
+    - title: "Minicursos"
+      url: "/minicursos/"
+    - title: "Sessões Técnicas"
+      url: "/sessoes/"
 
 - title: "Inscrições"
   url: "/inscricoes/"
@@ -33,29 +33,29 @@
   url: ""
   side: left
   dropdown:
-  - title: "Coordenação Geral"
-    url: "/coordenacao_geral/"
-  - title: "Coordenação dos Fóruns"
-    url: "/coordenacao_eventos/"
-  - title: "Comitê Científico"
-    url: "/comite_cientifico/"
-  - title: "Publicidade"
-    url: "/publicidade/"
-  - title: "Edições Anteriores"
-    url: "/edicoes_anteriores/"
+    - title: "Coordenação Geral"
+      url: "/coordenacao_geral/"
+    - title: "Coordenação dos Fóruns"
+      url: "/coordenacao_eventos/"
+    - title: "Comitê Científico"
+      url: "/comite_cientifico/"
+    - title: "Publicidade"
+      url: "/publicidade/"
+    - title: "Edições Anteriores"
+      url: "/edicoes_anteriores/"
 
 - title: "Local do Evento"
   url: ""
   side: left
   dropdown:
-  - title: "Como chegar à URI"
-    url: "/como_chegar/"
-  - title: "Hospedagem e Alojamento"
-    url: "/hospedagem/"
-  - title: "Sobre Santiago"
-    url: "/santiago/"
-  - title: "Alimentação no Câmpus"
-    url: "/ru_uem/"
+    - title: "Como chegar à URI"
+      url: "/como_chegar/"
+    # - title: "Hospedagem e Alojamento"
+    #   url: "/hospedagem/"
+    - title: "Sobre Santiago"
+      url: "/santiago/"
+  # - title: "Alimentação no Câmpus"
+  #   url: "/ru_uem/"
 
 - title: "Contato"
   url: "/contato/"
