@@ -4,7 +4,7 @@ title: "Edições Anteriores da ERES"
 subheadline: ""
 permalink: "/edicoes_anteriores/"
 header:
-  image_fullwidth: BannerERES2024.png
+  image_fullwidth: ERES-2024_Logo.svg
 ---
 
 <div class="medium-8 columns t30">      

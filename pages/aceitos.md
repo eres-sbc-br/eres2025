@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
 subheadline: ""
-permalink: "/aceitos/"
+# permalink: "/aceitos/"
 header:
-  image_fullwidth: BannerERES2024.png
+  image_fullwidth: ERES-2024_Logo.svg
 ---
 
 <h1>Artigos Aceitos</h1>

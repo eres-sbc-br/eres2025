@@ -3,7 +3,7 @@ layout: page-fullwidth
 subheadline: ""
 permalink: "/comite_cientifico/"
 header:
-  image_fullwidth: BannerERES2024.png
+  image_fullwidth: ERES-2024_Logo.svg
 ---
 
 <h1>Comitê Científico</h1>

@@ -16,11 +16,8 @@ page.header.title == NULL %}
         />
       </a>
     </div>
-    <!-- /.small-12.columns -->
   </div>
-  <!-- /.row -->
 </div>
-<!-- /#masthead -->
 
 {% if page.breadcrumb == true %} {% include _breadcrumb.html %} {% endif %} {%
 elsif page.header.title %}
@@ -33,11 +30,8 @@ elsif page.header.title %}
     <div class="small-12 columns">
       <div class="masthead-title">{{ page.header.title }}</div>
     </div>
-    <!-- /.small-12.columns -->
   </div>
-  <!-- /.row -->
 </div>
-<!-- /#masthead -->
 
 {% if page.breadcrumb == true %} {% include _breadcrumb.html %} {% endif %} {%
 if page.header.caption_url && page.header.caption %}
@@ -50,32 +44,16 @@ if page.header.caption_url && page.header.caption %}
 
 <div id="masthead">
   <div class="row">
-    <figure class="small-10 columns">
+    <figure class="small-12 columns">
       <img
-        src="https://eres-sbc-br.github.io/eres2024/images/BannerERES2024.png"
+        src="{{ site.urlimg }}/ERES-2024_Logo.svg"
         alt="ERES - 2024"
+        width="140%"
+        style="height: auto; display: block; margin: 0 auto; padding: 2rem 0"
       />
     </figure>
-    <!-- /.small-10.columns -->
-    <figure class="small-2 columns">
-      <a href="https://www.sbc.org.br" target="_blank"
-        ><img
-          src="{{ site.urlimg }}/sbc_realizada.jpg"
-          alt="Realizada pela SBC"
-      /></a>
-    </figure>
-    <!--/.small-2.columns -->
-    <!-- <div class="small-12 columns"> -->
-    <!--
-			<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
-				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
-			</a>
-			-->
-    <!-- </div><!-- /.small-12.columns -->
   </div>
-  <!-- /.row -->
 </div>
-<!-- /#masthead -->
 
 {% if page.breadcrumb == true %} {% include _breadcrumb.html %} {% endif %} {%
 if page.header.caption_url && page.header.caption %}
@@ -91,16 +69,12 @@ if page.header.caption_url && page.header.caption %}
   style="background: url('{{ site.urlimg }}/{{ page.header.pattern }}')"
 >
   <div class="row">
-    <!--		<figure class="small-12 columns">
-			<img src="{{ site.urlimg }}/{{ page.header.image }}" alt="{{ site.title }}">
-		</figure><!-- /.small-12.columns -->
     <figure class="small-10 columns">
       <img
         src="{{ site.urlimg }}/{{ page.header.image }}"
         alt="{{ site.title }}"
       />
     </figure>
-    <!-- /.small-10.columns -->
     <figure class="small-2 columns">
       <a href="https://www.sbc.org.br" target="_blank"
         ><img
@@ -108,11 +82,8 @@ if page.header.caption_url && page.header.caption %}
           alt="Realizada pela SBC"
       /></a>
     </figure>
-    <!-- /.small-2.columns -->
   </div>
-  <!-- /.row -->
 </div>
-<!-- /#masthead -->
 
 {% if page.breadcrumb == true %} {% include _breadcrumb.html %} {% endif %} {%
 if page.header.caption_url && page.header.caption %}
@@ -134,24 +105,15 @@ if page.header.caption_url && page.header.caption %}
         alt="{{ site.title }}"
       />
     </figure>
-    <!-- /.small-12.columns -->
     <figure class="small-2 columns">
       <a href="https://www.sbc.org.br" target="_blank"
         ><img
           src="{{ site.urlimg }}/sbc_realizada.jpg"
           alt="Realizada pela SBC"
       /></a>
-    </figure>
-    <!-- /.small-12.columns -->
 
-    <!--
-		<figure class="small-12 columns">
-			<img src="{{ site.urlimg }}/{{ page.header.image }}" alt="{{ site.title }}">
-		</figure><!-- /.small-12.columns -->
   </div>
-  <!-- /.row -->
 </div>
-<!-- /#masthead -->
 
 {% if page.breadcrumb == true %} {% include _breadcrumb.html %} {% endif %} {%
 if page.header.caption_url && page.header.caption %}

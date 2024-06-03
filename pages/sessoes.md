@@ -4,7 +4,7 @@ title: "Sessões Técnicas"
 subheadline: ""
 permalink: "/sessoes/"
 header:
-  image_fullwidth: BannerERES2024.png
+  image_fullwidth: ERES-2024_Logo.svg
 ---
 
 <hr>

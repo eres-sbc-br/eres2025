@@ -1,12 +1,10 @@
 ---
 layout: page-fullwidth
 title: "Santiago: Terra dos Poetas e das Tradições Gaúchas"
-#meta_title: "Dúvidas? Entre em contato conosco"
 subheadline: ""
-#teaser: "Entre em contato conosco pelo e-mail #eres2020.uem@gmail.com"
 permalink: "/santiago/"
 header:
-  image_fullwidth: BannerERES2024.png
+  image_fullwidth: ERES-2024_Logo.svg
 ---
 
 <hr>

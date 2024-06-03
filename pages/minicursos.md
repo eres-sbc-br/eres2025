@@ -4,7 +4,7 @@ title: "Minicursos"
 subheadline: ""
 permalink: "/minicursos/"
 header:
-  image_fullwidth: BannerERES2024.png
+  image_fullwidth: ERES-2024_Logo.svg
 ---
 
 <hr>
@@ -13,7 +13,7 @@ header:
 
 <div class="medium-16 columns" id="minicurso_1">
 	<h2>Minicurso 1</h2>
-    <img src="https://eres-sbc-br.github.io/eres2024/images/guerino.jpeg" alt="" align="center"><br>
+    <img src="{{ site.urlimg }}/guerino.jpeg" alt="" align="center"><br>
     <b>Prof. Dr. Guilherme Guerino (UNESPAR)</b><br>		
 	<a href="http://lattes.cnpq.br/1509833195572488" target="_blank">Currículo Lattes</a><br>		
 	<h4>Título: Design Centrado no Usuário: Entendendo e Explorando o Design Thinking</h4>		
@@ -28,7 +28,7 @@ header:
 <div class="row t30" >
 <div class="medium-16 columns" id="minicurso_2">
 	<h2>Minicurso 2</h2>
-      <img src="https://eres-sbc-br.github.io/eres2024/images/lilian.jpeg" alt="" align="center"><br>
+      <img src="{{ site.urlimg }}/lilian.jpeg" alt="" align="center"><br>
       <b>Prof. Dra. Lilian Scatalon (UEM)</b><br>		
   <a href="http://lattes.cnpq.br/0476710385880829" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Introdução a Teste de Software em Python</h4>		
@@ -47,7 +47,7 @@ header:
 <div class="row t30" >
 <div class="medium-16 columns" id="minicurso_3">
 <h2>Minicurso 3</h2>
-      <img src="https://eres-sbc-br.github.io/eres2024/images/nelson.jpeg" alt="" align="center"><br>
+      <img src="{{ site.urlimg }}/nelson.jpeg" alt="" align="center"><br>
       <b>Prof. Dr. Nelson Tenório Jr. (UEM)</b><br>		
   <a href="" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Uso do Azure DevOps na Gestão do Projeto de Software</h4>		
@@ -68,7 +68,7 @@ header:
 <div class="row t30" >
 <div class="medium-16 columns" id="minicurso_4">
 	<h2>Minicurso 4</h2>
-      <img src="https://eres-sbc-br.github.io/eres2024/images/julio.jpeg" alt="" align="center"><br>
+      <img src="{{ site.urlimg }}/julio.jpeg" alt="" align="center"><br>
       <b>Prof. Dr. Julio Cesar Pastoril (MentorsTec)</b><br>		
   <a href="https://www.instagram.com/jcpastoril" target="_blank">Instagram</a>  <a href="https://www.linkedin.com/in/jcpastoril" target="_blank">Linkedin</a><br>		
   <h4>Título: Profissões do Futuro – Manipulando Dados com Power BI</h4>
@@ -88,7 +88,7 @@ header:
 <div class="row t30" >
 <div class="medium-16 columns" id="minicurso_5">
 <h2>Minicurso 5</h2>
-      <img src="https://eres-sbc-br.github.io/eres2024/images/morandini.jpg" alt="" align="center"><br>
+      <img src="{{ site.urlimg }}/morandini.jpg" alt="" align="center"><br>
       <b>Prof. Dr. Marcelo Morandini (EACH-USP)</b><br>		
   <a href="http://lattes.cnpq.br/7235951485247158" target="_blank">Currículo Lattes</a><br>		
   <br>
@@ -96,7 +96,7 @@ header:
   Professor livre docente junto à Escola de Artes, Ciências e Humanidades da Universidade de São Paulo (EACH-USP) tanto em nível de graduação quanto no Programa de Pós-Graduação em Sistemas de Informação (PPgSI). Bacharel em Ciência da Computação pela Unesp – campus de São José do Rio Preto, Mestre em Ciência da Computação pelo ICMC, sob orientação do Prof. Dr. José Carlos Maldonado, Doutor em Engenharia de Produção e Sistemas pela UFSC, sob orientação do Prof. Walter de Abreu Cybis e fiz meu pós-doutoramento na University of Tennessee sob supervisão da Profa. Dra. Suzzanne Allard com financiamento da Fundação de Apoio à Pesquisa do Estado de São Paulo (FAPESP). Atua nas seguintes áreas: (1) Interação Humano-Computador, com maior interesse por ambientes automatizados de apoio à avaliação da Usabilidade e da User eXperience (UX) desses sistemas; (2) Data Science, com maior interesse na contextualização da visualização das informações e na gestão de dados pessoais e de grande volume de dados; e (3) Engenharia de Software, com interesse em modelos de desenvolvimento que caracterizem e qualifiquem os aspectos específicos de front-end.
   </p>
   <br>
-  <img src="https://eres-sbc-br.github.io/eres2024/images/thiago.jpeg" alt="" align="center"><br>
+  <img src="{{ site.urlimg }}/thiago.jpeg" alt="" align="center"><br>
       <b>Prof. Dr. Thiago Adriano Coleti (UENP)</b><br>		
   <a href="http://lattes.cnpq.br/8368597451080752" target="_blank">Currículo Lattes</a><br>		<br>
   
@@ -124,7 +124,7 @@ header:
 <div class="row t30" >
 <div class="medium-16 columns" id="minicurso_6">
 <h2>Minicurso 6</h2>
-      <img src="https://eres-sbc-br.github.io/eres2024/images/marcao.jpeg" alt="" align="center"><br>
+      <img src="{{ site.urlimg }}/marcao.jpeg" alt="" align="center"><br>
       <b>Prof. Dr. Marco Aurélio Graciotto Silva</b><br>		
   <a href="https://lattes.cnpq.br/9383290036853173" target="_blank">Currículo Lattes</a><br>		
   <br>
@@ -132,7 +132,7 @@ header:
   Bacharel em 2001 em Ciência da Computação pela Universidade Estadual de Maringá (UEM), Mestre em 2005 e Doutor em 2012 em Ciências da Computação e Matemática Computacional pela Universidade de São Paulo (ICMC-USP). Atualmente é Professor Associado da Universidade Tecnológica Federal do Paraná (UTFPR), no campus de Campo Mourão, atuando principalmente nos cursos de Bacharelado em Ciência da Computação (BCC) e no Mestrado Acadêmico em Ciência da Computação (PPGCC-CM). Suas pesquisas concentram-se em Engenharia de Software e Educação em Computação.
   </p>
   <br>
-  <img src="https://eres-sbc-br.github.io/eres2024/images/Soratto.jpeg" alt="" align="center"><br>
+  <img src="{{ site.urlimg }}/Soratto.jpeg" alt="" align="center"><br>
       <b>Rafael Rampim Soratto</b><br>		
   <a href=" https://lattes.cnpq.br/0402270119924533" target="_blank">Currículo Lattes</a><br>		<br>
   
@@ -162,7 +162,7 @@ header:
 
 <h2>Minicurso 2</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2024/images/minicurso-cesar.png" alt="" align="center" style="height: 250px"><br>
+      <img src="{{ site.urlimg }}/minicurso-cesar.png" alt="" align="center" style="height: 250px"><br>
       <b>Cesar Betoni</b><br>		
   <a href="https://lattes.cnpq.br/4299035159922781" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Princípios de design de experiência do usuário (UX Design)</h4>		
@@ -178,7 +178,7 @@ header:
 		<div class="row t30" id="minicurso_3">
 <h2>Minicurso 3</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2024/images/minicurso-veber.png" alt="" align="center"><br>
+      <img src="{{ site.urlimg }}/minicurso-veber.png" alt="" align="center"><br>
       <b>Filipe Guilherme Veber</b><br>				
   <h4>Título: Flutter: O que é, onde vive, o que come? + Show me the Code: Uma visão prática do Flutter e do Dart</h4>		
   <b>Data:</b> 19/Out/2022 (Quarta-Feira) <br>
@@ -194,7 +194,7 @@ header:
 
 <h2>Minicurso 4</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2024/images/foto-raphael.jpg" alt="" align="center" style="height: 250px"><br>
+      <img src="{{ site.urlimg }}/foto-raphael.jpg" alt="" align="center" style="height: 250px"><br>
       <b>Raphael Dias</b><br>		
 	
   <h4>Título: Do código à produção: Desenvolvimento moderno orientado a uma plataforma ALM</h4>		
@@ -210,7 +210,7 @@ header:
 				<div class="row t30" id="minicurso_5">
 <h2>Minicurso 5</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2024/images/foto-luiz.jpeg" alt="" align="center"><br>
+      <img src="{{ site.urlimg }}/foto-luiz.jpeg" alt="" align="center"><br>
       <b>Luiz Antonio Santana da Silva </b><br>		
   <a href="http://lattes.cnpq.br/9951007059425516" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Desenvolvendo soluções usando low code com o X Platform</h4>		
@@ -224,8 +224,6 @@ header:
 <p>&nbsp;</p>
 
 </div>
-	
-	
 	
 
 

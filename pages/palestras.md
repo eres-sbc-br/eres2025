@@ -4,7 +4,7 @@ title: "Palestrantes"
 subheadline: ""
 permalink: "/palestras/"
 header:
-  image_fullwidth: BannerERES2024.png
+  image_fullwidth: ERES-2024_Logo.svg
 ---
 
 <hr>
@@ -12,7 +12,7 @@ header:
 <div class="row t30" id="palestra_a">
 <h2>Palestra A</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2024/images/ellen.jpeg" alt="" align="center"><br>
+      <img src="{{ site.urlimg }}/ellen.jpeg" alt="" align="center"><br>
       <b>Profa. Dra. Ellen Francice Barbosa</b><br>		
   <a href="http://lattes.cnpq.br/7913302545613108" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Soft Skills e o Engenheiro de Software: o que mais eu preciso saber para enfrentar os desafios do mercado?</h4>		
@@ -32,7 +32,7 @@ header:
 <div class="row t30" id="palestra_b">
 <h2>Palestra B</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2024/images/wiese.jpeg" alt="" align="center"><br>
+      <img src="{{ site.urlimg }}/wiese.jpeg" alt="" align="center"><br>
       <b>Prof. Dr. Igor Wiese (UTFPR-CM)</b><br>		
   <a href="http://lattes.cnpq.br/0447444423694007" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Open-source, como começar? motivações e desafios!</h4>		
@@ -50,7 +50,7 @@ header:
 <div class="row t30" id="palestra_c">
 <h2>Palestra C</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2024/images/camila.jpeg" alt="" style="height: 250px" align="center"><br>
+      <img src="{{ site.urlimg }}/camila.jpeg" alt="" style="height: 250px" align="center"><br>
       <b>Profa. Dra. Camila L. Leal (DEP/UEM)</b><br>		
   <a href="http://lattes.cnpq.br/7810321373328408" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Startups de Software: Desafios e Perspectivas</h4>		
@@ -70,7 +70,7 @@ header:
 <div class="row t30" id="palestra_d">
 <h2>Palestra D</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2024/images/menolli.jpeg" alt="" align="center"><br>
+      <img src="{{ site.urlimg }}/menolli.jpeg" alt="" align="center"><br>
       <b>Prof. Dr. André Menolli (UENP)</b><br>		
   <a href="https://lattes.cnpq.br/0048431988260726" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Como o uso de artefatos de modelos pode auxiliar as empresas desenvolvedoras de software em seus processos? O relato de uma pesquisa no Brasil</h4>		
@@ -91,7 +91,7 @@ header:
 <div class="row t30" id="palestra_e">
 <h2>Palestra E</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2024/images/fabiano.gif" alt="" align="center"><br>
+      <img src="{{ site.urlimg }}/fabiano.gif" alt="" align="center"><br>
       <b>Prof. Dr. Fabiano Cutigi Ferrari (UFSCar)</b><br>		
   <a href="ttp://lattes.cnpq.br/3154345471250570" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: Teste de Mutação: Relevância, Histórico e Tendências</h4>		
@@ -110,7 +110,7 @@ header:
 <div class="row t30" id="palestra_f">
 <h2>Palestra F</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2024/images/edna.jpeg" alt="" align="center"><br>
+      <img src="{{ site.urlimg }}/edna.jpeg" alt="" align="center"><br>
       <b>Profa. Dra. Edna Dias Canedo (UnB)</b><br>		
   <a href="http://lattes.cnpq.br/9554285834432091" target="_blank">Currículo Lattes</a><br>		
   <h4>Título: O Uso de Técnicas de Especificação de Requisitos na Indústria</h4>		
@@ -129,7 +129,7 @@ header:
 <div class="row t30" id="palestra_g">
 <h2>Palestra G</h2>
 <div class="medium-16 columns">
-      <img src="https://eres-sbc-br.github.io/eres2024/images/catarina.jpeg" alt="" align="center"><br>
+      <img src="{{ site.urlimg }}/catarina.jpeg" alt="" align="center"><br>
       <b>Catarina Xavier (Embraer)</b><br>		
   <a href="https://www.linkedin.com/in/catarina-xavier-25063822" target="_blank">Linkedin</a><br>		
   <h4>Título: Desenvolvimento e Certificação de Software Aeronáutico</h4>		

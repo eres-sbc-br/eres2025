@@ -4,7 +4,7 @@ show_meta: false
 title: "Inscrições"
 permalink: "/inscricoes/"
 header:
-  image_fullwidth: BannerERES2024.png
+  image_fullwidth: ERES-2024_Logo.svg
 ---
 
 <hr>
