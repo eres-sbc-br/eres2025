@@ -3,15 +3,13 @@ layout: page-fullwidth
 title: "Contato"
 meta_title: "Dúvidas? Entre em contato conosco"
 subheadline: ""
-teaser: "Entre em contato conosco pelo e-mail eres.sbc.br@gmail.com"
+teaser: "Entre em contato conosco pelo e-mail <b>eres.sbc.br@gmail.com</b>."
 permalink: "/contato/"
 header:
   image_fullwidth: ERES-2024_Logo.svg
 ---
 
 <h5>Também estamos nas redes sociais:</h5>
-
-<p></p>
 
 <p><a href="https://www.instagram.com/eres_sbc_br" target="_blank" class="icon-instagram" title="ERES no Instagram">&nbsp; @eres_sbc_br</a></p>
 

@@ -8,7 +8,7 @@ header:
 
 <div id="countdown-container" style="text-align: center;">
   <h1 style="color: #333; font-size: 24px; font-weight: bold;">Contagem Regressiva para o Evento:</h1>
-  <div id="countdown" style="color: #000000; font-size: 48px; font-weight: normal;">Carregando...</div>
+  <div id="countdown" style="color: #000000; font-size: 28px; font-weight: normal;">Carregando...</div>
 </div>
 
 <script>
