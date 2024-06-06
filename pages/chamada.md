@@ -24,7 +24,7 @@ header:
     border-bottom: 1px solid #cbcbcb;
   }
 
-  p {
+  .text {
     text-align: justify;
     padding: 0 15px;
   }
@@ -68,7 +68,7 @@ header:
 <main>
   <section>
     <h2>Apresentação</h2>
-    <p>A VIII Escola Regional de Engenharia de Software (ERES 2024) é promovida anualmente pela Sociedade Brasileira de Computação (SBC), desde 2017. A próxima edição ocorrerá de forma presencial, de 11 a 13 de novembro de 2024, em Santiago/RS, conhecida como a Terra dos Poetas.</p>
+    <p class="text">A VIII Escola Regional de Engenharia de Software (ERES 2024) é promovida anualmente pela Sociedade Brasileira de Computação (SBC), desde 2017. A próxima edição ocorrerá de forma presencial, de 11 a 13 de novembro de 2024, em Santiago/RS, conhecida como a Terra dos Poetas.</p>
   </section>
 
   <section class="important-dates">
@@ -82,13 +82,13 @@ header:
 
   <section>
     <h2>Submissão de Trabalhos</h2>
-    <p>A ERES 2024 incentiva a apresentação de trabalhos de pesquisa ou relatos de experiência originais em Engenharia de Software. Os artigos devem possuir entre 6 e 10 páginas e ser submetidos em formato double-blind conforme as diretrizes da SBC.</p>
+    <p class="text">A ERES 2024 incentiva a apresentação de trabalhos de pesquisa ou relatos de experiência originais em Engenharia de Software. Os artigos devem possuir entre 6 e 10 páginas e ser submetidos em formato double-blind conforme as diretrizes da SBC.</p>
     <p class="submission-link">Link para submissão: <a href="https://jems.sbc.org.br/eres2024">Submeta seu trabalho aqui</a> [Em breve]</p>
   </section>
 
   <section>
     <h2>Tópicos de Pesquisa</h2>
-    <p>Os trabalhos submetidos devem abordar tópicos relacionados à Engenharia de Software, incluindo, mas não se restringindo a, Confiabilidade de Software, DevOps, Métodos Ágeis, Arquitetura de Software, entre outros.</p>
+    <p class="text">Os trabalhos submetidos devem abordar tópicos relacionados à Engenharia de Software, incluindo, mas não se restringindo a, Confiabilidade de Software, DevOps, Métodos Ágeis, Arquitetura de Software, entre outros.</p>
   </section>
 
   <section>
