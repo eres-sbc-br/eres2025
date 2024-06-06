@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 subheadline: ""
-permalink: "/comite_cientifico/"
+# permalink: "/comite_cientifico/"
 header:
   image_fullwidth: ERES-2024_Logo.svg
 ---

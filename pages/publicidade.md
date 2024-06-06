@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Publicidade"
 subheadline: ""
-permalink: "/publicidade/"
+# permalink: "/publicidade/"
 header:
   image_fullwidth: ERES-2024_Logo.svg
 ---
