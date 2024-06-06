@@ -1,8 +1,8 @@
 ﻿- menu_name: "Agradecimentos"
 
-- name: "Banner ERES por Ricardo T. Geraldi"
-  class: "network-entypo"
-  title: "Banner ERES por Ricardo T. Geraldi"
+# - name: "Banner ERES por Ricardo T. Geraldi"
+#   class: "network-entypo"
+#   title: "Banner ERES por Ricardo T. Geraldi"
 
 - name: "Ícones de Daniel Bruce"
   url: "http://entypo.com/"
