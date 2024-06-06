@@ -8,6 +8,13 @@ header:
 ---
 
 <div class="medium-8 columns t30">      
+	<b>Maringá-PR 2023</b>
+	<a href="https://eres-sbc-br.github.io/eres2023/" target="_blank">
+		<img src="{{ site.urlimg }}/BannerERES2023.png" alt="">
+	</a>
+</div>
+
+<div class="medium-8 columns t30">      
 	<b>Blumenau-SC 2022</b>
 	<a href="https://eres-sbc-br.github.io/eres2022/" target="_blank">
 		<img src="{{ site.urlimg }}/logo-eres-verde-horizontal%20-%202.png" alt="">
