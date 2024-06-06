@@ -30,7 +30,7 @@ header:
     border-radius: 10px;
     padding: 20px;
     flex: 1;
-    min-width: 140px;
+    min-width: 125px;
   }
 
   .countdown-unit span {
@@ -71,21 +71,22 @@ header:
     color: #666;
   }
 
-  @media (max-width: 768px) { 
-    .countdown-unit {
-      flex: 1 1 50%;
-      min-width: auto;
-    }
-  }
-
-  @media (max-width: 600px) {
+  @media (max-width: 768px) {
     #countdown-container {
       flex-direction: column;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      width: 100%;
     }
 
     .countdown-unit {
-      width: 80%;
-      margin: 10px auto;
+      width: 75%;
+      margin: 5px auto;
+    }
+
+    #title {
+      text-align: left;
     }
   }
 </style>
@@ -110,7 +111,7 @@ header:
     </div>
   </div>
 
-  <h1>Bem-vindo à ERES 2024</h1>
+  <h1 id="title">Bem-vindo à ERES 2024</h1>
 
   <p>A <b>Escola Regional de Engenharia de Software (ERES)</b> é promovida anualmente pela Sociedade Brasileira de Computação (SBC). A oitava edição da escola, a <b>ERES 2024</b>, ocorrerá <b>presencialmente</b>, no período de 11 a 13 de novembro de 2024.</p>
 
