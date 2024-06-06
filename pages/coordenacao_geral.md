@@ -98,11 +98,11 @@ header:
 
     .card img {
       height: 150px;
-			width: 65%;
+			width: 70%;
     }
 
 		#img-carla {
-			width: 55%;
+			width: auto;
 		}
   }
 </style>
