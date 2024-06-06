@@ -21,7 +21,7 @@ header:
   h2 {
     font-size: 24px;
     padding-bottom: 10px;
-    border-bottom: 2px solid #cbcbcb;
+    border-bottom: 1px solid #cbcbcb;
   }
 
   .section-container {
