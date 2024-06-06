@@ -30,7 +30,7 @@
   side: left
 
 - title: "Organização"
-  url: ""
+  url: "/coordenacao_geral/"
   side: left
   dropdown:
     - title: "Coordenação Geral"

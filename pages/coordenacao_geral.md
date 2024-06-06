@@ -1,71 +1,172 @@
 ---
 layout: page-fullwidth
-title: ""
+title: "Coordenação Geral"
 subheadline: ""
 permalink: "/coordenacao_geral/"
 header:
-  image_fullwidth: ERES-2024_Logo.svg
+  image_fullwidth: "ERES-2024_Logo.svg"
 ---
 
-<h3><strong>Coordenação Geral</strong></h3>
+<style>
+  header {
+    margin-bottom: 30px;
+  }
 
-<div class="row">
-    <div class="small-12 large-4  columns">
-        <img src="{{ site.urlimg}}/edson.jpg" alt="" style="height: 250px"><br>
-        <b>Prof. Dr. Edson OliveiraJr</b><br>
-		<b>UEM</b><br>
-		<a href="http://lattes.cnpq.br/8717980588591239" target="_blank">Currículo Lattes</a>
-  </div>
-</div>
-  
-<h3><strong>Organização Local</strong></h3>
+  h1, h2 {
+    color: #333;
+    text-align: center;
+    margin: 20px 0;
+  }
 
-<div class="row">
-	<div class="small-12 large-4  columns">
-        <img src="{{ site.urlimg}}/thelma.jpg" alt="" style="height: 250px"><br>
-        <b>Profa. Dra. Thelma Elita Colanzi</b><br>
-		<b>UEM</b><br>
-		<a href="http://lattes.cnpq.br/3603496659156120" target="_blank">Currículo Lattes</a>    
-	</div>
-	
-	<div class="small-12 large-4  columns">
-        <img src="{{ site.urlimg}}/aline.png" alt="" style="height: 250px"><br>
-        <b>Profa. Dra. Aline M. M. M. Amaral</b><br>
-		<b>UEM</b><br>
-		<a href="https://lattes.cnpq.br/6738366464597912" target="_blank">Currículo Lattes</a>    
-	</div>
+  h2 {
+    font-size: 24px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #cbcbcb;
+  }
 
-    <div class="small-12 large-4  columns">
-        <img src="{{ site.urlimg}}/nelson.jpeg" alt="" style="height: 250px"><br>
-        <b>Prof. Dr. Nelson Tenório Junior</b><br>
-    	<b>UEM</b><br>
-    	<a href="http://lattes.cnpq.br/6723952614607082" target="_blank">Currículo Lattes</a>
+  .section-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+
+  .card {
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: calc(100% / 4 - 40px);
+    margin: 10px;
+    overflow: hidden;
+    display: flex;
+		padding: 10px;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .card img {
+    width: 90%;
+    height: 175px;
+    object-fit: cover;
+    border-radius: 50%;
+		margin-top: 15px;
+		box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+  }
+
+  .card-text {
+    margin: 15px 0 -20px 0;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  @media (max-width: 1024px) {
+    .card {
+      width: 40%;
+    }
+
+    .card img {
+			margin-top: 15px;
+      height: 140px;
+			width: 60%;
+    }
+
+		#img-carla {
+			width: 50%;
+		}
+  }
+
+  @media (max-width: 768px) {
+    .card {
+      width: 50%;  
+    }
+
+    .card img {
+      height: 150px;
+			width: 70%;
+    }
+
+		#img-carla {
+			width: 55%;
+		}
+  }
+
+  @media (max-width: 600px) {
+    .card {
+      width: 70%;
+    }
+
+    .card img {
+      height: 150px;
+			width: 65%;
+    }
+
+		#img-carla {
+			width: 55%;
+		}
+  }
+</style>
+
+<main>
+  <section aria-labelledby="coordenacao-geral-header">
+    <h2 id="coordenacao-geral-header"><strong>Coordenador Geral</strong></h2>
+    <div class="section-container">
+      <article class="card">
+        <figure>
+          <img src="{{ site.urlimg }}/prof_anderson.jpg" alt="Prof. Mr. Anderson de Paula Fortes">
+          <figcaption class="card-text">
+            <strong>Prof. Me. Anderson de Paula Fortes</strong><br>
+            URI Santiago<br>
+            <a href="http://lattes.cnpq.br/8500919840176084" target="_blank">Currículo Lattes</a>
+          </figcaption>
+        </figure>
+      </article>
     </div>
+  </section>
 
-</div>
-
-<br>
-
-<div class="row">
-	<div class="small-12 large-4  columns">
-        <img src="{{ site.urlimg}}/camila.jpeg" alt="" style="height: 250px"><br>
-        <b>Profa. Dra. Gislaine Camila L. Leal</b><br>
-		<b>UEM</b><br>
-		<a href="http://lattes.cnpq.br/7810321373328408" target="_blank">Currículo Lattes</a>    
-	</div>
-	
-	<div class="small-12 large-4  columns">
-        <img src="{{ site.urlimg}}/lilian.jpeg" alt="" style="height: 250px"><br>
-        <b>Profa. Dra. Lilian Scatalon</b><br>
-		<b>UEM</b><br>
-		<a href="http://lattes.cnpq.br/0476710385880829" target="_blank">Currículo Lattes</a>    
-	</div>
-
-    <div class="small-12 large-4  columns">
-        <img src="{{ site.urlimg}}/andre.gif" alt="" style="height: 250px"><br>
-        <b>Prof. Me. André F. R. Cordeiro</b><br>
-    	<b>UEM</b><br>
-    	<a href="http://lattes.cnpq.br/6628952189434232" target="_blank">Currículo Lattes</a>
+  <section aria-labelledby="organizacao-local-header">
+    <h2 id="organizacao-local-header"><strong>Organização Local</strong></h2>
+    <div class="section-container">
+      <article class="card">
+        <figure>
+          <img src="{{ site.urlimg }}/prof_carla.jpg" id="img-carla" alt="Profa. Me. Carla Lisiane de Oiliveira Castanho">
+          <figcaption class="card-text">
+            <strong>Profa. Me. Carla Lisiane de Oliveira Castanho</strong><br>
+            URI Santiago<br>
+            <a href="http://lattes.cnpq.br/2572817294743935" target="_blank">Currículo Lattes</a>
+          </figcaption>
+        </figure>
+      </article>
+      <article class="card">
+        <figure>
+          <img src="{{ site.urlimg }}/prof_lu.jpg" alt="Profa. Me. Luciane Machado Fraga">
+          <figcaption class="card-text">
+            <strong>Profa. Me. Luciane Machado Fraga</strong><br>
+            URI Santiago<br>
+            <a href="http://lattes.cnpq.br/0576253490550915" target="_blank">Currículo Lattes</a>
+          </figcaption>
+        </figure>
+      </article>
+      <article class="card">
+        <figure>
+          <img src="{{ site.urlimg }}/prof_gustavo.jpg" alt="Prof. Gustavo Girardon dos Reis">
+          <figcaption class="card-text">
+            <strong>Prof. Esp. Gustavo Girardon dos Reis</strong><br>
+            URI Santiago<br>
+            <a href="http://lattes.cnpq.br/9724726861595610" target="_blank">Currículo Lattes</a>
+          </figcaption>
+        </figure>
+      </article>
+      <article class="card">
+        <figure>
+          <img src="{{ site.urlimg }}/prof_leonardo.jpg" alt="Prof. Me. Leonardo Lima Carvalho">
+          <figcaption class="card-text">
+            <strong>Prof. Me. Leonardo Lima Carvalho</strong><br>
+            URI Santiago<br>
+            <a href="http://lattes.cnpq.br/4149281529137286" target="_blank">Currículo Lattes</a>
+          </figcaption>
+        </figure>
+      </article>
     </div>
-
-</div>
+  </section>
+</main>
