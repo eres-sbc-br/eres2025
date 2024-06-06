@@ -8,6 +8,10 @@ header:
 ---
 
 <style>
+  h1 {
+    text-align: center;
+  }
+
   .edition-container {
     display: flex;
     flex-wrap: wrap;
