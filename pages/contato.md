@@ -6,17 +6,52 @@ subheadline: ""
 teaser: "Entre em contato conosco pelo e-mail <b>eres.sbc.br@gmail.com</b>."
 permalink: "/contato/"
 header:
-  image_fullwidth: ERES-2024_Logo.svg
+  image_fullwidth: "ERES-2024_Logo.svg"
 ---
+
+<style>
+  h1 {
+    text-align: center;
+  }
+
+  h5 {
+    font-size: 1.4em;
+    color: #333;
+    margin-top: 30px;
+    text-align: center;
+  }
+
+  p {
+    font-size: 1.1em;
+    color: #666;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  a {
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  .social-links {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+  }
+
+</style>
 
 <h5>Também estamos nas redes sociais:</h5>
 
-<p><a href="https://www.instagram.com/eres_sbc_br" target="_blank" class="icon-instagram" title="ERES no Instagram">&nbsp; @eres_sbc_br</a></p>
-
-<!-- <p><a href="https://www.facebook.com/eres.sbc.br" target="_blank" class="icon-facebook" title="ERES no Facebook">&nbsp; eres.sbc.br</a></p>
-
-<p><a href="https://twitter.com/eres_sbc_br" target="_blank" class="icon-twitter" title="ERES no Twitter">&nbsp; @eres_sbc_br</a></p>
-
-<p><a href="https://www.linkedin.com/company/eres-sbc-br" target="_blank" class="icon-linkedin" title="ERES no Linkedin">&nbsp; eres-sbc-br</a></p>
-
-<p><a href="https://www.youtube.com/channel/UCuLpDadoilW8sZXuzgpHJzA" target="_blank" class="icon-youtube" title="ERES no YouTube">&nbsp; ERES-SBC</a></p> -->
+<ul class="social-links">
+  <li>
+    <a href="https://www.instagram.com/eres_sbc_br" target="_blank" class="icon-instagram" title="ERES no Instagram">
+     @eres_sbc_br
+    </a>
+  </li>
+</ul>

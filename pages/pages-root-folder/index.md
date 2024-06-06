@@ -1,66 +1,96 @@
 ---
 layout: page-fullwidth
 permalink: /index.html
+title: "Contagem regressiva para o início da ERES 2024"
 homepage: true
 header:
-  image_fullwidth: ERES-2024_Logo.png
+  image_fullwidth: "ERES-2024_Logo.png"
 ---
 
 <style>
+  h1 {
+    text-align: center;
+  }
+
   #countdown-container {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    background-color: #f1f1f1;
+    padding: 20px;
+    border-radius: 10px;
   }
 
   .countdown-unit {
     margin: 10px;
     text-align: center;
-    background-color: #f9f9f9;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 5px;
-    padding: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 20px;
     flex: 1;
-    min-width: 120px;
+    min-width: 140px;
   }
 
   .countdown-unit span {
     display: block;
-    font-size: 2em;
+    font-size: 2.5em;
     font-weight: bold;
   }
 
   .unit-label {
-    font-size: 0.8em;
+    font-size: 1em;
     text-transform: uppercase;
     letter-spacing: 1px;
     color: #555;
   }
 
   .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    margin-top: -30px;
-
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    margin-top: -20px;
   }
 
   #countdown-title {
-    font-size: 1.5em;
+    font-size: 2em;
     margin-bottom: 20px;
+    text-align: center;
+  }
+
+  h1, h3 {
+    color: #333;
+    margin: 20px 0;
+    font-size: 1.8em;
+  }
+
+  p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    color: #666;
   }
 
   @media (max-width: 768px) { 
     .countdown-unit {
-      flex: 1 1 25%;
+      flex: 1 1 50%;
+      min-width: auto;
+    }
+  }
+
+  @media (max-width: 600px) {
+    #countdown-container {
+      flex-direction: column;
+    }
+
+    .countdown-unit {
+      width: 80%;
+      margin: 10px auto;
     }
   }
 </style>
 
 <section class="container">
-  <h1 id="countdown-title">Contagem regressiva para o início da ERES 2024</h1>
   <div id="countdown-container">
     <div class="countdown-unit">
       <span id="days">00</span>
@@ -80,52 +110,43 @@ header:
     </div>
   </div>
 
-  <div>
-    <h1>Início</h1>
+  <h1>Bem-vindo à ERES 2024</h1>
 
-    <p>A <b>Escola Regional de Engenharia de Software (ERES)</b> é promovida anualmente pela Sociedade Brasileira de Computação (SBC). A oitava edição da escola, a <b>ERES 2024</b>, ocorrerá <b>presencialmente</b>, no período de 11 a 13 de novembro de 2024.</p>
+  <p>A <b>Escola Regional de Engenharia de Software (ERES)</b> é promovida anualmente pela Sociedade Brasileira de Computação (SBC). A oitava edição da escola, a <b>ERES 2024</b>, ocorrerá <b>presencialmente</b>, no período de 11 a 13 de novembro de 2024.</p>
 
-    Esta edição está sendo realizada pelo <a href="http://www1.urisantiago.br/ciencia-da-computacao" target="_blank">Curso de Ciência da Computação</a> da <a href="http://www1.urisantiago.br/" target="_blank">Universidade Regional Integrada e das Missões (URI) - Campus Santiago</a>.
+  <p>Esta edição está sendo realizada pelo <a href="http://www1.urisantiago.br/ciencia-da-computacao" target="_blank">Curso de Ciência da Computação</a> da <a href="http://www1.urisantiago.br/" target="_blank">Universidade Regional Integrada e das Missões (URI) - Campus Santiago</a>.</p>
 
-    <p>A ERES tem por objetivo disseminar o conhecimento e boas práticas em Engenharia de Software (ES), do ponto de vista profissional e acadêmico. A ERES 2024 é um espaço regional para que possam ser apresentados os resultados de pesquisas e extensão em nível de graduação e pós-graduação e relatos de experiência na indústria. Além disso, possibilitará um ambiente natural para a discussão de abordagens no ensino-aprendizagem na ES.</p>
+  <p>A ERES tem por objetivo disseminar o conhecimento e boas práticas em Engenharia de Software (ES), do ponto de vista profissional e acadêmico. A ERES 2024 é um espaço regional para que possam ser apresentados os resultados de pesquisas e extensão em nível de graduação e pós-graduação e relatos de experiência na indústria. Além disso, possibilitará um ambiente natural para a discussão de abordagens no ensino-aprendizagem na ES.</p>
 
-    <p>A realização da ERES 2024 oferecerá aos seus participantes atualizações do estado-da-arte da pesquisa científica na área de engenharia de software por meio da apresentação de palestras ministradas por pesquisadores e praticantes da indústria renomados. Dessa forma, este evento irá possibilitar a promoção de conceitos atuais na área, além de divulgar o que se está pesquisando em engenharia de software na região sul, no país e no mundo, inspirando, assim, o gosto pela pesquisa científica aos participantes.</p>
+  <p>A realização da ERES 2024 oferecerá aos seus participantes atualizações do estado-da-arte da pesquisa científica na área de engenharia de software por meio da apresentação de palestras ministradas por pesquisadores e praticantes da indústria renomados. Dessa forma, este evento irá possibilitar a promoção de conceitos atuais na área, além de divulgar o que se está pesquisando em engenharia de software na região sul, no país e no mundo, inspirando, assim, o gosto pela pesquisa científica aos participantes.</p>
+  <p>A programação da ERES 2024 está sendo elaborada com palestras, minicursos e submissões de artigos para serem apresentados em um Fórum de Graduação, um Fórum de Pós-Graduação e um Fórum de Extensão.</p>
 
-    <p>A programação da ERES 2024 está sendo elaborada com palestras, minicursos e submissões de artigos para serem apresentados em um Fórum de Graduação, um Fórum de Pós-Graduação e um Fórum de Extensão.</p>
+  <h3>Fórum de Graduação</h3>
+  <p>Espaço destinado para apresentação dos trabalhos de pesquisa ou relatos de experiência em Engenharia de Software, desenvolvidos por acadêmicos de graduação, principalmente das IES catarinenses, gaúchas e paranaenses.</p>
 
-    <h3>Fórum de Graduação</h3>
-    <p>Espaço destinado para apresentação dos trabalhos de pesquisa ou relatos de experiência em Engenharia de Software, desenvolvidos por acadêmicos de graduação, principalmente das IES catarinenses, gaúchas e paranaenses.</p>
+  <h3> Fórum de Pós-Graduação</h3>
+  <p>Espaço para apresentação de trabalhos de estudantes de pós-graduação, com o objetivo de incentivar a troca de experiências e divulgar pesquisas em andamento e/ou concluídas e resultados obtidos. Além da clareza do trabalho, relevância do tema, e qualidade da apresentação, o Comitê Científico da ERES 2024 avaliará também as contribuições científicas do trabalho.</p>
 
-    <h3> Fórum de Pós-Graduação</h3>
-    <p>Espaço para apresentação de trabalhos de estudantes de pós-graduação, com o objetivo de incentivar a troca de experiências e divulgar pesquisas em andamento e/ou concluídas e resultados obtidos. Além da clareza do trabalho, relevância do tema, e qualidade da apresentação, o Comitê Científico da ERES 2024 avaliará também as contribuições científicas do trabalho.</p>
+  <h3>Fóruns Especiais</h3>
+  <p>Espaço para apresentação de trabalhos de relatos das atividades extensionistas aplicados aos currículos de computação, especialmente da Engenharia de Software, e de que forma estão implantando a inserção da extensão em seus currículos conforme previsto na Resolução CNE/CES nº 7, de 18 de dezembro de 2018. O objetivo é incentivar a troca de experiências entre docentes coordenadores de programas e projetos de extensão.</p>
 
-    <h3> Fórum de Extensão </h3>
-    <p>Espaço para apresentação de trabalhos de relatos das atividades extensionistas aplicados aos currículos de computação, especialmente da Engenharia de Software, e de que forma estão implantando a inserção da extensão em seus currículos conforme previsto na Resolução CNE/CES nº 7, de 18 de dezembro de 2018. O objetivo é incentivar a troca de experiências entre docentes coordenadores de programas e projetos de extensão.
-    </p>
-
-  </div>
+  <script>
+    const countDownDate = new Date("November 11, 2024 00:00:00").getTime();
+    const countdownTimer = setInterval(() => {
+      const now = new Date().getTime();
+      const distance = countDownDate - now;
+      const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+      const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+      const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+      document.getElementById("days").innerHTML = String(days).padStart(2, '0');
+      document.getElementById("hours").innerHTML = String(hours).padStart(2, '0');
+      document.getElementById("minutes").innerHTML = String(minutes).padStart(2, '0');
+      document.getElementById("seconds").innerHTML = String(seconds).padStart(2, '0');
+      if (distance < 0) {
+        clearInterval(countdownTimer);
+        document.getElementById("countdown-container").innerHTML = "<h1>O evento começou!</h1>";
+      }
+    }, 1000);
+  </script>
 </section>
-
-<script>
-  const countDownDate = new Date("November 11, 2024 00:00:00").getTime();
-
-  const countdownTimer = setInterval(() => {
-    const now = new Date().getTime();
-    const distance = countDownDate - now;
-
-    const days = Math.floor(distance / (1000 * 60 * 60 * 24));
-    const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-    const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-    const seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-    document.getElementById("days").innerHTML = String(days).padStart(2, '0');
-    document.getElementById("hours").innerHTML = String(hours).padStart(2, '0');
-    document.getElementById("minutes").innerHTML = String(minutes).padStart(2, '0');
-    document.getElementById("seconds").innerHTML = String(seconds).padStart(2, '0');
-
-    if (distance < 0) {
-      clearInterval(countdownTimer);
-      document.getElementById("countdown-container").innerHTML = "<h1>O evento começou!</h1>";
-    }
-  }, 1000);
-</script>
