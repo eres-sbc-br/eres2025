@@ -109,7 +109,7 @@ header:
 
 <main>
   <section aria-labelledby="coordenacao-geral-header">
-    <h2 id="coordenacao-geral-header"><strong>Coordenador Geral</strong></h2>
+    <h2 id="coordenacao-geral-header"><strong>Coordenadores Gerais</strong></h2>
     <div class="section-container">
       <article class="card">
         <figure>
@@ -118,6 +118,16 @@ header:
             <strong>Prof. Me. Anderson de Paula Fortes</strong><br>
             URI Santiago<br>
             <a href="http://lattes.cnpq.br/8500919840176084" target="_blank">Currículo Lattes</a>
+          </figcaption>
+        </figure>
+      </article>
+      <article class="card">
+        <figure>
+          <img src="{{ site.urlimg }}/maicon.jpg" alt="Prof. Dr. Maicon Bernardino da Silveira">
+          <figcaption class="card-text">
+            <strong>Prof. Dr. Maicon Bernardino da Silveira</strong><br>
+            Unipampa<br>
+            <a href="http://lattes.cnpq.br/0523166822363498" target="_blank">Currículo Lattes</a>
           </figcaption>
         </figure>
       </article>
