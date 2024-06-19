@@ -10,10 +10,9 @@
   url: "/chamada/"
   side: left
 
-- title: "Workshop Estudos Empíricos"
-  url: "/workshop/"
-  side: left
-
+# - title: "Workshop Estudos Empíricos"
+#   url: "/workshop/"
+#   side: left
 - title: "Programação Geral"
   url: "/programacao/"
   side: left

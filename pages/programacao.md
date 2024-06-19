@@ -154,7 +154,7 @@ header:
 
   </table>
 
-  <table>
+  <!-- <table>
     <thead>
       <tr>
         <th>Palestrantes</th>
@@ -219,5 +219,5 @@ header:
         <td>SAP S/4 HANA<br /><strong>SAP</strong></td>
       </tr>
     </tbody>
-  </table>
+  </table> -->
 </main>
