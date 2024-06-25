@@ -213,12 +213,6 @@ informações necessárias para que a inscrição seja confirmada.</p>
 
 <p><font color="red">Atenção: Os minicursos 1 e 2, 3 e 4, 6 e 7 acontecerão em paralelo nos seus respectivos dias.</font></p>
 
-<h3>Inscrição no workshop de estudos empíricos</h3>
-
-<p>A participação no Workshop de Estudos Empíricos exige o pagamento de uma taxa de R$ 50,00, impreterivelmente até o dia 05/12/2024.</p>
-
-<p><font color="red">Atenção: O workshop possui uma capacidade máxima de 35 pessoas.</font></p>
-
 <h3>Política de cancelamento de inscrições</h3>
 
 <p>Até dia 29/11/2024 pode-se fazer uma devolução de 75% do valor pago pela inscrição na ERES 2024. Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição,
