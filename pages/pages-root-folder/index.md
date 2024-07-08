@@ -128,8 +128,8 @@ header:
   <h3> Fórum de Pós-Graduação</h3>
   <p class="text">Espaço para apresentação de trabalhos de estudantes de pós-graduação, com o objetivo de incentivar a troca de experiências e divulgar pesquisas em andamento e/ou concluídas e resultados obtidos. Além da clareza do trabalho, relevância do tema, e qualidade da apresentação, o Comitê Científico da ERES 2024 avaliará também as contribuições científicas do trabalho.</p>
 
-  <h3>Fóruns Especiais</h3>
-  <p class="text">Espaço para apresentação de trabalhos de relatos das atividades extensionistas aplicados aos currículos de computação, especialmente da Engenharia de Software, e de que forma estão implantando a inserção da extensão em seus currículos conforme previsto na Resolução CNE/CES nº 7, de 18 de dezembro de 2018. O objetivo é incentivar a troca de experiências entre docentes coordenadores de programas e projetos de extensão.</p>
+  <h3>Fórum de Extensão</h3>
+  <p class="text">Espaço para apresentação de trabalhos de relatos das atividades extensionistas aplicados aos currículos de computação, especialmente da Engenharia de Software, relacionados à forma  como estão implantando a extensão em seus currículos, conforme previsto na Resolução CNE/CES nº 7, de 18 de dezembro de 2018. O objetivo é incentivar a troca de experiências entre docentes e estudantes que atuam em ações de extensão.</p>
 
   <script>
     const countDownDate = new Date("November 11, 2024 00:00:00").getTime();
