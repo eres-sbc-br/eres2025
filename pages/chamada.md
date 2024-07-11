@@ -139,16 +139,64 @@ header:
 
   <section class="text">
     <h2>Tópicos de Pesquisa</h2>
-    <p class="text">Os trabalhos submetidos devem abordar tópicos relacionados à Engenharia de Software, incluindo, mas não se restringindo a, Confiabilidade de Software, DevOps, Métodos Ágeis, Arquitetura de Software, entre outros.</p>
+    <p class="text">Os artigos submetidos para a ERES devem ser relacionados a tópicos da área de engenharia de software, incluindo, mas não se restringindo aos seguintes:</p>
+    <ul>
+        <li>Aplicações industriais da Engenharia de Software</li>
+        <li>Aspectos Sociais da Engenharia de Software</li>
+        <li>Confiabilidade de Software</li>
+        <li>CSCW e Engenharia de Software</li>
+        <li>Desenvolvimento de Software Orientado a Modelos</li>
+        <li>Engenharia de Requisitos</li>
+        <li>Engenharia de Software Experimental</li>
+        <li>Engenharia de Software Orientada a Agentes</li>
+        <li>Modularidade de Software</li>
+        <li>Engenharia de Software para a World Wide Web</li>
+        <li>Fundamentos teóricos e métodos formais</li>
+        <li>Linhas de Produtos de Software</li>
+        <li>Linguagem Específica de Domínio</li>
+        <li>Manutenção e evolução do software</li>
+        <li>Métricas e medidas de software</li>
+        <li>Processos de software</li>
+        <li>DevOps</li>
+        <li>Métodos Ágeis</li>
+        <li>Qualidade de software</li>
+        <li>Reengenharia de software</li>
+        <li>Verificação e Validação de Software</li>
+        <li>Arquitetura de software</li>
+        <li>Engenharia de Software Baseada em Busca</li>
+        <li>Mineração de repositório de software</li>
+        <li>Software Ecossistemas e Sistemas de Sistemas</li>
+        <li>Educação e Treinamento em Engenharia de Software</li>
+        <li>Práticas de Ciência Aberta para Engenharia de Software</li>
+        <li>Extensão na Engenharia de Software</li>
+    </ul>
   </section>
 
   <section class="text">
     <h2>Organização</h2>
     <ul>
-      <li>Coordenação Geral: Prof. Me. Anderson de Paula Fortes – URI Santiago</li>
-      <li>Coordenação do Fórum de Graduação: Prof. Dr. Silvio Quincozes - Unipampa</li>
-      <li>Coordenação do Fórum de Pós-Graduação: Prof. Dra. Natasha Malveira Costa Valentim</li>
-      <li>Coordenação do Fórum de Extensão: Prof. Dra. Andréa Sabedra Bordin – UFSC</li>
+        <li><strong>Coordenação Geral da ERES 2024:</strong>
+          <ul>
+            <li>Prof. Me. Anderson de Paula Fortes – URI</li>
+            <li>Prof. Dr. Maicon Bernardino - Unipampa</li>
+          </ul>
+        </li>
+        <li><strong>Coordenação do Fórum de Graduação:</strong>
+          <ul>
+            <li>Prof. Dr. Silvio Quincozes - Unipampa</li>
+          </ul>
+        </li>
+        <li><strong>Coordenação do Fórum de Pós-Graduação:</strong>
+          <ul>
+            <li>Prof. Dra. Natasha Malveira Costa Valentim</li>
+          </ul>
+        </li>
+        <li><strong>Coordenação do Fórum de Extensão:</strong>
+          <ul>
+            <li>Prof. Dra. Andréa Sabedra Bordin – UFSC</li>
+          </ul>
+        </li>
     </ul>
   </section>
+
 </main>
