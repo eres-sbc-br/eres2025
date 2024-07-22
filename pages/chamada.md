@@ -117,8 +117,25 @@ header:
       <strong>Todos os artigos devem ser submetidos, SEM A IDENTIFICAÇÃO DOS AUTORES E DE SUAS INSTITUIÇÕES (DOUBLE-BLIND)</strong>, respeitando o formato de artigos para eventos da SBC, cujo template (Word e Latex) encontra-se em <a href="https://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros" target="_blank">aqui</a>.
     </p>
     <p class="text">
-      As submissões serão avaliadas pelos respectivos Comitês de Programa com base na clareza da proposta, relevância do tema e qualidade da apresentação. Os melhores trabalhos de cada categoria receberão certificado de menção honrosa. Cada autor de artigo inscrito no evento poderá validar no máximo 2 artigos, independente do fórum ou trilha. Os melhores revisores de cada fórum ou trilha também receberão certificado de “Melhor Revisor”.
+      As submissões serão avaliadas pelos respectivos Comitês de Programa. 
+      Para os fóruns de Graduação e Pós-Graduação, as submissões serão avaliadas com base na clareza da proposta, relevância do tema e qualidade da apresentação.
     </p>
+    <p class="text">
+      Para o fórum de Extensão, os critérios são:
+      <ul class="text">
+        <li>Originalidade; </li>
+        <li>Contribuição; </li>
+        <li>Qualidade escrita, organização e apresentação; </li>
+        <li>Aderência às diretrizes da extensão:
+          <ol>
+            <li>Relação dialógica entre universidade e sociedade;</li>
+            <li>Impacto na formação do estudante;</li>
+            <li>Impacto social.</li>
+          </ol>
+        </li>
+      </ul>
+    </p>
+    <p class="text">Os melhores trabalhos de cada categoria receberão certificado de menção honrosa. Cada autor de artigo inscrito no evento poderá validar no máximo 2 artigos, independente do fórum ou trilha. Os melhores revisores de cada fórum ou trilha também receberão certificado de “Melhor Revisor”.</p>
     <p class="text">
       Independentemente da trilha de submissão, é exigido que pelo menos 1 (um) dos autores de cada artigo aceito se inscreva e apresente o trabalho no evento para que seja incluído nos anais. 
     </p>
