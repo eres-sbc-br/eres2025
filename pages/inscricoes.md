@@ -50,7 +50,7 @@ header:
   }
 
   .sbc-table th {
-    background-color: #FFFF00;
+    background-color: #f9f181;
     font-weight: bold;
   }
 
@@ -63,7 +63,7 @@ header:
   }
 
   .sbc-table .separator {
-    background-color: #c9c9c9;
+    background-color: #eaeaea;
     height: 15px;
     border: none;
   }
@@ -106,24 +106,38 @@ header:
 
 <table class="sbc-table">
   <tr>
-    <th colspan="3">Categorias</th>    
+    <th colspan="2">Categorias</th>    
+    <th colspan="1">
+      1ª Faixa de Inscrição <br />
+      A partir de: 09/08/2024
+      até: 13/10/2024
+    </th>    
+    <th colspan="1">
+      2ª Faixa de Inscrição <br />
+      A partir de: 14/10/2024
+      até: 13/11/2024
+    </th>    
   </tr>
   <tr class="gray">
     <td rowspan="5" class="category">Estudante de Graduação ou Estudante de Ensino Médio</td>
     <td>Estudante associado à SBC com anuidade vigente</td>
     <td>R$ 10,00</td>
+    <td>R$ 15,00</td>
   </tr>
   <tr class="gray">
     <td>Estudante associado à SBC com anuidade vencendo em até 90 dias (COMBO)</td>
-    <td>R$ 38,94</td>
+    <td>R$ 41,00</td>
+    <td>R$ 46,00</td>
   </tr>
   <tr>
     <td>Estudante não associado ou com associação não vigente à SBC (COMBO)</td>
-    <td>R$ 38,94</td>
+    <td>R$ 41,00</td>
+    <td>R$ 46,00</td>
   </tr>
   <tr class="gray">
     <td>Estudante não associado à SBC (Somente inscrição no evento)</td>
-    <td>R$ 40,00</td>
+    <td>R$ 42,00</td>
+    <td>R$ 50,00</td>
   </tr>
   <tr>
     <td class="separator" colspan="3"></td>
@@ -131,19 +145,23 @@ header:
   <tr class="gray">
     <td rowspan="5" class="category">Estudante de Pós-Graduação</td>
     <td>Estudante de pós-graduação associado à SBC com anuidade vigente</td>
+    <td>R$ 50,00</td>
     <td>R$ 60,00</td>
   </tr>
   <tr class="gray">
     <td>Estudante de pós-graduação associado à SBC com anuidade vencendo em até 90 dias (COMBO)</td>
-    <td>R$ 178,18</td>
+    <td>R$ 175,00</td>
+    <td>R$ 185,00</td>
   </tr>
   <tr>
     <td>Estudante de pós-graduação não associado ou com associação não vigente à SBC (COMBO)</td>
-    <td>R$ 178,18</td>
+    <td>R$ 175,00</td>
+    <td>R$ 185,00</td>
   </tr>
   <tr class="gray">
     <td>Estudante de pós-graduação não associado à SBC (Somente inscrição no evento)</td>
-    <td>R$ 185,00</td>
+    <td>R$ 179,00</td>
+    <td>R$ 189,00</td>
   </tr>
   <tr>
     <td class="separator" colspan="3"></td>
@@ -152,18 +170,22 @@ header:
     <td rowspan="5" class="category">Professor de Educação Básica</td>
     <td>Professor de Educação Básica associado à SBC com anuidade vigente</td>
     <td>R$ 40,00</td>
+    <td>R$ 48,00</td>
   </tr>
   <tr class="gray">
     <td>Professor de Educação Básica associado à SBC com anuidade vencendo em até 90 dias (COMBO)</td>
-    <td>R$ 158,18</td>
+    <td>R$ 165,00</td>
+    <td>R$ 173,00</td>
   </tr>
   <tr>
     <td>Professor de Educação Básica não associado ou com associação não vigente à SBC (COMBO)</td>
-    <td>R$ 158,18</td>
+    <td>R$ 165,00</td>
+    <td>R$ 173,00</td>
   </tr>
   <tr class="gray">
     <td>Professor de Educação Básica não associado à SBC (Somente inscrição no evento)</td>
-    <td>R$ 163,00</td>
+    <td>R$ 169,00</td>
+    <td>R$ 179,00</td>
   </tr>
   <tr>
     <td class="separator" colspan="3"></td>
@@ -171,19 +193,23 @@ header:
   <tr class="gray">
     <td rowspan="5" class="category">Profissionais/Efetivos</td>
     <td>Profissional associado à SBC com anuidade vigente</td>
-    <td>R$ 50,00</td>
+    <td>R$ 85,00</td>
+    <td>R$ 100,00</td>
   </tr>
   <tr class="gray">
     <td>Profissional associado à SBC com anuidade vencendo em até 90 dias (COMBO)</td>
-    <td>R$ 386,48</td>
+    <td>R$ 441,00</td>
+    <td>R$ 456,48</td>
   </tr>
   <tr>
     <td>Profissional não associado ou com associação não vigente à SBC (COMBO)</td>
-    <td>R$ 386,48</td>
+    <td>R$ 441,00</td>
+    <td>R$ 456,48</td>
   </tr>
   <tr class="gray">
     <td>Profissional não associado à SBC (Somente inscrição no evento)</td>
-    <td>R$ 392,00</td>
+    <td>R$ 449,00</td>
+    <td>R$ 459,00</td>
   </tr>
   <tr>
     <td class="separator" colspan="3"></td>
@@ -215,5 +241,4 @@ informações necessárias para que a inscrição seja confirmada.</p>
 
 <h3>Política de cancelamento de inscrições</h3>
 
-<p class="text">Até dia 29/11/2024 pode-se fazer uma devolução de 75% do valor pago pela inscrição na ERES 2024. Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição,
-quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para faturamento@sbc.org.br.</p>
+<p class="text">Até dia 31/10/2024 pode-se fazer uma devolução de 75% do valor pago pela inscrição na VIII Escola Regional de Engenharia de Software (ERES 2024). Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição, quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para faturamento@sbc.org.br.</p>
