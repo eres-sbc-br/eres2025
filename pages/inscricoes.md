@@ -220,7 +220,7 @@ header:
 
 <p class="text">O pagamento de inscrições poderá ser realizado por meio de boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota de empenho ou faturamento.</p>
 
-<p class="text">As inscrições podem ser feitas até o último dia do evento, porém os pagamentos por débito e boleto serão aceitos até o 06/12/2024.
+<p class="text">As inscrições podem ser feitas até o último dia do evento, porém os pagamentos por débito e boleto serão aceitos até o 11/11/2024.
 
 <p class="text">O pagamento das inscrições poderá ser realizado por meio de boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota de empenho e faturamento, através do sistema de inscrições ECOS da SBC.</p>
 
@@ -229,11 +229,11 @@ informações necessárias para que a inscrição seja confirmada.</p>
 
 <h3>Inscrição para autores</h3>
 
-<p class="text">Para cada artigo aprovado, em qualquer um dos fóruns da ERES 2024, é necessário o pagamento da taxa de publicação, que é de R$ 50,00 impreterivelmente até o dia 24/11/2024. Após o pagamento, anexar via sistema JEMS o comprovante de pagamento do respectivo artigo.</p>
+<p class="text">Para cada artigo aprovado, em qualquer um dos fóruns da ERES 2024, é necessário o pagamento da taxa de publicação, que é de R$ 50,00 impreterivelmente até o dia 01/11/2024. Após o pagamento, anexar via sistema JEMS o comprovante de pagamento do respectivo artigo.</p>
 
 <h3>Inscrição em minicursos</h3>
 
-<p class="text">A participação em cada minicurso exige o pagamento de uma taxa de R$ 50,00, impreterivelmente até o dia 05/12/2024.</p>
+<p class="text">A participação em cada minicurso exige o pagamento de uma taxa de R$ 50,00, impreterivelmente até o dia 11/11/2024.</p>
 
 <p class="text"><font> <span style="font-size: 22px">⚠️</span> Atenção: Cada minicurso possui uma capacidade máxima de 28 pessoas.</font></p>
 
@@ -241,4 +241,4 @@ informações necessárias para que a inscrição seja confirmada.</p>
 
 <h3>Política de cancelamento de inscrições</h3>
 
-<p class="text">Até dia 31/10/2024 pode-se fazer uma devolução de 75% do valor pago pela inscrição na VIII Escola Regional de Engenharia de Software (ERES 2024). Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição, quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para faturamento@sbc.org.br.</p>
+<p class="text">Até dia 25/10/2024 pode-se fazer uma devolução de 75% do valor pago pela inscrição na VIII Escola Regional de Engenharia de Software (ERES 2024). Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição, quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para faturamento@sbc.org.br.</p>
