@@ -235,9 +235,9 @@ informações necessárias para que a inscrição seja confirmada.</p>
 
 <p class="text">A participação em cada minicurso exige o pagamento de uma taxa de R$ 50,00, impreterivelmente até o dia 05/12/2024.</p>
 
-<p class="text"><font color="red">Atenção: Cada minicurso possui uma capacidade máxima de 28 pessoas.</font></p>
+<p class="text"><font> <span style="font-size: 22px">⚠️</span> Atenção: Cada minicurso possui uma capacidade máxima de 28 pessoas.</font></p>
 
-<p class="text"><font color="red">Atenção: Os minicursos 1 e 2, 3 e 4, 6 e 7 acontecerão em paralelo nos seus respectivos dias.</font></p>
+<p class="text"><font><span style="font-size: 22px">⚠️</span> Atenção: Os minicursos 1 e 2, 3 e 4, 6 e 7 acontecerão em paralelo nos seus respectivos dias.</font></p>
 
 <h3>Política de cancelamento de inscrições</h3>
 
