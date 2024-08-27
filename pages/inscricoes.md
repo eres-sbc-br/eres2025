@@ -73,9 +73,9 @@ header:
   }
 </style>
 
-<h3>Link para inscrição</h3>
-<!-- <a href="https://centraldesistemas.sbc.org.br/ecos/eres2024" target="_blank">https://centraldesistemas.sbc.org.br/ecos/eres2024</a> -->
-<p class="text">Em breve...</p>
+<h3>Link para inscrição: </h3>
+<a href="https://centraldesistemas.sbc.org.br/ecos/eres2024" target="_blank">https://centraldesistemas.sbc.org.br/ecos/eres2024</a>
+<p class="text">Inscreva-se aqui!</p>
 
 <h3>Inscrição promocional</h3>
 
