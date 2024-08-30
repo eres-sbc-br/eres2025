@@ -96,9 +96,9 @@ header:
   <section class="important-dates">
     <h3>Datas Importantes</h3>
     <ul>
-      <li>Submissão de artigos: 30 de Agosto de 2024 até as 23h:55m (horário de Brasília)</li>
-      <li>Notificação aos autores: 21 de setembro de 2024</li>
-      <li>Envio da versão final: 05 de outubro de 2024</li>
+      <li>Submissão de artigos: 20 de Setembro de 2024 até as 23h:55m (horário de Brasília)</li>
+      <li>Notificação aos autores: 10 de Outubro de 2024</li>
+      <li>Envio da versão final: 17 de Outubro de 2024</li>
     </ul>
   </section>
 
