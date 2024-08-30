@@ -139,7 +139,7 @@ header:
     <p class="text">
       Independentemente da trilha de submissão, é exigido que pelo menos 1 (um) dos autores de cada artigo aceito se inscreva e apresente o trabalho no evento para que seja incluído nos anais. 
     </p>
-    <!-- <p class="submission-link">Link para submissão: <a href="https://jems3.sbc.org.br/eres2024">Submeta seu trabalho aqui</a></p> -->
+    <p class="submission-link">Link para submissão: <a href="https://jems3.sbc.org.br/eres2024">Submeta seu trabalho aqui</a></p>
   </section>
 
   <section class="text"> 
