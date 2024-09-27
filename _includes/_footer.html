@@ -1,15 +1,36 @@
 <hr>
 
 <div id="realizacao" style="text-align: center; margin-bottom: 2rem;" class="row">
-  <h4>Organização</h4>
-  <a href="http://www.urisantiago.br/" target="_blank">
-    <img src="{{ site.urlimg }}/logo-uri.png" width="180px" height="90px" alt="Logo da URI">
-  </a>
-  <a href="https://unipampa.edu.br/portal/" target="_blank">
-    <img src="{{ site.urlimg }}/logo-unipampa.jpg" width="180px" height="90px" alt="Logo da UNIPAMPA">
-  </a>
-  <h4 style="margin-top: 0">Apoio: em breve...</h4>
+  <div style="margin-bottom: 1.5rem;">
+    <h4>Organização</h4>
+    <a href="http://www.urisantiago.br/" target="_blank">
+      <img src="{{ site.urlimg }}/logo-uri.png" width="180px" height="90px" alt="Logo da URI">
+    </a>
+    <a href="https://unipampa.edu.br/portal/" target="_blank">
+      <img src="{{ site.urlimg }}/logo-unipampa.jpg" width="180px" height="90px" alt="Logo da UNIPAMPA">
+    </a>
+  </div>
+
+  <div style="display: flex; flex-direction: column;">
+    <h4 style="margin-top: 0; margin-bottom: 1rem;">Apoio</h4>
+    
+    <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 1rem;">
+      <a href="http://www.santiago.rs.gov.br/" target="_blank" style="margin-right: 40px;">
+        <img src="{{ site.urlimg }}/patrocinadores/logo-hub.jpg" width="250px" height="125px" alt="Logo do Hub">
+      </a>
+      <a href="https://www.fundacaofritzmuller.com.br/" target="_blank">
+        <img src="{{ site.urlimg }}/patrocinadores/logo-fritz.jpg" width="250px" height="125px" alt="Logo da Fritz Muller">
+      </a>
+    </div>
+
+    <div style="display: flex; justify-content: center; margin-bottom: -1rem;">
+      <a href="https://www.softwarebymaringa.com.br/" target="_blank">
+        <img src="{{ site.urlimg }}/patrocinadores/logo-sft-by-maringa.jpg" width="120px" height="50px" alt="Logo Software by Maringá" style="opacity: 0.8;">
+      </a>
+    </div>
+  </div>
 </div>
+
 
 <footer id="footer-content" class="bg-grau">
   <div id="footer">
@@ -23,7 +44,6 @@
         </p>
       </div><!-- /.large-6.columns -->
 
-
       <div class="small-6 medium-3 large-3 large-offset-1 columns">
         {% for service_item in site.data.services %}
           {% if forloop.first == true %}
@@ -31,16 +51,15 @@
           {% endif %}
         {% endfor %}
 
-          <ul class="no-bullet shadow-black">
-          {% for service_item in site.data.services %}
-            {% if service_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
-              <li {% if service_item.class %}class="{{ service_item.class }}" {% endif %}>
-                <a href="{{ domain }}{{ service_item.url }}" {% if service_item.url contains 'http' %}target="_blank" {% endif %} title="{{ service_item.title }}">{{ service_item.name }}</a>
-              </li>
-          {% endfor %}
-          </ul>
+        <ul class="no-bullet shadow-black">
+        {% for service_item in site.data.services %}
+          {% if service_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
+            <li {% if service_item.class %}class="{{ service_item.class }}" {% endif %}>
+              <a href="{{ domain }}{{ service_item.url }}" {% if service_item.url contains 'http' %}target="_blank" {% endif %} title="{{ service_item.title }}">{{ service_item.name }}</a>
+            </li>
+        {% endfor %}
+        </ul>
       </div><!-- /.large-4.columns -->
-
 
       <div class="small-6 medium-3 large-3 columns">
         {% for network_item in site.data.network %}
@@ -59,9 +78,7 @@
         </ul>
       </div><!-- /.large-3.columns -->
     </div><!-- /.row -->
-
   </div><!-- /#footer -->
-
 
   <div id="subfooter">
     <nav class="row">
