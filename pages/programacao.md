@@ -87,12 +87,9 @@ header:
       </tr>
 
       <tr>
-        <td class="session">Seção Técnica 1</td>
-        <td class="session">Seção Técnica 2</td>
-        <td class="session">Seção Técnica 3</td>
-        <td class="session">Seção Técnica 4</td>
-        <td class="session">Seção Técnica 5</td>
-        <td class="session">Seção Técnica 6</td>
+        <td class="session" colspan="2">Seção Técnica 1</td>
+        <td class="session" colspan="2">Seção Técnica 3</td>
+        <td class="session" colspan="2">Seção Técnica 5</td>
       </tr>
 
       <tr>
@@ -111,12 +108,9 @@ header:
       </tr>
 
       <tr>
-        <td class="session">Seção Técnica 1</td>
-        <td class="session">Seção Técnica 2</td>
-        <td class="session">Seção Técnica 3</td>
-        <td class="session">Seção Técnica 4</td>
-        <td class="session">Seção Técnica 5</td>
-        <td class="session">Seção Técnica 6</td>
+        <td class="session" colspan="2">Seção Técnica 2</td>
+        <td class="session" colspan="2">Seção Técnica 4</td>
+        <td class="session" colspan="2">Seção Técnica 6</td>
       </tr>
 
       <tr>
