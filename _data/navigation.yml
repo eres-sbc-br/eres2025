@@ -28,6 +28,10 @@
   url: "/inscricoes/"
   side: left
 
+- title: "Sessões Técnicas"
+  url: "/sessoes/"
+  side: left
+
 - title: "Organização"
   url: "/coordenacao_geral/"
   side: left
