@@ -16,20 +16,16 @@
 - title: "Programação Geral"
   url: "/programacao/"
   side: left
-  # dropdown:
-  #   - title: "Palestras"
-  #     url: "/palestras/"
-  #   - title: "Minicursos"
-  #     url: "/minicursos/"
-  #   - title: "Sessões Técnicas"
-  #     url: "/sessoes/"
+  dropdown:
+    - title: "Palestras"
+      url: "/palestras/"
+    # - title: "Minicursos"
+    #   url: "/minicursos/"
+    - title: "Sessões Técnicas"
+      url: "/sessoes/"
 
 - title: "Inscrições"
   url: "/inscricoes/"
-  side: left
-
-- title: "Sessões Técnicas"
-  url: "/sessoes/"
   side: left
 
 - title: "Organização"
