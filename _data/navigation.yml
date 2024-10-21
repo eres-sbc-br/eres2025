@@ -19,8 +19,8 @@
   dropdown:
     - title: "Palestras"
       url: "/palestras/"
-    # - title: "Minicursos"
-    #   url: "/minicursos/"
+    - title: "Minicursos"
+      url: "/minicursos/"
     - title: "Sessões Técnicas"
       url: "/sessoes/"
 
