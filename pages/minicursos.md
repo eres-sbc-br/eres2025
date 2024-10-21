@@ -90,8 +90,6 @@ header:
   }
 </style>
 
-<h2>Minicursos</h2>
-
 <div class="minicurso">
   <div class="minicurso-content">
     <div>
