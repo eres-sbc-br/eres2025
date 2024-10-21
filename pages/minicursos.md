@@ -2,9 +2,9 @@
 layout: page-fullwidth
 title: "Minicursos"
 subheadline: ""
-permalink: "/minicursos"
+permalink: "/minicursos/"
 header:
-  image_fullwidth: BannerERES2023.png
+  image_fullwidth: ERES-2024_Logo.svg
 ---
 
 <style>
