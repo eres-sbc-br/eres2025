@@ -49,13 +49,11 @@ header:
 
 <hr>
 
-<h2>Palestras</h2>
-
 <div class="palestra">
   <img src="{{ site.urlimg }}/palestras/Dr. Lisandra Manzoni Fontoura.jpg" alt="Dr. Lisandra Manzoni Fontoura">
 
   <div class="palestra-content">
-    <h3>Dr. Lisandra Manzoni Fontoura</h3>
+    <h3>Dra. Lisandra Manzoni Fontoura</h3>
     <a href="http://lattes.cnpq.br/8979575031016933" target="_blank">Currículo Lattes</a><br>
 
     <h4>Título: Processos de Software em Parcerias Acadêmicas: Desafios e Lições Aprendidas</h4>
