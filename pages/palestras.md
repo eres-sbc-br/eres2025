@@ -13,8 +13,12 @@ header:
   }
 
   .palestra img {
-    max-width: 100%;
+    max-width: 300px;
     height: auto;
+    display: block;
+    margin: 0 auto 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   }
 
   .palestra h3 {
