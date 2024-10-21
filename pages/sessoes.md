@@ -119,7 +119,7 @@ header:
         <tr>
             <td>14:00</td>
             <td><strong>[PÓS] Uma Análise Prática dos Frameworks Serverless AWS SAM, Pulumi e Serverless Framework</strong><br>
-                <i>Autores: Adriano Prado Cavalheiro (UNIPAMPA), Claudio Schepke (UNIPAMPA)</i>
+                <i>Autores: Adriano Prado Cavalheiro (UNIPAMPA), Brenda Medeiros Lopes (UNIPAMPA), Claudio Schepke (UNIPAMPA)</i>
             </td>
         </tr>
         <tr>
@@ -137,7 +137,7 @@ header:
         <tr>
             <td>14:45</td>
             <td><strong>[PÓS] Desempenho e Eficiência de HPC em Ambientes Serverless: Uma Revisão Integrativa</strong><br>
-                <i>Autores: Adriano Prado Cavalheiro (UNIPAMPA), Claudio Schepke (UNIPAMPA)</i>
+                <i>Autores: Adriano Prado Cavalheiro (UNIPAMPA), Brenda Medeiros Lopes (UNIPAMPA), Claudio Schepke (UNIPAMPA)</i>
             </td>
         </tr>
         <tr>
