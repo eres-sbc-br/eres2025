@@ -64,6 +64,10 @@ header:
     line-height: 1.6;
   }
 
+  .instrutor-h3 {
+    margin-bottom: 0.5rem;
+  }
+
   hr.divisor {
     border: none;
     border-top: 1px solid #d3d3d3;
@@ -101,7 +105,7 @@ header:
     </div>
   </div>
 
-  <h3>Instrutores:</h3>
+  <h3 class="instrutor-h3">Instrutores:</h3>
 
   <div class="instrutor">
     <img src="{{ site.urlimg }}/minicursos/01/Felipe Scherer.jpg" alt="Felipe H. Scherer">
@@ -115,7 +119,7 @@ header:
   </div>
 
   <div class="instrutor">
-    <img src="{{ site.urlimg }}/minicursos/01/Felipe Dresch.jpg" alt="Felipe N. Dresch">
+    <img src="{{ site.urlimg }}/minicursos/01/Felipe Dresh.jpg" alt="Felipe N. Dresch">
     <div class="instrutor-content">
       <h3>Felipe N. Dresch</h3>
       <a href="http://lattes.cnpq.br/7173376071216478" target="_blank">Currículo Lattes</a><br><br>
@@ -182,10 +186,10 @@ header:
     </div>
   </div>
 
-  <h3>Instrutora:</h3>
+  <h3 class="instrutor-h3">Instrutora:</h3>
 
   <div class="instrutor">
-    <img src="{{ site.urlimg }}/palestras/Dra. Lisandra Manzoni Fontoura.jpg" alt="Dra. Lisandra Manzoni Fontoura">
+    <img src="{{ site.urlimg }}/palestras/Dr. Lisandra Manzoni Fontoura.jpg" alt="Dra. Lisandra Manzoni Fontoura">
     <div class="instrutor-content">
       <h3>Dra. Lisandra Manzoni Fontoura</h3>
       <a href="http://lattes.cnpq.br/8979575031016933" target="_blank">Currículo Lattes</a><br>
@@ -208,7 +212,7 @@ header:
     </div>
   </div>
 
-  <h3>Instrutor:</h3>
+  <h3 class="instrutor-h3">Instrutor:</h3>
 
   <div class="instrutor">
     <img src="{{ site.urlimg }}/minicursos/06/Guilherme Legramante Martins.jpg" alt="Guilherme Legramante Martins">
