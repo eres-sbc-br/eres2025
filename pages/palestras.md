@@ -43,7 +43,7 @@ header:
 <h2>Palestras</h2>
 
 <div class="palestra">
-  <img src="{{ site.urlimg }}/images/palestras/Dr. Lisandra Manzoni Fontoura.jpg" alt="Dr. Lisandra Manzoni Fontoura">
+  <img src="{{ site.urlimg }}/palestras/Dr. Lisandra Manzoni Fontoura.jpg" alt="Dr. Lisandra Manzoni Fontoura">
 
   <h3>Dr. Lisandra Manzoni Fontoura</h3>
   <a href="http://lattes.cnpq.br/8979575031016933" target="_blank">Currículo Lattes</a><br>
@@ -67,7 +67,7 @@ header:
 <hr class="divisor">
 
 <div class="palestra">
-  <img src="{{ site.urlimg }}/images/palestras/Dr. Leopoldo Motta Teixeira.jpg" alt="Dr. Leopoldo Motta Teixeira">
+  <img src="{{ site.urlimg }}/palestras/Dr. Leopoldo Motta Teixeira.jpg" alt="Dr. Leopoldo Motta Teixeira">
 
   <h3>Dr. Leopoldo Motta Teixeira</h3>
   <a href="http://lattes.cnpq.br/2117651910340729" target="_blank">Currículo Lattes</a><br>
@@ -103,7 +103,7 @@ header:
 <hr class="divisor">
 
 <div class="palestra">
-  <img src="{{ site.urlimg }}/images/palestras/Dr. Marco Tulio Valente.jpg" alt="Dr. Marco Tulio Valente">
+  <img src="{{ site.urlimg }}/palestras/Dr. Marco Tulio Valente.jpg" alt="Dr. Marco Tulio Valente">
 
   <h3>Dr. Marco Tulio Valente</h3>
   <a href="http://lattes.cnpq.br/2147157840592913" target="_blank">Currículo Lattes</a><br>
@@ -127,7 +127,7 @@ header:
 <hr class="divisor">
 
 <div class="palestra">
-  <img src="{{ site.urlimg }}/images/palestras/Jonathan Emir Silva Martins.jpeg" alt="Jonathan Emir Silva Martins">
+  <img src="{{ site.urlimg }}/palestras/Jonathan Emir Silva Martins.jpeg" alt="Jonathan Emir Silva Martins">
 
   <h3>Jonathan Emir Silva Martins</h3>
   <a href="http://lattes.cnpq.br/9725631814888000" target="_blank">Currículo Lattes</a><br>
@@ -159,7 +159,7 @@ header:
 <hr class="divisor">
 
 <div class="palestra">
-  <img src="{{ site.urlimg }}/images/palestras/Dr. Paulo Borba.jpg" alt="Dr. Paulo Borba">
+  <img src="{{ site.urlimg }}/palestras/Dr. Paulo Borba.jpg" alt="Dr. Paulo Borba">
 
   <h3>Dr. Paulo Borba</h3>
   <a href="http://lattes.cnpq.br/9395715443254344" target="_blank">Currículo Lattes</a><br>
@@ -187,7 +187,7 @@ header:
 <hr class="divisor">
 
 <div class="palestra">
-  <img src="{{ site.urlimg }}/images/palestras/Dr. Elvys Soares.jpg" alt="Dr. Elvys Soares">
+  <img src="{{ site.urlimg }}/palestras/Dr. Elvys Soares.jpg" alt="Dr. Elvys Soares">
 
   <h3>Dr. Elvys Soares</h3>
   <a href="http://lattes.cnpq.br/6415531537733982" target="_blank">Currículo Lattes</a><br>
