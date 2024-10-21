@@ -45,6 +45,23 @@ header:
     border-top: 1px solid #d3d3d3;
     margin: 40px 0;
   }
+
+  @media (max-width: 768px) {
+    .palestra {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .palestra img {
+      margin-right: 0;
+      margin-bottom: 20px;
+      max-width: 100%;
+    }
+
+    .palestra-content {
+      width: 100%;
+    }
+  }
 </style>
 
 <hr>
