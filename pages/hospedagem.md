@@ -68,10 +68,6 @@ header:
 
 <p class="text"><a href="https://forms.gle/stDdVL3Lbx6zA8Dt8" target="_blank">Inscreva-se aqui!</a></p>
 
-<div class="highlight">
-  <p class="text"><strong>Importante:</strong> Cada minicurso possui uma capacidade máxima de 28 pessoas. Portanto, garanta sua vaga o quanto antes!</p>
-</div>
-
 <h3>Contato para Dúvidas</h3>
 
 <div class="contact-info">
