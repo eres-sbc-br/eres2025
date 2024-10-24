@@ -49,8 +49,8 @@
   dropdown:
     - title: "Como chegar à URI"
       url: "/como_chegar/"
-    # - title: "Hospedagem e Alojamento"
-    #   url: "/hospedagem/"
+    - title: "Hospedagem e Alojamento"
+      url: "/hospedagem/"
     - title: "Sobre Santiago"
       url: "/santiago/"
   # - title: "Alimentação no Câmpus"
