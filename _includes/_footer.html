@@ -1,48 +1,127 @@
+<style>
+  #achievements {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  .title {
+    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+    color: #333;
+  }
+
+  .column {
+    flex: 1 1 300px;
+    margin: 1rem;
+  }
+
+  
+  .logo {
+    width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+    transition: transform 0.3s ease;
+  }
+
+  .column a img:hover {
+    transform: scale(1.05);
+  }
+
+  
+  @media (max-width: 768px) {
+    #achievements {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .column {
+      max-width: 100%;
+    }
+
+    .logo {
+      width: 50%;
+    }
+  }
+  
+  .column.sponsorship {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .sponsorship-images {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+  }
+
+  .sponsorship-images a img {
+    width: 200px; 
+    height: auto;
+  }
+  
+  .organization img, 
+  .support img {
+    max-width: 70%;
+  }
+  
+  .sponsorship {
+    width: 100%;
+    max-width: 800px; 
+  }
+</style>
+
 <hr>
 
-<div id="realizacao" style="text-align: center; margin-bottom: 2rem;" class="row">
-  <div style="margin-bottom: 1.5rem;">
-    <h4>Organização</h4>
+<div id="achievements" class="row">
+  <div class="column organization">
+    <h4 class="title">Organization</h4>
     <a href="http://www.urisantiago.br/" target="_blank">
-      <img src="{{ site.urlimg }}/logo-uri.png" width="180px" height="90px" alt="Logo da URI">
+      <img src="{{ site.urlimg }}/logo-uri.png" alt="URI Logo" class="logo">
     </a>
     <a href="https://unipampa.edu.br/portal/" target="_blank">
-      <img src="{{ site.urlimg }}/logo-unipampa.jpg" width="180px" height="90px" alt="Logo da UNIPAMPA">
+      <img src="{{ site.urlimg }}/logo-unipampa.jpg" alt="UNIPAMPA Logo" class="logo">
     </a>
   </div>
 
-  <div style="display: flex; flex-direction: column;">
-    <h4 style="margin-top: 0; margin-bottom: 1rem;">Apoio</h4>
-    
-    <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 1rem;">
-      <a href="http://www.santiago.rs.gov.br/" target="_blank" style="margin-right: 40px;">
-        <img src="{{ site.urlimg }}/patrocinadores/logo-hub.jpg" width="250px" height="125px" alt="Logo do Hub">
+  <div class="column support">
+    <h4 class="title">Support</h4>
+    <a href="https://fapergs.rs.gov.br/inicial" target="_blank">
+      <img src="{{ site.urlimg }}/patrocinadores/logo_fap.jpg" alt="FAPERGS Logo" class="logo">
+    </a>
+  </div>
+
+  <div class="column sponsorship">
+    <h4 class="title">Sponsorship</h4>
+    <div class="sponsorship-images">
+      <a href="http://www.santiago.rs.gov.br/" target="_blank">
+        <img src="{{ site.urlimg }}/patrocinadores/logo_hub.jpg" alt="Hub Logo" class="logo">
       </a>
       <a href="https://www.fundacaofritzmuller.com.br/" target="_blank">
-        <img src="{{ site.urlimg }}/patrocinadores/logo-fritz.jpg" width="250px" height="125px" alt="Logo da Fritz Muller">
+        <img src="{{ site.urlimg }}/patrocinadores/logo_fritz.jpg" alt="Fritz Prata Logo" class="logo">
       </a>
-    </div>
-
-    <div style="display: flex; justify-content: center; margin-bottom: -1rem;">
       <a href="https://www.softwarebymaringa.com.br/" target="_blank">
-        <img src="{{ site.urlimg }}/patrocinadores/logo-sft-by-maringa.jpg" width="120px" height="50px" alt="Logo Software by Maringá" style="opacity: 0.8;">
+        <img src="{{ site.urlimg }}/patrocinadores/logo_sft.jpg" alt="SbM Bronze Logo" class="logo">
       </a>
     </div>
   </div>
 </div>
-
 
 <footer id="footer-content" class="bg-grau">
   <div id="footer">
     <div class="row">
       <div class="medium-6 large-5 columns">
         <h5 class="shadow-black">{{ site.data.language.info_website }}</h5>
-
         <p class="shadow-black">
           {{ site.description }}
-          <!--<a href="{{ site.url }}{{ site.baseurl }}/info/">{{ site.data.language.more }}</a>-->
         </p>
-      </div><!-- /.large-6.columns -->
+      </div>
 
       <div class="small-6 medium-3 large-3 large-offset-1 columns">
         {% for service_item in site.data.services %}
@@ -50,16 +129,15 @@
             <h5 class="shadow-black">{{ service_item.menu_name }}</h5>
           {% endif %}
         {% endfor %}
-
         <ul class="no-bullet shadow-black">
-        {% for service_item in site.data.services %}
-          {% if service_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
+          {% for service_item in site.data.services %}
+            {% if service_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
             <li {% if service_item.class %}class="{{ service_item.class }}" {% endif %}>
               <a href="{{ domain }}{{ service_item.url }}" {% if service_item.url contains 'http' %}target="_blank" {% endif %} title="{{ service_item.title }}">{{ service_item.name }}</a>
             </li>
-        {% endfor %}
+          {% endfor %}
         </ul>
-      </div><!-- /.large-4.columns -->
+      </div>
 
       <div class="small-6 medium-3 large-3 columns">
         {% for network_item in site.data.network %}
@@ -67,32 +145,30 @@
             <h5 class="shadow-black">{{ network_item.menu_name }}</h5>
           {% endif %}
         {% endfor %}
-
         <ul class="no-bullet shadow-black">
-        {% for network_item in site.data.network %}
-          {% if network_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
+          {% for network_item in site.data.network %}
+            {% if network_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
             <li {% if network_item.class %}class="{{ network_item.class }}" {% endif %}>
               <a href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
             </li>
-        {% endfor %}
+          {% endfor %}
         </ul>
-      </div><!-- /.large-3.columns -->
-    </div><!-- /.row -->
-  </div><!-- /#footer -->
+      </div>
+    </div>
+  </div>
 
   <div id="subfooter">
     <nav class="row">
       <section id="subfooter-left" class="small-12 medium-6 columns credits">
         {{ site.credits }}
       </section>
-
       <section id="subfooter-right" class="small-12 medium-6 columns">
         <ul class="inline-list social-icons">
-        {% for social_item in site.data.socialmedia %}
-          <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
-        {% endfor %}
+          {% for social_item in site.data.socialmedia %}
+            <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+          {% endfor %}
         </ul>
       </section>
     </nav>
-  </div><!-- /#subfooter -->
+  </div>
 </footer>
