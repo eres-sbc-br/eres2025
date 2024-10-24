@@ -8,86 +8,88 @@ header:
 ---
 
 <style>
-  header {
+  .chamada-trabalhos header {
     margin-bottom: 30px;
   }
 
-  h1, h2, h3 {
+  .chamada-trabalhos h1, 
+  .chamada-trabalhos h2, 
+  .chamada-trabalhos h3 {
     color: #333;
     text-align: center;
     margin: 20px 0;
   }
 
-  h2 {
+  .chamada-trabalhos h2 {
     font-size: 24px;
     padding-bottom: 10px;
     border-bottom: 1px solid #cbcbcb;
   }
 
-  .text {
+  .chamada-trabalhos .text {
     text-align: justify;
     padding: 0 15px;
   }
 
-  ul {
+  .chamada-trabalhos ul {
     margin: 10px 20px;
     list-style-type: disc;
   }
 
-  li {
+  .chamada-trabalhos li {
     margin-bottom: 5px;
   }
 
-  .important-dates {
+  .chamada-trabalhos .important-dates {
     background-color: #f8f9fa;
     border-left: 3px solid #5e5e5e;
     padding: 10px;
     margin: 20px;
   }
 
-  .important-dates h3 {
+  .chamada-trabalhos .important-dates h3 {
     text-align: left;
     color: #5e5e5e;
   }
 
-  .submission-link {
+  .chamada-trabalhos .submission-link {
     text-align: center;
     margin-top: 20px;
   }
 
-  a {
+  .chamada-trabalhos a {
     color: #5e5e5e;
     text-decoration: none;
   }
 
-  a:hover {
+  .chamada-trabalhos a:hover {
     text-decoration: underline;
   }
 
-  .text-strong {
+  .chamada-trabalhos .text-strong {
     font-weight: bold;
     font-style: italic; 
   }
 
-  .important-observations {
+  .chamada-trabalhos .important-observations {
     background-color: #f8f9fa;
     padding: 15px;
     border-left: 3px solid #5e5e5e;
     margin: 20px 0;
   }
 
-  .important-observations ul {
+  .chamada-trabalhos .important-observations ul {
     padding-left: 20px;
   }
 
-  .important-observations li {
+  .chamada-trabalhos .important-observations li {
     font-size: 16px;
     line-height: 1.5;
     color: #333;
   }
 </style>
 
-<main>
+<main class="chamada-trabalhos">
   <section>
     <h2>Apresentação</h2>
     <p class="text">A VIII Escola Regional de Engenharia de Software (ERES 2024) é promovida anualmente pela Sociedade Brasileira de Computação (SBC), desde 2017. A próxima edição ocorrerá de forma presencial, de 11 a 13 de novembro de 2024, em Santiago/RS, conhecida como a Terra dos Poetas.</p>
@@ -215,5 +217,4 @@ header:
         </li>
     </ul>
   </section>
-
 </main>
