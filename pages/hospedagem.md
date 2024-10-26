@@ -76,7 +76,7 @@ header:
 </div>
 
 <div class="hotel-info">
-  <h4><a href="hhttps://www.google.com/travel/search?ts=CAESCAoCCAMKAggDGh4SHBIUCgcI6A8QChgcEgcI6A8QChgdGAEyBAgAEAAqBwoFOgNCUkw&qs=CAEyJkNoZ0luS2Vad3NPWThaMXZHZ3d2Wnk4eGFHWXphbkYyYXpnUUFROApCCRG4y2cUqB3r0EIJEa1vXegc9wvdQgkRd9kIKhvvNjhIAFpPMk2qAUoQASoKIgZob3RlaXMoDDIfEAEiG9mvR6_7GURf1taxKa3HNWMad5k3bEcz2CCjoTIZEAIiFWhvdGVpcyBlbSBzYW50aWFnbyBycw&utm_campaign=sharing&utm_medium=link_btn&utm_source=htls" target="_blank">Acordes Apart Hotel</a></h4>
+  <h4><a href="https://www.google.com/travel/search?ts=CAESCAoCCAMKAggDGh4SHBIUCgcI6A8QChgcEgcI6A8QChgdGAEyBAgAEAAqBwoFOgNCUkw&qs=CAEyJkNoZ0luS2Vad3NPWThaMXZHZ3d2Wnk4eGFHWXphbkYyYXpnUUFROApCCRG4y2cUqB3r0EIJEa1vXegc9wvdQgkRd9kIKhvvNjhIAFpPMk2qAUoQASoKIgZob3RlaXMoDDIfEAEiG9mvR6_7GURf1taxKa3HNWMad5k3bEcz2CCjoTIZEAIiFWhvdGVpcyBlbSBzYW50aWFnbyBycw&utm_campaign=sharing&utm_medium=link_btn&utm_source=htls" target="_blank">Acordes Apart Hotel</a></h4>
   <p>R. Duque de Caxias, 810 - Centro, Santiago - RS, 97500-380</p>
   <p>Telefone: <a href="tel:+553532511664">(55) 3251-1664</a></p>
   <p>Hotel 3 estrelas, com estacionamento e Wi-Fi gratuito.</p>
