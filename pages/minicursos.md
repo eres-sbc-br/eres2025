@@ -223,3 +223,29 @@ header:
     </div>
   </div>
 </div>
+
+<hr class="divisor">
+
+<div class="minicurso">
+  <div class="minicurso-content">
+    <div>
+      <h2 class="minicurso-title">Desenvolvimento de dApps com Ethereum e Smart Contracts</h2>
+      <p class="minicurso-resumo">
+        <strong>Resumo:</strong> Aplicações descentralizadas, ou dApps, são aplicativos que operam em redes blockchain, como a Ethereum, em vez de servidores centralizados. Este curso é para você, profissional e entusiasta de tecnologia que tem conhecimento básico de programação (preferencialmente JavaScript) e deseja aprofundar seus conhecimentos em blockchain e aprender a desenvolver aplicações descentralizadas (dApps). Nele, abordaremos blockchain e Ethereum, smart contracts e as principais ferramentas e frameworks para desenvolvimento e teste de dApps.
+      </p>
+    </div>
+  </div>
+
+  <h3 class="instrutor-h3">Instrutor:</h3>
+
+  <div class="instrutor">
+    <img src="{{ site.urlimg }}/palestras/Dr. Elvys Soares.jpg" alt="Elvys Soares">
+    <div class="instrutor-content">
+      <h3>Elvys Soares</h3>
+      <a href="http://lattes.cnpq.br/6415531537733982" target="_blank">Currículo Lattes</a><br><br>
+      <p>
+        Professor Elvys Soares é docente no Instituto Federal de Alagoas (IFAL) e possui vasta experiência em desenvolvimento de software e segurança da informação. Com uma forte base em testes de software e pesquisa em "test smells," Elvys amplia seus conhecimentos na área de blockchain e aplicações descentralizadas, explorando soluções inovadoras para o futuro da tecnologia digital.
+      </p>
+    </div>
+  </div>
+</div>
