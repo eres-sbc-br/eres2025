@@ -13,9 +13,8 @@ header:
     border-collapse: collapse;
   }
 
-  th,
-  td {
-    border: 1px solid #000;
+  th, td {
+    border: 1px solid #d1d1d1;
     padding: 8px;
     text-align: left;
   }
@@ -23,27 +22,43 @@ header:
   .full-row {
     text-align: center;
     font-weight: bold;
-    background-color: #b8b8b8;
+    background-color: #f5f5f5;
   }
 
-  .couse {
-    background-color: #bbe3bb;
+  .course {
+    background-color: #e6f7e6;
   }
 
   .session {
-    background-color: #f8ffc0;
+    background-color: #fff9e6;
   }
 
   .lecture {
-    background-color: #fec3c3;
+    background-color: #fbeaea;
   }
 
   .hard-blue {
-    background-color: #d0cef9;
+    background-color: #e6ecf7;
   }
 
   .soft-blue {
-    background-color: #ebeaf8;
+    background-color: #f2f7ff;
+  }
+
+  .header-green {
+    background-color: #e6f3e6;
+  }
+
+  .header-purple {
+    background-color: #eae6f7;
+  }
+
+  .header-red {
+    background-color: #f7e6e6;
+  }
+
+  .time-cell {
+    background-color: #f0f0f0;
   }
 </style>
 
@@ -54,20 +69,14 @@ header:
     <thead>
       <tr>
         <th>Hora</th>
-        <th colspan="2" style="background-color: #61be77">
-          Segunda-feira (11/11)
-        </th>
-        <th colspan="2" style="background-color: #a29dc2">
-          Terça-feira (12/11)
-        </th>
-        <th colspan="2" style="background-color: #e4a3a3">
-          Quarta-feira (13/11)
-        </th>
+        <th colspan="2" class="header-green">Segunda-feira (11/11)</th>
+        <th colspan="2" class="header-purple">Terça-feira (12/11)</th>
+        <th colspan="2" class="header-red">Quarta-feira (13/11)</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td rowspan="2" style="background-color: #b8b8b8">13:00 - 14:00</td>
+        <td rowspan="2" class="time-cell">13:00 - 14:00</td>
         <td colspan="6" class="full-row">Credenciamento</td>
       </tr>
 
@@ -77,64 +86,56 @@ header:
       </tr>
 
       <tr>
-        <td rowspan="2">14:00 - 15:30</td>
-        <td class="couse">Minicurso 1</td>
-        <td class="couse">Minicurso 2</td>
-        <td class="couse">Minicurso 3</td>
-        <td class="couse">Minicurso 4</td>
-        <td class="couse">Minicurso 5</td>
-        <td class="couse">Minicurso 6</td>
+        <td rowspan="2" class="time-cell">14:00 - 15:30</td>
+        <td class="course"><a href="/minicursos/#minicurso1">Minicurso 1: Introdução à Detecção de Intrusões com Machine Learning: Protegendo Redes com Inteligência Artificial Explicável</a></td>
+        <td class="course"><a href="/minicursos/#minicurso3">Minicurso 3: Risco em Jogo – Aprendendo Gerenciamento de Riscos de Forma Divertida</a></td>
+        <td class="course"><a href="/minicursos/#minicurso4">Minicurso 4: Desenvolvimento de dApps com Ethereum e Smart Contracts</a></td>
       </tr>
 
       <tr>
-        <td class="session" colspan="2">Seção Técnica 1</td>
-        <td class="session" colspan="2">Seção Técnica 3</td>
-        <td class="session" colspan="2">Seção Técnica 5</td>
+        <td class="session" colspan="2"><a href="/sessoes/#sessao1">Sessão Técnica 1: Métodos e Ferramentas para Ensino e Pesquisa</a></td>
+        <td class="session" colspan="2"><a href="/sessoes/#sessao3">Sessão Técnica 3: Arquiteturas Computacionais</a></td>
+        <td class="session" colspan="2"><a href="/sessoes/#sessao5">Sessão Técnica 5: Aspectos do Ciclo de Vida do Software</a></td>
       </tr>
 
       <tr>
-        <td style="background-color: #b8b8b8">15:30 - 16:00</td>
-        <td colspan="6" class="full-row">Coffee-Break</td>
+        <td rowspan="2" class="time-cell">16:00 - 17:30</td>
+        <td class="course"><a href="/minicursos/#minicurso5">Minicurso 5: Criando um App de Tarefas (To-Do) com Kotlin e Android</a></td>
+        <td>Instrutor: Pedro Denardi Minuzzi</td>
+        <td class="course"><a href="/minicursos/#minicurso6">Minicurso 6: Filament PHP - Acelerando o Desenvolvimento com Laravel</a></td>
+        <td>Instrutor: Guilherme Legramante Martins</td>
+        <td></td>
+        <td></td>
       </tr>
 
       <tr>
-        <td rowspan="2">16:00 - 17:30</td>
-        <td class="couse">Minicurso 1</td>
-        <td class="couse">Minicurso 2</td>
-        <td class="couse">Minicurso 3</td>
-        <td class="couse">Minicurso 4</td>
-        <td class="couse">Minicurso 5</td>
-        <td class="couse">Minicurso 6</td>
+        <td class="session" colspan="2"><a href="/sessoes/#sessao2">Sessão Técnica 2: Segurança</a></td>
+        <td class="session" colspan="2"><a href="/sessoes/#sessao4">Sessão Técnica 4: Design, Usabilidade e Experiência do Usuário</a></td>
+        <td class="session" colspan="2"><a href="/sessoes/#sessao6">Sessão Técnica 6: Engenharia de Software Aplicada</a></td>
       </tr>
 
       <tr>
-        <td class="session" colspan="2">Seção Técnica 2</td>
-        <td class="session" colspan="2">Seção Técnica 4</td>
-        <td class="session" colspan="2">Seção Técnica 6</td>
-      </tr>
-
-      <tr>
-        <td style="background-color: #b8b8b8">17:30 - 19:00</td>
+        <td class="time-cell">17:30 - 19:00</td>
         <td colspan="6" class="full-row">Jantar</td>
       </tr>
 
       <tr>
         <td>19:00 - 20:00</td>
-        <td colspan="2" class="lecture">Palestra A</td>
-        <td colspan="2" class="lecture">Palestra C</td>
-        <td colspan="2" class="lecture">Palestra E</td>
+        <td colspan="2" class="lecture"><a href="/palestras/#palestra1">Palestra 1 Dr. Lisandra Manzoni Fontoura (UFSM): Processos de Software em Parcerias Acadêmicas: Desafios e Lições Aprendidas</a></td>
+        <td colspan="2" class="lecture"><a href="/palestras/#palestra3">Palestra 3 Dr. Marco Tulio Valente (UFMG): O que eu preciso para ser um excelente Engenheiro de Software?</a></td>
+        <td colspan="2" class="lecture"><a href="/palestras/#palestra5">Palestra 5 Dr. Paulo Borba (UFPE): O fim da programação, de novo!</a></td>
       </tr>
 
       <tr>
-        <td style="background-color: #b8b8b8">20:00 - 20:30</td>
+        <td class="time-cell">20:00 - 20:30</td>
         <td colspan="6" class="full-row">Coffee-Break</td>
       </tr>
 
       <tr>
         <td>20:30 - 21:30</td>
-        <td colspan="2" class="lecture">Palestra B</td>
-        <td colspan="2" class="lecture">Palestra D</td>
-        <td colspan="2" class="lecture">Palestra F</td>
+        <td colspan="2" class="lecture"><a href="/palestras/#palestra2">Palestra 2 Dr. Leopoldo Motta Teixeira (UFPE): De Produtos a Linhas de Produtos: Um Panorama de Teorias Formais para Análise e Evolução de Linhas de Produtos</a></td>
+        <td colspan="2" class="lecture"><a href="/palestras/#palestra4">Palestra 4 Jonathan Emir Silva Martins (Lab. Bridge): Como buscamos ser o laboratório referência em tecnologia e inovação por meio de práticas ágeis</a></td>
+        <td colspan="2" class="lecture"><a href="/palestras/#palestra6">Palestra 6 Dr. Elvys Soares (IFAL): Testes têm cheiro, e não é bom!</a></td>
       </tr>
 
       <tr>
@@ -147,71 +148,4 @@ header:
     </tbody>
 
   </table>
-
-  <!-- <table>
-    <thead>
-      <tr>
-        <th>Palestrantes</th>
-        <th>Minicursos</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          Sustentabilidade, FAIRness e Engenharia de Software de Pesquisa<br /><strong
-            >Dra. Christina von Flach (UFBA)</strong
-          >
-        </td>
-        <td>Automação de Teste de Software<br /><strong>SI/CREDI</strong></td>
-      </tr>
-      <tr>
-        <td>
-          Engenharia de Software aplicado a Smart City<br /><strong
-            >Dr. Valdemar Graciano Neto (UFG)</strong
-          >
-        </td>
-        <td>Design UX/UI<br /><strong>Grupo META</strong></td>
-      </tr>
-      <tr>
-        <td>
-          Engenharia de Software no Século XXI: Conquistas e Desafios<br /><strong
-            >Dr. Marco Túlio Valente (UFMG)</strong
-          >
-        </td>
-        <td>
-          Introdução à Inteligência Artificial Generativa<br /><strong
-            >Zallpy Digital</strong
-          >
-        </td>
-      </tr>
-      <tr>
-        <td>
-          Em Busca de Maior Simplicidade e Confiabilidade no Processo de
-          Integração de Código<br /><strong>Dr. Paulo Borba (UFPE)</strong>
-        </td>
-        <td>
-          DevOps: Infraestrutura Ágil para Deploy Automatizado<br /><strong
-            >Compass UOL Tecnologia</strong
-          >
-        </td>
-      </tr>
-      <tr>
-        <td>
-          O Despertar da Liderança Evolucionária<br /><strong
-            >Luiz Parzianello (PUCRS)</strong
-          >
-        </td>
-        <td>Segurança Cibernética<br /><strong>TownSq</strong></td>
-      </tr>
-      <tr>
-        <td>
-          Por que investir em melhoria de processos? É possível ter retorno
-          sobre o investimento?<br /><strong
-            >Ana Regina Cavalcanti da Rocha (UFRJ)</strong
-          >
-        </td>
-        <td>SAP S/4 HANA<br /><strong>SAP</strong></td>
-      </tr>
-    </tbody>
-  </table> -->
 </main>

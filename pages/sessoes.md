@@ -21,8 +21,10 @@ header:
 </style>
 
 <hr>
+
 <h3>Segunda-Feira (11/Nov/2024)</h3>
-<table class="sbc-table">
+
+<table id="sessao1" class="sbc-table">
     <thead>
         <tr>
             <th colspan="2"><strong>Sessão Técnica 1 - Métodos e Ferramentas para Ensino e Pesquisa</strong><br><i>Chair: A definir</i></th>
@@ -62,7 +64,7 @@ header:
     </tbody>
 </table>
 
-<table class="sbc-table">
+<table id="sessao2" class="sbc-table">
     <thead>
         <tr>
             <th colspan="2"><strong>Sessão Técnica 2 - Segurança</strong><br><i>Chair: A definir</i></th>
@@ -109,7 +111,8 @@ header:
 </table>
 
 <h3>Terça-Feira (12/Nov/2024)</h3>
-<table class="sbc-table">
+
+<table id="sessao3" class="sbc-table">
     <thead>
         <tr>
             <th colspan="2"><strong>Sessão Técnica 3 - Arquiteturas Computacionais</strong><br><i>Chair: A definir</i></th>
@@ -149,7 +152,7 @@ header:
     </tbody>
 </table>
 
-<table class="sbc-table">
+<table id="sessao4" class="sbc-table">
     <thead>
         <tr>
             <th colspan="2"><strong>Sessão Técnica 4 - Design, Usabilidade, Acessibilidade, Experiência do Usuário e Diversidade</strong><br><i>Chair: A definir</i></th>
@@ -190,7 +193,8 @@ header:
 </table>
 
 <h3>Quarta-Feira (13/Nov/2024)</h3>
-<table class="sbc-table">
+
+<table id="sessao5" class="sbc-table">
     <thead>
         <tr>
             <th colspan="2"><strong>Sessão Técnica 5 - Aspectos do Ciclo de Vida do Software</strong><br><i>Chair: A definir</i></th>
@@ -230,7 +234,7 @@ header:
     </tbody>
 </table>
 
-<table class="sbc-table">
+<table id="sessao6" class="sbc-table">
     <thead>
         <tr>
             <th colspan="2"><strong>Sessão Técnica 6 - Engenharia de Software Aplicada</strong><br><i>Chair: A definir</i></th>

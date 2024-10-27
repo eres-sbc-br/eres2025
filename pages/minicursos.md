@@ -90,7 +90,7 @@ header:
   }
 </style>
 
-<div class="minicurso">
+<div id="minicurso1" class="minicurso">
   <div class="minicurso-content">
     <div>
       <h2 class="minicurso-title">Introdução à Detecção de Intrusões com Machine Learning: Protegendo Redes com Inteligência Artificial Explicável</h2>
@@ -174,7 +174,7 @@ header:
 
 <hr class="divisor">
 
-<div class="minicurso">
+<div id="minicurso2" class="minicurso">
   <div class="minicurso-content">
     <div>
       <h2 class="minicurso-title">Risco em Jogo – Aprendendo Gerenciamento de Riscos de Forma Divertida</h2>
@@ -200,7 +200,7 @@ header:
 
 <hr class="divisor">
 
-<div class="minicurso">
+<div id="minicurso3" class="minicurso">
   <div class="minicurso-content">
     <div>
       <h2 class="minicurso-title">Filament PHP: Acelerando o Desenvolvimento com Laravel</h2>
@@ -226,7 +226,7 @@ header:
 
 <hr class="divisor">
 
-<div class="minicurso">
+<div id="minicurso4" class="minicurso">
   <div class="minicurso-content">
     <div>
       <h2 class="minicurso-title">Desenvolvimento de dApps com Ethereum e Smart Contracts</h2>

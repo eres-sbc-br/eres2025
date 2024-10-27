@@ -66,7 +66,7 @@ header:
 
 <hr>
 
-<div class="palestra">
+<div id="palestra1" class="palestra">
   <img src="{{ site.urlimg }}/palestras/Dr. Lisandra Manzoni Fontoura.jpg" alt="Dr. Lisandra Manzoni Fontoura">
 
   <div class="palestra-content">
@@ -93,7 +93,7 @@ header:
 
 <hr class="divisor">
 
-<div class="palestra">
+<div id="palestra2" class="palestra">
   <img src="{{ site.urlimg }}/palestras/Dr. Leopoldo Motta Teixeira.jpg" alt="Dr. Leopoldo Motta Teixeira">
 
   <div class="palestra-content">
@@ -132,7 +132,7 @@ header:
 
 <hr class="divisor">
 
-<div class="palestra">
+<div id="palestra3" class="palestra">
   <img src="{{ site.urlimg }}/palestras/Dr. Marco Tulio Valente.jpg" alt="Dr. Marco Tulio Valente">
 
   <div class="palestra-content">
@@ -159,7 +159,7 @@ header:
 
 <hr class="divisor">
 
-<div class="palestra">
+<div id="palestra4" class="palestra">
   <img src="{{ site.urlimg }}/palestras/Jonathan Emir Silva Martins.jpeg" alt="Jonathan Emir Silva Martins">
 
   <div class="palestra-content">
@@ -194,7 +194,7 @@ header:
 
 <hr class="divisor">
 
-<div class="palestra">
+<div id="palestra5" class="palestra">
   <img src="{{ site.urlimg }}/palestras/Dr. Paulo Borba.jpg" alt="Dr. Paulo Borba">
 
   <div class="palestra-content">
@@ -225,7 +225,7 @@ header:
 
 <hr class="divisor">
 
-<div class="palestra">
+<div id="palestra6" class="palestra">
   <img src="{{ site.urlimg }}/palestras/Dr. Elvys Soares.jpg" alt="Dr. Elvys Soares">
 
   <div class="palestra-content">
