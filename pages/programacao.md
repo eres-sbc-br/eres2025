@@ -87,9 +87,11 @@ header:
 
       <tr>
         <td rowspan="2" class="time-cell">14:00 - 15:30</td>
-        <td class="course"><a href="/minicursos/#minicurso1">Minicurso 1: Introdução à Detecção de Intrusões com Machine Learning: Protegendo Redes com Inteligência Artificial Explicável</a></td>
+        <td class="course" colspan="2"><a href="/minicursos/#minicurso1">Minicurso 1: Introdução à Detecção de Intrusões com Machine Learning: Protegendo Redes com Inteligência Artificial Explicável</a></td>
         <td class="course"><a href="/minicursos/#minicurso3">Minicurso 3: Risco em Jogo – Aprendendo Gerenciamento de Riscos de Forma Divertida</a></td>
         <td class="course"><a href="/minicursos/#minicurso4">Minicurso 4: Desenvolvimento de dApps com Ethereum e Smart Contracts</a></td>
+        <td class="course"><a href="/minicursos/#minicurso6">Minicurso 6: Filament PHP - Acelerando o Desenvolvimento com Laravel</a></td>
+        <td class="course"><a href="/minicursos/#minicurso5">Minicurso 5: Criando um App de Tarefas (To-Do) com Kotlin e Android</a></td>
       </tr>
 
       <tr>
@@ -100,12 +102,11 @@ header:
 
       <tr>
         <td rowspan="2" class="time-cell">16:00 - 17:30</td>
-        <td class="course"><a href="/minicursos/#minicurso5">Minicurso 5: Criando um App de Tarefas (To-Do) com Kotlin e Android</a></td>
-        <td>Instrutor: Pedro Denardi Minuzzi</td>
-        <td class="course"><a href="/minicursos/#minicurso6">Minicurso 6: Filament PHP - Acelerando o Desenvolvimento com Laravel</a></td>
-        <td>Instrutor: Guilherme Legramante Martins</td>
         <td></td>
         <td></td>
+        <td></td>
+        <td></td>
+
       </tr>
 
       <tr>
