@@ -18,11 +18,11 @@
   side: left
   dropdown:
     - title: "Palestras"
-      url: "/palestras/"
+      url: "/programacao/palestras/"
     - title: "Minicursos"
-      url: "/minicursos/"
+      url: "/programacao/minicursos/"
     - title: "Sessões Técnicas"
-      url: "/sessoes/"
+      url: "/programacao/sessoes/"
 
 - title: "Inscrições"
   url: "/inscricoes/"

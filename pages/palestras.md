@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Palestrantes"
 subheadline: ""
-permalink: "/palestras/"
+permalink: "/programacao/palestras/"
 header:
   image_fullwidth: BannerERES2023.png
 ---
