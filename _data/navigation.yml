@@ -44,7 +44,7 @@
       url: "/edicoes_anteriores/"
 
 - title: "Local do Evento"
-  url: ""
+  url: "/como_chegar/"
   side: left
   dropdown:
     - title: "Como chegar à URI"
