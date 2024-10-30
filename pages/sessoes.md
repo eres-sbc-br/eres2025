@@ -39,8 +39,8 @@ header:
         </tr>
         <tr>
             <td>14:15</td>
-            <td><strong>[GRAD] Uma Abordagem para Avaliação de Desempenho das Equipes no Ensino de Gerenciamento de Projetos de Software</strong><br>
-                <i>Autores: Dionas Luan Müller (UNIPAMPA), Raul Neves, Matheus Boeira, Thiago Araújo, Maicon Bernardino (UNIPAMPA)</i>
+            <td><strong>[PÓS] Evolução Pós-MVP: Avanços e Melhorias em uma Solução de Suporte à Gestão Ambiental</strong><br>
+                <i>Autores: Rafael Ribeiro (UNIPAMPA), Willian Clemente (UNIPAMPA), Iago Mendes (UNIPAMPA), Felipe Scherer (UNIPAMPA), Darwin Dias Fagundes (Ecoeficiência), Maicon Bernardino (UNIPAMPA)</i>
             </td>
         </tr>
         <tr>
@@ -227,8 +227,8 @@ header:
         </tr>
         <tr>
             <td>15:00</td>
-            <td><strong>[PÓS] Evolução Pós-MVP: Avanços e Melhorias em uma Solução de Suporte à Gestão Ambiental</strong><br>
-                <i>Autores: Rafael Ribeiro (UNIPAMPA), Willian Clemente (UNIPAMPA), Iago Mendes (UNIPAMPA), Felipe Scherer (UNIPAMPA), Darwin Dias Fagundes (Ecoeficiência), Maicon Bernardino (UNIPAMPA)</i>
+            <td><strong>[GRAD] Uma Abordagem para Avaliação de Desempenho das Equipes no Ensino de Gerenciamento de Projetos de Software</strong><br>
+                <i>Autores: Dionas Luan Müller (UNIPAMPA), Raul Neves, Matheus Boeira, Thiago Araújo, Maicon Bernardino (UNIPAMPA)</i>
             </td>
         </tr>
     </tbody>
