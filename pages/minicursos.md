@@ -249,3 +249,29 @@ header:
     </div>
   </div>
 </div>
+
+<hr class="divisor">
+
+<div id="minicurso5" class="minicurso">
+  <div class="minicurso-content">
+    <div>
+      <h2 class="minicurso-title">Criando um App de Tarefas (To-Do) com Kotlin e Android</h2>
+      <p class="minicurso-resumo">
+        <strong>Resumo:</strong> Nesse minicurso, os participantes irão construir do zero uma lista de tarefas, onde poderão adicionar, marcar como concluídas e remover tarefas. A aplicação será desenvolvida em linguagem Kotlin para a plataforma Android, utilizando Room SQL para armazenamento dos dados.
+      </p>
+    </div>
+  </div>
+
+  <h3 class="instrutor-h3">Instrutor:</h3>
+
+  <div class="instrutor">
+    <img src="{{ site.urlimg }}/minicursos/05/Pedro Denardi Minuzzi.jpeg" alt="Pedro Denardi Minuzzi">
+    <div class="instrutor-content">
+      <h3>Pedro Denardi Minuzzi</h3>
+      <p>
+        Pedro Denardi Minuzzi é desenvolvedor Android com mais de 5 anos de experiência na criação de aplicativos móveis. Atualmente trabalha na Mutant, onde contribui para o desenvolvimento de soluções tecnológicas móveis. Formado em Ciência da Computação pela URI - Santiago, traz consigo um forte conhecimento técnico e paixão por criar experiências móveis intuitivas e minimalistas.
+      </p>
+    </div>
+  </div>
+</div>
+
