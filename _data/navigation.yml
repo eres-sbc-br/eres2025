@@ -25,6 +25,8 @@
       url: "/programacao/sessoes/"
     - title: "Happy Hour"
       url: "/programacao/happy-hour/"
+    - title: "Jantar"
+      url: "/programacao/jantar-por-adesao/"
 
 - title: "Inscrições"
   url: "/inscricoes/"
