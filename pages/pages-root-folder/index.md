@@ -71,6 +71,17 @@ header:
     color: #666;
   }
 
+  .event-started {
+    text-align: center;
+    font-size: 2em;
+    color: #FF6347;
+    background-color: #FFF8F0;
+    padding: 30px;
+    margin-bottom: 1.25 rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
   @media (max-width: 768px) {
     #countdown-container {
       flex-direction: column;
@@ -146,7 +157,12 @@ header:
       document.getElementById("seconds").innerHTML = String(seconds).padStart(2, '0');
       if (distance < 0) {
         clearInterval(countdownTimer);
-        document.getElementById("countdown-container").innerHTML = "<h1>O evento começou!</h1>";
+        document.getElementById("countdown-container").style.display = "none";
+        document.getElementById("title").style.display = "none";
+        const eventStarted = document.createElement("div");
+        eventStarted.classList.add("event-started");
+        eventStarted.innerHTML = "O evento começou!";
+        document.querySelector(".container").prepend(eventStarted);
       }
     }, 1000);
   </script>
