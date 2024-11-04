@@ -23,6 +23,8 @@
       url: "/programacao/minicursos/"
     - title: "Sessões Técnicas"
       url: "/programacao/sessoes/"
+    - title: "Happy Hour"
+      url: "/programacao/happy-hour/"
 
 - title: "Inscrições"
   url: "/inscricoes/"
