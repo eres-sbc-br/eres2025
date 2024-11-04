@@ -25,7 +25,7 @@ Para rodar este projeto localmente, você precisará de:
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/eres-2024.git
+    git clone https://github.com/eres-sbc-br/eres-2024.git
     cd eres-2024
     ```
 
