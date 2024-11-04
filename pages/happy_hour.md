@@ -72,7 +72,7 @@ header:
   🎟️ Desconto Exclusivo: Apresente seu crachá da ERES 2024 para obter descontos especiais no local!
 </div>
 
-<h3>📍 Localização</h3>
+<h3>Localização</h3>
 
 <div class="text">Endereço: Av. Getúlio Vargas, 1470 - Centro, Santiago - RS, 97700-000</div>
 
@@ -80,7 +80,7 @@ header:
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3483.188663521745!2d-54.87359152447885!3d-29.188571975365676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ffd201b201e93f%3A0x22f4772baa837c72!2sDom%20Carlos%20Cervejaria!5e0!3m2!1spt-BR!2sbr!4v1730732435431!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-<h3>📸 Conheça o Local</h3>
+<h3>Conheça o Local</h3>
 
 <div class="image-gallery">
   <img src="{{ site.urlimg }}/dom-carlos/01.jpg" alt="Imagem 1 da Dom Carlos Cervejaria">
@@ -89,12 +89,12 @@ header:
   <img src="{{ site.urlimg }}/dom-carlos/04.jpg" alt="Imagem 4 da Dom Carlos Cervejaria">
 </div>
 
-<h3>⏰ Horário</h3>
+<h3>Horário</h3>
 
 <p class="text">Data: 11 de Novembro de 2024<br>
 Horário: A partir das 21:30h</p>
 
-<h3>🚗 Como Chegar</h3>
+<h3>Como Chegar</h3>
 
 <p class="text">A Dom Carlos Cervejaria está bem localizada no centro de Santiago. É possível chegar de transporte público ou através de serviços de transporte por aplicativo. Aproveite a localização central para fazer parte desta confraternização!</p>
 
