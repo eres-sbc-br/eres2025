@@ -166,12 +166,6 @@ header:
   </thead>
   <tbody>
     <tr>
-      <td>16:00</td>
-      <td><strong>[GRAD] Avaliação dos requisitos de acessibilidade de websites governamentais: um Mapeamento Sistemático</strong><br>
-          <i>Autores: Alexandra Silveira, Marisângela Pacheco Brittes (UTFPR), Francisco Carlos Monteiro Souza (UTFPR), Alinne Souza (UTFPR), Jéssica Iara Pegorini (UTFPR)</i>
-      </td>
-    </tr>
-    <tr>
       <td>16:15</td>
       <td><strong>[GRAD] Diversidade em Equipes de Software: uma análise em empresas gaúchas</strong><br>
           <i>Autores: Maicon Fernando Backes (FEEVALE), Adriana Neves dos Reis (FEEVALE)</i>
