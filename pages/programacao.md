@@ -87,10 +87,21 @@ header:
 
       <tr>
         <td rowspan="2" class="time-cell">14:00 - 15:30</td>
-        <td class="course" colspan="2"><a href="minicursos/#minicurso1">Minicurso 1: Introdução à Detecção de Intrusões com Machine Learning</a></td>
-        <td class="course"><a href="minicursos/#minicurso2">Minicurso 2: Gerenciamento de Riscos de Forma Divertida</a></td>
-        <td class="course"><a href="minicursos/#minicurso4">Minicurso 3: Desenvolvimento de dApps com Ethereum</a></td>
-        <td class="course"><a href="minicursos/#minicurso5">Minicurso 4: App de Tarefas com Kotlin</a></td>
+        <td class="course">
+          <a href="minicursos/#minicurso1">Minicurso 1: Introdução à Detecção de Intrusões com Machine Learning</a><br>Prédio 4 - Sala 431
+        </td>
+        <td class="course">
+          <a href="minicursos/#minicurso2">Minicurso 2: Cidades Inteligentes</a><br>Prédio 1 - Sala 110
+        </td>
+        <td class="course">
+          <a href="minicursos/#minicurso3">Minicurso 3: Gerenciamento de Riscos de Forma Divertida</a><br>Prédio 1 - Sala 110
+        </td>
+        <td class="course">
+          <a href="minicursos/#minicurso4">Minicurso 4: Desenvolvimento de dApps com Ethereum</a><br>Prédio 4 - Sala 431
+        </td>
+        <td class="course" colspan="2">
+          <a href="minicursos/#minicurso5">Minicurso 5: App de Tarefas com Kotlin</a><br>Prédio 4 - Sala 431
+        </td>
       </tr>
 
       <tr>
@@ -101,10 +112,21 @@ header:
 
       <tr>
         <td rowspan="2" class="time-cell">16:00 - 17:30</td>
-        <td class="course" colspan="2"><a href="minicursos/#minicurso1">Minicurso 1: Introdução à Detecção de Intrusões com Machine Learning (Continuação)</a></td>
-        <td class="course"><a href="minicursos/#minicurso2">Minicurso 2: Gerenciamento de Riscos de Forma Divertida (Continuação)</a></td>
-        <td class="course"><a href="minicursos/#minicurso4">Minicurso 3: Desenvolvimento de dApps com Ethereum (Continuação)</a></td>
-        <td class="course" colspan="2"><a href="minicursos/#minicurso5">Minicurso 4: App de Tarefas com Kotlin (Continuação)</a></td>
+        <td class="course">
+          <a href="minicursos/#minicurso1">Minicurso 1: Introdução à Detecção de Intrusões com Machine Learning (Continuação)</a><br>Prédio 4 - Sala 431
+        </td>
+        <td class="course">
+          <a href="minicursos/#minicurso2">Minicurso 2: Cidades Inteligentes</a><br>Prédio 1 - Sala 110
+        </td>
+        <td class="course">
+          <a href="minicursos/#minicurso3">Minicurso 3: Gerenciamento de Riscos de Forma Divertida (Continuação)</a><br>Prédio 1 - Sala 110
+        </td>
+        <td class="course">
+          <a href="minicursos/#minicurso4">Minicurso 4: Desenvolvimento de dApps com Ethereum (Continuação)</a><br>Prédio 4 - Sala 431
+        </td>
+        <td class="course" colspan="2">
+          <a href="minicursos/#minicurso5">Minicurso 5: App de Tarefas com Kotlin (Continuação)</a><br>Prédio 4 - Sala 431
+        </td>
       </tr>
 
       <tr>
@@ -120,9 +142,15 @@ header:
 
       <tr>
         <td>19:00 - 20:00</td>
-        <td colspan="2" class="lecture"><a href="palestras/#palestra1">Palestra 1: Dr. Lisandra Manzoni Fontoura</a></td>
-        <td colspan="2" class="lecture"><a href="palestras/#palestra3">Palestra 3: Dr. Marco Tulio Valente</a></td>
-        <td colspan="2" class="lecture"><a href="palestras/#palestra5">Palestra 5: Dr. Paulo Borba</a></td>
+        <td colspan="2" class="lecture">
+          <a href="palestras/#palestra1">Palestra 1: Dr. Lisandra Manzoni Fontoura</a><br>Salão de Atos - Prédio 4
+        </td>
+        <td colspan="2" class="lecture">
+          <a href="palestras/#palestra3">Palestra 3: Dr. Marco Tulio Valente</a><br>Salão de Atos - Prédio 4
+        </td>
+        <td colspan="2" class="lecture">
+          <a href="palestras/#palestra5">Palestra 5: Dr. Paulo Borba</a><br>Salão de Atos - Prédio 4
+        </td>
       </tr>
 
       <tr>
@@ -132,9 +160,15 @@ header:
 
       <tr>
         <td>20:30 - 21:30</td>
-        <td colspan="2" class="lecture"><a href="palestras/#palestra2">Palestra 2: Dr. Leopoldo Motta Teixeira</a></td>
-        <td colspan="2" class="lecture"><a href="palestras/#palestra4">Palestra 4: Jonathan Emir Silva Martins</a></td>
-        <td colspan="2" class="lecture"><a href="palestras/#palestra6">Palestra 6: Dr. Elvys Soares</a></td>
+        <td colspan="2" class="lecture">
+          <a href="palestras/#palestra2">Palestra 2: Dr. Leopoldo Motta Teixeira</a><br>Salão de Atos - Prédio 4
+        </td>
+        <td colspan="2" class="lecture">
+          <a href="palestras/#palestra4">Palestra 4: Jonathan Emir Silva Martins</a><br>Salão de Atos - Prédio 4
+        </td>
+        <td colspan="2" class="lecture">
+          <a href="palestras/#palestra6">Palestra 6: Dr. Elvys Soares</a><br>Salão de Atos - Prédio 4
+        </td>
       </tr>
 
       <tr>
@@ -147,4 +181,5 @@ header:
     </tbody>
   </table>
 </main>
+
   

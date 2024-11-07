@@ -174,10 +174,10 @@ header:
 
 <hr class="divisor">
 
-<div id="minicurso2" class="minicurso">
+<div id="minicurso3" class="minicurso">
   <div class="minicurso-content">
     <div>
-      <h2 class="minicurso-title">Minicurso 2: Risco em Jogo – Aprendendo Gerenciamento de Riscos de Forma Divertida</h2>
+      <h2 class="minicurso-title">Minicurso 3: Risco em Jogo – Aprendendo Gerenciamento de Riscos de Forma Divertida</h2>
       <p class="minicurso-resumo">
         <strong>Resumo:</strong> No minicurso "Risco em Jogo – Aprendendo Gerenciamento de Riscos de Forma Divertida", os participantes irão explorar os principais conceitos de gerenciamento de riscos de forma interativa e prática. A primeira parte do curso abordará os fundamentos teóricos, como identificação, análise e gerenciamento de riscos em projetos de software. Na sequência, os alunos aplicarão esse conhecimento por meio de um jogo de tabuleiro desenvolvido para simular situações reais de gerenciamento de riscos. Ao final, os participantes estarão mais preparados para lidar com riscos de maneira estratégica e eficaz, de forma lúdica e envolvente.
       </p>
@@ -203,7 +203,7 @@ header:
 <div id="minicurso4" class="minicurso">
   <div class="minicurso-content">
     <div>
-      <h2 class="minicurso-title">Minicurso 3: Desenvolvimento de dApps com Ethereum e Smart Contracts</h2>
+      <h2 class="minicurso-title">Minicurso 4: Desenvolvimento de dApps com Ethereum e Smart Contracts</h2>
       <p class="minicurso-resumo">
         <strong>Resumo:</strong> Aplicações descentralizadas, ou dApps, são aplicativos que operam em redes blockchain, como a Ethereum, em vez de servidores centralizados. Este curso é para você, profissional e entusiasta de tecnologia que tem conhecimento básico de programação (preferencialmente JavaScript) e deseja aprofundar seus conhecimentos em blockchain e aprender a desenvolver aplicações descentralizadas (dApps). Nele, abordaremos blockchain e Ethereum, smart contracts e as principais ferramentas e frameworks para desenvolvimento e teste de dApps.
       </p>
@@ -229,7 +229,7 @@ header:
 <div id="minicurso5" class="minicurso">
   <div class="minicurso-content">
     <div>
-      <h2 class="minicurso-title">Minicurso 4: Criando um App de Tarefas (To-Do) com Kotlin e Android</h2>
+      <h2 class="minicurso-title">Minicurso 5: Criando um App de Tarefas (To-Do) com Kotlin e Android</h2>
       <p class="minicurso-resumo">
         <strong>Resumo:</strong> Nesse minicurso, os participantes irão construir do zero uma lista de tarefas, onde poderão adicionar, marcar como concluídas e remover tarefas. A aplicação será desenvolvida em linguagem Kotlin para a plataforma Android, utilizando Room SQL para armazenamento dos dados.
       </p>
