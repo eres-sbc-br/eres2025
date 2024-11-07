@@ -161,7 +161,7 @@ header:
 <table id="sessao4" class="sbc-table">
   <thead>
     <tr>
-      <th colspan="2"><strong>Sessão Técnica 4 - Design, Usabilidade, Acessibilidade, Experiência do Usuário e Diversidade</strong><br><i>Chair: Maicon Bernardino (Unipampa)</i></th>
+      <th colspan="2"><strong>Sessão Técnica 4 - Design, Usabilidade, Acessibilidade, Experiência do Usuário e Diversidade</strong><br><i>Chair: Paulo Silas Severo de Souza (Unipampa)</i></th>
     </tr>
   </thead>
   <tbody>
