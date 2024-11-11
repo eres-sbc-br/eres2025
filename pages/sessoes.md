@@ -78,6 +78,12 @@ header:
   </thead>
   <tbody>
     <tr>
+      <td>16:00</td>
+      <td><strong>[PÓS] Especificação de Requisitos de Segurança em Firewalls de Próxima Geração: Abordagens e Desafios</strong><br>
+          <i>Autores: Tiago William De Morais (UNIPAMPA), Felipe Scherer (UNIPAMPA), Felipe Dresch (UNIPAMPA), Vagner Ereno Quincozes (UFF), Silvio Quincozes (UNIPAMPA), Diego Kreutz (UNIPAMPA)</i>
+      </td>
+    </tr>
+    <tr>
       <td>16:15</td>
       <td><strong>[PÓS] Kernel for IoT Systems Software (KISS)</strong><br>
           <i>Autores: Santiago Martin Pereira (UNIPAMPA), Luís Fernando Alves da Silva (UNIPAMPA), Pedro Ramires da Silva Amalfi Costa, Claudio Schepke (UNIPAMPA), Élder Rodrigues (UNIPAMPA), Maicon Bernardino (UNIPAMPA)</i>
@@ -85,18 +91,24 @@ header:
     </tr>
     <tr>
       <td>16:30</td>
-      <td><strong>[PÓS] Especificação de Requisitos de Segurança em Firewalls de Próxima Geração: Abordagens e Desafios</strong><br>
-          <i>Autores: Tiago William De Morais (UNIPAMPA), Felipe Scherer (UNIPAMPA), Felipe Dresch (UNIPAMPA), Vagner Ereno Quincozes (UFF), Silvio Quincozes (UNIPAMPA), Diego Kreutz (UNIPAMPA)</i>
+      <td><strong>[PÓS] Modelagem de Ameaças no Desenvolvimento de Software: Uma Análise Comparativa das Metodologias</strong><br>
+          <i>Autores: Luís Fernando Alves da Silva (UNIPAMPA), Pedro Ramires da Silva Amalfi Costa, Santiago Martin Pereira (UNIPAMPA), Claudio Schepke (UNIPAMPA), Élder Rodrigues (UNIPAMPA), Maicon Bernardino (UNIPAMPA)</i>
       </td>
     </tr>
     <tr>
       <td>16:45</td>
+      <td><strong>[GRAD] CANEDA-IDS: Uma Arquitetura Orientada a Eventos Para Detecção de Intrusão em Redes CAN - Proposta e Avaliação</strong><br>
+          <i>Autores: Felipe Dresch (UNIPAMPA), Felipe Scherer (UNIPAMPA), Silvio Quincozes (UNIPAMPA), Diego Kreutz (UNIPAMPA)</i>
+      </td>
+    </tr>
+    <tr>
+      <td>17:00</td>
       <td><strong>[PÓS] Uma Análise Prática dos Frameworks Serverless AWS SAM, Pulumi e Serverless Framework</strong><br>
           <i>Autores: Adriano Prado Cavalheiro (UNIPAMPA), Brenda Medeiros Lopes (UNIPAMPA), Claudio Schepke (UNIPAMPA)</i>
       </td>
     </tr>
     <tr>
-      <td>17:00</td>
+      <td>17:15</td>
       <td><strong>[PÓS] Strategies for Mitigating Microservice Anti-Patterns in the Pre-Migration of Monolithic Legacy Systems</strong><br>
           <i>Autores: Guilherme L. D. Villaca (UNIOESTE), Ivonei Freitas Silva (UNIOESTE), Wesley K. G. Assunção (North Carolina State University), Rodrigo Brickmann Rocha, Gabriel Caetano Fermino</i>
       </td>
