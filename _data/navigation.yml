@@ -10,6 +10,10 @@
   url: "/chamada/"
   side: left
 
+- title: "Comitê Científico"
+  url: "/comite-cientifico/"
+  side: left
+
 # - title: "Workshop Estudos Empíricos"
 #   url: "/workshop/"
 #   side: left
@@ -63,3 +67,5 @@
 - title: "Contato"
   url: "/contato/"
   side: left
+
+
