@@ -174,6 +174,31 @@ header:
 
 <hr class="divisor">
 
+<div id="minicurso2" class="minicurso">
+  <div class="minicurso-content">
+    <div>
+      <h2 class="minicurso-title">Minicurso 2: Cidades Inteligentes: A Construção do Futuro</h2>
+      <p class="minicurso-resumo">
+        <strong>Resumo:</strong> O conceito de cidades inteligentes representa uma abordagem inovadora para o desenvolvimento urbano, integrando tecnologia, sustentabilidade e engajamento comunitário para melhorar a qualidade de vida dos cidadãos. Neste minicurso, exploraremos como a utilização de tecnologias de informação e comunicação pode otimizar a gestão dos recursos urbanos, além de criar uma cidade mais eficiente e resiliente. O curso visa discutir modelos práticos de implementação e o papel de iniciativas locais, possibilitando uma conexão mais forte entre as pessoas e a cidade.
+      </p>
+    </div>
+  </div>
+
+  <h3 class="instrutor-h3">Instrutor:</h3>
+
+  <div class="instrutor">
+    <img src="{{ site.urlimg }}/minicursos/sadi.jpg" alt="Sadi Gioda">
+    <div class="instrutor-content">
+      <h3>Sadi Gioda</h3>
+      <p>
+        Sadi Gioda tem se destacado no fortalecimento do ecossistema de inovação local, promovendo parcerias estratégicas, iniciativas empreendedoras e colaboração entre setores. Com um foco no desenvolvimento sustentável e inovador, seu trabalho gera impactos positivos e avanços significativos no crescimento econômico e tecnológico da região. Atualmente, Gioda é reconhecido por sua atuação exemplar como Secretário de Desenvolvimento Econômico de Santiago.
+      </p>
+    </div>
+  </div>
+</div>
+
+<hr class="divisor">
+
 <div id="minicurso3" class="minicurso">
   <div class="minicurso-content">
     <div>

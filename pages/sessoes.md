@@ -85,8 +85,8 @@ header:
     </tr>
     <tr>
       <td>16:15</td>
-      <td><strong>[PÓS] Modelagem de Ameaças no Desenvolvimento de Software: Uma Análise Comparativa das Metodologias</strong><br>
-          <i>Autores: Luís Fernando Alves da Silva (UNIPAMPA), Pedro Ramires da Silva Amalfi Costa, Santiago Martin Pereira (UNIPAMPA), Claudio Schepke (UNIPAMPA), Élder Rodrigues (UNIPAMPA), Maicon Bernardino (UNIPAMPA)</i>
+      <td><strong>[PÓS] Kernel for IoT Systems Software (KISS)</strong><br>
+          <i>Autores: Santiago Martin Pereira (UNIPAMPA), Luís Fernando Alves da Silva (UNIPAMPA), Pedro Ramires da Silva Amalfi Costa, Claudio Schepke (UNIPAMPA), Élder Rodrigues (UNIPAMPA), Maicon Bernardino (UNIPAMPA)</i>
       </td>
     </tr>
     <tr>
@@ -126,24 +126,6 @@ header:
       </td>
     </tr>
     <tr>
-      <td>14:15</td>
-      <td><strong>[PÓS] Cloud AutoDroid: uma Arquitetura de Backend para Executar Serviços IA Generativa na Nuvem</strong><br>
-          <i>Autores: Luiz Felipe Laviola (UNIPAMPA), Angelo Gaspar Diniz Nogueira (UNIPAMPA), Diego Kreutz (UNIPAMPA), Rodrigo Brandão Mansilha (UNIPAMPA)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>14:30</td>
-      <td><strong>[GRAD] Arquitetura de Comunicação Automotiva Aplicada para Veículos</strong><br>
-          <i>Autores: Matheus Nunes Franco (UFSC), Gian Ricardo Berkenbrock (UFSC), Eryk K. Suguiura (UFSC)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>14:45</td>
-      <td><strong>[PÓS] Kernel for IoT Systems Software (KISS)</strong><br>
-          <i>Autores: Santiago Martin Pereira (UNIPAMPA), Luís Fernando Alves da Silva (UNIPAMPA), Pedro Ramires da Silva Amalfi Costa, Claudio Schepke (UNIPAMPA), Élder Rodrigues (UNIPAMPA), Maicon Bernardino (UNIPAMPA)</i>
-      </td>
-    </tr>
-    <tr>
       <td>15:00</td>
       <td><strong>[PÓS] Avaliação de Desempenho de API Gateways para o Gerenciamento de Acessos a Microsserviços</strong><br>
           <i>Autores: Rodrigo Cargnelutti (UNIPAMPA), Giulliano Minuzzi (UNIPAMPA), Everton de Vargas Agilar (UFSM), Fábio Paulo Basso (UNIPAMPA), Maicon Bernardino (UNIPAMPA)</i>
@@ -153,6 +135,12 @@ header:
       <td>15:15</td>
       <td><strong>[PÓS] Desempenho e Eficiência de HPC em Ambientes Serverless: Uma Revisão Integrativa</strong><br>
           <i>Autores: Adriano Prado Cavalheiro (UNIPAMPA), Brenda Medeiros Lopes (UNIPAMPA), Claudio Schepke (UNIPAMPA)</i>
+      </td>
+    </tr>
+    <tr>
+      <td>16:15</td>
+      <td><strong>[PÓS] Modelagem de Ameaças no Desenvolvimento de Software: Uma Análise Comparativa das Metodologias</strong><br>
+          <i>Autores: Luís Fernando Alves da Silva (UNIPAMPA), Pedro Ramires da Silva Amalfi Costa, Santiago Martin Pereira (UNIPAMPA), Claudio Schepke (UNIPAMPA), Élder Rodrigues (UNIPAMPA), Maicon Bernardino (UNIPAMPA)</i>
       </td>
     </tr>
   </tbody>

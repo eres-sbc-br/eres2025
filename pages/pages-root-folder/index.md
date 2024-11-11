@@ -143,7 +143,7 @@ header:
   <p class="text">Espaço para apresentação de trabalhos de relatos das atividades extensionistas aplicados aos currículos de computação, especialmente da Engenharia de Software, relacionados à forma  como estão implantando a extensão em seus currículos, conforme previsto na Resolução CNE/CES nº 7, de 18 de dezembro de 2018. O objetivo é incentivar a troca de experiências entre docentes e estudantes que atuam em ações de extensão.</p>
 
   <script>
-    const countDownDate = new Date("November 11, 2024 00:00:00").getTime();
+    const countDownDate = new Date("November 11, 2024 13:00:00").getTime();
     const countdownTimer = setInterval(() => {
       const now = new Date().getTime();
       const distance = countDownDate - now;
