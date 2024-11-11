@@ -63,7 +63,7 @@ header:
     </tr>
     <tr>
       <td>15:15</td>
-      <td><strong>[GRAD] Ferramentas para a Técnica de Snowballing</strong><br>
+      <td><strong>[GRAD] Ferramentas para Snowballing: Uma Revisão Sistemática e Comparativa da Literatura</strong><br>
           <i>Autores: Cassiano Pinheiro Valença (UNIPAMPA), Diego dos Santos Comis (UNIPAMPA), Elder Macedo Rodrigues (UNIPAMPA)</i>
       </td>
     </tr>
@@ -114,39 +114,33 @@ header:
   </thead>
   <tbody>
     <tr>
-      <td>16:00</td>
-      <td><strong>[GRAD] CANEDA-IDS: Uma Arquitetura Orientada a Eventos Para Detecção de Intrusão em Redes CAN - Proposta e Avaliação</strong><br>
-          <i>Autores: Felipe Dresch (UNIPAMPA), Felipe Scherer (UNIPAMPA), Silvio Quincozes (UNIPAMPA), Diego Kreutz (UNIPAMPA)</i>
+      <td>14:00</td>
+      <td><strong>[GRAD] Uma GUI para hackers do bem aprenderem sobre malwares sintéticos</strong><br>
+          <i>Autores: Leonardo Sonco (UNIPAMPA), Rodrigo Brandão Mansilha (UNIPAMPA), Diego Kreutz (UNIPAMPA), Angelo Nogueira</i>
       </td>
     </tr>
     <tr>
-      <td>16:15</td>
-      <td><strong>[PÓS] Kernel for IoT Systems Software (KISS)</strong><br>
-          <i>Autores: Santiago Martin Pereira (UNIPAMPA), Luís Fernando Alves da Silva (UNIPAMPA), Pedro Ramires da Silva Amalfi Costa, Claudio Schepke (UNIPAMPA), Élder Rodrigues (UNIPAMPA), Maicon Bernardino (UNIPAMPA)</i>
+      <td>14:15</td>
+      <td><strong>[PÓS] Cloud AutoDroid: uma Arquitetura de Backend para Executar Serviços IA Generativa na Nuvem</strong><br>
+          <i>Autores: Luiz Felipe Laviola (UNIPAMPA), Angelo Gaspar Diniz Nogueira (UNIPAMPA), Diego Kreutz (UNIPAMPA), Rodrigo Brandão Mansilha (UNIPAMPA)</i>
       </td>
     </tr>
     <tr>
-      <td>16:30</td>
-      <td><strong>[PÓS] Modelagem de Ameaças no Desenvolvimento de Software: Uma Análise Comparativa das Metodologias</strong><br>
-          <i>Autores: Luís Fernando Alves da Silva (UNIPAMPA), Pedro Ramires da Silva Amalfi Costa, Santiago Martin Pereira (UNIPAMPA), Claudio Schepke (UNIPAMPA), Élder Rodrigues (UNIPAMPA), Maicon Bernardino (UNIPAMPA)</i>
+      <td>14:30</td>
+      <td><strong>[GRAD] Arquitetura de Comunicação Automotiva Aplicada para Veículos</strong><br>
+          <i>Autores: Matheus Nunes Franco (UFSC), Gian Ricardo Berkenbrock (UFSC), Eryk K. Suguiura (UFSC)</i>
       </td>
     </tr>
     <tr>
-      <td>16:45</td>
-      <td><strong>[PÓS] Especificação de Requisitos de Segurança em Firewalls de Próxima Geração: Abordagens e Desafios</strong><br>
-          <i>Autores: Tiago William De Morais (UNIPAMPA), Felipe Scherer (UNIPAMPA), Felipe Dresch (UNIPAMPA), Vagner Ereno Quincozes (UFF), Silvio Quincozes (UNIPAMPA), Diego Kreutz (UNIPAMPA)</i>
+      <td>14:45</td>
+      <td><strong>[PÓS] Avaliação de Desempenho de API Gateways para o Gerenciamento de Acessos a Microsserviços</strong><br>
+          <i>Autores: Rodrigo Cargnelutti (UNIPAMPA), Giulliano Minuzzi (UNIPAMPA), Everton de Vargas Agilar (UFSM), Fábio Paulo Basso (UNIPAMPA), Maicon Bernardino (UNIPAMPA)</i>
       </td>
     </tr>
     <tr>
-      <td>17:00</td>
-      <td><strong>[PÓS] Uma Análise Prática dos Frameworks Serverless AWS SAM, Pulumi e Serverless Framework</strong><br>
+      <td>15:00</td>
+      <td><strong>[PÓS] Desempenho e Eficiência de HPC em Ambientes Serverless: Uma Revisão Integrativa</strong><br>
           <i>Autores: Adriano Prado Cavalheiro (UNIPAMPA), Brenda Medeiros Lopes (UNIPAMPA), Claudio Schepke (UNIPAMPA)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>17:15</td>
-      <td><strong>[PÓS] Strategies for Mitigating Microservice Anti-Patterns in the Pre-Migration of Monolithic Legacy Systems</strong><br>
-          <i>Autores: Guilherme L. D. Villaca (UNIOESTE), Ivonei Freitas Silva (UNIOESTE), Wesley K. G. Assunção (North Carolina State University), Rodrigo Brickmann Rocha, Gabriel Caetano Fermino</i>
       </td>
     </tr>
   </tbody>
