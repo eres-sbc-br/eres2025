@@ -78,12 +78,6 @@ header:
   </thead>
   <tbody>
     <tr>
-      <td>16:00</td>
-      <td><strong>[GRAD] CANEDA-IDS: Uma Arquitetura Orientada a Eventos Para Detecção de Intrusão em Redes CAN - Proposta e Avaliação</strong><br>
-          <i>Autores: Felipe Dresch (UNIPAMPA), Felipe Scherer (UNIPAMPA), Silvio Quincozes (UNIPAMPA), Diego Kreutz (UNIPAMPA)</i>
-      </td>
-    </tr>
-    <tr>
       <td>16:15</td>
       <td><strong>[PÓS] Kernel for IoT Systems Software (KISS)</strong><br>
           <i>Autores: Santiago Martin Pereira (UNIPAMPA), Luís Fernando Alves da Silva (UNIPAMPA), Pedro Ramires da Silva Amalfi Costa, Claudio Schepke (UNIPAMPA), Élder Rodrigues (UNIPAMPA), Maicon Bernardino (UNIPAMPA)</i>
