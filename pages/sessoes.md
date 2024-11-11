@@ -33,14 +33,14 @@ header:
   <tbody>
     <tr>
       <td>14:00</td>
-      <td><strong>[GRAD] Sistema Integrado para Gerenciamento de Trabalhos de Conclusão de Curso</strong><br>
-          <i>Autores: Rômulo Cadó Dorneles (UFSM), Carla Lisiane de Oliveira Castanho (URI Santiago), Pedro Denardi Minuzzi (URI), Bruno Oliveira Cavalheiro (URI Campus Santiago)</i>
+      <td><strong>[PÓS] Evolução Pós-MVP: Avanços e Melhorias em uma Solução de Suporte à Gestão Ambiental</strong><br>
+          <i>Autores: Rafael Ribeiro (UNIPAMPA), Willian Clemente (UNIPAMPA), Iago Mendes (UNIPAMPA), Felipe Scherer (UNIPAMPA), Darwin Dias Fagundes (Ecoeficiência), Maicon Bernardino (UNIPAMPA)</i>
       </td>
     </tr>
     <tr>
       <td>14:15</td>
-      <td><strong>[PÓS] Evolução Pós-MVP: Avanços e Melhorias em uma Solução de Suporte à Gestão Ambiental</strong><br>
-          <i>Autores: Rafael Ribeiro (UNIPAMPA), Willian Clemente (UNIPAMPA), Iago Mendes (UNIPAMPA), Felipe Scherer (UNIPAMPA), Darwin Dias Fagundes (Ecoeficiência), Maicon Bernardino (UNIPAMPA)</i>
+      <td><strong>[GRAD] Sistema Integrado para Gerenciamento de Trabalhos de Conclusão de Curso</strong><br>
+          <i>Autores: Rômulo Cadó Dorneles (UFSM), Carla Lisiane de Oliveira Castanho (URI Santiago), Pedro Denardi Minuzzi (URI), Bruno Oliveira Cavalheiro (URI Campus Santiago)</i>
       </td>
     </tr>
     <tr>
