@@ -146,7 +146,17 @@ header:
     <tr>
       <td>17:00</td>
       <td><strong>[PÓS] Uma Análise Prática dos Frameworks Serverless AWS SAM, Pulumi e Serverless Framework</strong><br>
-          <i>Autores: Adriano Prado Cavalheiro (UNIPAMPA), Brenda Medeiros Lopes (UNIPAMPA), Claudio Schepke (UNIPPA
+          <i>Autores: Adriano Prado Cavalheiro (UNIPAMPA), Brenda Medeiros Lopes (UNIPAMPA), Claudio Schepke (UNIPAMPA)</i>
+      </td>
+    </tr>
+    <tr>
+      <td>17:15</td>
+      <td><strong>[PÓS] Strategies for Mitigating Microservice Anti-Patterns in the Pre-Migration of Monolithic Legacy Systems</strong><br>
+          <i>Autores: Guilherme L. D. Villaca (UNIOESTE), Ivonei Freitas Silva (UNIOESTE), Wesley K. G. Assunção (North Carolina State University), Rodrigo Brickmann Rocha, Gabriel Caetano Fermino</i>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <table id="sessao4" class="sbc-table">
   <thead>
