@@ -162,7 +162,7 @@ header:
         const eventStarted = document.createElement("div");
         eventStarted.classList.add("event-started");
         eventStarted.innerHTML = "O evento começou!";
-        eventStarted.style.marginBottom = "1rem";
+        eventStarted.style.marginBottom = "1.5rem";
         document.querySelector(".container").prepend(eventStarted);
       }
     }, 1000);
