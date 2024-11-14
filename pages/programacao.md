@@ -91,16 +91,19 @@ header:
           <a href="minicursos/#minicurso1">Minicurso 1: Introdução à Detecção de Intrusões com Machine Learning</a><br>Prédio 4 - Sala 431
         </td>
         <td class="course">
-          <a href="minicursos/#minicurso2">Minicurso 2: Cidades Inteligentes</a><br>Prédio 1 - Sala 110
+          <a href="minicursos/#minicurso2">Minicurso 2: Cidades Inteligentes</a><br>Prédio 1 - Sala 110<br>
+          <a href="{{ site.baseurl }}/conteudos/cidades-inteligentes.pptx" target="_blank">Material do Minicurso (PPTX)</a>
         </td>
         <td class="course">
           <a href="minicursos/#minicurso3">Minicurso 3: Gerenciamento de Riscos de Forma Divertida</a><br>Prédio 1 - Sala 110
         </td>
         <td class="course">
-          <a href="minicursos/#minicurso4">Minicurso 4: Desenvolvimento de dApps com Ethereum</a><br>Prédio 4 - Sala 431
+          <a href="minicursos/#minicurso4">Minicurso 4: Desenvolvimento de dApps com Ethereum</a><br>Prédio 4 - Sala 431<br>
+          <a href="{{ site.baseurl }}/conteudos/dapps.pdf" target="_blank">Material do Minicurso (PDF)</a>
         </td>
         <td class="course" colspan="2">
-          <a href="minicursos/#minicurso5">Minicurso 5: App de Tarefas com Kotlin</a><br>Prédio 4 - Sala 431
+          <a href="minicursos/#minicurso5">Minicurso 5: App de Tarefas com Kotlin</a><br>Prédio 4 - Sala 431<br>
+          <a href="{{ site.baseurl }}/conteudos/mini-curso-android.pdf" target="_blank">Material do Minicurso (PDF)</a>
         </td>
       </tr>
 
@@ -116,16 +119,19 @@ header:
           <a href="minicursos/#minicurso1">Minicurso 1: Introdução à Detecção de Intrusões com Machine Learning (Continuação)</a><br>Prédio 4 - Sala 431
         </td>
         <td class="course">
-          <a href="minicursos/#minicurso2">Minicurso 2: Cidades Inteligentes</a><br>Prédio 1 - Sala 110
+          <a href="minicursos/#minicurso2">Minicurso 2: Cidades Inteligentes (Continuação)</a><br>Prédio 1 - Sala 110<br>
+          <a href="{{ site.baseurl }}/conteudos/cidades-inteligentes.pptx" target="_blank">Material do Minicurso (PPTX)</a>
         </td>
         <td class="course">
           <a href="minicursos/#minicurso3">Minicurso 3: Gerenciamento de Riscos de Forma Divertida (Continuação)</a><br>Prédio 1 - Sala 110
         </td>
         <td class="course">
-          <a href="minicursos/#minicurso4">Minicurso 4: Desenvolvimento de dApps com Ethereum (Continuação)</a><br>Prédio 4 - Sala 431
+          <a href="minicursos/#minicurso4">Minicurso 4: Desenvolvimento de dApps com Ethereum (Continuação)</a><br>Prédio 4 - Sala 431<br>
+          <a href="{{ site.baseurl }}/conteudos/dapps.pdf" target="_blank">Material do Minicurso (PDF)</a>
         </td>
         <td class="course" colspan="2">
-          <a href="minicursos/#minicurso5">Minicurso 5: App de Tarefas com Kotlin (Continuação)</a><br>Prédio 4 - Sala 431
+          <a href="minicursos/#minicurso5">Minicurso 5: App de Tarefas com Kotlin (Continuação)</a><br>Prédio 4 - Sala 431<br>
+          <a href="{{ site.baseurl }}/conteudos/mini-curso-android.pdf" target="_blank">Material do Minicurso (PDF)</a>
         </td>
       </tr>
 
@@ -143,7 +149,8 @@ header:
       <tr>
         <td>19:00 - 20:00</td>
         <td colspan="2" class="lecture">
-          <a href="palestras/#palestra1">Palestra 1: Dr. Lisandra Manzoni Fontoura</a><br>Salão de Atos - Prédio 4
+          <a href="palestras/#palestra1">Palestra 1: Dr. Lisandra Manzoni Fontoura</a><br>Salão de Atos - Prédio 4<br>
+          <a href="{{ site.baseurl }}/conteudos/como-buscamos.pdf" target="_blank">Material da Palestra (PDF)</a>
         </td>
         <td colspan="2" class="lecture">
           <a href="palestras/#palestra3">Palestra 3: Dr. Marco Tulio Valente</a><br>Salão de Atos - Prédio 4
@@ -161,7 +168,8 @@ header:
       <tr>
         <td>20:30 - 21:30</td>
         <td colspan="2" class="lecture">
-          <a href="palestras/#palestra2">Palestra 2: Dr. Leopoldo Motta Teixeira</a><br>Salão de Atos - Prédio 4
+          <a href="palestras/#palestra2">Palestra 2: Dr. Leopoldo Motta Teixeira</a><br>Salão de Atos - Prédio 4<br>
+          <a href="{{ site.baseurl }}/conteudos/de-produtos-a-linhas.pdf" target="_blank">Material da Palestra (PDF)</a>
         </td>
         <td colspan="2" class="lecture">
           <a href="palestras/#palestra4">Palestra 4: Jonathan Emir Silva Martins</a><br>Salão de Atos - Prédio 4
