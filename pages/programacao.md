@@ -154,9 +154,11 @@ header:
         </td>
         <td colspan="2" class="lecture">
           <a href="palestras/#palestra3">Palestra 3: Dr. Marco Tulio Valente</a><br>Salão de Atos - Prédio 4
+          <a href="{{ site.baseurl }}/conteudos/o-que-eu-preciso.pdf" target="_blank">Material da Palestra (PDF)</a>
         </td>
         <td colspan="2" class="lecture">
           <a href="palestras/#palestra5">Palestra 5: Dr. Paulo Borba</a><br>Salão de Atos - Prédio 4
+          <a href="{{ site.baseurl }}/conteudos/fim-da-prog.pdf" target="_blank">Material da Palestra (PDF)</a>
         </td>
       </tr>
 
@@ -173,6 +175,7 @@ header:
         </td>
         <td colspan="2" class="lecture">
           <a href="palestras/#palestra4">Palestra 4: Jonathan Emir Silva Martins</a><br>Salão de Atos - Prédio 4
+          <a href="{{ site.baseurl }}/conteudos/como-buscamos.pdf" target="_blank">Material da Palestra (PDF)</a>
         </td>
         <td colspan="2" class="lecture">
           <a href="palestras/#palestra6">Palestra 6: Dr. Elvys Soares</a><br>Salão de Atos - Prédio 4
