@@ -149,4 +149,3 @@ header:
       }
     }, 1000);
   </script>
-</section>
