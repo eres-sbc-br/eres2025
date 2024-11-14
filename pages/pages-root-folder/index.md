@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 permalink: /index.html
-title: "Contagem regressiva para o início da ERES 2024"
+title: "Bem-vindo à ERES 2024"
 homepage: true
 header:
   image_fullwidth: "ERES-2024_Logo.png"
@@ -102,27 +102,9 @@ header:
   }
 </style>
 
-<section class="container">
-  <div id="countdown-container">
-    <div class="countdown-unit">
-      <span id="days">00</span>
-      <div class="unit-label">Dias</div>
-    </div>
-    <div class="countdown-unit">
-      <span id="hours">00</span>
-      <div class="unit-label">Horas</div>
-    </div>
-    <div class="countdown-unit">
-      <span id="minutes">00</span>
-      <div class="unit-label">Minutos</div>
-    </div>
-    <div class="countdown-unit">
-      <span id="seconds">00</span>
-      <div class="unit-label">Segundos</div>
-    </div>
-  </div>
-
-  <h1 id="title">Bem-vindo à ERES 2024</h1>
+  <p class="text" style="text-align: center">
+    <a href="{{ site.baseurl }}/certificados/" target="_blank">Clique aqui para consultar seu Certificado de Participação.</a>
+  </p>
 
   <p class="text">A <b>Escola Regional de Engenharia de Software (ERES)</b> é promovida anualmente pela Sociedade Brasileira de Computação (SBC). A oitava edição da escola, a <b>ERES 2024</b>, ocorrerá <b>presencialmente</b>, no período de 11 a 13 de novembro de 2024.</p>
 
