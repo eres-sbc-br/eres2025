@@ -89,6 +89,8 @@ header:
 
 <p class="text">Insira seu nome completo no campo abaixo para pesquisar e acessar seu certificado de participação na ERES 2024. Clique no link do certificado para baixá-lo.</p>
 
+<p class="text">Estão disponíveis os certificados de participação, apresentação de artigo e participação em mini cursos, até o momento.</p>
+
 <div id="search-container">
     <input type="text" id="nameInput" placeholder="Digite seu nome" />
     <button id="searchButton">Buscar</button>
