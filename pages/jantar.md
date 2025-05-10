@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
 permalink: /programacao/jantar-por-adesao/
-title: "Jantar de Confraternização ERES 2024"
+title: "Jantar de Confraternização ERES 2025"
 header:
-  image_fullwidth: "ERES-2024_Logo.svg"
+  image_fullwidth: "ERES-2025_Logo.svg"
 ---
 
 <style>
@@ -40,7 +40,7 @@ header:
   }
 </style>
 
-<p class="text">Temos o prazer de convidá-los para um jantar especial no dia <strong>12 de novembro de 2024</strong>, terça-feira, durante a ERES 2024. Este evento visa promover a interação entre os participantes e fortalecer nosso networking.</p>
+<p class="text">Temos o prazer de convidá-los para um jantar especial no dia <strong>12 de novembro de 2025</strong>, terça-feira, durante a ERES 2025. Este evento visa promover a interação entre os participantes e fortalecer nosso networking.</p>
 
 <h3>Local</h3>
 

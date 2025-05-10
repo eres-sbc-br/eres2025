@@ -4,7 +4,7 @@ title: "Edições Anteriores da ERES"
 subheadline: ""
 permalink: "/edicoes_anteriores/"
 header:
-  image_fullwidth: "ERES-2024_Logo.svg"
+  image_fullwidth: "ERES-2025_Logo.svg"
 ---
 
 <style>
@@ -50,6 +50,14 @@ header:
 </style>
 
 <div class="edition-container">
+
+  <div class="edition-item">
+    <b>Santiago-RS 2024</b>
+    <a href="https://eres-sbc-br.github.io/eres2024/" target="_blank">
+      <img src="{{ site.urlimg }}/ERES-2024_Logo.png" alt="Banner ERES 2024 Santiago-RS">
+    </a>
+  </div>
+
   <div class="edition-item">
     <b>Maringá-PR 2023</b>
     <a href="https://eres-sbc-br.github.io/eres2023/" target="_blank">

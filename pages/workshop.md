@@ -4,7 +4,7 @@ title: "Workshop de Estudos Empíricos"
 subheadline: ""
 # permalink: "/workshop/"
 header:
-  image_fullwidth: ERES-2024_Logo.svg
+  image_fullwidth: ERES-2025_Logo.svg
 ---
 
 <hr>

@@ -4,7 +4,7 @@ show_meta: false
 title: "Programação Geral"
 permalink: "/programacao/"
 header:
-  image_fullwidth: ERES-2024_Logo.svg
+  image_fullwidth: ERES-2025_Logo.svg
 ---
 
 <style>

@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
 permalink: /inscricoes/
-title: "Inscrições - ERES 2024"
+title: "Inscrições - ERES 2025"
 header:
-  image_fullwidth: "ERES-2024_Logo.svg"
+  image_fullwidth: "ERES-2025_Logo.svg"
 ---
 
 <style>
@@ -74,10 +74,11 @@ header:
 </style>
 
 <h3>Link para inscrição: </h3>
-<a href="https://centraldesistemas.sbc.org.br/ecos/eres2024" target="_blank">Inscreva-se aqui!</a>
+<!-- <a href="https://centraldesistemas.sbc.org.br/ecos/eres2024" target="_blank">Inscreva-se aqui!</a> -->
+Em breve!
 <p class="text"></p>
 
-<h3>Inscrição promocional</h3>
+<!-- <h3>Inscrição promocional</h3>
 
 <p class="text">Participantes não associados à SBC ou associados com anuidade próxima do vencimento podem se associar ou renovar a associação junto com a inscrição, escolhendo as categorias COMBO com um desconto no valor da inscrição.</p>
 
@@ -241,4 +242,4 @@ informações necessárias para que a inscrição seja confirmada.</p>
 
 <h3>Política de cancelamento de inscrições</h3>
 
-<p class="text">Até dia 25/10/2024 pode-se fazer uma devolução de 75% do valor pago pela inscrição na VIII Escola Regional de Engenharia de Software (ERES 2024). Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição, quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para faturamento@sbc.org.br.</p>
+<p class="text">Até dia 25/10/2024 pode-se fazer uma devolução de 75% do valor pago pela inscrição na VIII Escola Regional de Engenharia de Software (ERES 2024). Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição, quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para faturamento@sbc.org.br.</p> -->

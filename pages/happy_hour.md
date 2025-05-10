@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
 permalink: /programacao/happy-hour/
-title: "Happy Hour ERES 2024"
+title: "Happy Hour ERES 2025"
 header:
-  image_fullwidth: "ERES-2024_Logo.svg"
+  image_fullwidth: "ERES-2025_Logo.svg"
 ---
 
 <style>
@@ -64,12 +64,12 @@ header:
   }
 </style>
 
-<p class="text">Participe de um momento descontraído e de networking com outros participantes e organizadores da ERES 2024. O Happy Hour será uma excelente oportunidade para relaxar, trocar ideias e fortalecer os laços.</p>
+<p class="text">Participe de um momento descontraído e de networking com outros participantes e organizadores da ERES 2025. O Happy Hour será uma excelente oportunidade para relaxar, trocar ideias e fortalecer os laços.</p>
 
 <p class="text">Nosso encontro será na <strong>Dom Carlos Cervejaria</strong>, localizada em Santiago, RS, em um ambiente acolhedor e ideal para celebrar mais um dia de evento.</p>
 
 <div class="badge-discount">
-  🎟️ Desconto Exclusivo: Apresente seu crachá da ERES 2024 para obter descontos especiais no local!
+  🎟️ Desconto Exclusivo: Apresente seu crachá da ERES 2025 para obter descontos especiais no local!
 </div>
 
 <h3>Localização</h3>
@@ -98,4 +98,4 @@ Horário: A partir das 21:30h</p>
 
 <p class="text">A Dom Carlos Cervejaria está bem localizada no centro de Santiago. É possível chegar de transporte público ou através de serviços de transporte por aplicativo. Aproveite a localização central para fazer parte desta confraternização!</p>
 
-<p class="text">Não perca esta oportunidade de criar novas conexções e celebrar com a comunidade da ERES 2024!</p>
+<p class="text">Não perca esta oportunidade de criar novas conexções e celebrar com a comunidade da ERES 2025!</p>

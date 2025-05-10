@@ -4,7 +4,7 @@ title: "Coordenação dos Fóruns"
 subheadline: ""
 permalink: "/coordenacao_foruns/"
 header:
-  image_fullwidth: "ERES-2024_Logo.svg"
+  image_fullwidth: "ERES-2025_Logo.svg"
 ---
 
 <style>

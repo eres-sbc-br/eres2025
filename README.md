@@ -1,6 +1,6 @@
-# VIII Escola Regional de Engenharia de Software (ERES 2024)
+# IX Escola Regional de Engenharia de Software (ERES 2025)
 
-Este repositório contém o código-fonte do site oficial da **VIII Escola Regional de Engenharia de Software (ERES 2024)**, desenvolvido com **Jekyll**, um gerador de sites estáticos. A ERES 2024 é promovida pela Sociedade Brasileira de Computação (SBC) e tem como objetivo disseminar boas práticas e conhecimento em Engenharia de Software, reunindo profissionais, acadêmicos e estudantes.
+Este repositório contém o código-fonte do site oficial da **IX Escola Regional de Engenharia de Software (ERES 2025)**, desenvolvido com **Jekyll**, um gerador de sites estáticos. A ERES 2025 é promovida pela Sociedade Brasileira de Computação (SBC) e tem como objetivo disseminar boas práticas e conhecimento em Engenharia de Software, reunindo profissionais, acadêmicos e estudantes.
 
 ## Tecnologias Utilizadas
 
@@ -77,4 +77,4 @@ Este projeto é distribuído sob a licença MIT.
 
 ---
 
-Desenvolvido para a ERES 2024 pela comunidade acadêmica.
+Desenvolvido para a ERES 2025 pela comunidade acadêmica.

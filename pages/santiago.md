@@ -2,9 +2,9 @@
 layout: page-fullwidth
 title: "Santiago: Terra dos Poetas e das Tradições Gaúchas"
 subheadline: ""
-permalink: "/santiago/"
+permalink: "/chapeco/"
 header:
-  image_fullwidth: "ERES-2024_Logo.svg"
+  image_fullwidth: "ERES-2025_Logo.svg"
 ---
 
 <style>

@@ -6,7 +6,7 @@ subheadline: ""
 teaser: "Entre em contato conosco pelo e-mail <b>eres.sbc.br@gmail.com</b>."
 permalink: "/contato/"
 header:
-  image_fullwidth: "ERES-2024_Logo.svg"
+  image_fullwidth: "ERES-2025_Logo.svg"
 ---
 
 <style>

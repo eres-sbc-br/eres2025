@@ -4,7 +4,7 @@ title: "Comitê Científico"
 subheadline: ""
 permalink: "/comite-cientifico/"
 header:
-  image_fullwidth: "ERES-2024_Logo.svg"
+  image_fullwidth: "ERES-2025_Logo.svg"
 ---
 
 <style>
@@ -54,7 +54,7 @@ header:
   <section>
     <h2>Comitê Científico</h2>
     <p class="text">
-      Agradecemos o trabalho dos membros do Comitê Científico que contribuem para o rigor e a qualidade do evento ERES 2024.
+      Agradecemos o trabalho dos membros do Comitê Científico que contribuem para o rigor e a qualidade do evento ERES 2025.
     </p>
   </section>
 

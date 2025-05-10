@@ -55,12 +55,12 @@
   url: "/como_chegar/"
   side: left
   dropdown:
-    - title: "Como chegar à URI"
+    - title: "Como chegar à Unochapecó"
       url: "/como_chegar/"
     - title: "Hospedagem e Alojamento"
       url: "/hospedagem/"
-    - title: "Sobre Santiago"
-      url: "/santiago/"
+    - title: "Sobre Chapecó"
+      url: "/chapeco/"
   # - title: "Alimentação no Câmpus"
   #   url: "/ru_uem/"
 
